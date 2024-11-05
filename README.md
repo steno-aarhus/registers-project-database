@@ -1,4 +1,4 @@
-# Projectdatabase---Steno-Diabetes-Center-Aarhus---SDCA
+# Project database---Steno-Diabetes-Center-Aarhus---SDCA
 Project repository that contains the variables and registers as well af guidelines for use for the Project Database at SDCA
 
 The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. The overall purpose of the project database is studying factors that can help predict the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as consequences and complications relates to this. In addition, the project database will form the basis of descriptive analyses in the field of disease and health.     
