@@ -48,6 +48,56 @@ dst_variables <- dst_variables %>%
   ) %>%
   mutate(across(ends_with("year"), as.numeric))
 
+sds_variables <- read_csv(here("data/sds-registers-with-variables-to-use.csv"))
+sds_variables <- sds_variables %>%
+  mutate(periode = str_replace(periode, "\\s?-\\s?$", "-Latest")) %>%
+  mutate(
+    start_year = str_extract(periode, "^\\d{4}"),
+    end_year = str_extract(periode, "-\\d{4}$")
+  ) %>%
+  mutate(across(ends_with("year"), as.numeric))
+
+random_registers <- read_csv(here("data/random-undocumented.csv")) %>%
+  mutate(
+    start_year = if_else(is.na(start_year), "Earliest", as.character(start_year)),
+    year_range = glue::glue("{start_year} - {end_year}")
+  ) %>%
+  mutate(across(ends_with("year"), as.numeric))
+
+joined_registers <- list(
+  dst_variables %>%
+    select(
+      "Register ID" = register_id,
+      "Register" = register_name_dk,
+      "Variable" = variable_name,
+      "Start year" = variable_start_year,
+      "End year" = variable_end_year,
+      "Description" = description_english,
+    ),
+  sds_variables %>%
+    select(
+      "Register" = register_name,
+      "Database Table" = table_name,
+      "Variable" = variable_name,
+      "Start year" = start_year,
+      "End year" = end_year,
+      "Description" = variable_description
+    ),
+  random_registers %>%
+    select(
+      "Register" = register_name,
+      "Database Table" = register_table_name,
+      "Variable" = variable_name,
+      "Start year" = start_year,
+      "End year" = end_year,
+      "Description" = variable_description_dk
+    )
+) %>%
+  reduce(bind_rows) 
+
+joined_registers %>%
+  as_reactable()
+```
 
 ## Full variable list
 
