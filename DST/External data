@@ -1,1 +1,511 @@
 Data that do not come from DST or SDS
+
+Dit liv - din sundhed		
+		
+Table	Variable	Label
+calculate	pnr	Participant id(anonymized)
+calculate	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+calculate	smoke_heart	Smoke status, heart score
+calculate	sex_heart	Gender, heart score
+calculate	heartscore_edi	Heart score, Edifact
+calculate	auditscore_edi	Alcohol Audit score, Edifact
+calculate	audit_alcoholrisk_edi	Alcohol Risk behaviour (Audit), Edifact
+calculate	resultcolor_edi	Result (G/Y/R), Edifact
+calculate	audit_intake	Alcohol Audit Intake, score
+calculate	audit_addiction	Alcohol Audit addiction score
+calculate	audit_consumption	Alcohol Audit consumption, score
+calculate	audit_bingedrinking	Alcohol Audit bingedrinking (Q3)
+calculate	sumalcohol	Number of units alcohol weekly
+calculate	audit_score	Alcohol Audit score, calculated
+calculate	sf12mcs	SF12 questionnaire mental component score, total
+calculate	sf12mcs_cat	SF12 questionnaire mental component score categories(G: Good, M: Medium, D: Bad)
+calculate	sf12pcs	SF12 questionnaire physical component score, total
+calculate	heartscore	Heart score, Calculated
+calculate	resultcolor	Result (G/Y/R/B), Calculated
+consent	Pnr	Participant id(anonymized)
+consent	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+consent	consenttype	The type of consent (1: consent_examination, 2: consent_gp, 3: consent_au, 4: consent_DLDS)
+consent	answer	The answer on the consent(1:Yes, 0/2:No)
+consent	countconsent	Count of consent within the consenttype
+consent	dateconsent	Date of consent
+examination	pnr	Participant id(anonymized)
+examination	exam_referencesid	The place the participant is examinated at (1: DLDS standard, 2: DLDS øst, 3: DLDS ekstra)
+examination	dateexamination	Date of Examination
+examination	age_examination	Participant Age at examination
+examination	cat_comment_examination	Code of Comment Examination (categorized into groups) (1: Disease symptoms, 2: Medicine, 3: Disease symptoms and medicine, 4: Pregnant ,0: Irrelevant text)
+examination	examinator1id	Examinator_ID(anonymized)
+examination	fitness_pacemaker	No test pacemaker
+examination	fitness_betablocker	No test betablock
+examination	cat_fitness_otherreason	Reason No fitness test(categorized into 3 groups) – (1: ‘Self-reported muscle-/joint-related condition’, 2: ‘Self-reported antihypertensive medication’, 3: ‘Self-reported other/Text not relevant’)
+examination	systolisk	Systolic Bloodpressure (mm Hg)
+examination	systolisk_1	Systolic bloodpressure 1. messure.
+examination	systolisk_2	Systolic bloodpressure 2. messure.
+examination	systolisk_3	Systolic bloodpressure 3. messure.
+examination	diastolisk	Diastolic bloodpressure (mm Hg)
+examination	diastolisk_1	Diastolic bloodpressure 1. messure.
+examination	diastolisk_2	Diastolic bloodpressure 2. messure.
+examination	diastolisk_3	Diastolic bloodpressure 3. messure.
+examination	puls	Heartrate_BP
+examination	puls_1	Heartrate_BP_1
+examination	puls_2	Heartrate_BP_2
+examination	puls_3	Heartrate_BP_3
+examination	cat_blodpressure_whynot	BP not messured(categorized into 5 groups) –(1: ‘Systolic BP>140 mmHg and/or diastolic BP>90 mm Hg on right arm’, 2: ‘Self-reported white coat hypertension’, 3: ‘Measured on right arm only’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	height	Body height (cm)
+examination	weight	Body weight (kg)
+examination	bmi	Body mass index (kg/m2)
+examination	waist	Waist circumference (cm)
+examination	cholesterol	Cholesterol (mmol/L)
+examination	cholesterol_error	Cholesterol,>/< N-A
+examination	hdl	High Density Lipo protein (mmol/L)
+examination	hdl_error	HDL, >/< N-A
+examination	triglycerid	Triglycerid (mmol/L)
+examination	triglycerid_error	Triglycerid, >/< N-A
+examination	ldl	Low Density Lipoprotein mmol/L)
+examination	ldl_error	LDL, >/< N-A
+examination	non_ldl	Non_LDL
+examination	non_ldl_error	Non-LDL, >/< N-A
+examination	ldl_hdl	LDL-HDL ratio
+examination	ldl_hdl_error	LDL-HDL, >/< N-A
+examination	glu	Glucose mmol/L)
+examination	glu_error	Glucose,  >/< N-A
+examination	cat_lipider_whynot	Lipids not messured(categorized in to 4 groups) – (1: ‘Triglycerid or total cholesterol below measuring area’, 2: ‘Triglycerid above measuring area’, 7: ‘Technical error/recline of test’, 0: ‘Text not relevant’
+examination	hba1c_percent	HbA1c (Percent)
+examination	hba1c_percent_error	HbA1c (%),  >/< N-A
+examination	hba1c_mmol	HbA1c (mmol/mol)
+examination	hba1c_mmol_error	HbA1c (mmol),  >/< N-A
+examination	eag	Estimated Average Glucose (mmol/L)
+examination	eag_error	eag,  >/< N-A
+examination	cat_hba1c_whynot	HbA1c not measured(categorized in to 3 groups) –(1: ‘eag<5,4 mmol/L’, 2: ‘Self-reported diabetes’, 8: ‘Recline of test’)
+examination	fvc_liter	Forced Vital Capacity (L)
+examination	fvc_percent	Forced Vital Capacity (%)
+examination	fev_liter	Forced Expiratory Volume (L)
+examination	fev_percent	Forced Expiratory Volume (%)
+examination	fevfvc_ratio	FEV1-FVC Ratio
+examination	spirometry_quality	Spirometry, Quality of measurement (A-F)
+examination	cat_spirometry_approved_whynot	Spirometry, Test not Approved, why(categorized in to 5 groups) –(1: Physical or mental challenges’, 2: ‘Could not blow adequately’, 8: ‘Recline of test’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	cat_spirometry_infection	Lung infection New(categorized in to 4 groups) – (1: ‘Cold’, 2: ‘Asthma/allergy’, 3: ‘Physical challenges’, 0: ‘text not relevant’)
+examination	cat_spirometry_whynot	Spirometry, Test not Approved, why(categorized in to 5 groups) –(1: Physical or mental challenges’, 2: ‘Could not blow adequately’, 8: ‘Recline of test’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	examinator2id	Examinator_ID_2(anonymized)
+examination	consent_examination	Participant consent at examination(1:Yes, 0:No)
+examination	fitness_pulse	Fitness test Heart rate
+examination	fitness_maxoxygenuptake	Fitness test Estimated Maximum oxygen uptake (L)
+examination	fitness_rating	Fitness test Estimated VO2max  ml/kg/min
+examination	fitness_watts	Fitness Test Watt
+examination	fitness_pulse2	Fitness test Heart rate at 2 min
+examination	cat_fitness_terminated	Fitness Test terminated, Why(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+examination	cat_fitness_notstarted	Fitness Test not started, Why(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+examination	cat_fitness_comment	Fitness Test comment(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+invitation	Pnr	Participant id(anonymized)
+invitation	invit_referencesid	The place the participant is invited to(1: DLDS øst, 2: DLDS vest, 3: DLDS øst extra)
+invitation	lettertypeid	The type of letter (1: Invitation, 2: Reminder 1, 3: Reminder 2, 4: EDI,5: Invitation resend, 6: Noshow, 7: Lost participant)
+invitation	date_invitation	Date of invitation
+invitation	dateslot	The date slot given in the invitation
+invitation	deleted	The last invitation(0: Yes, 1: No)
+noshow	Pnr	Participant id(anonymized)
+noshow	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+noshow	createddate	The date the noshow is registred
+noshow	deleted	The last Noshow (0: Yes, 1: No)
+participantinfo	pnr	Participant id(anonymized)
+participantinfo	ydernummer	GP provider number(anonymized)
+participantinfo	sex	Gender(0: Female, 1: Male)
+participantinfo	dob	Participant Date of birth
+participantinfo	parishcode	The parichcode the participant lives in
+participantinfo	lastcprupdate	The date for the last cpr update
+participantinfo	state	Participant status in project
+participantinfo	age_0	Age at the beginning of the project
+participantinfo	consent_au	Participant consent to use data in research, Aarhus University(1:Yes,2:No)
+participantinfo	consent_gp	Participant consent to give data to General practitioner (1:Yes,2:No)
+participantinfo	consent_dlds	Participant consent to give data to Aarhus Municipality (1:Yes,2:No)
+participantinfo	consent_examination	Participant consent that examination data used in research, Aarhus University (1:Yes,0:No)
+participantinfo	cat_returnmail	Invitation returned, reason
+participantinfo	firstinvitation	Date of first invitation
+participantinfo	firstdateslot	Date of first slot, examination
+participantinfo	lastinvitation	Date of last invitation
+participantinfo	lastdateslot	Date of last slot, examination
+participantinfo	countinvitation	No of invitations send
+participantinfo	reminderletter1date	Date of first reminder letter
+participantinfo	inviteagain	Invitation postponed
+participantinfo	inviteagaincause	Invitation postponed, reason
+participantinfo	stoppeddate	Participant, stopped, Date
+participantinfo	stoppedreason	Participant, stopped, reason
+participantinfo	cat_stoppedcomment	Participant, stopped, rea (comment)
+participantinfo	cancellationreason	Booking cancelled, Reason
+participantinfo	cat_cancellation	Booking cancelled, Reason (comment)
+participantinfo	datequest	Date of questionnaire submitted
+participantinfo	dateexamination	Date of Examination
+participantinfo	notparticipate	The date the examination place cancelled
+participantinfo	firstnoshow	Participant, first no show, date
+participantinfo	lastnoshow	Participant, last no show, date
+participantinfo	countnoshow	Participant, no show, count
+participantinfo	cat_noshow_answer	Participant, no show, comment
+participantinfo	referencesid	The place the participant belong to (1: DLDS standard, 2: DLDS øst, 3: DLDS ekstra)
+participantinfo	invit_referencesid	The place the participant is invited to(1: DLDS standard, 2: DLDS øst, 3: DLDS ekstra)
+participantinfo	settingsid	Participant Type - The code for the combination of questionnaire and examination– (1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+participantinfo	population	In the research population or not(1:Yes, 0:No)
+participantinfo	randyear	Randomization group
+participantinfo	rand_index	Randomization number
+participantinfo	distributionyear	Distribution group
+participantinfo	distributionno	Distribution number
+participantinfo	distributionindex	Distribution index
+participantinfo	household_examinated	No of participants i household, examinated 
+participantinfo	household_total	No of participants in household, Total
+participantinfo	cat_comment_participant	Comment participant
+participantinfo	distanceexamination	Direct distance home to examination location
+state	Pnr	Participant id(anonymized)
+state	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+		
+state	stateanswertypeid	Type of stateanswer (1: Participate, 2: Invited, 3: Confirmed time, 4: Participant cancelled, 5: Examination place cancelled, 6: Participant stopped, 7: Participant no show, 8: GP removed participant, 9: Completed the examination)
+state	deleted	The last state(0: Yes, 1: No)
+state	createddate	The date on the stateanswertype
+survey	Pnr	Participant id(anonymized)
+survey	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘DLDS Standard’, 2: ’DLDS, vest’, 3: ’DLDS standard med lungefunktion’)
+survey	surveytypeid	The code for the type of survey (1: ’Spørgeskema, DLDS’)
+survey	date_invitation	Date of invitation
+survey	age_invitation	Participant age at invitation
+survey	date_quest	Date of questionnaire submitted
+survey	age_quest_calc	Participant age, time: questionnaire submitted (calculated)
+survey	cat_questionary_comment	Questionnaire comment(categorized in to 6 groups) - (1: Disease/family history, 2: Examination place people helped fulfilling the questionnaire, 3: Comments related to the content of the questionnaire, 4: It’s a good offer!, 5: Comments related to the time of the HU, 0: Irrelavant text)
+survey	pixie	Questnionnaire,  short form submitted (0: No, 1:Yes)
+survey	age_quest	Participant age questionnaire
+survey	i1	SF12_1 How is your general health
+survey	i2a	SF12_2 Does your health limit moderate activities
+survey	i2b	SF12_3 Does your health limit climbing stairs
+survey	i3a	SF12_4 Have you accomplished less than wanted because of physical health
+survey	i3b	SF12_5 have you been limited in kind of work because of physical health 
+survey	i4a	SF12_6 Did not do work because of emotional problems
+survey	i4b	SF12_7 Have you accomplished less than wanted because of emotional problems
+survey	i5	SF12_8 How much did pain interfere with your normal work
+survey	i6a	SF12_9 Past 4 weeks – have felt calm and peaceful
+survey	i6b	SF12_10 Past 4 weeks – had a lot of energy
+survey	i6c	SF12_11 Past 4 weeks – have felt downhearted
+survey	i7	SF12_12 Past 4 weeks – limited in social activities, physical emotional problems
+survey	saltin_activity	Type of physical activity in spare time
+survey	sport_days_30min	Days with min 30 min activity, moderate
+survey	sport_days_20min	Days with min 20 min activity, vigorous
+survey	sitting_time	Time spend sitting
+survey	fitness_self	Self-estimated physical activity level
+survey	fitness_more	Would like to be more physically active
+survey	smoke	Smoking status
+survey	smokequit	Wants to stop smoking
+survey	smokecigarettes	Cigarettes (no/day)
+survey	smokecheroots	cheroots (no/day)
+survey	smokecigars	Cigars (no/day)
+survey	smokepipe	Pipe (no/day)
+survey	smokeecigaret	Use of e-cigarette
+survey	smokewantstop	Wish to stop smoking
+survey	audit_intake1	1. How often do you have a drink containing alcohol?
+survey	audit_intake2	2. How many drinks containing alcohol do you have on a typical day when you are drinking?
+survey	audit_intake3	3. How often do you have five or more drinks on one occasion?
+survey	audit_addiction1	4. How often during the last year have you found that you were not able to stop drinking once you had started?
+survey	audit_addiction2	5. How often during the last year have you failed to do what was normally expected from you because of drinking?
+survey	audit_addiction3	6. How often during the last year have you needed a first drink in the morning to get yourself going after a heavy drinking session?
+survey	audit_consumption1	7. How often during the last year have you had a feeling of guilt or remorse after drinking?
+survey	audit_consumption2	8. How often during the last year have you been unable to remember what happened the night before because you had been drinking? 
+survey	audit_consumption3	9. Have you or someone else been injured as a result of your drinking?
+survey	audit_consumption4	10. Has a relative or friend or a doctor or another health worker been concerned about your drinking or suggested you cut down?
+survey	alcohol_reduce	Wish to reduce alcohol comsumption
+survey	beerMonday	Number of beerMonday
+survey	beerTuesday	Number of beerTuesday
+survey	beerWednesday	Number of beerWednesday
+survey	beerThursday	Number of beerThursday
+survey	beerFriday	Number of beerFriday
+survey	beerSaturday	Number of beerSaturday
+survey	beerSunday	Number of beerSunday
+survey	wineMonday	Number of wineMonday
+survey	wineTuesday	Number of wineTuesday
+survey	wineWednesday	Number of wineWednesday
+survey	wineThursday	Number of wineThursday
+survey	wineFriday	Number of wineFriday
+survey	wineSaturday	Number of wineSaturday
+survey	wineSunday	Number of wineSunday
+survey	spiritsMonday	Number of spiritsMonday
+survey	spiritsTuesday	Number of spiritsTuesday
+survey	spiritsWednesday	Number of spiritsWednesday
+survey	spiritsThursday	Number of spiritsThursday
+survey	spiritsFriday	Number of spiritsFriday
+survey	spiritsSaturday	Number of spiritsSaturday
+survey	spiritsSunday	Number of spiritsSunday
+survey	bingedrinking	Alcohol,  How often do you have 5 or more drinks on one occasion? units in short time.
+survey	consent_au	Participant consent to use data in research, Aarhus University (1:Yes,2:No)
+survey	consent_gp	Participant consent to give data to General practitioner (1:Yes,2:No)
+survey	consent_dlds	Participant consent to give data to Aarhus Municipality (1:Yes,2:No)
+survey	consent_examination	Participant consent that examination data used in research, Aarhus University (1:Yes,0:No)
+survey	food_habits	Describe your food habits
+survey	food_advice_knowledge	Knowledge of official guidelines in food and exercise
+survey	food_advice_follow	Do you follow guidelines of food and exercise
+survey	food_advice_change	Would you like to change food habits?
+survey	submitted	Questionnaire Submitted
+
+Tjek dit helbred		
+		
+Table	Variable	Label
+calculate	pnr	Participant id(anonymized)
+calculate	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+calculate	smoke_heart	Smoke status, heart score
+calculate	sex_heart	Gender, heart score
+calculate	heartscore_edi	Heart score, Edifact
+calculate	auditscore_edi	Alcohol Audit score, Edifact
+calculate	audit_alcoholrisk_edi	Alcohol Risk behaviour (Audit), Edifact
+calculate	cagec_alcoholrisk_edi	Alcohol Risk behaviour (Cage-C), Edifact
+calculate	sumalcohol_edi	Alcohol units/week, Edifact (1. rand y)
+calculate	resultcolor_edi	Result (G/Y/R), Edifact
+calculate	sf12mcs_edi	SF12 Mental Comp Score, Edifact
+calculate	sf12mcs_cat_edi	SF12 Ment Comp Score Cat (D,M,G), Edifact
+calculate	audit_intake	Alcohol Audit Intake, score
+calculate	audit_addiction	Alcohol Audit addiction score
+calculate	audit_consumption	Alcohol Audit consumption, score
+calculate	audit_bingedrinking	Alcohol Audit bingedrinking (Q3)
+calculate	audit_sumalcohol	Number of units alcohol weekly
+calculate	audit_score	Alcohol Audit score, calculated
+calculate	sf12mcs	SF12 questionnaire mental component score, total
+calculate	sf12mcs_cat	SF12 questionnaire mental component score categories(G: Good, M: Medium, D: Bad)
+calculate	sf12pcs	SF12 questionnaire physical component score, total
+calculate	heartscore	Heart score, Calculated
+calculate	resultcolor	Result (G/Y/R), Calculated
+consent	Pnr	Participant id(anonymized)
+consent	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+consent	consenttype	The type of consent (1: consent_examination, 2: consent_gp, 3: consent_au, 4: consent_tdh)
+consent	answer	The answer on the consent(1:Yes, 0/2:No)
+consent	countconsent	Count of consent within the consenttype
+consent	dateconsent	Date of consent
+examination	pnr	Participant id(anonymized)
+examination	exam_referencesid	The place the participant is examinated at (1: TDH standard, 2: TDH KH genundersøgelse)
+examination	dateexamination	Date of Examination
+examination	age_examination	Participant Age at examination
+examination	cat_comment_examination	Code of Comment Examination (categorized into groups) (1: Disease symptoms, 2: Medicine, 3: Disease symptoms and medicine, 4: Pregnant ,0: Irrelevant text)
+examination	examinator1id	Examinator_ID(anonymized)
+examination	fitness_pacemaker	No test pacemaker
+examination	fitness_betablocker	No test betablock
+examination	cat_fitness_otherreason	Reason No fitness test(categorized into 3 groups) – (1: ‘Self-reported muscle-/joint-related condition’, 2: ‘Self-reported antihypertensive medication’, 3: ‘Self-reported other/Text not relevant’)
+examination	systolisk	Systolic Bloodpressure (mm Hg)
+examination	systolisk_1	Systolic bloodpressure 1. messure.
+examination	systolisk_2	Systolic bloodpressure 2. messure.
+examination	systolisk_3	Systolic bloodpressure 3. messure.
+examination	diastolisk	Diastolic bloodpressure (mm Hg)
+examination	diastolisk_1	Diastolic bloodpressure 1. messure.
+examination	diastolisk_2	Diastolic bloodpressure 2. messure.
+examination	diastolisk_3	Diastolic bloodpressure 3. messure.
+examination	puls	Heartrate_BP
+examination	puls_1	Heartrate_BP_1
+examination	puls_2	Heartrate_BP_2
+examination	puls_3	Heartrate_BP_3
+examination	cat_blodpressure_whynot	BP not messured(categorized into 5 groups) –(1: ‘Systolic BP>140 mmHg and/or diastolic BP>90 mm Hg on right arm’, 2: ‘Self-reported white coat hypertension’, 3: ‘Measured on right arm only’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	height	Body height (cm)
+examination	weight	Body weight (kg)
+examination	bmi	Body mass index (kg/m2)
+examination	waist	Waist circumference (cm)
+examination	cholesterol	Cholesterol (mmol/L)
+examination	cholesterol_error	Cholesterol,>/< N-A
+examination	hdl	High Density Lipo protein (mmol/L)
+examination	hdl_error	HDL, >/< N-A
+examination	triglycerid	Triglycerid (mmol/L)
+examination	triglycerid_error	Triglycerid, >/< N-A
+examination	ldl	Low Density Lipoprotein mmol/L)
+examination	ldl_error	LDL, >/< N-A
+examination	non_ldl	Non_LDL
+examination	non_ldl_error	Non-LDL, >/< N-A
+examination	ldl_hdl	LDL-HDL ratio
+examination	ldl_hdl_error	LDL-HDL, >/< N-A
+examination	glu	Glucose mmol/L)
+examination	glu_error	Glucose,  >/< N-A
+examination	cat_lipider_whynot	Lipids not messured(categorized in to 4 groups) – (1: ‘Triglycerid or total cholesterol below measuring area’, 2: ‘Triglycerid above measuring area’, 7: ‘Technical error/recline of test’, 0: ‘Text not relevant’
+examination	hba1c_percent	HbA1c (Percent)
+examination	hba1c_percent_error	HbA1c (%),  >/< N-A
+examination	hba1c_mmol	HbA1c (mmol/mol)
+examination	hba1c_mmol_error	HbA1c (mmol),  >/< N-A
+examination	eag	Estimated Average Glucose (mmol/L)
+examination	eag_error	eag,  >/< N-A
+examination	cat_hba1c_whynot	HbA1c not measured(categorized in to 3 groups) –(1: ‘eag<5,4 mmol/L’, 2: ‘Self-reported diabetes’, 8: ‘Recline of test’)
+examination	fvc_liter	Forced Vital Capacity (L)
+examination	fvc_percent	Forced Vital Capacity (%)
+examination	fev_liter	Forced Expiratory Volume (L)
+examination	fev_percent	Forced Expiratory Volume (%)
+examination	fevfvc_ratio	FEV1-FVC Ratio
+examination	spirometry_quality	Spirometry, Quality of measurement (A-F)
+examination	spirometry_infection_old	Lung infection Old
+examination	cat_spirometry_approved_whynot	Spirometry, Test not Approved, why(categorized in to 5 groups) –(1: Physical or mental challenges’, 2: ‘Could not blow adequately’, 8: ‘Recline of test’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	cat_spirometry_infection	Lung infection New(categorized in to 4 groups) – (1: ‘Cold’, 2: ‘Asthma/allergy’, 3: ‘Physical challenges’, 0: ‘text not relevant’)
+examination	cat_spirometry_whynot	Spirometry, Test not Approved, why(categorized in to 5 groups) –(1: Physical or mental challenges’, 2: ‘Could not blow adequately’, 8: ‘Recline of test’, 9: ‘Technical error’, 0: ‘Text not relevant’)
+examination	examinator2id	Examinator_ID_2(anonymized)
+examination	consent_examination	Participant consent at examination(1:Yes, 0:No)
+examination	fitness_pulse	Fitness test Heart rate
+examination	fitness_maxoxygenuptake	Fitness test Estimated Maximum oxygen uptake (L)
+examination	fitness_rating	Fitness test Estimated VO2max  ml/kg/min
+examination	fitness_watts	Fitness Test Watt
+examination	fitness_pulse2	Fitness test Heart rate at 2 min
+examination	cat_fitness_terminated	Fitness Test terminated, Why(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+examination	cat_fitness_notstarted	Fitness Test not started, Why(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+examination	cat_fitness_comment	Fitness Test comment(categorized in to 5 groups) – (1: ‘stop_exhaustion or physical problems’, 2: ‘nostart_muscle-/joint-related condition’, 3: ‘nostart_contraindications’, 4: ‘nostart_other reason’, 0: ‘Text not relevant’)
+invitation	Pnr	Participant id(anonymized)
+invitation	invit_referencesid	The place the participant is invited to(1: TDH standard, 2: TDH KH genundersøgelse)
+invitation	lettertypeid	The type of letter (1: Invitation, 2: Reminder 1, 3: Reminder 2, 4: EDI,5: Invitation resend, 6: Noshow, 7: Lost participant)
+invitation	date_invitation	Date of invitation
+invitation	dateslot	The date slot given in the invitation
+invitation	deleted	The last invitation(0: Yes, 1: No)
+noshow	Pnr	Participant id(anonymized)
+noshow	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+noshow	createddate	The date the noshow is registred
+noshow	deleted	The last Noshow (0: Yes, 1: No)
+participantinfo	pnr	Participant id(anonymized)
+participantinfo	ydernummer	GP provider number(anonymized)
+participantinfo	sex	Gender
+participantinfo	dob	Participant Date of birth
+participantinfo	parishcode	The parichcode the participant lives in
+participantinfo	lastcprupdate	The date for the last cpr update
+participantinfo	state	Participant status in project
+participantinfo	age_0	Age at the beginning of the project
+participantinfo	consent_au	Participant consent to use data in research, Aarhus University(1:Yes,2:No)
+participantinfo	consent_gp	Participant consent to give data to General practitioner (1:Yes,2:No)
+participantinfo	consent_tdh	Participant consent to give data to Randers Municipality (1:Yes,2:No)
+participantinfo	consent_examination	Participant consent that examination data used in research, Aarhus University (1:Yes,0:No)
+participantinfo	cat_returnmail	Invitation returned, reason (1: No one with that name om the address, 2: Not possibly to deliver mail, 3: “Unspecific adress", "Moved- new address unknown", "Irrelevant text" )
+participantinfo	firstinvitation	Date of first invitation
+participantinfo	firstdateslot	Date of first slot, examination
+participantinfo	lastinvitation	Date of last invitation
+participantinfo	lastdateslot	Date of last slot, examination
+participantinfo	countinvitation	No of invitations send
+participantinfo	reminderletter1date	Date of first reminder letter
+participantinfo	reminderletter2date	Date of second reminder letter
+participantinfo	inviteagain	Invitation postponed
+participantinfo	inviteagaincause	Invitation postponed, reason
+participantinfo	gpstoppeddate	GP stopped, date
+participantinfo	stoppeddate	Participant, stopped, Date
+participantinfo	stoppedreason	Participant, stopped, reason
+participantinfo	cat_stoppedcomment	Participant, stopped, rea (comment)
+participantinfo	cancellationreason	Booking cancelled, Reason
+participantinfo	cat_cancellation	Booking cancelled, Reason (comment)
+participantinfo	datequest	Date of questionnaire submitted
+participantinfo	dateexamination	Date of Examination
+participantinfo	notparticipate	The date the examination place cancelled
+participantinfo	firstnoshow	Participant, first no show, date
+participantinfo	lastnoshow	Participant, last no show, date
+participantinfo	countnoshow	Participant, no show, count
+participantinfo	cat_noshow_answer	Participant, no show, comment
+participantinfo	referencesid	The place the participant belong to (1: TDH standard, 2: TDH KH genundersøgelse)
+participantinfo	invit_referencesid	The place the participant is invited to (1: TDH standard, 2: TDH KH genundersøgelse)
+participantinfo	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+participantinfo	population	In the research population or not(1:Yes, 0:No)
+participantinfo	randyear	Randomization group
+participantinfo	rand_index	Randomization number
+participantinfo	distributionyear	Distribution group
+participantinfo	distributionno	Distribution number
+participantinfo	distributionindex	Distribution index
+participantinfo	household_examinated	No of participants i household, examinated 
+participantinfo	household_total	No of participants in household, Total
+participantinfo	cat_comment_participant	Comment participant
+participantinfo	distanceexamination	Direct distance home to examination location
+state	Pnr	Participant id(anonymized)
+state	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+state	stateanswertypeid	Type of stateanswer (1: Participate, 2: Invited, 3: Confirmed time, 4: Participant cancelled, 5: Examination place cancelled, 6: Participant stopped, 7: Participant no show, 8: GP removed participant, 9: Completed the examination)
+state	deleted	The last state(0: Yes, 1: No)
+state	createddate	The date on the stateanswertype
+survey	Pnr	Participant id(anonymized)
+survey	settingsid	Participant Type - The code for the combination of questionnaire and examination –(1: ‘TDH Standard’, 2: ’TDH ude konditest men med saltin’, 3: ’TDH med konditest og saltin’, 4: ’TDH 2'erne og 8'erne med uge krav’, 5: ’TDH med konditest og saltin uden ugekrav’, 6: ’TDH ude konditest men med saltin uden ugekrav’, 7: ’TDH med konditest og saltin uden ugekrav’, 8: ’KH genundersøgelse’, 9: ’TDH LM Kontrol’, 10: ’TDH LM Intervention’
+survey	surveytypeid	The code for the type of survey (1: ’Spørgeskema, Standard’, 2: ’Spørgeskema, Saltin’, 3: ’Spørgeskema, Må vi sende spørgeskemaer efterfølgende på mail?’, 4: Spørgeskema, genundersøgelse saltin’)
+survey	date_invitation	Date of invitation
+survey	age_invitation	Participant age at invitation
+survey	date_quest	Date of questionnaire submitted
+survey	age_quest_calc	Participant age, time: questionnaire submitted (calculated)
+survey	cat_questionary_comment	Questionnaire comment(categorized in to 6 groups) - (1: Disease/family history, 2: RSC people helped fulfilling the questionnaire, 3: Comments related to the content of the questionnaire, 4: It’s a good offer!, 5: Comments related to the time of the HU, 0: Irrelavant text)
+survey	pixie	Questnionnaire,  short form submitted (0: No, 1:Yes)
+survey	interest_result	Participant interests
+survey	age_quest	Participant age questionnaire
+survey	i1	SF12_1 How is your general health
+survey	i2a	SF12_2 Does your health limit moderate activities
+survey	i2b	SF12_3 Does your health limit climbing stairs
+survey	i3a	SF12_4 Have you accomplished less than wanted because of physical health
+survey	i3b	SF12_5 have you been limited in kind of work because of physical health 
+survey	i4a	SF12_6 Did not do work because of emotional problems
+survey	i4b	SF12_7 Have you accomplished less than wanted because of emotional problems
+survey	i5	SF12_8 How much did pain interfere with your normal work
+survey	i6a	SF12_9 Past 4 weeks – have felt calm and peaceful
+survey	i6b	SF12_10 Past 4 weeks – had a lot of energy
+survey	i6c	SF12_11 Past 4 weeks – have felt downhearted
+survey	i7	SF12_12 Past 4 weeks – limited in social activities, physical emotional problems
+survey	stage_change	Regular moderate physical activity 5 or more days/week
+survey	saltin_activity	Type of physical activity in spare time
+survey	sport_days_30min	Days with min 30 min activity, moderate
+survey	sport_exercise	Participation in organized sport/activity, Y/N
+survey	sport_days_20min	Days with min 20 min activity, vigorous
+survey	sitting_time	Time spend sitting
+survey	fitness_self	Self-estimated physical activity level
+survey	fitness_more	Would like to be more physically active
+survey	lung_symptom	Past 4 weeks – have felt cough, wheeze or dysphnoea
+survey	smoke	Smoking status
+survey	smokequit	Wants to stop smoking
+survey	smokecigarettes	Cigarettes (no/day)
+survey	smokecheroots	cheroots (no/day)
+survey	smokecigars	Cigars (no/day)
+survey	smokepipe	Pipe (no/day)
+survey	smokeecigaret	Use of e-cigarette
+survey	smokewantstop	Wish to stop smoking
+survey	audit_intake1	1. How often do you have a drink containing alcohol?
+survey	audit_intake2	2. How many drinks containing alcohol do you have on a typical day when you are drinking?
+survey	audit_intake3	3. How often do you have five or more drinks on one occasion?
+survey	audit_addiction1	4. How often during the last year have you found that you were not able to stop drinking once you had started?
+survey	audit_addiction2	5. How often during the last year have you failed to do what was normally expected from you because of drinking?
+survey	audit_addiction3	6. How often during the last year have you needed a first drink in the morning to get yourself going after a heavy drinking session?
+survey	audit_consumption1	7. How often during the last year have you had a feeling of guilt or remorse after drinking?
+survey	audit_consumption2	8. How often during the last year have you been unable to remember what happened the night before because you had been drinking? 
+survey	audit_consumption3	9. Have you or someone else been injured as a result of your drinking?
+survey	audit_consumption4	10. Has a relative or friend or a doctor or another health worker been concerned about your drinking or suggested you cut down?
+survey	alcohol_reduce	Wish to reduce alcohol comsumption
+survey	beerMonday	Number of beerMonday
+survey	beerTuesday	Number of beerTuesday
+survey	beerWednesday	Number of beerWednesday
+survey	beerThursday	Number of beerThursday
+survey	beerFriday	Number of beerFriday
+survey	beerSaturday	Number of beerSaturday
+survey	beerSunday	Number of beerSunday
+survey	beerweek	Number of beer/week
+survey	strongbeerweek	Number of strongbeer/week
+survey	wineMonday	Number of wineMonday
+survey	wineTuesday	Number of wineTuesday
+survey	wineWednesday	Number of wineWednesday
+survey	wineThursday	Number of wineThursday
+survey	wineFriday	Number of wineFriday
+survey	wineSaturday	Number of wineSaturday
+survey	wineSunday	Number of wineSunday
+survey	wineweek	Number of wine/week
+survey	deswineweek	Number of deswine/week
+survey	spiritsMonday	Number of spiritsMonday
+survey	spiritsTuesday	Number of spiritsTuesday
+survey	spiritsWednesday	Number of spiritsWednesday
+survey	spiritsThursday	Number of spiritsThursday
+survey	spiritsFriday	Number of spiritsFriday
+survey	spiritsSaturday	Number of spiritsSaturday
+survey	spiritsSunday	Number of spiritsSunday
+survey	spiritsweek	Number of spirits/week
+survey	beerweek	Number of beer/week
+survey	deswineweek	Number of deswine/week
+survey	strongbeerweek	Number of strongbeer/week
+survey	wineweek	Number of wine/week
+survey	pain_howmuch	Physical pain during past 4 weeks
+survey	cage_alcohol	Alcohol, have had alcohol during past year
+survey	cage1	Cage-C 1. Have you ever felt you should cut down on your drinking?
+survey	cage2	Cage-C 2. Have people annoyed you by criticizing your drinking?
+survey	cage3	Cage-C 3. Have you ever felt bad or guilty about your drinking?
+survey	cage4	Cage-C 4. Have you ever had a drink first thing in the morning to steady your nerves or to get rid of a hangover
+survey	cage5	Cage-C 5. How many days a week do you use alcohol
+survey	cage6	Cage-C 6. Do you drink alcohol outside meals on week days
+survey	bingedrinking	Alcohol,  How often do you have 5 or more drinks on one occasion? units in short time.
+survey	consent_au	Participant consent to use data in research, Aarhus University (1:Yes,2:No)
+survey	consent_gp	Participant consent to give data to General practitioner (1:Yes,2:No)
+survey	consent_tdh	Participant consent to give data to Randers Municipality (1:Yes,2:No)
+survey	consent_examination	Participant consent that examination data used in research, Aarhus University (1:Yes,0:No)
+survey	submitted	Questionnaire Submitted
+tdh_ydernr_info	ydernr	
+tdh_ydernr_info	regionsnr	
+tdh_ydernr_info	ydertype	
+tdh_ydernr_info	spec1_1	
+tdh_ydernr_info	praktype	
+tdh_ydernr_info	prakform	
+tdh_ydernr_info	kommune	
+tdh_ydernr_info	prakomr	
+tdh_ydernr_info	ydernr_tilgang	
+tdh_ydernr_info	ydernr_afgang	
+tdh_ydernr_info	laege_nr pr tilgang	
+tdh_ydernr_info	laege_foedselsdato	
+tdh_ydernr_info	laege_koen	
+tdh_ydernr_info	laege_tilgang	
+tdh_ydernr_info	laege_afgang	
