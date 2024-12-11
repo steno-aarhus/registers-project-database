@@ -1,0 +1,12 @@
+---
+title: "Projectdatabase Steno Diabetes Center Aarhus - SDCA"
+subtitle: "A guideline on how to use the projectdatabase at Steno Diabetes Center Aarhus."
+
+    links:
+      - text: "DST"
+        href: ""
+      - text: "SDS"
+        href: ""
+      - text: "Fortegnelsen"
+        href: ""
+---
