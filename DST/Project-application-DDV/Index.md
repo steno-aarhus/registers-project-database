@@ -1,14 +1,16 @@
---
-title: "DST Project Description"
+---
+title: "DST Project application"
+description: Information on how to make a project application in DDV
 date: last-modified
 author:
   - name: Marie Kempf Frydendahl
     affiliations: 
       - name: Steno Diabetes Center Aarhus
---
-To set up a subproject under the Project Database at SDCA you need to make a project proposal i "Danmarks Datavindue". 
+---
 
-Guide to project proposal:
+To set up a subproject under the Project Database at SDCA you need to make a project application i "Danmarks Datavindue". 
+
+Guide to project application:
 
 Log in to remote.dst.dk with your DST log in details. Go to the “Denmark Data Window” (top left) on the f5 remote desktop. A new “DDV” tab will open. Log into DDV.  
 
