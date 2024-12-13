@@ -6,7 +6,7 @@ subtitle: "A guideline on how to use the projectdatabase at Steno Diabetes Cente
       - text: "DST"
         href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//DST.html"
       - text: "SDS"
-        href: ""
+        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//SDS.html"
       - text: "Fortegnelsen"
-        href: ""
+        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//Fortegnelsen.html"
 ---
