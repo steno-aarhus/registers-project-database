@@ -1,5 +1,5 @@
 ---
-title: "Registers and variables from DST"
+title: "DST Registers and variables"
 description: A description of all DST registers and variables in the projectdatabase.
 date: last-modified
 author:
