@@ -9,6 +9,10 @@ author:
 ---
 You can apply for data from the Danish Health Data Authority's registers for your project at Statistics Denmark. 
 
-Before you send in you application to SDS you need to have a project at DST, and the project has to be approved by RM's "Intern fortegnelse".
+Before you send in you application to SDS you need to have an approved project at DST, the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
 
-Your application must contain  
+Beside these things your application must contain a projectdescription (projektbeskrivelse), an extraction description (udtræksbeskrivelse) and an order form (bestillingsark). 
+
+A more detailed description of what these descriptions should contain can be found here:
+
+https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data 
