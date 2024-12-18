@@ -1,6 +1,6 @@
 ---
 title: "Projectdatabase Steno Diabetes Center Aarhus - SDCA"
-subtitle: "A guideline on how to use the projectdatabase at Steno Diabetes Center Aarhus."
+subtitle: "A guideline on how to use the projectdatabase at SDCA."
 
     links:
       - text: "DST"
