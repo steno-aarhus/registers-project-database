@@ -35,6 +35,6 @@ If you have any questions or need help please contact:
 
 | Project number | Project title                  | Purpose                                                                                 | Project owner                           | Contact                             |
 | -------------- | ------------------------------ | ----------------------------------------------------------------------------------------|---------------------------------------- |-------------------------------------| 
-|  709964        | Den aarhusianske børnekohorte  |   ...                                                                                   | Anette Andersen/Rasmus Møller Jørgensen | Anette.Andersen@rm.dk/rasmujer@rm.dk| 
+|  709964        | Den aarhusianske børnekohorte  |   The purpose of this project is to create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents.                                                                                   | Anette Andersen/Rasmus Møller Jørgensen | Anette.Andersen@rm.dk/rasmujer@rm.dk| 
 |                |                                |                                                                                         |                                         |                                     |
 
