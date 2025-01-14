@@ -7,6 +7,6 @@ subtitle: "A guideline on how to use the projectdatabase at SDCA."
         href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//DST.html"
       - text: "SDS"
         href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//SDS.html"
-      - text: "Fortegnelsen"
-        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//Fortegnelsen.html"
+      - text: "Setting up a new project under the project database"
+        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//Setting up a new project under the project database.html"
 ---
