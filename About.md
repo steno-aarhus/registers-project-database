@@ -33,6 +33,8 @@ If you have any questions or need help please contact:
 
 ## Overview of projects in the project database
 
-...
-skema med projektnummer,titel,formål og projektansvarlig ...
-  
+| Project number | Project title                  | Purpose                                                                                                         | Project owner                                 |
+| -------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------- |---------------------------------------------- | 
+|  709964        | Den aarhusianske børnekohorte  |   ...                                                                                                           | Anette Andersen and Rasmus Møller Jørgensen |
+|                |                                |                                                                                                                 |                                               |
+
