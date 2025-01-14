@@ -33,8 +33,8 @@ If you have any questions or need help please contact:
 
 ## Overview of projects in the project database
 
-| Project number | Project title                  | Purpose                                                                                                         | Project owner                                 |
-| -------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------- |---------------------------------------------- | 
-|  709964        | Den aarhusianske børnekohorte  |   ...                                                                                                           | Anette Andersen and Rasmus Møller Jørgensen |
-|                |                                |                                                                                                                 |                                               |
+| Project number | Project title                  | Purpose                                                                                 | Project owner                           | Contact                             |
+| -------------- | ------------------------------ | ----------------------------------------------------------------------------------------|---------------------------------------- |-------------------------------------| 
+|  709964        | Den aarhusianske børnekohorte  |   ...                                                                                   | Anette Andersen/Rasmus Møller Jørgensen | Anette.Andersen@rm.dk/rasmujer@rm.dk| 
+|                |                                |                                                                                         |                                         |                                     |
 
