@@ -1,11 +1,7 @@
 ---
 title: "Onboarding to Statistics Denmark"
-description: A general introduction on how to get access to Statistics Denmark.
-date: last-modified
-author:
-  - name: Marie Kempf Frydendahl
-    affiliations: 
-      - name: Steno Diabetes Center Aarhus
+description: A general introduction on how to get access to Statistics Denmark
+
 ---
 
 If you want to set up a sub project under the projectdatabase at SDCA you need to be registered as a user at DST. 
