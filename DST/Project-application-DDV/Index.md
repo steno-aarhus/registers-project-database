@@ -82,3 +82,6 @@ Under "SUMMARY" you can review your project proposal and check that everything i
 If you are the administrator of the institution the project is under, you can send the proposal directly to Statistics Denmark (“Submit”) otherwise you need to send the it to send it to the administrators (“Send to administrator”) at your institution (the Data Management Team). 
 If you get your proposal back for review, it means that your project manager at Statistics Denmark has reviewed it and added comments for you to consider. You can resubmit your project option once you have made the corrections.
 
+For more inspiration: Find guidelines and inspiration to DDV on DST's homepage:
+[How to use DDV] (https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue)
+
