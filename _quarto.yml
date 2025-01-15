@@ -1,0 +1,59 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "SDCA Project Database"
+  site-url: "https://steno-aarhus.github.io/project-database/"
+  repo-url: "https://github.com/steno-aarhus/project-database"
+  navbar:
+    pinned: true
+    left:
+      - text: "Get started"
+        href: get-started/index.html
+      - text: "Projects"
+        href: projects/index.html
+      - text: "Statistics Denmark (DST)"
+        href: dst/index.html
+      - text: "Danish Health Data Authority (SDS)"
+        href: sds/index.html
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/"
+        aria-label: "GitHub icon: Link to SDCA GitHub organization page"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+        aria-label: "Twitter icon: Link to SDCA Twitter page"
+      - icon: globe
+        href: directory.qmd
+        aria-label: "Globe icon: Link to directory page of other SDCA websites"
+  sidebar:
+    - title: "Get started"
+      pinned: true
+      style: "floating"
+      contents:
+        - get-started/index.qmd
+        - get-started/how-to-work-with-data.qmd
+        - get-started/fortegnelsen.qmd
+        - get-started/steering-committee.qmd
+    - title: "Statistics Denmark (DST)"
+      pinned: true
+      style: "floating"
+      contents:
+        - dst/index.qmd
+        - dst/onboarding-to-dst.qmd
+        - dst/project-application-ddv.qmd
+        - dst/registers-and-variables.qmd
+    - title: "Danish Health Data Authority (SDS)"
+      pinned: true
+      style: "floating"
+      contents:
+        - sds/index.qmd
+        - sds/how-to-apply.qmd
+        - sds/registers-and-variables.qmd
+        
+format: sdca-theme-html
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
