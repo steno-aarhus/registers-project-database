@@ -1,5 +1,5 @@
 ---
-title: "Registration of the project"
+title: "Registration of a project"
 description: |
   Description on how to register you project on the internal fortegnelse
 ---

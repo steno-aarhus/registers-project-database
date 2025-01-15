@@ -1,0 +1,8 @@
+---
+title: "Overview of projects in the project database"
+---
+
+| Project number | Project title | Purpose | Project owner | Contact |
+|----------|--------|------------------------|------------|------------|
+| 709964 | Den aarhusianske børnekohorte | To create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents. | Anette Andersen, Rasmus Møller Jørgensen | anette.andersen\@rm.dk, rasmujer\@rm.dk |
+| 710017 | Registeropfølgning på Tjek Dit Helbred | To investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens. | Eeva-Liisa Røssell Johansen | eevjoh\@rm.dk |

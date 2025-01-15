@@ -1,7 +1,8 @@
 ---
-title: "Application to Danish Health Data Authority - SDS"
+title: "How to apply for data from the Danish Health Data Authority"
 description: A introduction on how to get access to data from the Danish Health Data Authority.
 ---
+
 You can apply for data from the Danish Health Data Authority's registers for your project at Statistics Denmark. 
 
 Before you send in you application to SDS you need to have an approved project at DST, the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
