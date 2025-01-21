@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "SDCA Research"
+  title: "Registers Project Database"
   # TODO: Change REPO-NAME to the name of the current repo
   site-url: "https://steno-aarhus.github.io/registers-project-database/"
   repo-url: "https://github.com/steno-aarhus/registers-project-database"
