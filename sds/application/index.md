@@ -20,19 +20,18 @@ According to application form you have to choose "Ansøg om data leveret til and
 Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
 
 The Project description should contain:
-Introduction
-Purpose of the project
-The project's problem statement
-Data and approach
-Publication of results
-Societal relevance
-Ethical considerations.
+- Introduction
+- Purpose of the project
+- The project's problem statement
+- Data and approach
+- Publication of results
+- Societal relevance
+- Ethical considerations.
 
 Extract description should contain: 
-Place of Treatment
-Population
-Delimitation of data for the project
-Including justification for why the requested data is necessary for the project.
+- Place of Treatment
+- Population
+- Delimitation of data for the project (Including justification for why the requested data is necessary for the project).
 
 In the Order sheet you can specify which variables you want access to. 
 You indicate that you want access to a specific variable by checking the box next to the variable in the column 'Desired variable (x)'. 
