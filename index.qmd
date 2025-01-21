@@ -1,12 +1,22 @@
 ---
-title: "Projectdatabase Steno Diabetes Center Aarhus - SDCA"
-subtitle: "A guideline on how to use the projectdatabase at SDCA."
-
-    links:
-      - text: "DST"
-        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//DST.html"
-      - text: "SDS"
-        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//SDS.html"
-      - text: "Setting up a new project under the project database"
-        href: "https://steno-aarhus.github.io/Project-database-Steno-Diabetes-Center-Aarhus-SDCA//Setting up a new project under the project database.html"
+title: "SDCA's Project Database"
+image: _extensions/steno-aarhus/sdca-theme/images/home-banner.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 35em
+  image-shape: rounded
+  links:
+    - text: "Getting started"
+      href: getting-started/index.qmd
+    - text: "How to work with data"
+      href: how-to-work-with-data/index.qmd
+    - text: "Statistics Denmark (DST)"
+      href: dst/index.qmd
+    - text: "Danish Health Data Authority (SDS)"
+      href: sds/index.qmd
 ---
+
+:::{#hero-heading}
+:::
+
