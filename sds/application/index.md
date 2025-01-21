@@ -29,8 +29,8 @@ The Project description should contain:
 - Ethical considerations.
 
 Extract description should contain: 
-- Place of Treatment
-- Population
+- Place of Treatment of the data
+- Description of the population
 - Delimitation of data for the project (Including justification for why the requested data is necessary for the project).
 
 In the Order sheet you can specify which variables you want access to. 
