@@ -8,13 +8,13 @@ about:
   image-shape: rounded
   links:
     - text: "Getting started"
-      href: getting-started/index.qmd
+      href: getting-started/index.html
     - text: "How to work with data"
-      href: how-to-work-with-data/index.qmd
+      href: how-to-work-with-data/index.html
     - text: "Statistics Denmark (DST)"
-      href: dst/index.qmd
+      href: dst/index.html
     - text: "Danish Health Data Authority (SDS)"
-      href: sds/index.qmd
+      href: sds/index.html
 ---
 
 :::{#hero-heading}
