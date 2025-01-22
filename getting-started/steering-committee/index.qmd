@@ -1,5 +1,6 @@
 ---
-title: Steering Committee
+title: "Steering committee"
+description: Information on how to get permission to set up a project under the project database
 ---
 
 To get permission to set up a project under the project database you need to send a brief description of your project to the steering committee.
