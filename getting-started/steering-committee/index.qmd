@@ -1,5 +1,6 @@
 ---
 title: "Steering committee"
+
 description: Information on how to get permission to set up a project under the project database
 ---
 Members of the steering committee is:
