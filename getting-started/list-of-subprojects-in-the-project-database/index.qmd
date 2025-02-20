@@ -1,7 +1,0 @@
----
-title: "List of subprojects in the SDCA project database"
-description: |
-  Below you will find a list of all the research project in SDCA project database 
----
-
-xxx
