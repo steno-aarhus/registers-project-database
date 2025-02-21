@@ -3,7 +3,7 @@ title: "Upload of external data"
 description: Information on how to upload external data to a dst project
 ---
 
-When you have a project under the SDCA project database it is possible to upload external datafiles e.g. own collected data. 
+When you have a project under the SDCA project database it is possible to upload external datafiles, e.g. own collected data. 
 
 To do this it is required that the data is described and approved in the dst project proposal under Additional data sources.
 
