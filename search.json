@@ -46,7 +46,7 @@
     "href": "dst/upload-of-external-data/index.html",
     "title": "Upload of external data",
     "section": "",
-    "text": "When you have a project under the SDCA project database it is possible to upload external datafiles e.g. own collected data.\nTo do this it is required that the data is described and approved in the dst project proposal under Additional data sources.\nBefore uploading external datafiles for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria is described here:\nhttps://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse (both in Danish and in English)",
+    "text": "When you have a project under the SDCA project database it is possible to upload external datafiles, e.g. own collected data.\nTo do this it is required that the data is described and approved in the dst project proposal under Additional data sources.\nBefore uploading external datafiles for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria is described here:\nhttps://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse (both in Danish and in English)",
     "crumbs": [
       "Statistics Denmark (DST)",
       "Upload of external data"
