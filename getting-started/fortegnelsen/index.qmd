@@ -4,6 +4,8 @@ description: |
   Description on how to register you project on the internal fortegnelse
 ---
 
-When you are setting up a new project it must be registered on the internal fortegnelse at Region Midt
+When you are setting up a new project under the SDCA project database it must be registered on the internal fortegnelse at Region Midtjylland.
 
-Information on registration and link to registrationform can be found here: https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/
+Information on registration and link to registrationform can be found here: 
+
+https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/
