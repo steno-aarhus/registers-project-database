@@ -46,7 +46,29 @@
     "href": "dst/upload-of-external-data/index.html",
     "title": "Upload of external data",
     "section": "",
-    "text": "When you have a project under the SDCA project database it is possible to upload external datafiles e.g. own collected data.\nTo do this it is required that the data is described and approved in the dst project proposal under Additional data sources.\nBefore uploading external datafiles for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria is described here:\nhttps://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse\nDescribtion on how to upload data…",
+    "text": "When you have a project under the SDCA project database it is possible to upload external datafiles e.g. own collected data.\nTo do this it is required that the data is described and approved in the dst project proposal under Additional data sources.\nBefore uploading external datafiles for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria is described here:\nhttps://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse (both in Danish and in English)",
+    "crumbs": [
+      "Statistics Denmark (DST)",
+      "Upload of external data"
+    ]
+  },
+  {
+    "objectID": "dst/upload-of-external-data/index.html#files-with-microdata",
+    "href": "dst/upload-of-external-data/index.html#files-with-microdata",
+    "title": "Upload of external data",
+    "section": "Files with microdata:",
+    "text": "Files with microdata:\nData containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.\nAll users have access to this service in f5 dynamic webtop with project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found:\nhttps://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&fo=0&ext=forskning (only in Danish)\nA complete variable list must be uploaded in the project proposal in DDV. Here it must be clear which variables that need to be de-identified.\nYou can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.\nThe number of files should be kept to a minimum, which will speed up handling time and lower costs.\nWhen the external data + variable list has been uploaded, it is recommended to notify the contact person for the project at dst by email. You will find contact information in the project proposal in DDV.",
+    "crumbs": [
+      "Statistics Denmark (DST)",
+      "Upload of external data"
+    ]
+  },
+  {
+    "objectID": "dst/upload-of-external-data/index.html#files-without-microdata",
+    "href": "dst/upload-of-external-data/index.html#files-without-microdata",
+    "title": "Upload of external data",
+    "section": "Files without microdata:",
+    "text": "Files without microdata:\nIt is also possible to place information on the project that do not contain microdata, e.g., syntax/code or documentation.\nTo do this you need to send an email including the file to either the dst contact person or Marie Kempf Frydendahl/Kasper Norman with the following information:\n• Description of what is in the file • Information about project number. • Complete path to where to place the file (typically in the Workdata folder).\nFurthermore you need to write the following statement: “The file does not contain any personal identifiable information”.\nPlease, only send syntax or documentation when it is necessary and too large to practically type in manually.",
     "crumbs": [
       "Statistics Denmark (DST)",
       "Upload of external data"
