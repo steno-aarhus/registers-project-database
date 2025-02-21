@@ -6,4 +6,4 @@ description: |
 
 When you are setting up a new project it must be registered on the internal fortegnelse at Region Midt
 
-Link to registration: https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/
+Information on registration and link to registrationform can be found here: https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/
