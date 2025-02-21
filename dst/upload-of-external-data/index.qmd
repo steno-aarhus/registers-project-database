@@ -16,7 +16,7 @@ https://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse (both in Da
 
 Data containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.
 
-All users have access to this service in f5 dynamic webtop with project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found:
+All users have access to this service in f5 dynamic webtop with project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found here:
 
 https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&fo=0&ext=forskning (only in Danish)
  
@@ -25,7 +25,7 @@ A complete variable list must be uploaded in the project proposal in DDV. Here i
 
 You can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.
 
-The number of files should be kept to a minimum, which will speed up handling time and lower costs.
+The number of datafiles should be kept to a minimum, which will speed up handling time and lower costs.
 
 When the external data + variable list has been uploaded, it is recommended to notify the contact person for the project at dst by email. You will find contact information in the project proposal in DDV. 
 
@@ -36,9 +36,9 @@ It is also possible to place information on the project that do not contain micr
 
 To do this you need to send an email including the file to either the dst contact person or Marie Kempf Frydendahl/Kasper Norman with the following information:
 
-•	Description of what is in the file
-•	Information about project number.
-•	Complete path to where to place the file (typically in the Workdata folder).
+ -  Description of what is in the file
+ -  Information about project number.
+ -  Complete path to where to place the file (typically in the Workdata folder).
 
 Furthermore you need to write the following statement: “The file does not contain any personal identifiable information”.
 
