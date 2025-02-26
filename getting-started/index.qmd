@@ -1,7 +1,7 @@
 ---
 title: Getting started
 
-description: Information on how to getting started by working on the project database
+description: Information on how to get started working on the project database
 ---
 
 There are several ways to get to work on the SDCA Project database at Statistics Denmark.  If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database. 
