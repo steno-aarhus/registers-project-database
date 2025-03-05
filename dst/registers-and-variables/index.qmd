@@ -145,5 +145,197 @@ description: A description of all DST registers and variables in the projectdata
 
 <details>
 
-<summary>**BEF 1985-2023
+<summary>**BEF 198512-202312
+**</summary>
+
+|     | Variable name       | Variable label                                            | Start year | Endyear |
+| --- | ------------------- | --------------------------------------------------------- | ---------- | ------- |
+| BEF | ADRESSE_ID          | INGEN LABEL                                               | 198512     | 202312  |
+| BEF | AEGTE_ID            | Personnummer Ægtefælle                                    | 198512     | 202312  |
+| BEF | ALDER               | Alder ultimo året før                                     | 198512     | 202312  |
+| BEF | ANTBOERNF           | ANTBOERNF                                                 | 198512     | 202312  |
+| BEF | ANTBOERNH           | ANTBOERNH                                                 | 198512     | 202312  |
+| BEF | ANTEFAM             | ANTEFAM                                                   | 198512     | 202312  |
+| BEF | ANTPERSF            | ANTPERSF                                                  | 198512     | 202312  |
+| BEF | ANTPERSH            | ANTPERSH                                                  | 198512     | 202312  |
+| BEF | BETALINGSKOM        | BETALINGSKOM                                              | 198512     | 202312  |
+| BEF | BOP_VFRA            | Dato for tilflytning/indvandring                          | 198512     | 202312  |
+| BEF | CIV_VFRA            | Civilstandsdato                                           | 198512     | 202312  |
+| BEF | CIVST               | Civilstand                                                | 198512     | 202312  |
+| BEF | CPRTJEK             | CPR-tjek                                                  | 198512     | 202312  |
+| BEF | CPRTYPE             | CPR-type                                                  | 198512     | 202312  |
+| BEF | E_FAELLE_ID         | PNR                                                       | 198512     | 202312  |
+| BEF | FAM_KOEN            | FAM_KOEN                                                  | 198512     | 202312  |
+| BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202312  |
+| BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202312  |
+| BEF | FAR_ID              | Personnummer far                                          | 198512     | 202312  |
+| BEF | FKIRK               | Folkekirkemarkering                                       | 198512     | 202312  |
+| BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202312  |
+| BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202312  |
+| BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202312  |
+| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 198512     | 202312  |
+| BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202312  |
+| BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202312  |
+| BEF | KOEN                | Køn                                                       | 198512     | 202312  |
+| BEF | KOM                 | Kommunekode                                               | 198512     | 202312  |
+| BEF | MOR_ID              | Personnummer mor                                          | 198512     | 202312  |
+| BEF | OPHOLDMD_DK         | OPHOLDMD_DK                                               | 198512     | 202312  |
+| BEF | OPR_LAND            | Oprindelsesland                                           | 198512     | 202312  |
+| BEF | PLADS               | Familiestatus                                             | 198512     | 202312  |
+| BEF | PNR                 | Personnummer                                              | 198512     | 202312  |
+| BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202312  |
+| BEF | REG                 | Region                                                    | 198512     | 202312  |
+| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 198512     | 202312  |
+| BEF | STATSB              | Statsborgerskab                                           | 198512     | 202312  |
+| BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202312  |
+| BEF | VERSION             | VERSION                                                   | 198512     | 202312  |
+
+</details>
+
+<details>
+
+<summary>**BEFADR 202409
+**</summary>
+
+|        | Variable name | Variable label                             | Start year | Endyear |
+| ------ | ------------- | ------------------------------------------ | ---------- | ------- |
+| BEFADR | ADR_RFRA      | Adressedato gældende fra (registerdato)    |            | 202409  |
+| BEFADR | ADR_VFRA      | Adressedato - gældende fra (hændelsesdato) |            | 202409  |
+| BEFADR | ADR_VTIL      | Adressedato - gældende til (hændelsesdato) |            | 202409  |
+| BEFADR | ADRESSE_ID    |                                            |            | 202409  |
+| BEFADR | BOPIKOM       | Bopælsadresse i kommunen                   |            | 202409  |
+| BEFADR | KOM           | KOM                                        |            | 202409  |
+| BEFADR | OPGIKOM       | Opgangsadresse i kommunen                  |            | 202409  |
+
+</details>
+
+<details>
+
+<summary>**BFL 2008-2024
+**</summary>
+
+|     | Variable name              | Variable label                                                         | Start year | Endyear |
+| --- | -------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
+| BFL | AJO_ARB_KOMKODE            | Arbejdsstedets kommunekode                                             | 2008       | 202403  |
+| BFL | AJO_ARBNR_SENR             | Entydigt 10-cifret identifikationsnummer for et arbejdssted            | 2008       | 202403  |
+| BFL | AJO_ATP_BELOEB             | Indbetalt ATP-bidrag                                                   | 2008       | 202403  |
+| BFL | AJO_ATP_BIDRAG_SATS_KODE   | ATP-bidragssats på jobbet                                              | 2008       | 202403  |
+| BFL | AJO_BRANCHE07              | DB07 branche knyttet til jobbets arbejdssted                           | 2008       | 202403  |
+| BFL | AJO_BREDT_LOENBELOEB       | Bredt lønbeløb er en summering af al lønindkomst i eIR                 | 2008       | 202403  |
+| BFL | AJO_CVR_NR_FRA_PROD_JOB    | Indberetterens CVR-nummer fra prodjob                                  | 2008       | 202403  |
+| BFL | AJO_FIKTIV_ARB_KODE        | Fiktiv arbejdssteds kode på det komprimerede prodjob                   | 2008       | 202403  |
+| BFL | AJO_FULDTID_BESKAEFTIGET   | Fuldtidsbeskæftigelse                                                  | 2008       | 202403  |
+| BFL | AJO_FUNKTIONSKODE          | Funktionskode til sektorplacering af arbejdsstedet                     | 2008       | 202403  |
+| BFL | AJO_INDBERETTEDE_LOENTIMER | Løntimer på prodjob                                                    | 2008       | 202403  |
+| BFL | AJO_INDKOMST_ART_KODE      | Indkomstartkode på prodjob                                             | 2008       | 202403  |
+| BFL | AJO_INDKOMST_TYPE_KODE     | Indkomsttypekode på prodjob                                            | 2008       | 202403  |
+| BFL | AJO_JOB_SLUT_DATO          | Slutdato for det komprimerede job                                      | 2008       | 202403  |
+| BFL | AJO_JOB_START_DATO         | Startdato for det komprimerede job                                     | 2008       | 202403  |
+| BFL | AJO_LOENTIME_KODE          | Kode for, om løntimer er indberettet eller imputeret                   | 2008       | 202403  |
+| BFL | AJO_LOENTIMER              | Løntimer på komprimerede job                                           | 2008       | 202403  |
+| BFL | AJO_OK_NR                  | Økonomisk enhed (statistisk enhed)                                     | 2008       | 202403  |
+| BFL | AJO_PROD_NR_FRA_APP        | Produktionsenhedsnummer ifølge APP på prodjob                          | 2008       | 202403  |
+| BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 2008       | 202403  |
+| BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 2008       | 202403  |
+| BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 2008       | 202403  |
+| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 2008       | 202403  |
+| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 2008       | 202403  |
+| BFL | CPRTJEK                    | CPR-tjek                                                               | 2008       | 202403  |
+| BFL | CPRTYPE                    | CPR-type                                                               | 2008       | 202403  |
+| BFL | PNR                        | Personnummer                                                           | 2008       | 202403  |
+| BFL | SEKTORKODE                 | Sektor kode                                                            | 2008       | 202403  |
+| BFL | VMO_DISCO_KODE             | DISCO kode                                                             | 2008       | 202403  |
+| BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 2008       | 202403  |
+| BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 2008       | 202403  |
+| BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 2008       | 202403  |
+
+</details>
+
+<details>
+
+<summary>**BOERNFB 2015-2021
+**</summary>
+
+|         | Variable name  | Variable label                  | Start year | Endyear |
+| ------- | -------------- | ------------------------------- | ---------- | ------- |
+| BOERNFB | BORN_VFRA      | Indmeldelsestidspunkt           | 2015       | 2021    |
+| BOERNFB | BORN_VTIL      | Udmeldelsestidspunkt            | 2015       | 2021    |
+| BOERNFB | CPRTJEK        | CPR-tjek                        | 2015       | 2021    |
+| BOERNFB | CPRTYPE        | CPR-type                        | 2015       | 2021    |
+| BOERNFB | DKOM           | DKOM                            | 2015       | 2021    |
+| BOERNFB | DST_INSTNR     | DST_INSTNR                      | 2015       | 2021    |
+| BOERNFB | EJER_BP        | EJER_BP                         | 2015       | 2021    |
+| BOERNFB | FULDTID_BORN   | FULDTID_BORN                    | 2015       | 2021    |
+| BOERNFB | I_NORMERING    | I_NORMERING                     | 2015       | 2021    |
+| BOERNFB | KALDINST       | KALDINST                        | 2015       | 2021    |
+| BOERNFB | PASNINGSTILBUD | PASNINGSTILBUD                  | 2015       | 2021    |
+| BOERNFB | PNR            | PNR                             | 2015       | 2021    |
+| BOERNFB | TIMER          | Kommunalt angivet pasningstimer | 2015       | 2021    |
+| BOERNFB | VERSION        | VERSION                         | 2015       | 2021    |
+| BOERNFB | AAR            | AAR                             | 2015       | 2021    |
+
+</details>
+
+<details>
+
+<summary>**BOERNPRI 2018-2023
+**</summary>
+
+|          | Variable name     | Variable label    | Start year | Endyear |
+| -------- | ----------------- | ----------------- | ---------- | ------- |
+| BOERNPRI | CPRTJEK           | CPR-tjek          | 2018       | 2023    |
+| BOERNPRI | CPRTYPE           | CPR-type          | 2018       | 2023    |
+| BOERNPRI | INST_TYPE_BORNPAS | INST_TYPE_BORNPAS | 2018       | 2023    |
+| BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2023    |
+| BOERNPRI | PNR               | PNR               | 2018       | 2023    |
+| BOERNPRI | VERSION           | VERSION           | 2018       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**BOERNSB 2015-2023
+**</summary>
+
+|         | Variable name | Variable label | Start year | Endyear |
+| ------- | ------------- | -------------- | ---------- | ------- |
+| BOERNSB | ALDER_OKT     | INGEN LABEL    | 2015       | 2023    |
+| BOERNSB | CPRTJEK       | CPR-tjek       | 2015       | 2023    |
+| BOERNSB | CPRTYPE       | CPR-type       | 2015       | 2023    |
+| BOERNSB | CVRNR         | INGEN LABEL    | 2015       | 2023    |
+| BOERNSB | EJER2         | EJER2          | 2015       | 2023    |
+| BOERNSB | INSTNRBP      | INGEN LABEL    | 2015       | 2023    |
+| BOERNSB | INSTTYPE2     | INSTTYPE2      | 2015       | 2023    |
+| BOERNSB | KOM           | INGEN LABEL    | 2015       | 2023    |
+| BOERNSB | PNR           | PNR            | 2015       | 2023    |
+| BOERNSB | SKOLE_KODE    | INGEN LABEL    | 2015       | 2023    |
+| BOERNSB | VERSION       | VERSION        | 2015       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**CPST 197512-200612
+**</summary>
+
+|      | Variable name  | Variable label                                               | Start year | Endyear |
+| ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
+| CPST | AEGTEFAELLE_ID | Ægtefælles PNR                                               | 197512     | 200612  |
+| CPST | BOPIKOM        | Adressen (vej, husnummer, husbogstav, etage, side/dørnummer) | 197512     | 200612  |
+| CPST | CIVDATO        | Civilstandsdato                                              | 197512     | 200612  |
+| CPST | CIVST          | Civilstand                                                   | 197512     | 200612  |
+| CPST | FAR_ID         | PNR for far                                                  | 197512     | 200612  |
+| CPST | KOM            | Bopæls kommune                                               | 197512     | 200612  |
+| CPST | MOR_ID         | PNR for mor                                                  | 197512     | 200612  |
+| CPST | OPGIKOM        | Opgangsadresse i kommunen                                    | 197512     | 200612  |
+| CPST | PNR            | Personnummer                                                 | 197512     | 200612  |
+| CPST | STOPHDTO       | Startdato for opholdsgrundlag                                | 197512     | 200612  |
+| CPST | VAN_VFRA       | udvandringsdato                                              | 197512     | 200612  |
+| CPST | VAN_VTIL       | Indvandringsdato                                             | 197512     | 200612  |
+
+</details>
+
+<details>
+
+<summary>**DOD 2023
 **</summary>
