@@ -3,3 +3,14 @@ title: "DST Registers and variables"
 description: A description of all DST registers and variables in the projectdatabase.
 ---
 
+## Registers from Statistics Denmark
+
+<details>
+
+<summary>**BEF**</summary>
+
+PNR
+
+</details>
+
+<details>
