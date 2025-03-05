@@ -52,3 +52,98 @@ description: A description of all DST registers and variables in the projectdata
 </details>
 
 <details>
+
+<summary>**AEREHAB 2017-2018
+**</summary>
+
+| Variable name | Variable label | Start year | Endyear |
+| ------------- | -------------- | ---------- | ------- |
+| AEL_KOMKOD    | AEL_KOMKOD     | 2017       | 2018    |
+| ALDER_ULT     | ALDER_ULT      | 2017       | 2018    |
+| CPRTJEK       | CPR-tjek       | 2017       | 2018    |
+| CPRTYPE       | CPR-type       | 2017       | 2018    |
+| GODKEND_AAR   | GODKEND_AAR    | 2017       | 2018    |
+| PNR           | PNR            | 2017       | 2018    |
+| VERSION       | VERSION        | 2017       | 2018    |
+| AAR           | AAR            | 2017       | 2018    |
+
+</details>
+
+<details>
+
+<summary>**AETR 2008-2023
+**</summary>
+
+| Variable name | Variable label                                              | Start year | Endyear |
+| ------------- | ----------------------------------------------------------- | ---------- | ------- |
+| AEL_KOMKOD    | Kommunekode                                                 | 2008       | 2023    |
+| ALDER_ULT     | Alder ultimo                                                | 2008       | 2023    |
+| CPRTJEK       | CPR-tjek                                                    | 2008       | 2023    |
+| CPRTYPE       | CPR-type                                                    | 2008       | 2023    |
+| HAEND_MDR     | Hændelses måned.                                            | 2008       | 2023    |
+| PNR           | Personnummer                                                | 2008       | 2023    |
+| TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2023    |
+| VERSION       | Version                                                     | 2008       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**AKM 1976-2023
+**</summary>
+
+|     | Variable name        | Variable label                                                         | Start year | Endyear |
+| --- | -------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
+| AKM | ALDER_ULT_INK        | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1976       | 2023    |
+| AKM | ANT_ANSAT_ARBSTED    | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 1976       | 2023    |
+| AKM | ANT_ANSAT_ARBSTED_13 | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 1976       | 2023    |
+| AKM | ANT_ANSAT_SENR       | Antal ansatte for væsentligste beskæftigelse                           | 1976       | 2023    |
+| AKM | ATPSUM2              | Beskæftigelsesmål baseret på ATP- indbetalinger                        | 1976       | 2023    |
+| AKM | BESKST               | Beskæftigelsesstatus 1980 til 2001                                     | 1976       | 2023    |
+| AKM | BESKST02             | Beskæftigelsesstatus fra 2002                                          | 1976       | 2023    |
+| AKM | BESKST13             | Kode for personens væsentligste indkomstkilde                          | 1976       | 2023    |
+| AKM | BRANCHE_77           | Branchekode                                                            | 1976       | 2023    |
+| AKM | BRCHI                | Branchekode for indehaver                                              | 1976       | 2023    |
+| AKM | BRCHL                | Branchekode for lønmodtager                                            | 1976       | 2023    |
+| AKM | CPRTJEK              | CPR-tjek                                                               | 1976       | 2023    |
+| AKM | CPRTYPE              | CPR-type                                                               | 1976       | 2023    |
+| AKM | DISCO_ALLE_INDK_13   | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1976       | 2023    |
+| AKM | DISCO08_ALLE_INDK    | Fagklassifikation for beskæftigelsesforhold, fra 2010                  | 1976       | 2023    |
+| AKM | DISCO08_ALLE_INDK_13 | Fagkode for væsentligste beskæftigelse i året- fra 2010                | 1976       | 2023    |
+| AKM | DISCO08_LOEN_INDK    | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 1976       | 2023    |
+| AKM | DISCO08_SEL_INDK     | Fagkode for arbejde i selvstændig virksomhed                           | 1976       | 2023    |
+| AKM | DISCOALLE_INDK       | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1976       | 2023    |
+| AKM | DISCOLOEN_INDK       | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 1976       | 2023    |
+| AKM | DISCOSEL_INDK        | Fagkode for arbejde i selvstændig virksomhed                           | 1976       | 2023    |
+| AKM | DISCOTYP             | Kilde til lønmodtager DISCO-koden                                      | 1976       | 2023    |
+| AKM | FUNK_TIMEANT         | Personens samlede antal arbejdstimer i året.                           | 1976       | 2023    |
+| AKM | NACE                 | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1976       | 2023    |
+| AKM | NACE_13              | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1976       | 2023    |
+| AKM | NACE_DB07            | Branche for væsentligste beskæftigelse, fra 2008                       | 1976       | 2023    |
+| AKM | NACE_DB07_13         | Branche for væsentligste beskæftigelse, fra 2007                       | 1976       | 2023    |
+| AKM | NACEA                | Branchegruppering for arbejdssted (1993 til 2007)                      | 1976       | 2023    |
+| AKM | NACEA_DB07           | Branchegruppering for arbejdssted ( fra 2007)                          | 1976       | 2023    |
+| AKM | NACEI                | Branchekode for selvstændige og medarbejdende ægtefællers virksomhed(1 | 1976       | 2023    |
+| AKM | NACEI_DB07           | Branchegruppering for indehaver (Selvstændig eller medhjælpende ægtefæ | 1976       | 2023    |
+| AKM | NYSTGR               | Stillingsgruppering 1980 til 1995                                      | 1976       | 2023    |
+| AKM | OMFANG               | Omfang af skattepligt                                                  | 1976       | 2023    |
+| AKM | PNR                  | Personnummer                                                           | 1976       | 2023    |
+| AKM | SENR                 | SE-nummer for væsentligste beskæftigelse                               | 1976       | 2023    |
+| AKM | SENRI                | SE-nummer for den virksomhed som personen ejer                         | 1976       | 2023    |
+| AKM | SENRL                | SE-nummer for lønmodtager                                              | 1976       | 2023    |
+| AKM | SOCIO                | Socioøkonomisk klassifikation fra 1994 til 2001                        | 1976       | 2023    |
+| AKM | SOCIO_GL             | Socioøkonomisk klassifikation fra 1976 til 1990                        | 1976       | 2023    |
+| AKM | SOCIO02              | Socioøkonomisk klassifikation fra 2002                                 | 1976       | 2023    |
+| AKM | SOCIO13              | Socioøkonomisk klassifikation version 2013                             | 1976       | 2023    |
+| AKM | TYP                  | Stillingstype                                                          | 1976       | 2023    |
+| AKM | VERSION              | Version                                                                | 1976       | 2023    |
+| AKM | VIRKF                | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
+| AKM | VIRKF_13             | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
+| AKM | VIRKFA               | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**BEF 1985-2023
+**</summary>
