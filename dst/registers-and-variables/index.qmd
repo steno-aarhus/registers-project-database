@@ -29,3 +29,20 @@ description: A description of all DST registers and variables in the projectdata
 | VERSION           | VERSION                                                                | 2008       | 2016    |
 | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2016    |
 
+<details>
+
+<summary>**AEHJSP	2016-2023
+**</summary>
+
+| Variable name  | Variable label                 | Start year | Endyear |
+| -------------- | ------------------------------ | ---------- | ------- |
+| ALDER_ULT      | ALDER_ULT                      | 2016       | 2023    |
+| CPRTJEK        | CPR-tjek                       | 2016       | 2023    |
+| CPRTYPE        | CPR-type                       | 2016       | 2023    |
+| CVRNR          | Leverandørs CVR identifikation | 2016       | 2023    |
+| HAEND_MDR      | Hændelses måned                | 2016       | 2023    |
+| HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2023    |
+| IMP_MARK       | IMP_MARK                       | 2016       | 2023    |
+| KOM            | INGEN LABEL                    | 2016       | 2023    |
+| PNR            | PNR                            | 2016       | 2023    |
+| VERSION        | VERSION                        | 2016       | 2023    |
