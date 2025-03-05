@@ -3238,3 +3238,546 @@ description: A description of all DST registers and variables in the projectdata
 <summary>**DRG_KONTAKTER 2021-2023
 **</summary>
 
+|               | Variable name            | Variable label | Start year | Endyear |
+| ------------- | ------------------------ | -------------- | ---------- | ------- |
+| DRG_KONTAKTER | AFSLUTNINGSMAADE         | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | AKTIVITETSAAR            | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | ALDER_DAGE               | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | ALDER_AAR                | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BETALER                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BETALER_KOM              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BETALER_REGION           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BETALINGSAFTALE          | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BO_KOM                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BO_KOM_SOURCE            | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | BO_REGION                | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | CPRTJEK                  | CPR-tjek       | 2021       | 2023    |
+| DRG_KONTAKTER | CPRTYPE                  | CPR-type       | 2021       | 2023    |
+| DRG_KONTAKTER | D90UA04                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | D90UA05                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA01                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA02                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA03                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA04                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA05                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA06                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA07                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA08                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA09                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA10                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA11                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA12                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA13                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA14                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA15                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRG                      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRG_DRGSGHF              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRG_FORLOBSELEMENT_ENHED | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRG_GROUPER              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRG_KONTAKT_ENHED        | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRGKONTAKT_ID_F          | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRGKONTAKTTYPE           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRGSGHFORLOB_ID          | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRGSGHFORLOB_NR          | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DRGSGHFORLOB_TYPE        | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | FORLOB_VAERDI            | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | FORLOEBSPROCEDURE        | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | HENVISNINGSMAADE         | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | HENVISNINGSTIDSPUNKT     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | HENVISNINGSAARSAG        | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INDTIDSPUNKT_DRGKONTAKT  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK1                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK2                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK3                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK4                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK5                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | INK6                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | KOEN                     | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | KONTAKT_VAERDI           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | KONTAKTDAGE              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | KONTAKTTYPE              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | KONTAKTAARSAG            | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | LANGLIGGERDAGE           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | LANGLIGGERPRIS           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | LIGGEDAGE                | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | MDC                      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PNR                      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PRIORITET                | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PRIS_DRG                 | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC01                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC02                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC03                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC04                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC05                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC06                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC07                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC08                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC09                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC10                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC11                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC12                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC13                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC14                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC15                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC16                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC17                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC18                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC19                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC20                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC21                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC22                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC23                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC24                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC25                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC26                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC27                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC28                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | PROC29                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | REGEL                    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | RTC                      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SORENHED                 | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SORENHED_HEN             | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SPECIALE                 | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SPECIALISERINGSNIVEAU    | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SYGDOMSFORLOB_ID         | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SYGEHUS_REGION           | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | SYGEHUSTYPE              | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA01                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA02                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA03                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA04                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA05                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TDIA06                   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TOTALPRIS_DRG            | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC01                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC02                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC03                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC04                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC05                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC06                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC07                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC08                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC09                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TPROC10                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TRIMPUNKT                | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | TUNGESTE_DRGKONTAKT      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | UDFALDSGIVENDE_KONTAKT   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | UDTIDSPUNKT_DRGKONTAKT   | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | UDTIDSPUNKT_DRGSGHF      | INGEN LABEL    | 2021       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**DRG_SGHFORLOB 2021-2023
+**</summary>
+
+|               | Variable name                 | Variable label                                 | Start year | Endyear |
+| ------------- | ----------------------------- | ---------------------------------------------- | ---------- | ------- |
+| DRG_SGHFORLOB | ADIAG_DRGSGH_IND              | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | ADIAG_DRGSGH_UD               | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | ADIAG_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | AFSLUTNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | AKTIVITETSAAR                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | ALDER_DAGE_DRGSGHF            | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | ALDER_AAR_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | ANTAL_I_FORLOB                | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BETALER_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BETALER_KOM_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BETALER_REGION_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BETALINGSAFTALE_DRGSGHF       | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BO_KOM_DRGSGHF                | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BO_KOM_SOURCE_DRGSGHF         | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | BO_REGION_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | CPRTJEK                       | CPR-tjek                                       | 2021       | 2023    |
+| DRG_SGHFORLOB | CPRTYPE                       | CPR-type                                       | 2021       | 2023    |
+| DRG_SGHFORLOB | D90UA04_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | D90UA05_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRG_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRG_GROUPER_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRG_KONTAKT_ID_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRGKONTAKT_ID_IND             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRGKONTAKT_ID_UD              | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRGKONTAKTTYPE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRGSGHFORLOB_ID               | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | DRGSGHFORLOB_TYPE             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | HENVISNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | HENVISNINGSTIDSPUNKT_DRGSGHF  | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | HENVISNINGSAARSAG_DRGSGHF     | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | INDTIDSPUNKT_DRGSGHF          | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | KOEN                          | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | KONTAKTDAGE_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | KONTAKTAARSAG_DRGSGHF         | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | LANGLIGGERDAGE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | LANGLIGGERPRIS_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | LIGGEDAGE_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | LONSUMAFGIFT_LANGLIGGERPRIS   | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | LONSUMAFGIFT_PRIS_DRGSGHF     | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | MDC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | MRK_NAERHED_1                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | MRK_NAERHED_2                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | MRK_NAERHED_4                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | MAANED_DRGSGHF                | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | PNR                           | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | PRIORITET_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | PRIS_DRG_DRGSGHF              | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | REGEL_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | RTC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | SORENHED                      | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | SORENHED_HEN                  | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | SPECIALISERINGSNIVEAU_DRGSGHF | Se dokumentation hos SDS/sundhedsdatastyrelsen | 2021       | 2023    |
+| DRG_SGHFORLOB | SYGDOMSFORLOB_ID              | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | SYGEHUS_REGION                | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | SYGEHUSTYPE                   | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | TOTALPRIS_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | TRIMPUNKT_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | UDTIDSPUNKT_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**DRGSOMA_AMB 2002-2017
+**</summary>
+
+|             | Variable name | Variable label  | Start year | Endyear |
+| ----------- | ------------- | --------------- | ---------- | ------- |
+| DRGSOMA_AMB | C_ADIAG       | C_ADIAG         | 2002       | 2017    |
+| DRGSOMA_AMB | C_AKUT        | C_AKUT          | 2002       | 2017    |
+| DRGSOMA_AMB | C_BLOK        | C_BLOK          | 2002       | 2017    |
+| DRGSOMA_AMB | C_HENM        | C_HENM          | 2002       | 2017    |
+| DRGSOMA_AMB | C_INDM        | C_INDM          | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA1    | C_LPR_DIA1      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA10   | C_LPR_DIA10     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA11   | C_LPR_DIA11     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA12   | C_LPR_DIA12     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA13   | C_LPR_DIA13     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA14   | C_LPR_DIA14     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA15   | C_LPR_DIA15     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA16   | C_LPR_DIA16     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA17   | C_LPR_DIA17     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA18   | C_LPR_DIA18     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA19   | C_LPR_DIA19     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA2    | C_LPR_DIA2      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA3    | C_LPR_DIA3      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA4    | C_LPR_DIA4      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA5    | C_LPR_DIA5      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA6    | C_LPR_DIA6      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA7    | C_LPR_DIA7      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA8    | C_LPR_DIA8      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_DIA9    | C_LPR_DIA9      | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA1   | C_LPR_TDIA1     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA10  | C_LPR_TDIA10    | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA11  | C_LPR_TDIA11    | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA12  | C_LPR_TDIA12    | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA13  | C_LPR_TDIA13    | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA14  | C_LPR_TDIA14    | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA2   | C_LPR_TDIA2     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA3   | C_LPR_TDIA3     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA4   | C_LPR_TDIA4     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA5   | C_LPR_TDIA5     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA6   | C_LPR_TDIA6     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA7   | C_LPR_TDIA7     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA8   | C_LPR_TDIA8     | 2002       | 2017    |
+| DRGSOMA_AMB | C_LPR_TDIA9   | C_LPR_TDIA9     | 2002       | 2017    |
+| DRGSOMA_AMB | C_PATTYPE     | C_PATTYPE       | 2002       | 2017    |
+| DRGSOMA_AMB | C_REGION      | C_REGION        | 2002       | 2017    |
+| DRGSOMA_AMB | C_SGH         | C_SGH           | 2002       | 2017    |
+| DRGSOMA_AMB | C_SGHAFD      | C_SGHAFD        | 2002       | 2017    |
+| DRGSOMA_AMB | C_SPEC        | C_SPEC          | 2002       | 2017    |
+| DRGSOMA_AMB | C_UDM         | C_UDM           | 2002       | 2017    |
+| DRGSOMA_AMB | CPRTJEK       | CPR-tjek        | 2002       | 2017    |
+| DRGSOMA_AMB | CPRTYPE       | CPR-type        | 2002       | 2017    |
+| DRGSOMA_AMB | D_AMBDTO      | D_AMBDTO        | 2002       | 2017    |
+| DRGSOMA_AMB | D_HENDTO      | D_HENDTO        | 2002       | 2017    |
+| DRGSOMA_AMB | D_INDDTO      | D_INDDTO        | 2002       | 2017    |
+| DRGSOMA_AMB | D_ODTO        | D_ODTO          | 2002       | 2017    |
+| DRGSOMA_AMB | D_TILDTO      | D_TILDTO        | 2002       | 2017    |
+| DRGSOMA_AMB | D_UDDTO       | D_UDDTO         | 2002       | 2017    |
+| DRGSOMA_AMB | PNR           | Personnummer    | 2002       | 2017    |
+| DRGSOMA_AMB | RECNUM        | DRG-identnummer | 2002       | 2017    |
+| DRGSOMA_AMB | V_PRIS        | V_PRIS          | 2002       | 2017    |
+| DRGSOMA_AMB | V_PRIS_GENOP  | V_PRIS_GENOP    | 2002       | 2017    |
+| DRGSOMA_AMB | VERSION       | DST Version     | 2002       | 2017    |
+
+</details>
+
+<details>
+
+<summary>**DRGSOMA_HEL 2002-2017
+**</summary>
+
+|             | Variable name   | Variable label  | Start year | Endyear |
+| ----------- | --------------- | --------------- | ---------- | ------- |
+| DRGSOMA_HEL | C_ADIAG         | C_ADIAG         | 2002       | 2017    |
+| DRGSOMA_HEL | C_AKUT          | C_AKUT          | 2002       | 2017    |
+| DRGSOMA_HEL | C_BLOK          | C_BLOK          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA1          | C_DIA1          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA10         | C_DIA10         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA11         | C_DIA11         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA12         | C_DIA12         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA13         | C_DIA13         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA14         | C_DIA14         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA15         | C_DIA15         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA16         | C_DIA16         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA17         | C_DIA17         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA18         | C_DIA18         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA19         | C_DIA19         | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA2          | C_DIA2          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA3          | C_DIA3          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA4          | C_DIA4          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA5          | C_DIA5          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA6          | C_DIA6          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA7          | C_DIA7          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA8          | C_DIA8          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DIA9          | C_DIA9          | 2002       | 2017    |
+| DRGSOMA_HEL | C_DRG           | C_DRG           | 2002       | 2017    |
+| DRGSOMA_HEL | C_HENM          | C_HENM          | 2002       | 2017    |
+| DRGSOMA_HEL | C_INDM          | C_INDM          | 2002       | 2017    |
+| DRGSOMA_HEL | C_PATTYPE       | C_PATTYPE       | 2002       | 2017    |
+| DRGSOMA_HEL | C_REGION        | C_REGION        | 2002       | 2017    |
+| DRGSOMA_HEL | C_SGH           | C_SGH           | 2002       | 2017    |
+| DRGSOMA_HEL | C_SGHAFD        | C_SGHAFD        | 2002       | 2017    |
+| DRGSOMA_HEL | C_SPEC          | C_SPEC          | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA1         | C_TDIA1         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA10        | C_TDIA10        | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA11        | C_TDIA11        | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA12        | C_TDIA12        | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA13        | C_TDIA13        | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA14        | C_TDIA14        | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA2         | C_TDIA2         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA3         | C_TDIA3         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA4         | C_TDIA4         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA5         | C_TDIA5         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA6         | C_TDIA6         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA7         | C_TDIA7         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA8         | C_TDIA8         | 2002       | 2017    |
+| DRGSOMA_HEL | C_TDIA9         | C_TDIA9         | 2002       | 2017    |
+| DRGSOMA_HEL | C_UDM           | C_UDM           | 2002       | 2017    |
+| DRGSOMA_HEL | CPRTJEK         | CPR-tjek        | 2002       | 2017    |
+| DRGSOMA_HEL | CPRTYPE         | CPR-type        | 2002       | 2017    |
+| DRGSOMA_HEL | D_INDDTO        | D_INDDTO        | 2002       | 2017    |
+| DRGSOMA_HEL | D_UDDTO         | D_UDDTO         | 2002       | 2017    |
+| DRGSOMA_HEL | PNR             | Personnummer    | 2002       | 2017    |
+| DRGSOMA_HEL | RECNUM          | DRG-identnummer | 2002       | 2017    |
+| DRGSOMA_HEL | V_LANGPRIS      | V_LANGPRIS      | 2002       | 2017    |
+| DRGSOMA_HEL | V_PRIS          | V_PRIS          | 2002       | 2017    |
+| DRGSOMA_HEL | V_TOTPRIS       | V_TOTPRIS       | 2002       | 2017    |
+| DRGSOMA_HEL | V_TOTPRIS_GENOP | V_TOTPRIS_GENOP | 2002       | 2017    |
+| DRGSOMA_HEL | VERSION         | DST Version     | 2002       | 2017    |
+
+</details>
+
+<details>
+
+<summary>**DRGSOMA_KONTAKT 2018
+**</summary>
+
+|                 | Variable name           | Variable label  | Start year | Endyear |
+| --------------- | ----------------------- | --------------- | ---------- | ------- |
+| DRGSOMA_KONTAKT | ADIAG                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | AKUT_ELEKTIV            | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | AMBULANT_DATO           | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | BLOK                    | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | CPRTJEK                 | CPR-tjek        |            | 2018    |
+| DRGSOMA_KONTAKT | CPRTYPE                 | CPR-type        |            | 2018    |
+| DRGSOMA_KONTAKT | DIA01                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA02                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA03                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA04                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA05                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA06                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA07                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA08                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA09                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA10                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA11                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA12                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA13                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA14                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA15                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA16                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA17                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA18                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA19                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DIA20                   | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DRG                     | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | DRGKONTAKTTYPE          | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | INDDATO                 | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | INDMAADE                | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | INDTIDSPUNKT_DRGKONTAKT | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | LANGLIGGERPRIS          | LANGLIGGERPRIS  |            | 2018    |
+| DRGSOMA_KONTAKT | PATIENTTYPE             | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | PNR                     | Personnummer    |            | 2018    |
+| DRGSOMA_KONTAKT | PRIS_DRG                | PRIS_DRG        |            | 2018    |
+| DRGSOMA_KONTAKT | RECNUM                  | LPR-identnummer |            | 2018    |
+| DRGSOMA_KONTAKT | SPECIALE                | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | SYGEHUS                 | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | TOTALPRIS_DRG           | TOTALPRIS_DRG   |            | 2018    |
+| DRGSOMA_KONTAKT | UDDATO                  | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | UDMAADE                 | INGEN LABEL     |            | 2018    |
+| DRGSOMA_KONTAKT | VERSION                 | DST Version     |            | 2018    |
+
+</details>
+
+<details>
+
+<summary>**DRGSOMA_SGHFORLOB 2018
+**</summary>
+
+|                   | Variable name          | Variable label         | Start year | Endyear |
+| ----------------- | ---------------------- | ---------------------- | ---------- | ------- |
+| DRGSOMA_SGHFORLOB | ADIAG_DRGSGHF          | ADIAG_DRGSGHF          |            | 2018    |
+| DRGSOMA_SGHFORLOB | AKTIVITETSAAR          | AKTIVITETSAAR          |            | 2018    |
+| DRGSOMA_SGHFORLOB | ANTAL_I_FORLOB         | ANTAL_I_FORLOB         |            | 2018    |
+| DRGSOMA_SGHFORLOB | CPRTJEK                | CPR-tjek               |            | 2018    |
+| DRGSOMA_SGHFORLOB | CPRTYPE                | CPR-type               |            | 2018    |
+| DRGSOMA_SGHFORLOB | DRG_DRGSGHF            | DRG_DRGSGHF            |            | 2018    |
+| DRGSOMA_SGHFORLOB | DRG_KONTAKT_ID_DRGSGHF | DRG_KONTAKT_ID_DRGSGHF |            | 2018    |
+| DRGSOMA_SGHFORLOB | ID                     | ID                     |            | 2018    |
+| DRGSOMA_SGHFORLOB | INDMAADE_DRGSGHF       | INDMAADE_DRGSGHF       |            | 2018    |
+| DRGSOMA_SGHFORLOB | INDTIDSPUNKT_DRGSGHF   | INDTIDSPUNKT_DRGSGHF   |            | 2018    |
+| DRGSOMA_SGHFORLOB | PNR                    | Personnummer           |            | 2018    |
+| DRGSOMA_SGHFORLOB | TOTALPRIS_DRGSGHF      | TOTALPRIS_DRGSGHF      |            | 2018    |
+| DRGSOMA_SGHFORLOB | UDMAADE_DRGSGHF        | UDMAADE_DRGSGHF        |            | 2018    |
+| DRGSOMA_SGHFORLOB | UDTIDSPUNKT_DRGSGHF    | UDTIDSPUNKT_DRGSGHF    |            | 2018    |
+| DRGSOMA_SGHFORLOB | VERSION                | DST Version            |            | 2018    |
+
+</details>
+
+<details>
+
+<summary>**FAIK 1987-2023
+**</summary>
+
+|      | Variable name             | Variable label                                                         | Start year | Endyear |
+| ---- | ------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
+| FAIK | FAMAEKVIVADISP            | Ækvivaleret disponibel indkomst for familien                           | 1987       | 2023    |
+| FAIK | FAMAEKVIVADISP_13         | Ækvivaleret disponibel indkomst for familien                           | 1987       | 2023    |
+| FAIK | FAMAEKVIVAINDKNETTO       | Ækvivaleret samlet indkomst med nettorenter for familien               | 1987       | 2023    |
+| FAIK | FAMAKTIEINDK              | Aktieindkomster                                                        | 1987       | 2023    |
+| FAIK | FAMANDENPENSION           | Andre pensionsudbetalinger til familien                                | 1987       | 2023    |
+| FAIK | FAMANDOVERFORSEL          | Andre overførsler til familien                                         | 1987       | 2023    |
+| FAIK | FAMANTALFSKATTEPLIGTIGE   | Antal fuldt skattepligtige voksne i familien                           | 1987       | 2023    |
+| FAIK | FAMARBEJDSLOESP           | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse for familien          | 1987       | 2023    |
+| FAIK | FAMARBMABIDRAG            | Arbejdsmarkedsbidrag mv                                                | 1987       | 2023    |
+| FAIK | FAMBOERNETILSKUD          | Børnetilskud og familieydelser til familien                            | 1987       | 2023    |
+| FAIK | FAMBOLIGFORM              | Familiens boligform                                                    | 1987       | 2023    |
+| FAIK | FAMBOLIGSTOETTE           | Boligstøtte udbetalt til familien                                      | 1987       | 2023    |
+| FAIK | FAMBOLIGTYPE              | Familiens boligtype                                                    | 1987       | 2023    |
+| FAIK | FAMBRUTTOINDK             | Bruttoindkomst for familien                                            | 1987       | 2023    |
+| FAIK | FAMDAGPENGE_KONTANT_13    | Familiens samlede dagpenge og kontanthjælp                             | 1987       | 2023    |
+| FAIK | FAMDISPONIBEL             | Diponibel indkomst for familien                                        | 1987       | 2023    |
+| FAIK | FAMDISPONIBEL_13          | Disponibel indkomst                                                    | 1987       | 2023    |
+| FAIK | FAMEFTERLOEN              | Efterløn                                                               | 1987       | 2023    |
+| FAIK | FAMEJDSKAT_EJERBOLIG      | Ejendomsskat for boligejere                                            | 1987       | 2023    |
+| FAIK | FAMEJDSKAT_LEJERBOLIG     | Ejendomsskat for lejere                                                | 1987       | 2023    |
+| FAIK | FAMEJENDOMSVURDERING      | Kontant ejendomsværdi                                                  | 1987       | 2023    |
+| FAIK | FAMERHVERVSINDK           | Erhversindkomst for familien                                           | 1987       | 2023    |
+| FAIK | FAMERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1987       | 2023    |
+| FAIK | FAMFOLKEFORTID_13         | Folke- og førtidspension i familien                                    | 1987       | 2023    |
+| FAIK | FAMFORMREST_NY05          | Familiens nettorestformue ultimo året, ekskl. Pensionsformuer          | 1987       | 2023    |
+| FAIK | FAMFORMUEAKTIVER          | Familiens samlede aktiver                                              | 1987       | 2023    |
+| FAIK | FAMFORMUEINDK             | Formueindkomst i alt for familien                                      | 1987       | 2023    |
+| FAIK | FAMFORMUEINDK_BRUTTO      | Formueindkomst. brutto i familien                                      | 1987       | 2023    |
+| FAIK | FAMFRADRAGIALT            | Samlet beregnet fradrag for familien                                   | 1987       | 2023    |
+| FAIK | FAMFRYNSEGODER            | Skattmæssig værdi af frynsegoderne i familien                          | 1987       | 2023    |
+| FAIK | FAMGAELDIALT              | Familiens passiver                                                     | 1987       | 2023    |
+| FAIK | FAMGRON_CHECK             | Grøn check                                                             | 1987       | 2023    |
+| FAIK | FAMHOEJSTUDDA             | Højeste uddannelse for de voksne i familien                            | 1987       | 2023    |
+| FAIK | FAMHONNY                  | AMB. pligtige honorarer                                                | 1987       | 2023    |
+| FAIK | FAMILIE_ID                | Familie identifikation                                                 | 1987       | 2023    |
+| FAIK | FAMINDKOMSTIALT           | Familieindkomst i alt før skat                                         | 1987       | 2023    |
+| FAIK | FAMINDKOMSTIALT_13        | Indkomst i alt, før skatter mv.                                        | 1987       | 2023    |
+| FAIK | FAMKONTANTHJAELP          | Kontanthjælp for familien                                              | 1987       | 2023    |
+| FAIK | FAMKONTANTHJAELP_13       | Kontant hjælp i familien                                               | 1987       | 2023    |
+| FAIK | FAMLEJEV_EGEN_BOLIG       | Beregnet lejeværdi af egen bolig                                       | 1987       | 2023    |
+| FAIK | FAMLEJEVAERDI             | beregnet lejeværdi af egen bolig for familien                          | 1987       | 2023    |
+| FAIK | FAMLOENMV                 | Lønindkomst i alt i familien                                           | 1987       | 2023    |
+| FAIK | FAMLOENMV_13              | Lønindkomst i alt i familien                                           | 1987       | 2023    |
+| FAIK | FAMMIDLERTIDYD            | Midlertidige overførselsindkomster                                     | 1987       | 2023    |
+| FAIK | FAMOEVRIGFORMUE           | Anden formueindkomst for familien                                      | 1987       | 2023    |
+| FAIK | FAMOEVRIGFORMUE_13        | Øvrige formueindkomster i familien (aktieindkomst mv.)                 | 1987       | 2023    |
+| FAIK | FAMOFF_OVERFORSEL_13      | Familiens offentlige overførsler                                       | 1987       | 2023    |
+| FAIK | FAMOFFPENS_EFTLON_13      | Offentlige pensioner i familien                                        | 1987       | 2023    |
+| FAIK | FAMORLOVSYDELSE           | Orlovsydelser udbetalt til familien                                    | 1987       | 2023    |
+| FAIK | FAMOVERFOERINDK           | Familiens samlede overførselsindkomster                                | 1987       | 2023    |
+| FAIK | FAMOVERGANGYD             | Familiens samledeoOvergangsydelse                                      | 1987       | 2023    |
+| FAIK | FAMOVRIG_DAGPENGE_AKAS_13 | Øvrige dagpenge fra A-kasser                                           | 1987       | 2023    |
+| FAIK | FAMOVRIG_KONTANTHJALP_13  | Familiens samlede Aktiverings-, ledigheds- og revalideringsydelse      | 1987       | 2023    |
+| FAIK | FAMOVRIG_OVERFORSEL_13    | Øvrige overførselsindkomster i familien                                | 1987       | 2023    |
+| FAIK | FAMPENSIONATP             | Pensionsudbetaling fra ATP for familien                                | 1987       | 2023    |
+| FAIK | FAMPENSIONIALT            | Pensioner i alt for familien                                           | 1987       | 2023    |
+| FAIK | FAMPENSOFFENTLIG          | Folke- og førtidspension for familien                                  | 1987       | 2023    |
+| FAIK | FAMPENSTJENESTE           | Tjenestemandspension for familien                                      | 1987       | 2023    |
+| FAIK | FAMPRIVAT_PENSION_13      | Private pensioner i familien                                           | 1987       | 2023    |
+| FAIK | FAMRENTEINDK              | Samlede renteindtægter fra Danmark for familien                        | 1987       | 2023    |
+| FAIK | FAMRENTEINDK_13           | Familiens samlede skattepligtige renteindtægter fra Danmark undtagen r | 1987       | 2023    |
+| FAIK | FAMRENTEUDGIFTER          | Samlede fradragsberettigede renteudgifter for familien                 | 1987       | 2023    |
+| FAIK | FAMRENTEUDGIFTER_13       | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1987       | 2023    |
+| FAIK | FAMRESTBISTANDSYD         | Andre ydelser fra kommuuner og A-kasser udbetalt til familien          | 1987       | 2023    |
+| FAIK | FAMRESTINDK               | Diverse indkomster som ikke direkte kan klassificeres i hovedgrupperne | 1987       | 2023    |
+| FAIK | FAMRESTINDK_13            | Anden personlig indkomst i familien                                    | 1987       | 2023    |
+| FAIK | FAMSAMLETINDK             | Samlet indkomst for familien                                           | 1987       | 2023    |
+| FAIK | FAMSKATFRIYD              | Skattefrie indkomster i familien                                       | 1987       | 2023    |
+| FAIK | FAMSKATMVIALT             | Skat og arbejdsmarkedsbidrag betalt af familien                        | 1987       | 2023    |
+| FAIK | FAMSKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1987       | 2023    |
+| FAIK | FAMSKATPLIGTINDK          | Skattepligtig indkomst for familien                                    | 1987       | 2023    |
+| FAIK | FAMSKATTOT                | Samlet indkomstskat betalt af familien                                 | 1987       | 2023    |
+| FAIK | FAMSKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1987       | 2023    |
+| FAIK | FAMSOCIOGRUP              | Familiens socioøkonomiske gruppe                                       | 1987       | 2023    |
+| FAIK | FAMSOCIOGRUP_13           | socioøkonomiske klassifikation                                         | 1987       | 2023    |
+| FAIK | FAMSU                     | Stipendier fra Statens Uddannelsesstøtte - SU udbetalt til familien    | 1987       | 2023    |
+| FAIK | FAMSUMINDKNETTORENT       | Samlet indkomst med nettorenter for familien                           | 1987       | 2023    |
+| FAIK | FAMSYG_BARSEL_13          | Familiens syge- og barselsdagpenge ekskl. refusion til arbejdsgiver.   | 1987       | 2023    |
+| FAIK | FAMTRANSPORTFRADRAG       | Samlet befordringsfradrag i familien                                   | 1987       | 2023    |
+| FAIK | FAMTYPE                   | familietype                                                            | 1987       | 2023    |
+| FAIK | FAMUNDERHBIDRAG           | Underholdsbidrag betalt af familien                                    | 1987       | 2023    |
+| FAIK | FAMVIRKORDIND             | Familiens samlede beløb indsat i virksomhedsordningerne netto (speciel | 1987       | 2023    |
+| FAIK | FAMVIRKOVERSKUD           | nettooverskud af selvstændig virksomhed for familien                   | 1987       | 2023    |
+| FAIK | FAMVIRKOVERSKUD_13        | Familiens samlede overskud af selvstændig virksomhed efter virksomhede | 1987       | 2023    |
+| FAIK | VERSION                   | Version                                                                | 1987       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**FAIN 1980-2007
+**</summary>
+
+|      | Variable name  | Variable label                                               | Start year | Endyear |
+| ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
+| FAIN | A_FAMILIE_ID   | A-familie Id                                                 | 1980       | 2007    |
+| FAIN | A_STATUS       | A-familie status                                             | 1980       | 2007    |
+| FAIN | A_TYPE         | A-familietype                                                | 1980       | 2007    |
+| FAIN | ADRDATO        | Tilflytningsdato til adressen                                | 1980       | 2007    |
+| FAIN | AEGTEFAELLE_ID | Ægtefælle Person Id                                          | 1980       | 2007    |
+| FAIN | ALDER          | Alder                                                        | 1980       | 2007    |
+| FAIN | BOPIKOM        | Adressen (vej, husnummer, husbogstav, etage, side/dørnummer) | 1980       | 2007    |
+| FAIN | C_FAELLE_ID    | Partnerens Id                                                | 1980       | 2007    |
+| FAIN | C_FAMILIE_ID   | \-familie_Id                                                 | 1980       | 2007    |
+| FAIN | C_STATUS       | C-familiestatus                                              | 1980       | 2007    |
+| FAIN | C_TYPE         | C-familie type                                               | 1980       | 2007    |
+| FAIN | CIVDATO        | Civilstandsdato                                              | 1980       | 2007    |
+| FAIN | CIVST          | Civilstand                                                   | 1980       | 2007    |
+| FAIN | D_ANT_FAM      | Antal D-familier i husstanden                                | 1980       | 2007    |
+| FAIN | D_FAMILIE_ID   | D-familie Id                                                 | 1980       | 2007    |
+| FAIN | D_TYPE         | D-familietype                                                | 1980       | 2007    |
+| FAIN | FAR_ID         | Personnummer, Far                                            | 1980       | 2007    |
+| FAIN | FHART          | Fælleshusstandsart                                           | 1980       | 2007    |
+| FAIN | FMMARK         | Forældremarkering                                            | 1980       | 2007    |
+| FAIN | FODREG         | Kode for fødselsregistreringssted                            | 1980       | 2007    |
+| FAIN | H_TYPE         | Husstandstype                                                | 1980       | 2007    |
+| FAIN | INDVDATO       | Indvandringsdato                                             | 1980       | 2007    |
+| FAIN | KOEN           | Køn                                                          | 1980       | 2007    |
+| FAIN | KOM            | Kommune                                                      | 1980       | 2007    |
+| FAIN | MOR_ID         | Personnummer, Mor                                            | 1980       | 2007    |
+| FAIN | PNR            | Personnummer                                                 | 1980       | 2007    |
+| FAIN | STATSB         | Statsborgerskabskode                                         | 1980       | 2007    |
+
+</details>
+
+<details>
+
+<summary>**FTBARN 2018
+**</summary>
