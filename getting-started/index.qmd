@@ -1,7 +1,7 @@
 ---
 title: Getting started
 
-description: Information on how to get started working on the project database
+description: Information on the project database and how to get started working on the project database
 ---
 
 ## Presentation
