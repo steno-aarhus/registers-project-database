@@ -17,9 +17,12 @@ To get permission to set up a project under the project database you need to sen
 ## Application:
 
 The application must contain the following:
+
+-   Title of the project
 -   A short resume of the project
+-   PI of the project
+-   How many users are expected to be working on the project (an estimate)
 -   Which data the project should contain, register level is sufficient
--   Who is responsible for the project and an estimate of how many users are expected to be working on the project
 -   Expected enddate of the project
   
 ## Application form: 
