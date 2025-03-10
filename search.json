@@ -15,7 +15,47 @@
     "href": "getting-started/index.html",
     "title": "Getting started",
     "section": "",
-    "text": "There are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database. On this page you can find information on preliminary procedure according to setting up a project.",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#presentation",
+    "href": "getting-started/index.html#presentation",
+    "title": "Getting started",
+    "section": "",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#purpose",
+    "href": "getting-started/index.html#purpose",
+    "title": "Getting started",
+    "section": "Purpose",
+    "text": "Purpose\nThe overall purpose of the project database is studying factors that can help predict the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as consequences and complications relates to this. In addition, the project database will form the basis of descriptive analyses in the field of disease and health. The project database provides the basis of creating a sub-projects under the overall purpose of the project database and include the needed data to this project from the project database.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#terms-of-use",
+    "href": "getting-started/index.html#terms-of-use",
+    "title": "Getting started",
+    "section": "Terms of use",
+    "text": "Terms of use\nAll users needs an affiliation at SDCA for direct access (not necessarily paid employment) and needs to have an active access to Statistics Denmark.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#contact",
+    "href": "getting-started/index.html#contact",
+    "title": "Getting started",
+    "section": "Contact",
+    "text": "Contact\nIf you have any questions or need help please contact:\n\nMarie Kempf Frydendahl (maipee@rm.dk):\nGunnar Vase Toft (guntof@rm.dk):\nKasper Norman (kanoan@rm.dk)\n\nThere are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database. On this page you can find information on preliminary procedure according to setting up a project.",
     "crumbs": [
       "Getting started"
     ]
