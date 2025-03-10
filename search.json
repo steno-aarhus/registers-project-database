@@ -247,7 +247,7 @@
     "href": "getting-started/steering-committee/index.html#application",
     "title": "Steering committee",
     "section": "Application:",
-    "text": "Application:\nThe application must contain the following: - A short resume of the project - Which data the project should contain, register level is sufficient - Who is responsible for the project and an estimate of how many users are expected to be working on the project - Expected enddate of the project",
+    "text": "Application:\nThe application must contain the following:\n\nTitle of the project\nA short resume of the project\nPI of the project\nHow many users are expected to be working on the project (an estimate)\nWhich data the project should contain, register level is sufficient\nExpected enddate of the project",
     "crumbs": [
       "Getting started",
       "Steering committee"
