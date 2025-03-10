@@ -8,6 +8,13 @@ There are several ways to get to work on the SDCA Project database at Statistics
 
 If the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database. On this page you can find information on preliminary procedure according to setting up a project. 
 
+## Overview of projects in the project database
+
+| Project number | Project title | Purpose | Project owner | Contact | Enddate |
+|------------|------------|------------------------|------------|------------| ------------|
+| 709964 | Den aarhusianske børnekohorte | To create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents. | Anette Andersen, Rasmus Møller Jørgensen | Anette.Andersen\@rm.dk, rasmujer\@rm.dk | 
+| 710017 | Registeropfølgning på Tjek Dit Helbred | To investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens. | Eeva-Liisa Røssell Johansen | eevjoh\@rm.dk |
+
 
 
 ## List of sub-projects in the project database: 
