@@ -14,8 +14,7 @@ If the purpose of your study do not fits under some of the existing projects in 
 
 | Project number | Project title | Purpose | Project owner | Contact | Enddate |
 |------------|------------|------------------------|------------|------------| ------------|
-| 708421 | Interplay between diabetes and intergenerational transmission of health determinants over the life course | The overall aim of this project is to identify the contributions of family and early life determinants on the development, management, and care of diabetes and the diseases that may arise following a diabetes diagnosis, under a life-course framework. 
- | Gunnar Vase Toft | GUNTOF\@rm.dk | 31.12.2030 |
+| 708421 | Interplay between diabetes and intergenerational transmission of health determinants over the life course | The overall aim of this project is to identify the contributions of family and early life determinants on the development, management, and care of diabetes and the diseases that may arise following a diabetes diagnosis, under a life-course framework. | Gunnar Vase Toft | GUNTOF\@rm.dk | 31.12.2030 |
 | 709964 | Den aarhusianske børnekohorte for mental sundhed og længerevarende sygdom | To create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents. | Anette Andersen, Rasmus Møller Jørgensen | Anette.Andersen\@rm.dk, rasmujer\@rm.dk | 31.12.2034 |
 | 710017 | Registeropfølgning på Tjek Dit Helbred | To investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens. | Eeva-Liisa Røssell Johansen | eevjoh\@rm.dk | 31.12.2030 |
 
