@@ -4415,4 +4415,62 @@ description: A description of all DST registers and variables in the projectdata
 <summary>**LPR_ADM 1977-2019
 **</summary>
 
+| LPR_ADM | C_ADIAG       | Aktionsdiagnose                                                | 1977 | 2019 |
+| ------- | ------------- | -------------------------------------------------------------- | ---- | ---- |
+| LPR_ADM | C_AFD         | Afdelingskode                                                  | 1977 | 2019 |
+| LPR_ADM | C_AMT         | Amt                                                            | 1977 | 2019 |
+| LPR_ADM | C_ANDENBEH    | C_ANDENBEH                                                     | 1977 | 2019 |
+| LPR_ADM | C_BLOK        | Inddeling af speciale i blokke                                 | 1977 | 2019 |
+| LPR_ADM | C_BOPAMT      | AMT                                                            | 1977 | 2019 |
+| LPR_ADM | C_EAKT        | Ulykkeskode, aktivitet                                         | 1977 | 2019 |
+| LPR_ADM | C_EMEK        | C_EMEK                                                         | 1977 | 2019 |
+| LPR_ADM | C_EMODPART    | Ulykkeskode, modpart                                           | 1977 | 2019 |
+| LPR_ADM | C_EPART       | Ulykkeskode, egenpart                                          | 1977 | 2019 |
+| LPR_ADM | C_ESTED       | Ulykkeskode, sted                                              | 1977 | 2019 |
+| LPR_ADM | C_ETRAF       | Ulykkeskode, trafikal                                          | 1977 | 2019 |
+| LPR_ADM | C_HAFD        | Henvisende afdeling                                            | 1977 | 2019 |
+| LPR_ADM | C_HENM        | Henvisningsmåde                                                | 1977 | 2019 |
+| LPR_ADM | C_HSGH        | Henvisende sygehus                                             | 1977 | 2019 |
+| LPR_ADM | C_INDFORM     | C_INDFORM                                                      | 1977 | 2019 |
+| LPR_ADM | C_INDFRA      | C_INDFRA                                                       | 1977 | 2019 |
+| LPR_ADM | C_INDM        | Indlæggelsesmåde                                               | 1977 | 2019 |
+| LPR_ADM | C_KOM         | Kommune                                                        | 1977 | 2019 |
+| LPR_ADM | C_KONTAARS    | Kontaktårsag                                                   | 1977 | 2019 |
+| LPR_ADM | C_NYAFD       |                                                                | 1977 | 2019 |
+| LPR_ADM | C_PATTYPE     | Patienttype                                                    | 1977 | 2019 |
+| LPR_ADM | C_SENSTAT     | C_SENSTAT                                                      | 1977 | 2019 |
+| LPR_ADM | C_SEX         | Køn                                                            | 1977 | 2019 |
+| LPR_ADM | C_SGH         | Sygehus                                                        | 1977 | 2019 |
+| LPR_ADM | C_SGHAMT      | Sygehusamt                                                     | 1977 | 2019 |
+| LPR_ADM | C_SPEC        | Specialekode                                                   | 1977 | 2019 |
+| LPR_ADM | C_UDM         | Udskrivningsmåde                                               | 1977 | 2019 |
+| LPR_ADM | C_UDTIL       | C_UDTIL                                                        | 1977 | 2019 |
+| LPR_ADM | C_ULYKKE      | C_ULYKKE                                                       | 1977 | 2019 |
+| LPR_ADM | CPRTJEK       | CPR-tjek                                                       | 1977 | 2019 |
+| LPR_ADM | CPRTYPE       | CPR-type                                                       | 1977 | 2019 |
+| LPR_ADM | D_EBHDTO      | Data for endelig behandling (Variabel udgået efter 31.12.2003) | 1977 | 2019 |
+| LPR_ADM | D_FUSDTO      | Dato for forundersøgelse (Variabel udgået efter 31.12.2003)    | 1977 | 2019 |
+| LPR_ADM | D_HENDTO      | Henvisningsdato                                                | 1977 | 2019 |
+| LPR_ADM | D_INDDTO      | Indlæggelsesdato                                               | 1977 | 2019 |
+| LPR_ADM | D_OPDATDTO    | Intern dato for opdatering af kontakten                        | 1977 | 2019 |
+| LPR_ADM | D_UDDTO       | Udskrivningsdato                                               | 1977 | 2019 |
+| LPR_ADM | K_AFD         | Afdelingskode                                                  | 1977 | 2019 |
+| LPR_ADM | LEVERANCEDATO | DST leverancedato                                              | 1977 | 2019 |
+| LPR_ADM | PNR           | Personnummer                                                   | 1977 | 2019 |
+| LPR_ADM | RECNUM        | LPR-identnummer                                                | 1977 | 2019 |
+| LPR_ADM | V_ALDDG       | Alder i dage ved kontaktens start                              | 1977 | 2019 |
+| LPR_ADM | V_ALDER       | Alder i år ved kontaktens start                                | 1977 | 2019 |
+| LPR_ADM | V_ALDMDR      | Alder i måneder ved kontaktens start                           | 1977 | 2019 |
+| LPR_ADM | V_BEHDAGE     | Behandlingsdage (Variabel udgået efter 31.12.2001)             | 1977 | 2019 |
+| LPR_ADM | V_INDMINUT    | Indlæggelsminut                                                | 1977 | 2019 |
+| LPR_ADM | V_INDTIME     | Indlæggelsestidspunkt                                          | 1977 | 2019 |
+| LPR_ADM | V_SENGDAGE    | Sengedage                                                      | 1977 | 2019 |
+| LPR_ADM | V_UDTIME      | Udskrivningstime                                               | 1977 | 2019 |
+| LPR_ADM | VERSION       | DST Version                                                    | 1977 | 2019 |
 
+</details>
+
+<details>
+
+<summary>**LPR_BES 1994-2019
+**</summary>
