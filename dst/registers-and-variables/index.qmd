@@ -5497,3 +5497,538 @@ description: A description of all DST registers and variables in the projectdata
 
 <summary>**PRIV_ADM 2002-2019
 **</summary>
+
+|          | Variable name | Variable label    | Start year | Endyear |
+| -------- | ------------- | ----------------- | ---------- | ------- |
+| PRIV_ADM | C_ADIAG       | C_ADIAG           | 2002       | 2019    |
+| PRIV_ADM | C_AFD         | C_AFD             | 2002       | 2019    |
+| PRIV_ADM | C_BOPAMT      | C_BOPAMT          | 2002       | 2019    |
+| PRIV_ADM | C_HAFD        | C_HAFD            | 2002       | 2019    |
+| PRIV_ADM | C_HENM        | C_HENM            | 2002       | 2019    |
+| PRIV_ADM | C_HSGH        | C_HSGH            | 2002       | 2019    |
+| PRIV_ADM | C_INDM        | C_INDM            | 2002       | 2019    |
+| PRIV_ADM | C_KOM         | C_KOM             | 2002       | 2019    |
+| PRIV_ADM | C_KONTAARS    | C_KONTAARS        | 2002       | 2019    |
+| PRIV_ADM | C_PATTYPE     | C_PATTYPE         | 2002       | 2019    |
+| PRIV_ADM | C_SEX         | C_SEX             | 2002       | 2019    |
+| PRIV_ADM | C_SGH         | C_SGH             | 2002       | 2019    |
+| PRIV_ADM | C_SGHAMT      | C_SGHAMT          | 2002       | 2019    |
+| PRIV_ADM | C_SPEC        | C_SPEC            | 2002       | 2019    |
+| PRIV_ADM | C_UDM         | C_UDM             | 2002       | 2019    |
+| PRIV_ADM | CPRTJEK       | CPR-tjek          | 2002       | 2019    |
+| PRIV_ADM | CPRTYPE       | CPR-type          | 2002       | 2019    |
+| PRIV_ADM | D_HENDTO      | D_HENDTO          | 2002       | 2019    |
+| PRIV_ADM | D_INDDTO      | D_INDDTO          | 2002       | 2019    |
+| PRIV_ADM | D_UDDTO       | D_UDDTO           | 2002       | 2019    |
+| PRIV_ADM | LEVERANCEDATO | DST leverancedato | 2002       | 2019    |
+| PRIV_ADM | PNR           | Personnummer      | 2002       | 2019    |
+| PRIV_ADM | RECNUM        | LPR-identnummer   | 2002       | 2019    |
+| PRIV_ADM | SKEMAOPDAT    | SKEMAOPDAT        | 2002       | 2019    |
+| PRIV_ADM | SKEMAOPRET    | SKEMAOPRET        | 2002       | 2019    |
+| PRIV_ADM | V_ALDER       | V_ALDER           | 2002       | 2019    |
+| PRIV_ADM | V_BEHDAGE     | V_BEHDAGE         | 2002       | 2019    |
+| PRIV_ADM | V_SENGDAGE    | V_SENGDAGE        | 2002       | 2019    |
+| PRIV_ADM | VERSION       | DST Version       | 2002       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PRIV_BES 2002-2019
+**</summary>
+
+|          | Variable name     | Variable label    | Start year | Endyear |
+| -------- | ----------------- | ----------------- | ---------- | ------- |
+| PRIV_BES | D_AMBDTO          | D_AMBDTO          | 2002       | 2019    |
+| PRIV_BES | INDBERETNINGSDATO | INDBERETNINGSDATO | 2002       | 2019    |
+| PRIV_BES | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
+| PRIV_BES | RECNUM            | LPR-identnummer   | 2002       | 2019    |
+| PRIV_BES | VERSION           | DST Version       | 2002       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PRIV_DIAG 2002-2019
+**</summary>
+
+|           | Variable name     | Variable label    | Start year | Endyear |
+| --------- | ----------------- | ----------------- | ---------- | ------- |
+| PRIV_DIAG | C_DIAG            | C_DIAG            | 2002       | 2019    |
+| PRIV_DIAG | C_DIAGTYPE        | C_DIAGTYPE        | 2002       | 2019    |
+| PRIV_DIAG | C_TILDIAG         | C_TILDIAG         | 2002       | 2019    |
+| PRIV_DIAG | INDBERETNINGSDATO | INDBERETNINGSDATO | 2002       | 2019    |
+| PRIV_DIAG | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
+| PRIV_DIAG | RECNUM            | LPR-identnummer   | 2002       | 2019    |
+| PRIV_DIAG | VERSION           | DST Version       | 2002       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PRIV_SKSOPR 2002-2019
+**</summary>
+
+|             | Variable name     | Variable label    | Start year | Endyear |
+| ----------- | ----------------- | ----------------- | ---------- | ------- |
+| PRIV_SKSOPR | C_OAFD            | C_OAFD            | 2002       | 2019    |
+| PRIV_SKSOPR | C_OPR             | C_OPR             | 2002       | 2019    |
+| PRIV_SKSOPR | C_OPRART          | C_OPRART          | 2002       | 2019    |
+| PRIV_SKSOPR | C_OSGH            | C_OSGH            | 2002       | 2019    |
+| PRIV_SKSOPR | C_TILOPR          | C_TILOPR          | 2002       | 2019    |
+| PRIV_SKSOPR | D_ODTO            | D_ODTO            | 2002       | 2019    |
+| PRIV_SKSOPR | INDBERETNINGSDATO | INDBERETNINGSDATO | 2002       | 2019    |
+| PRIV_SKSOPR | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
+| PRIV_SKSOPR | RECNUM            | LPR-identnummer   | 2002       | 2019    |
+| PRIV_SKSOPR | VERSION           | DST Version       | 2002       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PRIV_SKSUBE 2002-2019
+**</summary>
+
+|             | Variable name     | Variable label    | Start year | Endyear |
+| ----------- | ----------------- | ----------------- | ---------- | ------- |
+| PRIV_SKSUBE | C_OAFD            | C_OAFD            | 2002       | 2019    |
+| PRIV_SKSUBE | C_OPR             | C_OPR             | 2002       | 2019    |
+| PRIV_SKSUBE | C_OPRART          | C_OPRART          | 2002       | 2019    |
+| PRIV_SKSUBE | C_OSGH            | C_OSGH            | 2002       | 2019    |
+| PRIV_SKSUBE | C_TILOPR          | C_TILOPR          | 2002       | 2019    |
+| PRIV_SKSUBE | D_ODTO            | D_ODTO            | 2002       | 2019    |
+| PRIV_SKSUBE | INDBERETNINGSDATO | INDBERETNINGSDATO | 2002       | 2019    |
+| PRIV_SKSUBE | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
+| PRIV_SKSUBE | RECNUM            | LPR-identnummer   | 2002       | 2019    |
+| PRIV_SKSUBE | VERSION           | DST Version       | 2002       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PSYK_ADM 2019
+**</summary>
+
+|          | Variable name | Variable label                                                 | Start year | Endyear |
+| -------- | ------------- | -------------------------------------------------------------- | ---------- | ------- |
+| PSYK_ADM | C_ADIAG       | Aktionsdiagnose                                                |            | 2019    |
+| PSYK_ADM | C_AFD         | Afdelingskode                                                  |            | 2019    |
+| PSYK_ADM | C_AMT         | AMT                                                            |            | 2019    |
+| PSYK_ADM | C_BLOK        | Inddeling af speciale i blokke                                 |            | 2019    |
+| PSYK_ADM | C_HAFD        | Henvisende afdeling                                            |            | 2019    |
+| PSYK_ADM | C_HENM        | Henvisningsmåde                                                |            | 2019    |
+| PSYK_ADM | C_HSGH        | Henvisende sygehus                                             |            | 2019    |
+| PSYK_ADM | C_INDM        | Indlæggelsesmåde                                               |            | 2019    |
+| PSYK_ADM | C_KOM         | Kommune                                                        |            | 2019    |
+| PSYK_ADM | C_KONTAARS    | Kontaktårsag                                                   |            | 2019    |
+| PSYK_ADM | C_NYAFD       |                                                                |            | 2019    |
+| PSYK_ADM | C_PATTYPE     | Patienttype                                                    |            | 2019    |
+| PSYK_ADM | C_SEX         | Køn                                                            |            | 2019    |
+| PSYK_ADM | C_SGH         | Sygehus                                                        |            | 2019    |
+| PSYK_ADM | C_SGHAMT      | Sygehusamt                                                     |            | 2019    |
+| PSYK_ADM | C_SPEC        | Specialekode                                                   |            | 2019    |
+| PSYK_ADM | C_UDM         | Udskrivningsmåde                                               |            | 2019    |
+| PSYK_ADM | CPRTJEK       | CPR-tjek                                                       |            | 2019    |
+| PSYK_ADM | CPRTYPE       | CPR-type                                                       |            | 2019    |
+| PSYK_ADM | D_EBHDTO      | Data for endelig behandling (Variabel udgået efter 31.12.2003) |            | 2019    |
+| PSYK_ADM | D_FUSDTO      | Dato for forundersøgelse (Variabel udgået efter 31.12.2003)    |            | 2019    |
+| PSYK_ADM | D_HENDTO      | Henvisningsdato                                                |            | 2019    |
+| PSYK_ADM | D_INDDTO      | Indlæggelsesdato                                               |            | 2019    |
+| PSYK_ADM | D_OPDATDTO    | Intern dato for opdatering af kontakten                        |            | 2019    |
+| PSYK_ADM | D_UDDTO       | Udskrivningsdato                                               |            | 2019    |
+| PSYK_ADM | K_AFD         | Afdelingskode                                                  |            | 2019    |
+| PSYK_ADM | LEVERANCEDATO | DST leverancedato                                              |            | 2019    |
+| PSYK_ADM | PNR           | Personnummer                                                   |            | 2019    |
+| PSYK_ADM | RECNUM        | LPR-identnummer                                                |            | 2019    |
+| PSYK_ADM | V_ALDDG       | Alder i dage ved kontaktens start                              |            | 2019    |
+| PSYK_ADM | V_ALDER       | Alder i år ved kontaktens start                                |            | 2019    |
+| PSYK_ADM | V_ALDMDR      | Alder i måneder ved kontaktens start                           |            | 2019    |
+| PSYK_ADM | V_BEHDAGE     | Behandlingsdage (Variabel udgået efter 31.12.2001)             |            | 2019    |
+| PSYK_ADM | V_INDMINUT    | Indlæggelsesminut                                              |            | 2019    |
+| PSYK_ADM | V_INDTIME     | Indlæggelsestidspunkt                                          |            | 2019    |
+| PSYK_ADM | V_SENGDAGE    | Sengedage                                                      |            | 2019    |
+| PSYK_ADM | V_UDTIME      | Udskrivningstime                                               |            | 2019    |
+| PSYK_ADM | VERSION       | DST Version                                                    |            | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PSYK_DIAG 2019
+**</summary>
+
+|           | Variable name | Variable label    | Start year | Endyear |
+| --------- | ------------- | ----------------- | ---------- | ------- |
+| PSYK_DIAG | C_DIAG        | Diagnosekode      |            | 2019    |
+| PSYK_DIAG | C_DIAGTYPE    | Diagnosetype      |            | 2019    |
+| PSYK_DIAG | C_TILDIAG     | Tillægsdiagnose   |            | 2019    |
+| PSYK_DIAG | LEVERANCEDATO | DST leverancedato |            | 2019    |
+| PSYK_DIAG | RECNUM        | LPR-identnummer   |            | 2019    |
+| PSYK_DIAG | VERSION       | DST Version       |            | 2019    |
+
+</details>
+
+<details>
+
+<summary>**PSYK_PERS 2019
+**</summary>
+
+|           | Variable name | Variable label                         | Start year | Endyear |
+| --------- | ------------- | -------------------------------------- | ---------- | ------- |
+| PSYK_PERS | C_PERSKAT1    | Personale indraget i psykiatrisk besøg |            | 2019    |
+| PSYK_PERS | C_PERSKAT2    | Personale indraget i psykiatrisk besøg |            | 2019    |
+| PSYK_PERS | C_PERSKAT3    | Personale indraget i psykiatrisk besøg |            | 2019    |
+| PSYK_PERS | C_PSYKYD      | Ambulant psykiatrisk ydelse            |            | 2019    |
+| PSYK_PERS | C_YDSTED      | Sted for ambulant psykiatrisk ydelse   |            | 2019    |
+| PSYK_PERS | D_AMBDTO      | Dato for ambulant psykiatrisk besøg    |            | 2019    |
+| PSYK_PERS | LEVERANCEDATO | DST leverancedato                      |            | 2019    |
+| PSYK_PERS | RECNUM        | LPR-identnummer                        |            | 2019    |
+| PSYK_PERS | VERSION       | DST Version                            |            | 2019    |
+
+</details>
+
+<details>
+
+<summary>**SHSS 1984-2007
+**</summary>
+
+|      | Variable name | Variable label                            | Start year | Endyear |
+| ---- | ------------- | ----------------------------------------- | ---------- | ------- |
+| SHSS | BEL_ALD       | Årligt udbetalt beløb på folkepension.    | 1984       | 2007    |
+| SHSS | BEL_ARB       | Årligt udbetalt arbejdsløshedsdagpenge    | 1984       | 2007    |
+| SHSS | BEL_BAR       | Årligt udbetalte fødsels-/barselsdagpenge | 1984       | 2007    |
+| SHSS | BEL_ORL       | Årligt udbetalt beløb på orlovsydelse     | 1984       | 2007    |
+| SHSS | BEL_SYG       | Årligt udbetalt beløb på sygedagpenge     | 1984       | 2007    |
+| SHSS | PNR           | Personnummer                              | 1984       | 2007    |
+| SHSS | VAR_ARB       | Årsvarighed af arbejdsløshedsdagpenge     | 1984       | 2007    |
+| SHSS | VAR_BAR       | Årsvarighed med fødsels-/barselsdagpenge  | 1984       | 2007    |
+| SHSS | VAR_ORL_BP    | Varighed af børnepasningsorlov            | 1984       | 2007    |
+
+</details>
+
+<details>
+
+<summary>**SOGN 2002-2016
+**</summary>
+
+|      | Variable name | Variable label   | Start year | Endyear |
+| ---- | ------------- | ---------------- | ---------- | ------- |
+| SOGN | KOM           | INGEN LABEL      | 2002       | 2016    |
+| SOGN | OPGIKOM       | Opgang i kommune | 2002       | 2016    |
+| SOGN | SOGN          | Sogn             | 2002       | 2016    |
+
+</details>
+
+<details>
+
+<summary>**SSNV 1984-2007
+**</summary>
+
+|      | Variable name | Variable label                            | Start year | Endyear |
+| ---- | ------------- | ----------------------------------------- | ---------- | ------- |
+| SSNV | BEL_ARB       | Årligt udbetalt arbejdsløshedsdagpenge    | 1984       | 2007    |
+| SSNV | BEL_BAR       | Årligt udbetalte fødsels-/barselsdagpenge | 1984       | 2007    |
+| SSNV | BEL_LYD       | Årligt udbetalt ledighedsydelse           | 1984       | 2007    |
+| SSNV | BEL_ORL       | Årligt udbetalt beløb på orlovsydelse     | 1984       | 2007    |
+| SSNV | BEL_SYG       | Årligt udbetalt beløb på sygedagpenge     | 1984       | 2007    |
+| SSNV | PNR           | PERSONENS CPR-NR                          | 1984       | 2007    |
+| SSNV | VAR_BAR       | Årsvarighed med fødsels-/barselsdagpenge  | 1984       | 2007    |
+| SSNV | VAR_LYD       | Årsvarighed af ledighedsydelse            | 1984       | 2007    |
+| SSNV | VAR_ORL_BP    | Varighed af børnepasningsorlov            | 1984       | 2007    |
+| SSNV | VAR_SYG       | Årsvarighed på sygedagpenge               | 1984       | 2007    |
+| SSNV | VARLED        | Årsvarighed på arbejdsløshedsdagpenge     | 1984       | 2007    |
+
+</details>
+
+<details>
+
+<summary>**SSSY 2005-2023
+**</summary>
+
+|      | Variable name    | Variable label                | Start year | Endyear |
+| ---- | ---------------- | ----------------------------- | ---------- | ------- |
+| SSSY | AFRPER           | Afregningsperiode             | 2005       | 2023    |
+| SSSY | ALDERIMP         | Alder ultimo inkl. imputerede | 2005       | 2023    |
+| SSSY | BARNMAK          | Barnemarkering                | 2005       | 2023    |
+| SSSY | BEHANDLINGSDATO  | BEHANDLINGSDATO               | 2005       | 2023    |
+| SSSY | BRUHON           | Bruttohonorar til læge mv.    | 2005       | 2023    |
+| SSSY | CPRTJEK          | CPR-tjek                      | 2005       | 2023    |
+| SSSY | CPRTYPE          | CPR-type                      | 2005       | 2023    |
+| SSSY | HONUGE           | Honoraruge                    | 2005       | 2023    |
+| SSSY | KOENIMP          | Køn inkl. imputerede          | 2005       | 2023    |
+| SSSY | KONTAKT          | Kontakt                       | 2005       | 2023    |
+| SSSY | PATGRP           | Patientgruppe                 | 2005       | 2023    |
+| SSSY | PNR              | Personnummer                  | 2005       | 2023    |
+| SSSY | REGISTRERINGSTID | REGISTRERINGSTID              | 2005       | 2023    |
+| SSSY | SIKGRUP          | Sygesikringsgruppe            | 2005       | 2023    |
+| SSSY | SPEC2            | 2-cifret speciale             | 2005       | 2023    |
+| SSSY | SPEC80           | SPEC80                        | 2005       | 2023    |
+| SSSY | SPECIALE         | 6-cifret speciale             | 2005       | 2023    |
+| SSSY | STATPOP          | STATPOP                       | 2005       | 2023    |
+| SSSY | VERSION          | Version                       | 2005       | 2023    |
+| SSSY | YDERNR           | Ydernummer                    | 2005       | 2023    |
+| SSSY | YDERSAMT         | Yders amt                     | 2005       | 2023    |
+| SSSY | YDLANT           | Antal ydelser under specialet | 2005       | 2023    |
+| SSSY | YDLTID           | Tidspunktskode for ydelsen    | 2005       | 2023    |
+| SSSY | YDTYP            | Ydertype                      | 2005       | 2023    |
+
+</details>
+
+<details>
+
+<summary>**SYSI 1990-2005
+**</summary>
+
+|      | Variable name | Variable label                | Start year | Endyear |
+| ---- | ------------- | ----------------------------- | ---------- | ------- |
+| SYSI | AFRPER        | Afregningsperiode             | 1990       | 2005    |
+| SYSI | BARNMAK       | Barnemarkering                | 1990       | 2005    |
+| SYSI | BRUHON        | Bruttohonorar til læge mv.    | 1990       | 2005    |
+| SYSI | HONUGE        | Honoraruge                    | 1990       | 2005    |
+| SYSI | PATTYP        | Patienttype                   | 1990       | 2005    |
+| SYSI | PNR           | Sikredes personnummer         | 1990       | 2005    |
+| SYSI | PRAKTYP       | Praksistype                   | 1990       | 2005    |
+| SYSI | SIKGRUP       | Sikringsgruppe                | 1990       | 2005    |
+| SYSI | SPECIALE      | 6-cifret speciale             | 1990       | 2005    |
+| SYSI | YDERNR        | Ydernummer                    | 1990       | 2005    |
+| SYSI | YDERSAMT      | Yders amt                     | 1990       | 2005    |
+| SYSI | YDLANT        | Antal ydelser under specialet | 1990       | 2005    |
+| SYSI | YDLTID        | Tidspunktskode for ydelsen    | 1990       | 2005    |
+| SYSI | YDTYP         | Ydertype                      | 1990       | 2005    |
+
+</details>
+
+<details>
+
+<summary>**UAF_ADM 1996-2019
+**</summary>
+
+|         | Variable name | Variable label | Start year | Endyear |
+| ------- | ------------- | -------------- | ---------- | ------- |
+| UAF_ADM | C_ADIAG       | C_ADIAG        | 1996       | 2019    |
+| UAF_ADM | C_AFD         | C_AFD          | 1996       | 2019    |
+| UAF_ADM | C_AMT         | C_AMT          | 1996       | 2019    |
+| UAF_ADM | C_BLOK        | C_BLOK         | 1996       | 2019    |
+| UAF_ADM | C_BOPAMT      | C_BOPAMT       | 1996       | 2019    |
+| UAF_ADM | C_EAKT        | C_EAKT         | 1996       | 2019    |
+| UAF_ADM | C_EMEK        | C_EMEK         | 1996       | 2019    |
+| UAF_ADM | C_EMODPART    | C_EMODPART     | 1996       | 2019    |
+| UAF_ADM | C_EPART       | C_EPART        | 1996       | 2019    |
+| UAF_ADM | C_ESTED       | C_ESTED        | 1996       | 2019    |
+| UAF_ADM | C_ETRAF       | C_ETRAF        | 1996       | 2019    |
+| UAF_ADM | C_HAFD        | C_HAFD         | 1996       | 2019    |
+| UAF_ADM | C_HENM        | C_HENM         | 1996       | 2019    |
+| UAF_ADM | C_HSGH        | C_HSGH         | 1996       | 2019    |
+| UAF_ADM | C_INDM        | C_INDM         | 1996       | 2019    |
+| UAF_ADM | C_KOM         | C_KOM          | 1996       | 2019    |
+| UAF_ADM | C_KONTAARS    | C_KONTAARS     | 1996       | 2019    |
+| UAF_ADM | C_NYAFD       | C_NYAFD        | 1996       | 2019    |
+| UAF_ADM | C_PATTYPE     | C_PATTYPE      | 1996       | 2019    |
+| UAF_ADM | C_SEX         | C_SEX          | 1996       | 2019    |
+| UAF_ADM | C_SGH         | C_SGH          | 1996       | 2019    |
+| UAF_ADM | C_SGHAMT      | C_SGHAMT       | 1996       | 2019    |
+| UAF_ADM | C_SPEC        | C_SPEC         | 1996       | 2019    |
+| UAF_ADM | C_UDM         | C_UDM          | 1996       | 2019    |
+| UAF_ADM | CPRTJEK       | CPR-tjek       | 1996       | 2019    |
+| UAF_ADM | CPRTYPE       | CPR-type       | 1996       | 2019    |
+| UAF_ADM | D_EBHDTO      | D_EBHDTO       | 1996       | 2019    |
+| UAF_ADM | D_FUSDTO      | D_FUSDTO       | 1996       | 2019    |
+| UAF_ADM | D_HENDTO      | D_HENDTO       | 1996       | 2019    |
+| UAF_ADM | D_INDDTO      | D_INDDTO       | 1996       | 2019    |
+| UAF_ADM | D_OPDATDTO    | D_OPDATDTO     | 1996       | 2019    |
+| UAF_ADM | D_UDDTO       | D_UDDTO        | 1996       | 2019    |
+| UAF_ADM | K_AFD         | K_AFD          | 1996       | 2019    |
+| UAF_ADM | LEVERANCEDATO | INGEN LABEL    | 1996       | 2019    |
+| UAF_ADM | PNR           | INGEN LABEL    | 1996       | 2019    |
+| UAF_ADM | RECNUM        | INGEN LABEL    | 1996       | 2019    |
+| UAF_ADM | V_ALDDG       | V_ALDDG        | 1996       | 2019    |
+| UAF_ADM | V_ALDER       | V_ALDER        | 1996       | 2019    |
+| UAF_ADM | V_ALDMDR      | V_ALDMDR       | 1996       | 2019    |
+| UAF_ADM | V_BEHDAGE     | V_BEHDAGE      | 1996       | 2019    |
+| UAF_ADM | V_INDMINUT    | V_INDMINUT     | 1996       | 2019    |
+| UAF_ADM | V_INDTIME     | V_INDTIME      | 1996       | 2019    |
+| UAF_ADM | V_SENGDAGE    | V_SENGDAGE     | 1996       | 2019    |
+| UAF_ADM | V_UDTIME      | V_UDTIME       | 1996       | 2019    |
+| UAF_ADM | VERSION       | INGEN LABEL    | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**UAF_BES 1996-2019
+**</summary>
+
+|         | Variable name | Variable label    | Start year | Endyear |
+| ------- | ------------- | ----------------- | ---------- | ------- |
+| UAF_BES | D_AMBDTO      | D_AMBDTO          | 1996       | 2019    |
+| UAF_BES | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
+| UAF_BES | RECNUM        | LPR-identnummer   | 1996       | 2019    |
+| UAF_BES | VERSION       | DST Version       | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**UAF_DIAG 1996-2019
+**</summary>
+
+|          | Variable name | Variable label    | Start year | Endyear |
+| -------- | ------------- | ----------------- | ---------- | ------- |
+| UAF_DIAG | C_DIAG        | C_DIAG            | 1996       | 2019    |
+| UAF_DIAG | C_DIAGTYPE    | C_DIAGTYPE        | 1996       | 2019    |
+| UAF_DIAG | C_TILDIAG     | C_TILDIAG         | 1996       | 2019    |
+| UAF_DIAG | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
+| UAF_DIAG | RECNUM        | LPR-identnummer   | 1996       | 2019    |
+| UAF_DIAG | VERSION       | DST Version       | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**UAF_FOEDSLER 2012-2018
+
+|              | Variable name | Variable label    | Start year | Endyear |
+| ------------ | ------------- | ----------------- | ---------- | ------- |
+| UAF_FOEDSLER | D_SMENDTO     | D_SMENDTO         | 2012       | 2018    |
+| UAF_FOEDSLER | LEVERANCEDATO | DST leverancedato | 2012       | 2018    |
+| UAF_FOEDSLER | RECNUM        | LPR-identnummer   | 2012       | 2018    |
+| UAF_FOEDSLER | V_FLERNR      | V_FLERNR          | 2012       | 2018    |
+| UAF_FOEDSLER | V_JMBES       | V_JMBES           | 2012       | 2018    |
+| UAF_FOEDSLER | V_LANGDE      | V_LANGDE          | 2012       | 2018    |
+| UAF_FOEDSLER | V_LBES        | V_LBES            | 2012       | 2018    |
+| UAF_FOEDSLER | V_PARITET     | V_PARITET         | 2012       | 2018    |
+| UAF_FOEDSLER | V_SPBES       | V_SPBES           | 2012       | 2018    |
+| UAF_FOEDSLER | V_VAGT        | V_VAGT            | 2012       | 2018    |
+| UAF_FOEDSLER | VERSION       | DST Version       | 2012       | 2018    |
+
+</details>
+
+<details>
+
+<summary>**UAF_OPR 1996-2019
+
+|         | Variable name | Variable label    | Start year | Endyear |
+| ------- | ------------- | ----------------- | ---------- | ------- |
+| UAF_OPR | C_KOMB        | C_KOMB            | 1996       | 2019    |
+| UAF_OPR | C_OAFD        | C_OAFD            | 1996       | 2019    |
+| UAF_OPR | C_OPR         | C_OPR             | 1996       | 2019    |
+| UAF_OPR | C_OSGH        | C_OSGH            | 1996       | 2019    |
+| UAF_OPR | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
+| UAF_OPR | RECNUM        | LPR-identnummer   | 1996       | 2019    |
+| UAF_OPR | VERSION       | DST Version       | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**UAF_SKSOPR 1996-2019
+
+|            | Variable name | Variable label    | Start year | Endyear |
+| ---------- | ------------- | ----------------- | ---------- | ------- |
+| UAF_SKSOPR | C_OAFD        | C_OAFD            | 1996       | 2019    |
+| UAF_SKSOPR | C_OPR         | C_OPR             | 1996       | 2019    |
+| UAF_SKSOPR | C_OPRART      | C_OPRART          | 1996       | 2019    |
+| UAF_SKSOPR | C_OSGH        | C_OSGH            | 1996       | 2019    |
+| UAF_SKSOPR | C_TILOPR      | C_TILOPR          | 1996       | 2019    |
+| UAF_SKSOPR | D_ODTO        | D_ODTO            | 1996       | 2019    |
+| UAF_SKSOPR | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
+| UAF_SKSOPR | RECNUM        | LPR-identnummer   | 1996       | 2019    |
+| UAF_SKSOPR | V_OMINUT      | V_OMINUT          | 1996       | 2019    |
+| UAF_SKSOPR | V_OTIME       | V_OTIME           | 1996       | 2019    |
+| UAF_SKSOPR | VERSION       | DST Version       | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**UDDA 198012-202309
+
+|      | Variable name | Variable label                                                         | Start year | Endyear |
+| ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
+| UDDA | ALM_VFRA      | Tidspunkt for opnået almenuddannelse                                   | 198012     | 202309  |
+| UDDA | ALMAUDD       | Højst fuldførte almen uddannelse                                       | 198012     | 202309  |
+| UDDA | ALMINSTNR     | Institutionsnummer                                                     | 198012     | 202309  |
+| UDDA | CPRTJEK       | CPR-tjek                                                               | 198012     | 202309  |
+| UDDA | CPRTYPE       | CPR-type                                                               | 198012     | 202309  |
+| UDDA | ERH_VFRA      | Tidspunkt for opnået erhvervskompetancegivende uddannelse              | 198012     | 202309  |
+| UDDA | ERHAUDD       | Højst fuldførte erhvervskompetencegivende uddannelse                   | 198012     | 202309  |
+| UDDA | ERHINSTNR     | Institutionsnummer                                                     | 198012     | 202309  |
+| UDDA | HF_KILDE      | Kilde til uddannelsesoplysningen                                       | 198012     | 202309  |
+| UDDA | HF_VFRA       | Tidspunkt for opnået højst fuldførte uddannelse                        | 198012     | 202309  |
+| UDDA | HFAUDD        | Højste fuldførte uddannelse                                            | 198012     | 202309  |
+| UDDA | HFINSTNR      | Institutionsnummer                                                     | 198012     | 202309  |
+| UDDA | IG_VFRA       | Påbegyndelsestidspunkt for igangværende uddannelse                     | 198012     | 202309  |
+| UDDA | IGINSTNR      | Institutionsnummer                                                     | 198012     | 202309  |
+| UDDA | PNR           | Personnummer                                                           | 198012     | 202309  |
+| UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202309  |
+| UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202309  |
+
+</details>
+
+<details>
+
+<summary>**UDFK 2023
+
+|      | Variable name        | Variable label          | Start year | Endyear |
+| ---- | -------------------- | ----------------------- | ---------- | ------- |
+| UDFK | BEDOEMMELSESFORM     | Bedømmelsesform         |            | 2023    |
+| UDFK | CPRTJEK              | CPR-tjek                |            | 2023    |
+| UDFK | CPRTYPE              | CPR-type                |            | 2023    |
+| UDFK | FAGDISCIPLIN         | Fagdiciplin             |            | 2023    |
+| UDFK | FAGKODE              | Fagkode                 |            | 2023    |
+| UDFK | GRUNDSKOLEFAG        | Grundskolefag           |            | 2023    |
+| UDFK | GRUNDSKOLEKARAKTER   | Grundskolekarakter      |            | 2023    |
+| UDFK | GRUNDSKOLENIVEAU     | Niveauet for karakteren |            | 2023    |
+| UDFK | INSTNR               | INSTNR                  |            | 2023    |
+| UDFK | KARAKTERAARSAG       | KARAKTERAARSAG          |            | 2023    |
+| UDFK | KARAKTERAARSAG_TEKST | KARAKTERAARSAG_TEKST    |            | 2023    |
+| UDFK | KL_BETEGNELSE        | Klassebetegnelse        |            | 2023    |
+| UDFK | KLASSETYPE           | Klassetype              |            | 2023    |
+| UDFK | KLTRIN               | Klassetrin              |            | 2023    |
+| UDFK | OPR_KARAKTER         | Oprindelig karakter     |            | 2023    |
+| UDFK | PNR                  | PNR                     |            | 2023    |
+| UDFK | PRIVATISTER          | Privatist               |            | 2023    |
+| UDFK | PROEVEART            | Prøveart                |            | 2023    |
+| UDFK | PROEVEFORM           | Prøveform               |            | 2023    |
+| UDFK | REFPER               | REFPER                  |            | 2023    |
+| UDFK | SKALA                | SKALA                   |            | 2023    |
+| UDFK | SKOLEAAR             | Skoleår                 |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**UDG 2023
+
+|     | Variable name     | Variable label              | Start year | Endyear |
+| --- | ----------------- | --------------------------- | ---------- | ------- |
+| UDG | AUDD              | Afsluttende uddannelseskode |            | 2023    |
+| UDG | CPRTJEK           | CPR-tjek                    |            | 2023    |
+| UDG | CPRTYPE           | CPR-type                    |            | 2023    |
+| UDG | INSTNR            | Institutionsnummer          |            | 2023    |
+| UDG | KARAKTER_UDD      | Karaktergennemsnit          |            | 2023    |
+| UDG | KARAKTER_UDD_VTIL | Sluttidspunkt               |            | 2023    |
+| UDG | OFF_DATO          | OFF_DATO                    |            | 2023    |
+| UDG | PNR               | Personnummer                |            | 2023    |
+| UDG | SKALA             | Karakterskala               |            | 2023    |
+| UDG | VERSION           | VERSION                     |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**VNDS 2023
+
+|      | Variable name | Variable label | Start year | Endyear |
+| ---- | ------------- | -------------- | ---------- | ------- |
+| VNDS | CPRTJEK       | CPR-tjek       |            | 2023    |
+| VNDS | CPRTYPE       | CPR-type       |            | 2023    |
+| VNDS | HAEND_DATO    |                |            | 2023    |
+| VNDS | INDUD_KODE    |                |            | 2023    |
+| VNDS | INDUD_LAND    |                |            | 2023    |
+| VNDS | PNR           | Personnummer   |            | 2023    |
+
+</details>
+
+<details>
+**</summary>
