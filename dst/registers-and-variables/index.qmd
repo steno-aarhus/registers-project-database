@@ -4766,6 +4766,7 @@ description: A description of all DST registers and variables in the projectdata
 | LPR_F_PROCEDURER_ANDRE | SORENHED_PRO                | INGEN LABEL            |            | 2022    |
 | LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_INDBERETNING      | tidspunkt_indberetning |            | 2022    |
 | LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_SLUT              | tidspunkt_slut         |            | 2022    |
+| LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
 
 </details>
 
@@ -4836,6 +4837,663 @@ description: A description of all DST registers and variables in the projectdata
 <summary>**LPR_OPR 1977-2019
 **</summary>
 
+|         | Variable name | Variable label     | Start year | Endyear |
+| ------- | ------------- | ------------------ | ---------- | ------- |
+| LPR_OPR | C_KOMB        | Kombination        | 1977       | 2019    |
+| LPR_OPR | C_OAFD        | Operationsafdeling | 1977       | 2019    |
+| LPR_OPR | C_OPR         | Operationskode     | 1977       | 2019    |
+| LPR_OPR | C_OSGH        | Operationssygehus  | 1977       | 2019    |
+| LPR_OPR | LEVERANCEDATO | DST leverancedato  | 1977       | 2019    |
+| LPR_OPR | RECNUM        | LPR-identnummer    | 1977       | 2019    |
+| LPR_OPR | VERSION       | DST Version        | 1977       | 2019    |
 
+</details>
 
-| LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
+<details>
+
+<summary>**LPR_SKSOPR 1996-2019
+**</summary>
+
+|            | Variable name | Variable label                    | Start year | Endyear |
+| ---------- | ------------- | --------------------------------- | ---------- | ------- |
+| LPR_SKSOPR | C_OAFD        | Procedurende afdeling (operation) | 1996       | 2019    |
+| LPR_SKSOPR | C_OPR         | Procedurekodenummer (operation)   | 1996       | 2019    |
+| LPR_SKSOPR | C_OPRART      | Procedureart (operation)          | 1996       | 2019    |
+| LPR_SKSOPR | C_OSGH        | Procedurende sygehus (operation)  | 1996       | 2019    |
+| LPR_SKSOPR | C_TILOPR      | Tillægskode (operation)           | 1996       | 2019    |
+| LPR_SKSOPR | D_ODTO        | Proceduredato (operation)         | 1996       | 2019    |
+| LPR_SKSOPR | LEVERANCEDATO | DST leverancedato                 | 1996       | 2019    |
+| LPR_SKSOPR | RECNUM        | LPR-identnummer                   | 1996       | 2019    |
+| LPR_SKSOPR | V_OMINUT      | Procedureminut (operation)        | 1996       | 2019    |
+| LPR_SKSOPR | V_OTIME       | Proceduretime (operation)         | 1996       | 2019    |
+| LPR_SKSOPR | VERSION       | DST Version                       | 1996       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**LPR_SKSUBE 1999-2019
+**</summary>
+
+|            | Variable name | Variable label                                    | Start year | Endyear |
+| ---------- | ------------- | ------------------------------------------------- | ---------- | ------- |
+| LPR_SKSUBE | C_OAFD        | Procedurende afdeling (undersøgelse & behandling) | 1999       | 2019    |
+| LPR_SKSUBE | C_OPR         | Procedurekodenummer (undersøgelse & behandling)   | 1999       | 2019    |
+| LPR_SKSUBE | C_OPRART      | Procedureart (undersøgelse & behandling)          | 1999       | 2019    |
+| LPR_SKSUBE | C_OSGH        | Procedurende sygehus (undersøgelse & behandling)  | 1999       | 2019    |
+| LPR_SKSUBE | C_TILOPR      | Tillægskode (undersøgelse & behandling)           | 1999       | 2019    |
+| LPR_SKSUBE | D_ODTO        | Proceduredato (undersøgelse & behandling)         | 1999       | 2019    |
+| LPR_SKSUBE | LEVERANCEDATO | DST leverancedato                                 | 1999       | 2019    |
+| LPR_SKSUBE | RECNUM        | LPR-identnummer                                   | 1999       | 2019    |
+| LPR_SKSUBE | V_OMINUT      | Procedureminut (undersøgelse & behandling)        | 1999       | 2019    |
+| LPR_SKSUBE | V_OTIME       | Proceduretime (undersøgelse & behandling)         | 1999       | 2019    |
+| LPR_SKSUBE | VERSION       | DST Version                                       | 1999       | 2019    |
+
+</details>
+
+<details>
+
+<summary>**LPRMFRDF 1996
+**</summary>
+
+|          | Variable name | Variable label                       | Start year | Endyear |
+| -------- | ------------- | ------------------------------------ | ---------- | ------- |
+| LPRMFRDF | B_AMBULANT    | Planlagt fødsel                      |            | 1996    |
+| LPRMFRDF | B_FLERFOLD    | Flerfoldsfødsel                      |            | 1996    |
+| LPRMFRDF | B_NORMAL      | Normal fødsel                        |            | 1996    |
+| LPRMFRDF | B_PARTUS      | Spontan fødsel                       |            | 1996    |
+| LPRMFRDF | B_RISIKO      | Risikoadfærd før fødsel              |            | 1996    |
+| LPRMFRDF | B_RYGER       | Ryger                                |            | 1996    |
+| LPRMFRDF | B_SAMADR      | Forældrene samboende ved fødsel      |            | 1996    |
+| LPRMFRDF | B_SECTIOF     | Samboende forældre ved fødsel        |            | 1996    |
+| LPRMFRDF | C_CIVSTD      | Moderens civilstand                  |            | 1996    |
+| LPRMFRDF | C_PLAC        | Barnets placering i flerfoldsfødsler |            | 1996    |
+| LPRMFRDF | D_FODDTO      | Fødselsdato - barnet                 |            | 1996    |
+| LPRMFRDF | V_ANTAL       | Antal børn i fødslen                 |            | 1996    |
+| LPRMFRDF | V_FALDER      | Faderens alder                       |            | 1996    |
+| LPRMFRDF | V_FCPR        | Faderens personnummer                |            | 1996    |
+| LPRMFRDF | V_GRAV        | Antal tidligere graviditeter         |            | 1996    |
+| LPRMFRDF | V_MALDER      | Moderens alder                       |            | 1996    |
+| LPRMFRDF | V_MCPR        | Moderens Personnummer                |            | 1996    |
+| LPRMFRDF | V_PABORT      | Antal tidligere provokerede aborter  |            | 1996    |
+| LPRMFRDF | V_SABORT      | Antal tidligere spontane aborter     |            | 1996    |
+| LPRMFRDF | V_TIDLDOD     | Antal tidligere dødfødte             |            | 1996    |
+| LPRMFRDF | V_TIDLLEV     | Antal tidligere levendefødte         |            | 1996    |
+| LPRMFRDF | V_VAGT        | Barnets vægt i gram                  |            | 1996    |
+| LPRMFRLF | B_AMBULANT    | Planlagt fødsel                      |            | 1996    |
+| LPRMFRLF | B_FLERFOLD    | Flerfoldsfødsel                      |            | 1996    |
+| LPRMFRLF | B_NORMAL      | Normal fødsel                        |            | 1996    |
+| LPRMFRLF | B_RISIKO      | Risikoadfærd før fødsel              |            | 1996    |
+| LPRMFRLF | B_RYGER       | Ryger                                |            | 1996    |
+| LPRMFRLF | B_SAMADR      | Samboende forældre ved fødsel        |            | 1996    |
+| LPRMFRLF | C_APGAR       | Indikation af Apgar score måling     |            | 1996    |
+| LPRMFRLF | C_BOPKOM      | Moderens bopælskommune               |            | 1996    |
+| LPRMFRLF | C_CIVSTD      | Moderens civilstand ved fødsel       |            | 1996    |
+| LPRMFRLF | C_MISDAN      | Misdannelsestilkendegivelse          |            | 1996    |
+| LPRMFRLF | C_PLAC        | Barnets placering i flerfoldsfødsel  |            | 1996    |
+| LPRMFRLF | CPRTJEK       | CPR-tjek                             |            | 1996    |
+| LPRMFRLF | CPRTYPE       | CPR-type                             |            | 1996    |
+| LPRMFRLF | D_FODTDTO     | Fødselsdato                          |            | 1996    |
+| LPRMFRLF | K_BCPR        | Barnets personnummer                 |            | 1996    |
+| LPRMFRLF | V_ANTAL       | Antal børn i fødslen udover dette    |            | 1996    |
+| LPRMFRLF | V_APGAR1      | Apgar efter 1 minut                  |            | 1996    |
+| LPRMFRLF | V_APGAR5      | Apgar efter 5 minutter               |            | 1996    |
+| LPRMFRLF | V_FALDER      | Faderens alder (på fødselstidspunkt) |            | 1996    |
+| LPRMFRLF | V_FCPR        | Faderens personnummer                |            | 1996    |
+| LPRMFRLF | V_LANGDE      | Barnets længde i cm.                 |            | 1996    |
+| LPRMFRLF | V_MALDER      | Moderens alder (på fødselstidspunkt) |            | 1996    |
+| LPRMFRLF | V_MCPR        | Moderens CPR nummer                  |            | 1996    |
+| LPRMFRLF | V_MISANT      | Antal misdannelser hos barnet        |            | 1996    |
+| LPRMFRLF | V_SVLANGDE    | Svangerskabslængde i uger            |            | 1996    |
+| LPRMFRLF | V_VAGT        | Barnets vægt i gram                  |            | 1996    |
+
+</details>
+
+<details>
+
+<summary>**MFR 1997-2018
+**</summary>
+
+|     | Variable name                  | Variable label                 | Start year | Endyear |
+| --- | ------------------------------ | ------------------------------ | ---------- | ------- |
+| MFR | ABDOMINALOMFANG                | ABDOMINALOMFANG                | 1997       | 2018    |
+| MFR | ALDERVEDDOED_DAGE_BARN         | ALDERVEDDOED_DAGE_BARN         | 1997       | 2018    |
+| MFR | APGARSCORE_EFTER5MINUTTER      | APGARSCORE_EFTER5MINUTTER      | 1997       | 2018    |
+| MFR | BARNSLEVENDENR_FLERFOLDFOEDSEL | BARNSLEVENDENR_FLERFOLDFOEDSEL | 1997       | 2018    |
+| MFR | BARNSNUMMER_FLERFOLDSFOEDSEL   | BARNSNUMMER_FLERFOLDSFOEDSEL   | 1997       | 2018    |
+| MFR | BESOEGHOSJORDEMODER            | BESOEGHOSJORDEMODER            | 1997       | 2018    |
+| MFR | BESOEGHOSLAEGE                 | BESOEGHOSLAEGE                 | 1997       | 2018    |
+| MFR | BESOEGHOSSPECIALLAEGE          | BESOEGHOSSPECIALLAEGE          | 1997       | 2018    |
+| MFR | BMI_MODER                      | BMI_MODER                      | 1997       | 2018    |
+| MFR | CPR_BARN                       | CPR_BARN                       | 1997       | 2018    |
+| MFR | CPR_FADER                      | CPR_FADER                      | 1997       | 2018    |
+| MFR | CPR_MODER                      | CPR_MODER                      | 1997       | 2018    |
+| MFR | DISPROPORTIO                   | DISPROPORTIO                   | 1997       | 2018    |
+| MFR | DOEDSDATO_BARN                 | DOEDSDATO_BARN                 | 1997       | 2018    |
+| MFR | DOEDSDATO_MODER                | DOEDSDATO_MODER                | 1997       | 2018    |
+| MFR | EPISIOTOMI                     | EPISIOTOMI                     | 1997       | 2018    |
+| MFR | FOSTERPRAESENTATION            | FOSTERPRAESENTATION            | 1997       | 2018    |
+| MFR | GESTATIONSALDER_DAGE           | GESTATIONSALDER_DAGE           | 1997       | 2018    |
+| MFR | HOEJDE_MODER                   | HOEJDE_MODER                   | 1997       | 2018    |
+| MFR | HOVEDOMFANG                    | HOVEDOMFANG                    | 1997       | 2018    |
+| MFR | INTRAUTERIN_ASFYXI             | INTRAUTERIN_ASFYXI             | 1997       | 2018    |
+| MFR | KOEN_BARN                      | KOEN_BARN                      | 1997       | 2018    |
+| MFR | LAENGDE_BARN                   | LAENGDE_BARN                   | 1997       | 2018    |
+| MFR | LEVENDE_ELLER_DOEDFOEDT        | LEVENDE_ELLER_DOEDFOEDT        | 1997       | 2018    |
+| MFR | MARKOER_B_MISDANNELSE          | MARKOER_B_MISDANNELSE          | 1997       | 2018    |
+| MFR | MARKOER_GRAVIDITETSKOMPLIKATIO | MARKOER_GRAVIDITETSKOMPLIKATIO | 1997       | 2018    |
+| MFR | MARKOER_IGANGSAETTELSE         | MARKOER_IGANGSAETTELSE         | 1997       | 2018    |
+| MFR | MARKOER_KEJSERSNIT             | MARKOER_KEJSERSNIT             | 1997       | 2018    |
+| MFR | PARITET                        | PARITET                        | 1997       | 2018    |
+| MFR | PK_MFR                         | PK_MFR                         | 1997       | 2018    |
+| MFR | PLACENTAVAEGT                  | PLACENTAVAEGT                  | 1997       | 2018    |
+| MFR | POLYHYDRAMNIOS                 | POLYHYDRAMNIOS                 | 1997       | 2018    |
+| MFR | RESPIRATORBEH_NEONATALAFDELING | RESPIRATORBEH_NEONATALAFDELING | 1997       | 2018    |
+| MFR | RYGERSTATUS_MODER              | RYGERSTATUS_MODER              | 1997       | 2018    |
+| MFR | SEPSIS_BARN                    | SEPSIS_BARN                    | 1997       | 2018    |
+| MFR | TANG_FORLOESNING               | TANG_FORLOESNING               | 1997       | 2018    |
+| MFR | VAEGT_BARN                     | VAEGT_BARN                     | 1997       | 2018    |
+| MFR | VAEGT_MODER                    | VAEGT_MODER                    | 1997       | 2018    |
+| MFR | VAKUUMEKSTRAKTION              | VAKUUMEKSTRAKTION              | 1997       | 2018    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_DIAGNOSER 2023
+**</summary>
+
+|                    | Variable name                 | Variable label    | Start year | Endyear |
+| ------------------ | ----------------------------- | ----------------- | ---------- | ------- |
+| MFR_BARN_DIAGNOSER | AKTIONSDIAGNOSE               | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSEKODE                  | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSEKODE_PARENT           | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSETYPE                  | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSETYPE_PARENT           | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSETYPE_PARENT_TEKST     | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DIAGNOSETYPE_TEKST            | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DW_EK_BORGER                  | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DW_EK_FORLOEB                 | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DW_EK_KONTAKT                 | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | DW_EK_NYFOEDT                 | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | FORLOEBLABEL                  | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | INDBERETNINGSSYSTEM           | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | MEDCHAR                       | CPR med bogstaver |            | 2023    |
+| MFR_BARN_DIAGNOSER | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | SENEREAFKRAEFTET              | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | SENEREAFKRAEFTET_PARENT       | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | SLUTDATO_FORLOEB              | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | SLUTDATO_KONTAKT              | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | STARTDATO_FORLOEB             | INGEN LABEL       |            | 2023    |
+| MFR_BARN_DIAGNOSER | STARTDATO_KONTAKT             | INGEN LABEL       |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_FORLOEB 2023
+**</summary>
+
+|                  | Variable name                 | Variable label | Start year | Endyear |
+| ---------------- | ----------------------------- | -------------- | ---------- | ------- |
+| MFR_BARN_FORLOEB | AFSLUTNINGSMAADE              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ANSVARLIGINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ANSVARLIGINSTITUTION_SHAKKODE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ANSVARLIGINSTITUTION_SORKODE  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ANSVARLIGREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ANSVARLIGREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | DATO_HENVISNING               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | DW_EK_BORGER                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | DW_EK_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | DW_EK_NYFOEDT                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | ENHEDENSSPECIALER             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | FORLOEBLABEL                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | FORLOEBREFERENCEMAADE         | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | HENVISNINGMAADE               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | HENVISNINGSDIAGNOSE           | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | INDBERETNINGSSYSTEM           | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SHAK_AFDELING                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SHAK_AFSNIT                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SHAK_SYGEHUS                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SLUTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SLUTTIDSPUNKT_FORLOEB         | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SOR_EJERENHEDSTYPE            | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SOR_ENHED                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SOR_ENHEDSTYPE                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | SOR_SUNDHEDSINSTITUTION       | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | STARTTIDSPUNKT_FORLOEB        | INGEN LABEL    |            | 2023    |
+| MFR_BARN_FORLOEB | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_KONTAKTER 2023
+**</summary>
+
+|                    | Variable name                 | Variable label | Start year | Endyear |
+| ------------------ | ----------------------------- | -------------- | ---------- | ------- |
+| MFR_BARN_KONTAKTER | AKTIONSDIAGNOSE               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ALDER_IND_DAGE                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ALDER_IND_AAR                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ALDER_UD_DAGE                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ALDER_UD_AAR                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ANSVARLIGINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ANSVARLIGINSTITUTION_SHAKKODE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ANSVARLIGINSTITUTION_SORKODE  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ANSVARLIGREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ANSVARLIGREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | DATO_HENVISNING               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | DW_EK_BORGER                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | DW_EK_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | DW_EK_KONTAKT                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | DW_EK_NYFOEDT                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | ENHEDENSSPECIALER             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | FORLOEBLABEL                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | HENVISNINGSDIAGNOSE           | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | HENVISNINGSMAADE              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | INDBERETNINGSSYSTEM           | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | KONTAKTTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | KONTAKTAARSAG                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | PRIORITET                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SHAK_AFDELING                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SHAK_AFSNIT                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SHAK_SYGEHUS                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SLUTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SLUTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SLUTTIDSPUNKT_KONTAKT         | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SOR_EJERENHEDSTYPE            | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SOR_ENHED                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SOR_ENHEDSTYPE                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | SOR_SUNDHEDSINSTITUTION       | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | STARTTIDSPUNKT_KONTAKT        | INGEN LABEL    |            | 2023    |
+| MFR_BARN_KONTAKTER | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_PROCEDURER 2023
+**</summary>
+
+|                     | Variable name                    | Variable label | Start year | Endyear |
+| ------------------- | -------------------------------- | -------------- | ---------- | ------- |
+| MFR_BARN_PROCEDURER | AKTIONSDIAGNOSE                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | DW_EK_BORGER                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | DW_EK_FORLOEB                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | DW_EK_KONTAKT                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | DW_EK_NYFOEDT                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | DW_EK_PROCEDUREREGISTRERING      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | ENHEDENSSPECIALER                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | FORLOEBLABEL                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | INDBERETNINGSSYSTEM              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRIORITERETFOEDSELSANMELDELSE    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDUREKODE                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDUREKODE_PARENT             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDURETYPE                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDURETYPE_PARENT             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDURETYPE_PARENT_TEKST       | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PROCEDURETYPE_TEKST              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRODUCERENDEINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRODUCERENDEREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRODUCERENDEREGION_GEO_TEKST     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRODUCERENDEREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | PRODUCERENDEREGION_ORG_TEKST     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SHAK_AFDELING                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SHAK_AFSNIT                      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SHAK_SYGEHUS                     | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SLUTDATO_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SLUTDATO_KONTAKT                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SLUTDATO_PROCEDURE               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SLUTTIDSPUNKT_PROCEDURE          | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SOR_EJERENHEDSTYPE               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SOR_ENHED                        | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SOR_ENHEDSTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | SOR_SUNDHEDSINSTITUTION          | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | STARTDATO_FORLOEB                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | STARTDATO_KONTAKT                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | STARTDATO_PROCEDURE              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_PROCEDURER | STARTTIDSPUNKT_PROCEDURE         | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_RESULTATER 2023
+**</summary>
+
+|                     | Variable name                  | Variable label | Start year | Endyear |
+| ------------------- | ------------------------------ | -------------- | ---------- | ------- |
+| MFR_BARN_RESULTATER | AKTIONSDIAGNOSE                | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGINSTITUTION_KODETYPE  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGINSTITUTION_LOKALKODE | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGINSTITUTION_SHAKKODE  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGINSTITUTION_SORKODE   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGREGION_GEO_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ANSVARLIGREGION_ORG_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | DATO_RESULTAT                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | DW_EK_BORGER                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | DW_EK_FORLOEB                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | DW_EK_KONTAKT                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | DW_EK_NYFOEDT                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | ENHEDENSSPECIALER              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | FORLOEBLABEL                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | INDBERETNINGSSYSTEM            | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | PRIORITERETFOEDSELSANMELDELSE  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | RESULTATINDBERETNINGSSTATUS    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | RESULTATINDBERETNINGSTYPE      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | RESULTATTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | RESULTATVAERDI                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SHAK_AFDELING                  | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SHAK_AFSNIT                    | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SHAK_SYGEHUS                   | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SLUTDATO_FORLOEB               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SLUTDATO_KONTAKT               | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SOR_EJERENHEDSTYPE             | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SOR_ENHED                      | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SOR_ENHEDSTYPE                 | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | SOR_SUNDHEDSINSTITUTION        | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | STARTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | STARTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
+| MFR_BARN_RESULTATER | TIDSPUNKT_RESULTAT             | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_DIAGNOSER 2023
+**</summary>
+
+|                   | Variable name                 | Variable label | Start year | Endyear |
+| ----------------- | ----------------------------- | -------------- | ---------- | ------- |
+| MFR_MOR_DIAGNOSER | AKTIONSDIAGNOSE               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSEKODE                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSEKODE_PARENT           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSETYPE                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSETYPE_PARENT           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSETYPE_PARENT_TEKST     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DIAGNOSETYPE_TEKST            | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DW_EK_BORGER                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DW_EK_FOEDSEL                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DW_EK_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | DW_EK_KONTAKT                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | FORLOEBLABEL                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | INDBERETNINGSSYSTEM           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | SENEREAFKRAEFTET              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | SENEREAFKRAEFTET_PARENT       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | SLUTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | SLUTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_DIAGNOSER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_FORLOEB 2023
+**</summary>
+
+|                 | Variable name                 | Variable label | Start year | Endyear |
+| --------------- | ----------------------------- | -------------- | ---------- | ------- |
+| MFR_MOR_FORLOEB | AFSLUTNINGSMAADE              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ANSVARLIGINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ANSVARLIGINSTITUTION_SHAKKODE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ANSVARLIGINSTITUTION_SORKODE  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ANSVARLIGREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ANSVARLIGREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | DATO_HENVISNING               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | DW_EK_BORGER                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | DW_EK_FOEDSEL                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | DW_EK_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | ENHEDENSSPECIALER             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | FORLOEBLABEL                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | FORLOEBREFERENCEMAADE         | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | HENVISNINGMAADE               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | HENVISNINGSDIAGNOSE           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | INDBERETNINGSSYSTEM           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SHAK_AFDELING                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SHAK_AFSNIT                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SHAK_SYGEHUS                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SLUTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SLUTTIDSPUNKT_FORLOEB         | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SOR_EJERENHEDSTYPE            | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SOR_ENHED                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SOR_ENHEDSTYPE                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | SOR_SUNDHEDSINSTITUTION       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | STARTTIDSPUNKT_FORLOEB        | INGEN LABEL    |            | 2023    |
+| MFR_MOR_FORLOEB | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_KONTAKTER 2023
+**</summary>
+
+|                   | Variable name                 | Variable label | Start year | Endyear |
+| ----------------- | ----------------------------- | -------------- | ---------- | ------- |
+| MFR_MOR_KONTAKTER | AKTIONSDIAGNOSE               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ALDER_IND_DAGE                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ALDER_IND_AAR                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ALDER_UD_DAGE                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ALDER_UD_AAR                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ANSVARLIGINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ANSVARLIGINSTITUTION_SHAKKODE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ANSVARLIGINSTITUTION_SORKODE  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ANSVARLIGREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ANSVARLIGREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | DATO_HENVISNING               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | DW_EK_BORGER                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | DW_EK_FOEDSEL                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | DW_EK_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | DW_EK_KONTAKT                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | ENHEDENSSPECIALER             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | FORLOEBLABEL                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | HENVISNINGSDIAGNOSE           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | HENVISNINGSMAADE              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | INDBERETNINGSSYSTEM           | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | KONTAKTTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | KONTAKTAARSAG                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | PRIORITERETFOEDSELSANMELDELSE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | PRIORITET                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SHAK_AFDELING                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SHAK_AFSNIT                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SHAK_SYGEHUS                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SLUTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SLUTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SLUTTIDSPUNKT_KONTAKT         | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SOR_EJERENHEDSTYPE            | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SOR_ENHED                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SOR_ENHEDSTYPE                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | SOR_SUNDHEDSINSTITUTION       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | STARTTIDSPUNKT_KONTAKT        | INGEN LABEL    |            | 2023    |
+| MFR_MOR_KONTAKTER | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_PROCEDURER 2023
+**</summary>
+
+|                    | Variable name                    | Variable label | Start year | Endyear |
+| ------------------ | -------------------------------- | -------------- | ---------- | ------- |
+| MFR_MOR_PROCEDURER | AKTIONSDIAGNOSE                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | DW_EK_BORGER                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | DW_EK_FOEDSEL                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | DW_EK_FORLOEB                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | DW_EK_KONTAKT                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | DW_EK_PROCEDUREREGISTRERING      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | ENHEDENSSPECIALER                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | FORLOEBLABEL                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | INDBERETNINGSSYSTEM              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRIORITERETFOEDSELSANMELDELSE    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDUREKODE                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDUREKODE_PARENT             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDURETYPE                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDURETYPE_PARENT             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDURETYPE_PARENT_TEKST       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PROCEDURETYPE_TEKST              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEINSTITUTION_KODE     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEINSTITUTION_KODETYPE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEINSTITUTION_TEKST    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEREGION_GEO_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEREGION_GEO_TEKST     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEREGION_ORG_KODE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | PRODUCERENDEREGION_ORG_TEKST     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SHAK_AFDELING                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SHAK_AFSNIT                      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SHAK_SYGEHUS                     | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SLUTDATO_FORLOEB                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SLUTDATO_KONTAKT                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SLUTDATO_PROCEDURE               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SLUTTIDSPUNKT_PROCEDURE          | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SOR_EJERENHEDSTYPE               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SOR_ENHED                        | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SOR_ENHEDSTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | SOR_SUNDHEDSINSTITUTION          | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | STARTDATO_FORLOEB                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | STARTDATO_KONTAKT                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | STARTDATO_PROCEDURE              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_PROCEDURER | STARTTIDSPUNKT_PROCEDURE         | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_RESULTATER 2023
+**</summary>
+
+|                    | Variable name                  | Variable label | Start year | Endyear |
+| ------------------ | ------------------------------ | -------------- | ---------- | ------- |
+| MFR_MOR_RESULTATER | AKTIONSDIAGNOSE                | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGINSTITUTION_KODETYPE  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGINSTITUTION_LOKALKODE | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGINSTITUTION_SHAKKODE  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGINSTITUTION_SORKODE   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGREGION_GEO_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ANSVARLIGREGION_ORG_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | DATO_RESULTAT                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | DW_EK_BORGER                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | DW_EK_FOEDSEL                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | DW_EK_FORLOEB                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | DW_EK_KONTAKT                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | ENHEDENSSPECIALER              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | FORLOEBLABEL                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | INDBERETNINGSSYSTEM            | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | PRIORITERETFOEDSELSANMELDELSE  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | RESULTATINDBERETNINGSSTATUS    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | RESULTATINDBERETNINGSTYPE      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | RESULTATTYPE                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | RESULTATVAERDI                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SHAK_AFDELING                  | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SHAK_AFSNIT                    | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SHAK_SYGEHUS                   | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SLUTDATO_FORLOEB               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SLUTDATO_KONTAKT               | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SOR_EJERENHEDSTYPE             | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SOR_ENHED                      | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SOR_ENHEDSTYPE                 | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | SOR_SUNDHEDSINSTITUTION        | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | STARTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | STARTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
+| MFR_MOR_RESULTATER | TIDSPUNKT_RESULTAT             | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**MFR_BARN_NYFOEDTE 2023
+**</summary>
+
+|              | Variable name                  | Variable label | Start year | Endyear |
+| ------------ | ------------------------------ | -------------- | ---------- | ------- |
+| MFR_NYFOEDTE | ABDOMINALOMFANG                | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ALDER_FAR                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ALDER_MOR                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANSVARLIGINSTITUTION_LOKALKODE | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANSVARLIGINSTITUTION_SHAKKODE  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANSVARLIGINSTITUTION_SORKODE   | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANSVARLIGREGION_GEO_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANSVARLIGREGION_ORG_KODE       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANTALBOERNIFOEDSLEN            | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANTALDOEDFOEDTEIFOEDSLEN       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ANTALLEVENDEFOEDTEIFOEDSLEN    | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | APGARSCORE                     | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | BARNSNUMMERIFOEDSLEN           | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | BMI_MOR                        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | BOPAELSKOMMUNE_MOR             | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | BOPAELSREGION_MOR              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | CPRTJEK                        | CPR-tjek       |            | 2023    |
+| MFR_NYFOEDTE | CPRTYPE                        | CPR-type       |            | 2023    |
+| MFR_NYFOEDTE | DOEDFOERSTEAAR_BARN            | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DOEDFOERSTEAAR_MOR             | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_BORGER_BARN              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_BORGER_FAR               | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_BORGER_MOR               | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_FOEDSEL                  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_KONTAKT_BARN             | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_KONTAKT_MOR              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | DW_EK_NYFOEDT                  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ERCPRNUMMERGYLDIGT_BARN        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ERCPRNUMMERGYLDIGT_FAR         | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | ERCPRNUMMERGYLDIGT_MOR         | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDESTED_FAKTISK              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSEL                        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSDATO_BARN              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSDATO_FAR               | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSDATO_MOR               | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSDIAGNOSE_BARN          | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSDIAGNOSE_MOR           | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSTIDSPUNKT              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOEDSELSAAR                    | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | FOSTERPRAESENTATION            | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | GESTATIONSALDER                | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | GESTATIONSALDERUGER            | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | HOEJDE_MOR                     | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | HOVEDOMFANG                    | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | IGANGSAETTELSE_BALLONKATETER   | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | IGANGSAETTELSE_HSP             | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | IGANGSAETTELSE_MEDICINSK       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | INDBERETNINGSSYSTEM_BARN       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KEJSERSNIT                     | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KILDE_BARN                     | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KILDE_FAR                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KILDE_MOR                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KOEN_BARN                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KOEN_FAR                       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | KOEN_MOR                       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | LAENGDE_BARN                   | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | LEVENDEFOEDTDOEDFOEDT          | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PARITET                        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PLACENTAVAEGT                  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PNR_BARN                       | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PNR_FAR                        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PNR_MOR                        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | PRIMAERVANDAFGANG              | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SHAK_AFDELING                  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SHAK_AFSNIT                    | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SHAK_SYGEHUS                   | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SOR_EJERENHEDSTYPE             | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SOR_ENHED                      | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | SOR_SUNDHEDSINSTITUTION        | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | TOBAKSFORBRUG                  | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | VAEGT_BARN                     | INGEN LABEL    |            | 2023    |
+| MFR_NYFOEDTE | VAEGT_MOR                      | INGEN LABEL    |            | 2023    |
+
+</details>
+
+<details>
+
+<summary>**PRIV_ADM 2002-2019
+**</summary>
