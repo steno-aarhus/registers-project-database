@@ -5886,6 +5886,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UAF_FOEDSLER 2012-2018
+**</summary>
 
 |              | Variable name | Variable label    | Start year | Endyear |
 | ------------ | ------------- | ----------------- | ---------- | ------- |
@@ -5906,6 +5907,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UAF_OPR 1996-2019
+**</summary>
 
 |         | Variable name | Variable label    | Start year | Endyear |
 | ------- | ------------- | ----------------- | ---------- | ------- |
@@ -5922,6 +5924,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UAF_SKSOPR 1996-2019
+**</summary>
 
 |            | Variable name | Variable label    | Start year | Endyear |
 | ---------- | ------------- | ----------------- | ---------- | ------- |
@@ -5942,6 +5945,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UDDA 198012-202309
+**</summary>
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -5968,6 +5972,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UDFK 2023
+**</summary>
 
 |      | Variable name        | Variable label          | Start year | Endyear |
 | ---- | -------------------- | ----------------------- | ---------- | ------- |
@@ -5999,6 +6004,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**UDG 2023
+**</summary>
 
 |     | Variable name     | Variable label              | Start year | Endyear |
 | --- | ----------------- | --------------------------- | ---------- | ------- |
@@ -6018,6 +6024,7 @@ description: A description of all DST registers and variables in the projectdata
 <details>
 
 <summary>**VNDS 2023
+**</summary>
 
 |      | Variable name | Variable label | Start year | Endyear |
 | ---- | ------------- | -------------- | ---------- | ------- |
@@ -6029,6 +6036,3 @@ description: A description of all DST registers and variables in the projectdata
 | VNDS | PNR           | Personnummer   |            | 2023    |
 
 </details>
-
-<details>
-**</summary>
