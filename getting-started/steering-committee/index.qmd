@@ -9,8 +9,9 @@ description: Information on how to get permission to set up a project under the 
 To get permission to set up a project under the project database you need to send a application to the steering committee.
 
 Members of the steering committee is:
+ ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
 
--   Gunnar Vase Toft, GUNTOF@rm.dk
+-   ([Gunnar.Vase.Toft\@rm.dk](mailto:GUNTOF@rm.dk){.email})
 -   Daniel Witte, daniel.witte@ph.au.dk
 -   Sigrid Bjerge Gribsholt, sigrgrib@rm.dk
 -   Rasmus Møller Jørgensen, rasmujer@rm.dk
