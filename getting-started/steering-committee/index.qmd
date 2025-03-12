@@ -11,7 +11,7 @@ To get permission to set up a project under the project database you need to sen
 Members of the steering committee is:
  ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
 
--   ([Gunnar.Vase.Toft\@rm.dk](mailto:GUNTOF@rm.dk){.email})
+-   Gunnar Vase Toft ([GUNTOFT\@rm.dk](mailto:GUNTOF@rm.dk){.email})
 -   Daniel Witte, daniel.witte@ph.au.dk
 -   Sigrid Bjerge Gribsholt, sigrgrib@rm.dk
 -   Rasmus Møller Jørgensen, rasmujer@rm.dk
