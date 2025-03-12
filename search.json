@@ -256,8 +256,8 @@
     "objectID": "getting-started/steering-committee/index.html#application",
     "href": "getting-started/steering-committee/index.html#application",
     "title": "Approval to setup a new project",
-    "section": "Application:",
-    "text": "Application:\nThe application must contain the following:\n\nTitle of the project\nA short resume of the project\nPI of the project\nHow many users are expected to be working on the project (an estimate)\nWhich data the project should contain, register level is sufficient\nExpected enddate of the project",
+    "section": "Application",
+    "text": "Application\nThe application must contain the following:\n\nTitle of the project\nA short resume of the project\nPI of the project\nHow many users are expected to be working on the project (an estimate)\nWhich data the project should contain, register level is sufficient\nExpected enddate of the project",
     "crumbs": [
       "Getting started",
       "Approval to setup a new project"
@@ -267,8 +267,8 @@
     "objectID": "getting-started/steering-committee/index.html#application-form",
     "href": "getting-started/steering-committee/index.html#application-form",
     "title": "Approval to setup a new project",
-    "section": "Application form:",
-    "text": "Application form:\nThe application to the steering comittee can be registered here: mangler link til redcap",
+    "section": "Application form",
+    "text": "Application form\nThe application to the steering comittee can be registered here: mangler link til redcap",
     "crumbs": [
       "Getting started",
       "Approval to setup a new project"
@@ -278,8 +278,8 @@
     "objectID": "getting-started/steering-committee/index.html#next-steps",
     "href": "getting-started/steering-committee/index.html#next-steps",
     "title": "Approval to setup a new project",
-    "section": "Next steps:",
-    "text": "Next steps:\nWhen the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on the inventory, a project proposal to Statistics Denmark and possibly an application to the Danish Health Data Authority. Instruction on how to handle this you can find on this page.",
+    "section": "Next steps",
+    "text": "Next steps\nWhen the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page.",
     "crumbs": [
       "Getting started",
       "Approval to setup a new project"
