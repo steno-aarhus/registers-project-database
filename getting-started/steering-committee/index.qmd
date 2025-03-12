@@ -1,5 +1,5 @@
 ---
-title: "Request to setup a project"
+title: "Approval to setup a new project"
 
 description: Information on how to get permission to set up a project under the project database
 ---
@@ -35,4 +35,5 @@ The application to the steering comittee can be registered here:
 
 ## Next steps:
 
-When the Steering committee has approved you request you are ready to continuing 
+When the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on the inventory, a project proposal to Statistics Denmark and possibly an application to the Danish Health Data Authority. Instruction on how to handle this you can find on this page. 
+
