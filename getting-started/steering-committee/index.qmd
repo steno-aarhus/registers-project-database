@@ -1,11 +1,14 @@
 ---
-title: "Steering committee"
+title: "Request to setup a project"
 
 description: Information on how to get permission to set up a project under the project database
 ---
+
+## Steering committee:
+
 To get permission to set up a project under the project database you need to send a application to the steering committee.
 
-## Members of the steering committee is:
+Members of the steering committee is:
 
 -   Gunnar Vase Toft, GUNTOF@rm.dk
 -   Daniel Witte, daniel.witte@ph.au.dk
