@@ -1,7 +1,7 @@
 ---
 title: Getting started
 
-description: Information on the project database and how to get started working on the project database
+description: Information about the SDCA project database and how to get access to work with research projects here
 ---
 
 ## Presentation
