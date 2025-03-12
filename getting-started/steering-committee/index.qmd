@@ -4,7 +4,7 @@ title: "Approval to setup a new project"
 description: Information on how to get permission to set up a project under the project database
 ---
 
-## Steering committee:
+## Steering committee
 
 To get permission to set up a project under the project database you need to send a application to the steering committee.
 
@@ -17,7 +17,7 @@ Members of the steering committee is:
 -   Kasper Norman, KANOAN@rm.dk
 -   Marie Kempf Frydendahl, MAIPEE@rm.dk
 
-## Application:
+## Application
 
 The application must contain the following:
 
@@ -28,12 +28,11 @@ The application must contain the following:
 -   Which data the project should contain, register level is sufficient
 -   Expected enddate of the project
   
-## Application form: 
+## Application form 
 
 The application to the steering comittee can be registered here:
 *mangler link til redcap*
 
-## Next steps:
+## Next steps
 
-When the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on the inventory, a project proposal to Statistics Denmark and possibly an application to the Danish Health Data Authority. Instruction on how to handle this you can find on this page. 
-
+When the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page. 
