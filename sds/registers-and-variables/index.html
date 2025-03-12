@@ -156,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#registers-from-statistics-denmark" id="toc-registers-from-statistics-denmark" class="nav-link active" data-scroll-target="#registers-from-statistics-denmark">Registers from Statistics Denmark</a></li>
+  <li><a href="#registers-from-sds" id="toc-registers-from-sds" class="nav-link active" data-scroll-target="#registers-from-sds">Registers from SDS</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/registers-project-database/edit/main/sds/registers-and-variables/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/registers-project-database/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/registers-project-database/blob/main/sds/registers-and-variables/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
@@ -187,11 +187,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="registers-from-statistics-denmark" class="level2">
-<h2 class="anchored" data-anchor-id="registers-from-statistics-denmark">Registers from Statistics Denmark</h2>
+<section id="registers-from-sds" class="level2">
+<h2 class="anchored" data-anchor-id="registers-from-sds">Registers from SDS</h2>
 <details>
 <summary>
-<strong>Den Nationale Børnedatabase 2009- </strong>
+<strong>Den Nationale Børnedatabase - BDB (2009-) </strong>
 </summary>
 <table class="caption-top table">
 <colgroup>
@@ -574,11 +574,760 @@ ul.task-list li input[type="checkbox"] {
 </details>
 <details>
 <summary>
-<strong>AEHJSP 2016-2023 </strong>
+<strong>Cancerregistret - CAR (1943-) </strong>
 </summary>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 19%">
+<col style="width: 56%">
+<col style="width: 6%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tabel</th>
+<th>Variabel</th>
+<th>Indhold</th>
+<th>Gyldighed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>cprnummer</td>
+<td>CPR-nummer</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>borger_koen</td>
+<td>Køn</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>borger_foedselsdato</td>
+<td>Fødselsdato</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>borger_alder_diagnosedato</td>
+<td>Alder på diagnosetidspunkt</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>borger_kommune_kode</td>
+<td>Bopælskommune</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>borger_bopael_region_kode</td>
+<td>Bopælsregion</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>borger_statuskode_cpr</td>
+<td>Statuskode (90=død, 80=udrejst, 70=forsvundet, ’ ’=levende)</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>statuskode_cpr_dato</td>
+<td>Dato for opdatering af statuskode i CPR</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>borger_kommune_kode_foer07</td>
+<td>Den gamle kommunekode gældende for 1968-2006 - udgået i 2007</td>
+<td>1968 - 2006</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>borger_amt_kode_foer07</td>
+<td>Den gamle amtskode gældende for 1968-2006 - udgået i 2007</td>
+<td>1968 - 2006</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>diagnosedato</td>
+<td>Dato for hvornår cancerdiagnose er stillet</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>diagnoseaar</td>
+<td>Diagnoseår</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>diagnosemaaned</td>
+<td>Diagnosemåned</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>tumornummer</td>
+<td>Tumor løbenummer</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>diagnose_kode_icd7</td>
+<td>ICD7-kode (nordisk klassifikation)</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>diagnose_kode_icd10</td>
+<td>ICD10-kode</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>morfologi_icdo3</td>
+<td>Histologi, Morfologi iflg. ICDO3 klassifikationen</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>tnm_t</td>
+<td>TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>tnm_n</td>
+<td>TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder</td>
+<td>2004 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>tnm_m</td>
+<td>TNM klassifikation - angivelse af om der er fundet fjernmetastaser</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>tumor_udbredelse</td>
+<td>Tumorens udbredelse</td>
+<td>1943 - 2003</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>udbredelsesklassifikation</td>
+<td>Anvendt udbredelsesklassifikation</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>ann_arbor_stadie</td>
+<td>Ann Arbour klassifikation</td>
+<td>2004 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>lateralitet</td>
+<td>Lateralitet for parrede organer</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>makroskopisk_grundlag</td>
+<td>Makroskopisk grundlag</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>mikroskopisk_grundlag</td>
+<td>Mikroskopisk grundlag</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>gradering</td>
+<td>Gradering (Kun urinvejstumorer)</td>
+<td>1943 - 2008</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>sarcom</td>
+<td>11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt</td>
+<td>1943 - 1997</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>behandling</td>
+<td>Behandling</td>
+<td>1943 - 2003</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>valideringsaar</td>
+<td>Seneste årstal for validerede cancerincidenser</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>opdateringsdato</td>
+<td>Dato for hvornår tabellen er dannet</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>cancer_diag_grp_icd7_overordnet</td>
+<td>ICD7 diagnosegruppering - overgrupper</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>cancer_diag_grp_icd7</td>
+<td>ICD7 diagnosegruppering - undergrupper</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>cancer_diag_grp_icd10_overordnet</td>
+<td>ICD10 diagnosegruppering - overgrupper</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig</td>
+<td>cancer_diag_grp_icd10</td>
+<td>ICD10 diagnosegruppering - undergrupper</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig</td>
+<td>cancer_diag_grp_kp</td>
+<td>Udvalgte KP grupper - diagnosegruppering</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>cprnummer</td>
+<td>CPR-nummer</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_koen</td>
+<td>Køn</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_foedselsdato</td>
+<td>Fødselsdato</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_alder_diagnosedato</td>
+<td>Alder på diagnosetidspunkt</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_kommune_kode</td>
+<td>Bopælskommune</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_bopael_region_kode</td>
+<td>Bopælsregion</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_statuskode_cpr</td>
+<td>Statuskode (90=død, 80=udrejst, 70=forsvundet, ’ ’=levende)</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>statuskode_cpr_dato</td>
+<td>Dato for opdatering af statuskode i CPR</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_kommune_kode_foer07</td>
+<td>Den gamle kommunekode gældende for 1968-2006 - udgået i 2007</td>
+<td>1968 - 2006</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>borger_amt_kode_foer07</td>
+<td>Den gamle amtskode gældende for 1968-2006 - udgået i 2007</td>
+<td>1968 - 2006</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>diagnosedato</td>
+<td>Dato for hvornår cancerdiagnose er stillet</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>diagnoseaar</td>
+<td>Diagnoseår</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>diagnosemaaned</td>
+<td>Diagnosemåned</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>tumornummer</td>
+<td>Tumor løbenummer</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>diagnose_kode_icd7</td>
+<td>ICD7-kode (nordisk klassifikation)</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>diagnose_kode_icd10</td>
+<td>ICD10-kode</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>morfologi_icdo3</td>
+<td>Histologi, Morfologi iflg. ICDO3 klassifikationen</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>tnm_t</td>
+<td>TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>tnm_n</td>
+<td>TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder</td>
+<td>2004 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>tnm_m</td>
+<td>TNM klassifikation - angivelse af om der er fundet fjernmetastaser</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>tumor_udbredelse</td>
+<td>Tumorens udbredelse</td>
+<td>1943 - 2003</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>udbredelsesklassifikation</td>
+<td>Anvendt udbredelsesklassifikation</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>sygdomsstadie</td>
+<td>Stadieinddeling som angiver hvor udbredt en kræftsygdom er</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>ann_arbor_stadie</td>
+<td>Ann Arbour klassifikation</td>
+<td>2004 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>lateralitet</td>
+<td>Lateralitet for parrede organer</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>makroskopisk_grundlag</td>
+<td>Makroskopisk grundlag</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>mikroskopisk_grundlag</td>
+<td>Mikroskopisk grundlag</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>gradering</td>
+<td>Gradering (Kun urinvejstumorer)</td>
+<td>1943 - 2008</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>sarcom</td>
+<td>11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt</td>
+<td>1943 - 1997</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>behandling</td>
+<td>Behandling</td>
+<td>1943 - 2003</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>valideringsaar</td>
+<td>Seneste årstal for validerede cancerincidenser</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>opdateringsdato</td>
+<td>Dato for hvornår tabellen er dannet</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_icd7_overordnet</td>
+<td>ICD7 diagnosegruppering - overgrupper</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_icd7</td>
+<td>ICD7 diagnosegruppering - undergrupper</td>
+<td>1943 - 1977</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_icd10_overordnet</td>
+<td>ICD10 diagnosegruppering - overgrupper</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_icd10</td>
+<td>ICD10 diagnosegruppering - undergrupper</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_kp</td>
+<td>Udvalgte KP grupper - diagnosegruppering</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>tumor_aarlig_nordcan</td>
+<td>cancer_diag_grp_nordcan</td>
+<td>NORDCAN gruppering af ICD-koden og morfologi</td>
+<td>1943 -</td>
+</tr>
+<tr class="odd">
+<td>dimcancergruppering_icd10</td>
+<td>cancer_diag_grp_icd10</td>
+<td>ICD10 diagnosegruppering - undergrupper</td>
+<td>1978 -</td>
+</tr>
+<tr class="even">
+<td>dimcancergruppering_icd10</td>
+<td>cancer_diag_grp_icd10_tekst</td>
+<td>Cancer_diag_grp_ICD10, tekst</td>
+<td>1978 -</td>
+</tr>
+<tr class="odd">
+<td>dimcancergruppering_nordcan</td>
+<td>cancer_diag_grp_nordcan</td>
+<td>NORDCAN gruppering af ICD-koden og morfologi</td>
+<td>1943 -</td>
+</tr>
+<tr class="even">
+<td>dimcancergruppering_nordcan</td>
+<td>cancer_diag_grp_nordcan_tekst</td>
+<td>Cancer_diag_grp_NORDCAN, tekst</td>
+<td>1943 -</td>
+</tr>
+</tbody>
+</table>
+</details>
+<details>
+<summary>
+<strong>Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-) </strong>
+</summary>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 10%">
+<col style="width: 77%">
+<col style="width: 3%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tabel</th>
+<th>Variabel</th>
+<th>Indhold</th>
+<th>Gyldighed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>cpr</td>
+<td>CPR-nummer</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>atccode</td>
+<td>International kode for lægemidler og vacciner (vedligeholdt af WHO)</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>atctext</td>
+<td>Tekstbeskrivelse for den internationale kode for lægemidler og vaccinationer, atc-koden (vedligeholdt af WHO)</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>drugid</td>
+<td>Unikt dansk ID for et lægemiddel eller en vaccine</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>drugname</td>
+<td>Tekstbeskrivelse for det unikke danske ID for et lægemiddel eller en vaccine, drugid</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>effectuationdate</td>
+<td>Dato for administration af vaccinen</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>vaccinationidentifier</td>
+<td>Unikt ID i vaccinationstabel. Oplysning om, at der er givet en vaccine</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>vaccinename</td>
+<td>Navn på vaccine</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>credibilityindicator</td>
+<td>Talværdi som indikerer, hvem der har oprettet registreringen af vaccinen. Angiver troværdigheden af registreringen<br>Jo højere værdi, jo højere troværdighed af registreringen</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>credibilityindicatortext</td>
+<td>Tekstbeskrivelse af credibilityindicator som indikerer, hvem der har oprettet registreringen af vaccinen</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>effectuatedincountrycode</td>
+<td>Landekode for det land, hvor vaccinen er administreret.<br>Denne variabel benytter ISO landekoder (ISO 3166) med 2-bogstavs kode, fx DK for Danmark</td>
+<td>1996 -</td>
+</tr>
+<tr class="even">
+<td>epiddv_vaccinedata</td>
+<td>dosageoptionname</td>
+<td>Information om dosering af vaccinen</td>
+<td>1996 -</td>
+</tr>
+<tr class="odd">
+<td>epiddv_vaccinedata</td>
+<td>servicecode</td>
+<td>Ydelseskode fra Sygesikringsregisteret (SSR)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1996 -</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</details>
+<details>
+<summary>
+<strong>Laboratoriedatabasen - LAB (2008-) </strong>
+</summary>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 9%">
+<col style="width: 16%">
+<col style="width: 69%">
+<col style="width: 5%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tabel</th>
+<th>Variabel</th>
+<th>Indhold</th>
+<th>Gyldighed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>patient_cpr</td>
+<td>CPR-nummer</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>rekvirent_id</td>
+<td>ID for rekvirent</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>rekvirent_idtype</td>
+<td>Angiver kodetype for rekvirent_id</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>samplingdate</td>
+<td>Prøvetagningsdato</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>samplingtime</td>
+<td>Prøvetagningstidspunkt</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>laboratorium_idcode</td>
+<td>Producerende laboratorie</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>analysiscode</td>
+<td>NPU/DNK-kode for den målte kvantitet</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>unit</td>
+<td>Enhed for indholdet i value</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>value</td>
+<td>Analyseresultat i tal eller tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>operator</td>
+<td>Kvalifikator, der angiver, om det præcise resultat er ”større end” eller ”mindre end” den værdi, der er angivet i ’value’</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>resulttype</td>
+<td>Angiver om analyseresultat er numerisk eller alfanumerisk</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>referenceinterval_lowerlimit</td>
+<td>Nedre grænse for referenceintervallet for analyseresultatet</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_forsker</td>
+<td>referenceinterval_upperlimit</td>
+<td>Øvre grænse for referenceintervallet for analyseresultatet</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_forsker</td>
+<td>resultvalidation</td>
+<td>Autogenereret validering af prøveresultatet i forhold til referenceintervallet for den specifikke analyse</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_labidcodes</td>
+<td>idcode</td>
+<td>Producerende laboratorie, kode</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_labidcodes</td>
+<td>laboratorium</td>
+<td>Producerende laboratorie, tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_labidcodes</td>
+<td>region</td>
+<td>Region, tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_labidcodes</td>
+<td>speciale</td>
+<td>Laboratoriets speciale, tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_optaelling</td>
+<td>laboratorium</td>
+<td>Producerende laboratorie</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_optaelling</td>
+<td>speciale</td>
+<td>Laboratoriets speciale, tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>lab_dm_optaelling</td>
+<td>region</td>
+<td>Region, tekst</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>lab_dm_optaelling</td>
+<td>kvartal*</td>
+<td>Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem)</td>
+<td>2008 -</td>
+</tr>
+</tbody>
+</table>
+</details>
 
 
-</details></section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
