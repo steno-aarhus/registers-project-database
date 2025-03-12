@@ -3,3 +3,79 @@ title: "SDS registers and variables"
 description: A description of all SDS registers and variables in the projectdatabase.
 ---
 
+## Registers from Statistics Denmark
+
+<details>
+
+<summary>**Den Nationale Børnedatabase 2009-
+**</summary>
+
+| Tabel                 | Variabel                         | Indhold                                                                                                                       | Gyldighed |
+| --------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
+| amning_afl            | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
+| amning_afl            | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
+| amning_afl            | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
+| amning_afl            | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
+| amning_afl            | municipalitycode_bfstopdate      | Barnets bopælskommune, kode (på dato for ophør af fuld amning)                                                                | 2009 -    |
+| amning_afl            | municipalitycode_txt_bfstopdate  | Barnets bopælskommune, tekst (på dato for ophør af fuld amning)                                                               | 2009 -    |
+| amning_afl            | breastfeedstopdate               | Dato for ophør af fuld amning                                                                                                 | 2009 -    |
+| amning_afl            | varighed_dage                    | Antal dage med fuld amning (antal dage imellem birthdate og breastfeedstopdate)                                               | 2009 -    |
+| amning_afl            | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
+| rygning_afl           | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
+| rygning_afl           | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
+| rygning_afl           | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
+| rygning_afl           | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
+| rygning_afl           | municipalitycode_birthdate       | Barnets bopælskommune, kode                                                                                                   | 2009 -    |
+| rygning_afl           | municipalitycode_txt_birthdate   | Barnets bopælskommune, tekst                                                                                                  | 2009 -    |
+| rygning_afl           | passivesmoke                     | Har barnet været udsat for passiv rygning, kode                                                                               | 2009 -    |
+| rygning_afl           | passivesmoke_txt                 | Har barnet været udsat for passiv rygning, tekst                                                                              | 2009 -    |
+| rygning_afl           | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
+| maalinger_afl         | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
+| maalinger_afl         | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
+| maalinger_afl         | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
+| maalinger_afl         | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
+| maalinger_afl         | alder_aar_afl                    | Barnets alder i år                                                                                                            | 2009 -    |
+| maalinger_afl         | alder_maaned_afl                 | Barnets alder i måneder                                                                                                       | 2009 -    |
+| maalinger_afl         | municipalitycode_measuredate     | Barnets bopælskommune, kode                                                                                                   | 2009 -    |
+| maalinger_afl         | municipalitycode_txt_measuredate | Barnets bopælskommune, tekst                                                                                                  | 2009 -    |
+| maalinger_afl         | measurementdate                  | Dato for måling                                                                                                               | 2009 -    |
+| maalinger_afl         | school                           | Skolekode                                                                                                                     | 2009 -    |
+| maalinger_afl         | school_txt_createddate           | Skolekode, tekst                                                                                                              | 2009 -    |
+| maalinger_afl         | height                           | Barnets højde (cm)                                                                                                            | 2009 -    |
+| maalinger_afl         | weight                           | Barnets vægt (gram)                                                                                                           | 2009 -    |
+| maalinger_afl         | vaegtkategori_afl                | Vægtkategori, kode<br>(baseret på en beregning af barnets BMI (kg/m2) sammenholdt med referenceværdier fra Sundhedsstyrelsen) | 2009 -    |
+| maalinger_afl         | vaegtkategori_afl_txt            | Vægtkategori, tekst                                                                                                           | 2009 -    |
+| maalinger_afl         | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
+| bmi_undervaegt_drenge | age                              | Alder i år                                                                                                                    |           |
+| bmi_undervaegt_drenge | sex                              | Køn, kode                                                                                                                     |           |
+| bmi_undervaegt_drenge | bmip3                            | Grænseværdier pr alder til gruppering af BMI for undervægt                                                                    |           |
+| bmi_undervaegt_piger  | age                              | Alder i år                                                                                                                    |           |
+| bmi_undervaegt_piger  | sex                              | Køn, kode                                                                                                                     |           |
+| bmi_undervaegt_piger  | bmip3                            | Grænseværdier pr alder til gruppering af BMI for undervægt                                                                    |           |
+| bmi_drenge            | months                           | Alder i måneder                                                                                                               |           |
+| bmi_drenge            | years                            | Alder i år                                                                                                                    |           |
+| bmi_drenge            | bmi16                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi17                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi18_5                          | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi23                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi25                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi27                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi30                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_drenge            | bmi35                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | months                           | Alder i måneder                                                                                                               |           |
+| bmi_piger             | years                            | Alder i år                                                                                                                    |           |
+| bmi_piger             | bmi16                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi17                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi18_5                          | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi23                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi25                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi27                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi30                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+| bmi_piger             | bmi35                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+
+</details>
+
+<details>
+
+<summary>**AEHJSP	2016-2023
+**</summary>
