@@ -4,14 +4,23 @@ title: "Onboarding to Statistics Denmark"
 description: Information on how to get access to Statistics Denmark
 ---
 
-If you want to set up a project under the project database or need to work on an already existing project you have to become a registered user at Statistics Denmark. This requires a couple of steps.
+To become a registered user at Statistics Denmark you have to contact either:
+
+-   Kasper Norman ([KANOAN\@rm.dk](mailto:KANOAN@rm.dk){.email}) or
+-   Marie Kempf Frydendahl ([MAIPEE\@rm.dk](mailto:MAIPEE@rm.dk){.email})
 
 ## Affiliation agreement
 
-The first step is to get an affiliation agreement to SDCA's authorization at dst (aut. 574) and you get created as a user in Danmarks Datavindue - DDV. If you previously have been a registered user at Statistics Denmark, you can use dst ident from there. Otherwise we need the following informations to get you registrered:
-  -    Full name
-  -    E mail adresse
-  -    Phone number
+To get access you need an affiliation agreement to SDCA's authorization at dst (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use dst ident from there. Otherwise we need the following informations to get you registrered:
+
+-   Full name
+-   Email adress
+-   Phone number
+
+## Danmarks Datavindue - DDV
+
+When your affiliation agreement is approved you will recieve an email with information on how to created a userprofile in Danmarks Datavindue - DDV.
+
 
 
 
