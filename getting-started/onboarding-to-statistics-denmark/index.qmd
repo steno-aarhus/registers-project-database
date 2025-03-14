@@ -19,12 +19,10 @@ To get access you need an affiliation agreement to SDCA's authorization at dst (
 
 ## Danmarks Datavindue - DDV
 
-When your affiliation agreement is approved you will recieve an email with information on how to created a userprofile in Danmarks Datavindue - DDV.
+When your affiliation agreement is approved you will recieve an email with information on how to log in for the first time.  
 
 
-
-
-To get set up as a user, you can either contact Kasper (mail: kanoan@rm.dk) or Marie (mail: maipee@rm.dk). We will then get you set up as a user in DDV and introduce you to what is required to work with microdata on Statistics Denmark's server.  
+*******;
 
 Once your affiliation agreement is approved, you can log in to Remote.dst.dk and then DDV. Read more about how to log in to DDV for the first time here:
 (https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/faq-om-danmarks-datavindue)  
