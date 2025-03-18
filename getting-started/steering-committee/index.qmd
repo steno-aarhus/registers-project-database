@@ -31,7 +31,7 @@ The application must contain the following:
 ## Application form 
 
 The application to the steering comittee can be registered here:
-*mangler link til redcap*
+https://redcap.au.dk/surveys/?s=MFRCYPCJCF4LK4J4
 
 ## Next steps
 
