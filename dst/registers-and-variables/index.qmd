@@ -6035,4 +6035,6 @@ description: A description of all DST registers and variables in the projectdata
 | VNDS | INDUD_LAND    |                |            | 2023    |
 | VNDS | PNR           | Personnummer   |            | 2023    |
 
+Here you will find a full variable list of all DST variable [Full variablelist](https://regionmidtjylland.sharepoint.com/:x:/r/sites/AUHSTDIC/Afdeling/Tv%C3%A6rs/Projektdatabasen/DST/Variabelliste_dst_20250221.xlsx?d=w9c0b0eeedb714905b4cbfdc083fcf3b0&csf=1&web=1&e=jnngHk)
+
 </details>
