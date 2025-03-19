@@ -16,7 +16,7 @@ Information on registration and link to registrationform can be found here:
 
 You can register your project here:
 
-[Registration form](https://selvbetjening.rm.dk/rm/Login/LoginFederated?returnUrl=/rm/Opret/5b3a680550190)
+[Registreringsblanket](https://selvbetjening.rm.dk/rm/Login/LoginFederated?returnUrl=/rm/Opret/5b3a680550190)
 
 The registration must contain the following information:
 
