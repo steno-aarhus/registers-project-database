@@ -10,10 +10,10 @@ To set up a subproject under the Project Database at SDCA you need to make a pro
 
 Log in to remote.dst.dk with your DST log in details. Go to the “Denmark Data Window” (top left) on the f5 remote desktop. A new “DDV” tab will open. Log into DDV.  
 
-Choose DATA ORDERS and click on "New project proposal". Type the title of the project and choose the institution "574 - Steno Diabetes Center Aarhus (SDCA), Aarhus Universitetshospital" 
+Choose **DATA ORDERS** and click on "New project proposal". Type the title of the project and choose the institution "574 - Steno Diabetes Center Aarhus (SDCA), Aarhus Universitetshospital" 
 - choose Scheme "Projektdatabaseordning (709627)".
 
-Under "PROJECT DETAILS" you need to describe:
+Under **"PROJECT DETAILS"** you need to describe:
 - The title of the projct: The project title should be short and precise.
 
 - The purpose: Describe the overall purpose of the project.
@@ -54,9 +54,9 @@ Recommendations:
 Keep the description concise and credible.
 Avoid repetitions from the rest of the text and text that does not relate to this specific project.
 
-Under "PROJECT ACCESS" you can add the people who should have access to the project and assign roles and rights.
+Under **"PROJECT ACCESS"** you can add the people who should have access to the project and assign roles and rights.
 
-Under "DATA CONTENT" you can define the population/populations, data content and select registers and variables. 
+Under **"DATA CONTENT"** you can define the population/populations, data content and select registers and variables. 
 
 Requirements for the population description:
 The population must be described so that it is clear what it consists of (persons, companies, addresses, a unique combination of several factors or other), what year or period the population should cover regardless of size. The population must also be defined, justified and delimited according to the purpose. If a full population is desired, an argument for this must be stated in the population description.
@@ -77,9 +77,9 @@ How to choose data:
 - Additional datasources: Here you describe data that does not come from Statistics Denmark, e.g. data from SDS, RKKP, your own data...
 Here a variable lists with a description of the data must be attached.
 
-Under "ANALYTICS PLATFORMS" choose "Server SDCA".
+Under **"ANALYTICS PLATFORMS"** choose "Server SDCA".
 
-Under "SUMMARY" you can review your project proposal and check that everything is entered correctly. If you want to change something, you can go back and correct it before submitting your proposal.
+Under **"SUMMARY"** you can review your project proposal and check that everything is entered correctly. If you want to change something, you can go back and correct it before submitting your proposal.
 If you are the administrator of the institution the project is under, you can send the proposal directly to Statistics Denmark (“Submit”) otherwise you need to send the it to send it to the administrators (“Send to administrator”) at your institution (the Data Management Team). 
 If you get your proposal back for review, it means that your project manager at Statistics Denmark has reviewed it and added comments for you to consider. You can resubmit your project option once you have made the corrections.
 
