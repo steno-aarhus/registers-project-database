@@ -1,12 +1,12 @@
 ---
 title: "Registration on RM Record (RM Fortegnelse)"
 description: |
-  Description on how to register you project on the RM Record
+  Description on how to register you project on the Internal record at Region Midtjylland
 ---
 
-## Internal record at Region Midtjylland
+## RM Record
 
-All research projects under SDCA's project database must be registered on the internal record at Region Midtjylland.
+All research projects under SDCA's project database must be registered on the Internal record at Region Midtjylland.
 
 Information on registration and link to registrationform can be found here: 
 
