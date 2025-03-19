@@ -10,13 +10,13 @@ All research projects under SDCA's project database must be registered on the in
 
 Information on registration and link to registrationform can be found here: 
 
-https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/
+[Registrering af projekt på intern fortegnelse](https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/lovkrav-til-forskning-og-innovation/registrering-af-projekt-pa-intern-fortegnelse/)
 
 ## Registration
 
 You can register your project here:
 
-[Link to registration form](https://selvbetjening.rm.dk/rm/Login/LoginFederated?returnUrl=/rm/Opret/5b3a680550190)
+[Registration form](https://selvbetjening.rm.dk/rm/Login/LoginFederated?returnUrl=/rm/Opret/5b3a680550190)
 
 The registration must contain the following information:
 
@@ -34,4 +34,4 @@ The registration must contain the following information:
 -   12. Summary and approval
 
 For more information see:
-[Vejledning til udfyldelse](https://www.fagperson.sundhed.rm.dk/siteassets/forskning/forskning---old/forskning/datatilsynet/vejledning-til-anmeldelse---februar-2021.pdf9
+[Vejledning til udfyldelse](https://www.fagperson.sundhed.rm.dk/siteassets/forskning/forskning---old/forskning/datatilsynet/vejledning-til-anmeldelse---februar-2021.pdf9)
