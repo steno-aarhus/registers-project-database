@@ -17,15 +17,10 @@ To get access you need an affiliation agreement to SDCA's authorization at dst (
 -   Email adress
 -   Phone number
 
-## Danmarks Datavindue - DDV
+## Access to Statistics Denmarks 
 
-When your affiliation agreement is approved you will recieve an email with information on how to log in for the first time.  
+When your affiliation agreement is approved you will recieve an email with information on how to log in for the first time. When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time: https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/faq-om-danmarks-datavindue/  
 
-
-*******;
-
-Once your affiliation agreement is approved, you can log in to Remote.dst.dk and then DDV. Read more about how to log in to DDV for the first time here:
-(https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/faq-om-danmarks-datavindue)  
-
+ 
 The first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at dst with 10 questions. You can read more about the quiz here:
 (https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/om-danmarks-datavindue/certificering-af-brugere)
