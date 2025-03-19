@@ -17,7 +17,7 @@ To get access you need an affiliation agreement to SDCA's authorization at dst (
 -   Email adress
 -   Phone number
 
-In addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also help to log on for the first time. 
+In addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also get help to log on for the first time. 
 
 ## Access to Statistics Denmarks 
 
