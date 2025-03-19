@@ -312,7 +312,7 @@
     "href": "getting-started/onboarding-to-statistics-denmark/index.html#affiliation-agreement",
     "title": "Onboarding to Statistics Denmark",
     "section": "Affiliation agreement",
-    "text": "Affiliation agreement\nTo get access you need an affiliation agreement to SDCA’s authorization at dst (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use dst ident from there. Otherwise we need the following informations to get you registrered:\n\nFull name\nEmail adress\nPhone number",
+    "text": "Affiliation agreement\nTo get access you need an affiliation agreement to SDCA’s authorization at dst (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use dst ident from there. Otherwise we need the following informations to get you registrered:\n\nFull name\nEmail adress\nPhone number\n\nIn addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also help to log on for the first time.",
     "crumbs": [
       "Getting started",
       "Onboarding to Statistics Denmark"
@@ -323,7 +323,7 @@
     "href": "getting-started/onboarding-to-statistics-denmark/index.html#access-to-statistics-denmarks",
     "title": "Onboarding to Statistics Denmark",
     "section": "Access to Statistics Denmarks",
-    "text": "Access to Statistics Denmarks\nWhen your affiliation agreement is approved you will recieve an email with information on how to log in for the first time. When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time: Link to DST\nThe first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at dst with 10 questions. You can read more about the quiz here: (https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/om-danmarks-datavindue/certificering-af-brugere)",
+    "text": "Access to Statistics Denmarks\nWhen your affiliation agreement is approved you will recieve an email with information on how to log in for the first time. When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time: Faq om Danmarks Datavindue\nThe first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at dst with 10 questions. You can read more about the quiz here: Certificering af brugere\nWhen you have passed the certification you can get access to a specific project at Statistic Denmarks server.",
     "crumbs": [
       "Getting started",
       "Onboarding to Statistics Denmark"
