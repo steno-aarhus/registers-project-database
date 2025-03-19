@@ -20,4 +20,18 @@ You can register your project here:
 
 The registration must contain the following information:
 
-Project type, title and purpose
+-   1. Project type, title and purpose
+-   2. Project responsible and contact person if applicable
+-   3. Where is the data processed?
+-   4. General description of the project
+-   5. Number of people in the population, person categories and data types
+-   6. Legal basis
+-   7. External disclosure of information
+-   8. Internal processing of data
+-   9. Receiving information
+-   10. Startdata, enddate and special considerations
+-   11. Security and submission
+-   12. Summary and approval
+
+For more information see:
+[Vejledning til udfyldelse](https://www.fagperson.sundhed.rm.dk/siteassets/forskning/forskning---old/forskning/datatilsynet/vejledning-til-anmeldelse---februar-2021.pdf9
