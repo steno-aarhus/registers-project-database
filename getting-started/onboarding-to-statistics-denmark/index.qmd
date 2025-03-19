@@ -28,4 +28,4 @@ When your affiliation agreement is approved you will recieve an email with infor
 The first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at dst with 10 questions. You can read more about the quiz here:
 [Certificering af brugere](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/om-danmarks-datavindue/certificering-af-brugere)
 
-When you have passed the certification you can get access to a specific project at Statistic Denmarks server. 
+When you have passed the certification you can get access to a specific project at Statistics Denmarks server. 
