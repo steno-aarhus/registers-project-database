@@ -6,9 +6,9 @@ description: Information on how to make a project proposal in "Danmarks Datavind
 
 To set up a subproject under the Project Database at SDCA you need to make a project proposal i DDV. 
 
-## Guide to project proposal:
+## Project proposal:
 
-Log in to remote.dst.dk with your DST log in details. Go to the “Denmark Data Window” (top left) on the f5 remote desktop. A new “DDV” tab will open. Log into DDV.  
+To make af project proposal you have to log in to remote.dst.dk with your DST log in details. Go to the “Denmark Data Window” (top left) on the f5 remote desktop. A new “DDV” tab will open. Log into DDV.  
 
 Choose **DATA ORDERS** and click on "New project proposal". Type the title of the project and choose the institution "574 - Steno Diabetes Center Aarhus (SDCA), Aarhus Universitetshospital" 
 - choose Scheme "Projektdatabaseordning (709627)".
@@ -83,6 +83,8 @@ Under **"SUMMARY"** you can review your project proposal and check that everythi
 If you are the administrator of the institution the project is under, you can send the proposal directly to Statistics Denmark (“Submit”) otherwise you need to send the it to send it to the administrators (“Send to administrator”) at your institution (the Data Management Team). 
 If you get your proposal back for review, it means that your project manager at Statistics Denmark has reviewed it and added comments for you to consider. You can resubmit your project option once you have made the corrections.
 
+## Help and inspiration
+
 For more inspiration: Find guidelines and inspiration to DDV on DST's homepage:
-[How to use DDV](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue)
+[Danmarks Datavindue](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue)
 
