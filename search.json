@@ -235,6 +235,16 @@
     "text": "Getting started\n  \n  \n     How to work with data\n  \n  \n     Statistics Denmark (DST)\n  \n  \n     Danish Health Data Authority (SDS)"
   },
   {
+    "objectID": "dst/index.html",
+    "href": "dst/index.html",
+    "title": "Statistics Denmark (DST)",
+    "section": "",
+    "text": "The SDCA project database gives the opportunity to get access to microdata from Statistics Denmark. On this page you will find all the necessary information about Statistics Denmark related to your project under the project database.",
+    "crumbs": [
+      "Statistics Denmark (DST)"
+    ]
+  },
+  {
     "objectID": "dst/project-proposal-in-ddv/index.html",
     "href": "dst/project-proposal-in-ddv/index.html",
     "title": "DST Project proposal",
