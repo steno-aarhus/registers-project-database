@@ -219,6 +219,7 @@ description: A description of all DHDA registers and variables in the project da
 
 </details>
 
+NOTE the Drug Statistics Register (LMDB): These are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply for the use of data at DHDA.
 
 ## Other registers from DHDA
 
