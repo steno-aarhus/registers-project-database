@@ -1,6 +1,7 @@
 ---
 title: "Statistics Denmark (DST)"
 ---
-The SDCA project database is a microdata organization at Statistics Denmark. The project database is the main project and gives the opportunity to set up under projects. 
+Statistics Denmark's microdatabase schemes provide data for specific research projects for authorized institutions. It is not allowed to conduct research directly on the project database, which is why subprojects must be set up. 
 
-On this page you will find all the necessary information about Statistics Denmark related to your project under the project database.
+
+On this page you will find all the necessary information about Statistics Denmark related to your subproject under the project database.
