@@ -47,7 +47,7 @@
     "href": "getting-started/index.html",
     "title": "Getting started",
     "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of registerdata from e.g. Statistics Denmark, the Danish health data authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
     "crumbs": [
       "Getting started"
     ]
@@ -57,7 +57,7 @@
     "href": "getting-started/index.html#presentation",
     "title": "Getting started",
     "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of registerdata from e.g. Statistics Denmark, the Danish health data authorities and other datasources in a minimal cost with the posibility of yearly updates of the registers. Also there is a posibility to upload your own data on the sub-project.",
     "crumbs": [
       "Getting started"
     ]
@@ -97,7 +97,7 @@
     "href": "getting-started/index.html#how-to-get-access",
     "title": "Getting started",
     "section": "How to get access",
-    "text": "How to get access\nThere are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database. On this page you can find information on preliminary procedure according to setting up a project.",
+    "text": "How to get access\nThere are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database (given that your purpose is aligned with the overall purpose). On this page you can find information on preliminary procedure according to setting up a project.",
     "crumbs": [
       "Getting started"
     ]
