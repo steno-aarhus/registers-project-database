@@ -1,9 +1,9 @@
 ---
 title: "SDS registers and variables"
-description: A description of all SDS registers and variables in the project database.
+description: A description of all DHDA registers and variables in the project database.
 ---
 
-## Registers from SDS
+## Registers from DHDA in the SDCA project database
 
 <details>
 
@@ -218,3 +218,10 @@ description: A description of all SDS registers and variables in the project dat
 | lab_dm_optaelling | kvartal\*                    | Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem)                    | 2008 -    |
 
 </details>
+
+
+## Other registers from DHDA
+
+On The DHDA's webpage you can read more about all the other national health registries you can apply for 
+
+Link til DHDA https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre
