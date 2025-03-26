@@ -1,6 +1,7 @@
 ---
-title: Danish Health Data Authority (SDS)
+title: Danish Health Data Authority (DHDA)
 ---
 
-At the Danish Health Data Authority it is possible to apply for data from the national health registries for your research project. 
-A number of these registers are available in the project database, but it is also possible to purchase registers for your project that are not available in the project database. On this page you will find a description of the registers available in the project database and information about the application procedure for SDS. 
+When you have a subproject under the SDCA project database, it is also possible to access the Danish Health Data Authority's national registers. Some of these registers can be found in the project database. Regardless of whether the registers are part of the project database or not, you must always apply directly to the Danish Health Data Authority for permission to use the data. 
+
+On this page you will find all the necessary information about DHDA related to your subproject under the project database.
