@@ -1,20 +1,25 @@
 ---
-title: "Application to Danish Health Data Authority - SDS"
+title: "Application to Danish Health Data Authority - DHDA"
 description: A introduction on how to get access to data from the Danish Health Data Authority
 ---
-SDS has a broad range of national registries that can be used for research and development of quality in healthcare.
+
+DHDA has a broad range of national registries that can be used for research and development of quality in healthcare.
 You can apply for relevant registers for your project at Statistics Denmark.
-Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to SDS and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to SDS.  
+Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to DHDA and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to SDS. 
+
+## Before applying
 
 Before you can send in your application the following must be fulfilled:
-- you need to have an approved project at DST 
+- you need to have an approved project at DST (
 - the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
 
 Documentation for this will be required when applying.
 
+## Application
+
 You apply for data here:
 
-https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data 
+[Application](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data) 
 
 According to application form you have to choose "Ansøg om data leveret til andet databehandlingsted".
 
@@ -39,6 +44,8 @@ You indicate that you want access to a specific variable by checking the box nex
 
 Obs: Be aware to choose "Bestillingsark – Andet satabehandlingssted".
 
+## Help and inspiration
+
 A more detailed description of what these descriptions should contain and application forms can be found here: 
 
-https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/foer-du-soeger/beskrivelse-af-projekt-og-data 
+[The Danish Health Data Autority](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/foer-du-soeger/beskrivelse-af-projekt-og-data) 
