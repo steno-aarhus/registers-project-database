@@ -224,4 +224,4 @@ description: A description of all DHDA registers and variables in the project da
 
 On The DHDA's webpage you can read more about all the other national health registries you can apply for 
 
-Link til DHDA https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre
+[Overview of registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre)(both in Danish and in English)
