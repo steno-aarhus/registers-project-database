@@ -409,12 +409,45 @@
   {
     "objectID": "sds/application/index.html",
     "href": "sds/application/index.html",
-    "title": "Application to Danish Health Data Authority - SDS",
+    "title": "Application to Danish Health Data Authority - DHDA",
     "section": "",
-    "text": "SDS has a broad range of national registries that can be used for research and development of quality in healthcare. You can apply for relevant registers for your project at Statistics Denmark. Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to SDS and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to SDS.\nBefore you can send in your application the following must be fulfilled: - you need to have an approved project at DST - the project has to be approved by RM’s “Intern fortegnelse” and other approvals, if applicable.\nDocumentation for this will be required when applying.\nYou apply for data here:\nhttps://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data\nAccording to application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nYour application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain: - Introduction - Purpose of the project - The project’s problem statement - Data and approach - Publication of results - Societal relevance - Ethical considerations.\nExtract description should contain: - Place of Treatment of the data - Description of the population - Delimitation of data for the project (Including justification for why the requested data is necessary for the project).\nIn the Order sheet you can specify which variables you want access to. You indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.\nObs: Be aware to choose “Bestillingsark – Andet satabehandlingssted”.\nA more detailed description of what these descriptions should contain and application forms can be found here:\nhttps://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/foer-du-soeger/beskrivelse-af-projekt-og-data",
+    "text": "DHDA has a broad range of national registries that can be used for research and development of quality in healthcare. You can apply for relevant registers for your project at Statistics Denmark. Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to DHDA and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to SDS.",
     "crumbs": [
       "Danish Health Data Authority (SDS)",
-      "Application to Danish Health Data Authority - SDS"
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#before-applying",
+    "href": "sds/application/index.html#before-applying",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Before applying",
+    "text": "Before applying\nBefore you can send in your application the following must be fulfilled: - you need to have an approved project at DST ( - the project has to be approved by RM’s “Intern fortegnelse” and other approvals, if applicable.\nDocumentation for this will be required when applying.",
+    "crumbs": [
+      "Danish Health Data Authority (SDS)",
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#application",
+    "href": "sds/application/index.html#application",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Application",
+    "text": "Application\nYou apply for data here:\nApplication\nAccording to application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nYour application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain: - Introduction - Purpose of the project - The project’s problem statement - Data and approach - Publication of results - Societal relevance - Ethical considerations.\nExtract description should contain: - Place of Treatment of the data - Description of the population - Delimitation of data for the project (Including justification for why the requested data is necessary for the project).\nIn the Order sheet you can specify which variables you want access to. You indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.\nObs: Be aware to choose “Bestillingsark – Andet satabehandlingssted”.",
+    "crumbs": [
+      "Danish Health Data Authority (SDS)",
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#help-and-inspiration",
+    "href": "sds/application/index.html#help-and-inspiration",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Help and inspiration",
+    "text": "Help and inspiration\nA more detailed description of what these descriptions should contain and application forms can be found here:\nThe Danish Health Data Autority",
+    "crumbs": [
+      "Danish Health Data Authority (SDS)",
+      "Application to Danish Health Data Authority - DHDA"
     ]
   }
 ]
