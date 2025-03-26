@@ -1,15 +1,15 @@
 ---
 title: Getting started
 
-description: Information about the SDCA project database and how to get access to work with research projects here
+description: Information about the SDCA project database and how to get access to work with research projects on the database. 
 ---
 
 ## Presentation
 
 The Project database is a common database for all epidemiological and
 clinical research projects affiliated to Steno Diabetes Center Aarhus.
-It gives the possible to get access to a broad range of data from e.g.
-Statistics Denmark, the Danish health authorities and other datasources
+It gives the possible to get access to a broad range of registerdata from e.g.
+Statistics Denmark, the Danish health data authorities and other datasources
 in a minimal cost with the posibility of yearly updates of the
 registers. Also there is a posibility to upload your own data on the
 sub-project.
@@ -46,7 +46,7 @@ If you have any questions or need help please contact:
 
 There are several ways to get to work on the SDCA Project database at Statistics Denmark.  If the purpose of your study fits under one of the already existing subprojects in the project database, you can contact the person responsible for the project and request permission to access the relevant project. Below you can see a short description of all existing projects in the project database. 
 
-If the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database. On this page you can find information on preliminary procedure according to setting up a project. 
+If the purpose of your study do not fits under some of the existing projects in the project database you can set up your own project under the project database (given that your purpose is aligned with the overall purpose). On this page you can find information on preliminary procedure according to setting up a project. 
 
 ## Overview of projects in the project database
 
