@@ -43,7 +43,7 @@ website:
       - dst/project-proposal-in-ddv/index.qmd
       - dst/registers-and-variables/index.qmd
       - dst/upload-of-external-data/index.qmd
-  - title: "Danish Health Data Authority (DHDA)"
+  - title: "Danish Health Data Authority (DHdA)"
     style: "floating"
     contents:
       - sds/index.qmd
