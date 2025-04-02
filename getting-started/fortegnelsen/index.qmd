@@ -34,4 +34,4 @@ The registration must contain the following information:
 -   12. Summary and approval
 
 For more information see:
-[Vejledning til udfyldelse](https://www.fagperson.sundhed.rm.dk/siteassets/forskning/forskning---old/forskning/datatilsynet/vejledning-til-anmeldelse---februar-2021.pdf9)
+[Vejledning til udfyldelse](https://www.fagperson.sundhed.rm.dk/siteassets/forskning/regler/anmeldelse-til-vek/anmeldelse-af-nyt-projekt/vejledning-til-udfyldelse-af-anmeldelse-af-offentligt-videnskabeligt-forskningsprojekt.pdf)
