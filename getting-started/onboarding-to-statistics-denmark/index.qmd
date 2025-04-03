@@ -21,7 +21,11 @@ In addition to this, you will need a short introduction from one of us about dat
 
 ## Access to Statistics Denmarks 
 
-When your affiliation agreement is approved you will recieve an email with information on how to log in for the first time. When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time: 
+When your affiliation agreement is approved you will recieve an email with information on how to log in for the first time. You can also find instructions here:
+
+[Guide to logging in](https://www.dst.dk/da/TilSalg/data-til-forskning/analyseplatform/forskermaskinen)
+
+When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time: 
 [Faq om Danmarks Datavindue](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/faq-om-danmarks-datavindue)
 
  
