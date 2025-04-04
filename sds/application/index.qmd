@@ -24,7 +24,7 @@ You apply for data here:
 
 According to application form you have to choose **"Ansøg om data leveret til andet databehandlingsted**".
 
-If the data you apply for is a part of SDCA projekct database you must check both "**Godkendelse til genanvendelse**" and "**Samkørsel med Danmarks Statistik**" in the application form. In that case you also have to make it clear that is is SDCA project database 709627 af DST.  
+If the data you apply for is a part of SDCA project database you must check both "**Godkendelse til genanvendelse**" and "**Samkørsel med Danmarks Statistik**" in the application form. In that case you also have to make it clear that is is SDCA project database 709627 af DST.  
 
 Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
 
