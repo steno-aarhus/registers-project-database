@@ -24,9 +24,11 @@ You apply for data here:
 
 According to application form you have to choose **"Ansøg om data leveret til andet databehandlingsted**".
 
+If the data you apply for is a part of SDCA projekct database you must check both "**Godkendelse til genanvendelse**" and "**Samkørsel med Danmarks Statistik**" in the application form. In that case you also have to make it clear that is is SDCA project database 709627 af DST.  
+
 Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
 
-The Project description should contain:
+**The Project description should contain:**
 
 -   Introduction
 -   Purpose of the project
@@ -36,7 +38,7 @@ The Project description should contain:
 -   Societal relevance
 -   Ethical considerations.
 
-Extract description should contain: 
+**Extract description should contain:** 
 
 -   Place of Treatment of the data
 -   Description of the population
