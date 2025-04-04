@@ -225,7 +225,7 @@ NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables 
 
 [DHDA variableliste](Link mangler) 
 
-## Other registers from DHDA
+## Overview of all registers from DHDA
 
 On The DHDA's webpage you can read more about all the other national health registries you can apply for 
 
