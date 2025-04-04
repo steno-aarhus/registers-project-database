@@ -27,7 +27,7 @@ When your affiliation agreement is approved you will recieve an email with infor
 
 When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time here: 
 
-[Faq om Danmarks Datavindue](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/faq-om-danmarks-datavindue)
+[Login Danmarks Datavindue](https://www.dst.dk/da/TilSalg/data-til-forskning/brugeradgang/login-i-danmarks-datavindue)
 
  
 The first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at dst with 10 questions. You can read more about the quiz here:
