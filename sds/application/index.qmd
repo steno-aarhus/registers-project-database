@@ -42,8 +42,14 @@ Extract description should contain:
 In the Order sheet you can specify which variables you want access to. 
 You indicate that you want access to a specific variable by checking the box next to the variable in the column 'Desired variable (x)'. 
 
-## Lægemidler
+## The Drug Statistics Register (LMDB)
 
+This guide describes how to apply to SDS for access to drug data 
+from the LMDB (Drug Database) via Statistics Denmark.
+
+[Application to LMDB](https://sundhedsdatastyrelsen.dk/media/16357/Vejledning_Adgang_laegemiddeldata_DST.pdf)
+
+In the guide you can also find a link to further describtion on the ATC-system to klassification of the drugs. 
 
 ## Help and inspiration
 
