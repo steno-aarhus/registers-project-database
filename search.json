@@ -433,7 +433,18 @@
     "href": "sds/application/index.html#application",
     "title": "Application to Danish Health Data Authority - DHDA",
     "section": "Application",
-    "text": "Application\nYou apply for data here:\nApplication\nAccording to application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nYour application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain: - Introduction - Purpose of the project - The project’s problem statement - Data and approach - Publication of results - Societal relevance - Ethical considerations.\nExtract description should contain: - Place of Treatment of the data - Description of the population - Delimitation of data for the project (Including justification for why the requested data is necessary for the project).\nIn the Order sheet you can specify which variables you want access to. You indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.\nObs: Be aware to choose “Bestillingsark – Andet satabehandlingssted”.",
+    "text": "Application\nYou apply for data here:\nApplication\nAccording to application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nYour application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain: - Introduction - Purpose of the project - The project’s problem statement - Data and approach - Publication of results - Societal relevance - Ethical considerations.\nExtract description should contain: - Place of Treatment of the data - Description of the population - Delimitation of data for the project (Including justification for why the requested data is necessary for the project).\nIn the Order sheet you can specify which variables you want access to. You indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.",
+    "crumbs": [
+      "Danish Health Data Authority (SDS)",
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#lægemidler",
+    "href": "sds/application/index.html#lægemidler",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Lægemidler",
+    "text": "Lægemidler",
     "crumbs": [
       "Danish Health Data Authority (SDS)",
       "Application to Danish Health Data Authority - DHDA"
