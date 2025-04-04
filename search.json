@@ -440,11 +440,11 @@
     ]
   },
   {
-    "objectID": "sds/application/index.html#lægemidler",
-    "href": "sds/application/index.html#lægemidler",
+    "objectID": "sds/application/index.html#the-drug-statistics-register-lmdb",
+    "href": "sds/application/index.html#the-drug-statistics-register-lmdb",
     "title": "Application to Danish Health Data Authority - DHDA",
-    "section": "Lægemidler",
-    "text": "Lægemidler",
+    "section": "The Drug Statistics Register (LMDB)",
+    "text": "The Drug Statistics Register (LMDB)\nThis guide describes how to apply to SDS for access to drug data from the LMDB (Drug Database) via Statistics Denmark.\nApplication to LMDB\nIn the guide you can also find a link to further describtion on the ATC-system to klassification of the drugs.",
     "crumbs": [
       "Danish Health Data Authority (SDS)",
       "Application to Danish Health Data Authority - DHDA"
