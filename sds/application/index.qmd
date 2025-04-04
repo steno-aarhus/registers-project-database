@@ -5,13 +5,14 @@ description: A introduction on how to get access to data from the Danish Health 
 
 DHDA has a broad range of national registries that can be used for research and development of quality in healthcare.
 You can apply for relevant registers for your project at Statistics Denmark.
-Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to DHDA and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to SDS. 
+Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to DHDA and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to DHDA. 
 
 ## Before applying
 
 Before you can send in your application the following must be fulfilled:
-- you need to have an approved project at DST (
-- the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
+
+-   you need to have an approved project at DST 
+-   the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
 
 Documentation for this will be required when applying.
 
@@ -26,6 +27,7 @@ According to application form you have to choose **"Ansøg om data leveret til a
 Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
 
 The Project description should contain:
+
 -   Introduction
 -   Purpose of the project
 -   The project's problem statement
@@ -35,6 +37,7 @@ The Project description should contain:
 -   Ethical considerations.
 
 Extract description should contain: 
+
 -   Place of Treatment of the data
 -   Description of the population
 -   Delimitation of data for the project (Including justification for why the requested data is necessary for the project).
