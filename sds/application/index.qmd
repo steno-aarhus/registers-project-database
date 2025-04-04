@@ -21,18 +21,18 @@ You apply for data here:
 
 [Application](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data) 
 
-According to application form you have to choose "Ansøg om data leveret til andet databehandlingsted".
+According to application form you have to choose **"Ansøg om data leveret til andet databehandlingsted"**.
 
 Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
 
 The Project description should contain:
-- Introduction
-- Purpose of the project
-- The project's problem statement
-- Data and approach
-- Publication of results
-- Societal relevance
-- Ethical considerations.
+  -   Introduction
+  -   Purpose of the project
+  -   The project's problem statement
+  -   Data and approach
+  -   Publication of results
+  -   Societal relevance
+  -   Ethical considerations.
 
 Extract description should contain: 
 - Place of Treatment of the data
@@ -42,7 +42,7 @@ Extract description should contain:
 In the Order sheet you can specify which variables you want access to. 
 You indicate that you want access to a specific variable by checking the box next to the variable in the column 'Desired variable (x)'. 
 
-Obs: Be aware to choose "Bestillingsark – Andet satabehandlingssted".
+Obs: Be aware to choose **"Bestillingsark – Andet satabehandlingssted"**.
 
 ## Help and inspiration
 
