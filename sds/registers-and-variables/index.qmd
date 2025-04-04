@@ -221,6 +221,10 @@ description: A description of all DHDA registers and variables in the project da
 
 NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply DHDA to get permission to use the data. 
 
+## Complete dst variablelist
+
+[DHDA variableliste](Link mangler) 
+
 ## Other registers from DHDA
 
 On The DHDA's webpage you can read more about all the other national health registries you can apply for 
