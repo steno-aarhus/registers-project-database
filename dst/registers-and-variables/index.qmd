@@ -6039,6 +6039,8 @@ description: A description of all DST registers and variables in the projectdata
 
 ## Complete dst variablelist
 
-[DST variableliste](https://github.com/steno-aarhus/registers-project-database/blob/main/dst/registers-and-variables/Variabelliste_709627_20250407.xlsx) 
+You can see the complete DST variable list in the following link: [DST variableliste](https://github.com/steno-aarhus/registers-project-database/blob/main/dst/registers-and-variables/Variabelliste_709627_20250407.xlsx). 
+
+If you want to download the file, click the link above. This will take you to the variable list on GitHub.com. On GitHub, click on the download button ![](/images/download-icon.svg) in the top right corner.
 
 
