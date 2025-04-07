@@ -6039,6 +6039,6 @@ description: A description of all DST registers and variables in the projectdata
 
 ## Complete dst variablelist
 
-[DST variableliste](https://github.com/steno-aarhus/registers-project-database/blob/0fc6a9164467cc9268eb64267d16671350e09e31/dst/registers-and-variables/DST_variabelliste20250114.xlsx) 
+[DST variableliste](https://github.com/steno-aarhus/registers-project-database/blob/main/dst/registers-and-variables/Variabelliste_709627_20250407.xlsx) 
 
 
