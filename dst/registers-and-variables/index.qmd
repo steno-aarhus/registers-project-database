@@ -1,6 +1,7 @@
 ---
 title: "DST Registers and variables"
 description: A description of all DST registers and variables in the projectdatabase.
+callout-appearance: minimal
 ---
 
 ## Registers from Statistics Denmark
@@ -6021,10 +6022,8 @@ description: A description of all DST registers and variables in the projectdata
 
 </details>
 
-<details>
-
-<summary>**VNDS 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## VNDS 2023
 
 |      | Variable name | Variable label | Start year | Endyear |
 | ---- | ------------- | -------------- | ---------- | ------- |
@@ -6034,8 +6033,7 @@ description: A description of all DST registers and variables in the projectdata
 | VNDS | INDUD_KODE    |                |            | 2023    |
 | VNDS | INDUD_LAND    |                |            | 2023    |
 | VNDS | PNR           | Personnummer   |            | 2023    |
-
-</details>
+:::
 
 ## Complete DST variable list
 
