@@ -217,11 +217,11 @@
     ]
   },
   {
-    "objectID": "dst/registers-and-variables/index.html#complete-dst-variablelist",
-    "href": "dst/registers-and-variables/index.html#complete-dst-variablelist",
+    "objectID": "dst/registers-and-variables/index.html#complete-dst-variable-list",
+    "href": "dst/registers-and-variables/index.html#complete-dst-variable-list",
     "title": "DST Registers and variables",
-    "section": "Complete dst variablelist",
-    "text": "Complete dst variablelist\nYou can see the complete DST variable list in the following link: DST variableliste.\nIf you want to download the file, click the link above. This will take you to the variable list on GitHub.com. On GitHub, click on the download button  in the top right corner.",
+    "section": "Complete DST variable list",
+    "text": "Complete DST variable list\nTo get the complete DST variable list, click this link.\nThis will take you an Excel file on GitHub.com with the complete variable list. To download the file, click the download button  in the top right corner of the page.",
     "crumbs": [
       "Statistics Denmark (DST)",
       "DST Registers and variables"
