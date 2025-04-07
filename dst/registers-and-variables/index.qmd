@@ -6,10 +6,8 @@ callout-appearance: minimal
 
 ## Registers from Statistics Denmark
 
-<details>
-
-<summary>**AEFV	2008-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## AEFV	2008-2023
 
 | Variable name     | Variable label                                                         | Start year | Endyear |
 | ----------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -29,10 +27,7 @@ callout-appearance: minimal
 | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2016    |
 | VERSION           | VERSION                                                                | 2008       | 2016    |
 | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2016    |
-
-</details>
-
-<details>
+:::
 
 <summary>**AEHJSP	2016-2023
 **</summary>
