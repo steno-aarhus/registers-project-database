@@ -3,12 +3,24 @@ title: "DHDA registers and variables"
 description: A description of all DHDA registers and variables in the project database.
 ---
 
+## Complete DHDA variable list
+
+To get the complete DHDA variable list, click [this link](https://github.com/steno-aarhus/registers-project-database/blob/main/sds/registers-and-variables/Variabelliste_709627_SDS_20250407.xlsx)
+
+This will take you to an Excel file on GitHub.com with the complete variable list. To download the file, click the download button ![](/images/download-icon.svg) in the top right corner of the page.
+
+## Overview of all registers from DHDA
+
+On The DHDA's webpage you can read more about all the other national health registries you can apply for 
+
+[Overview of registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre) (both in Danish and in English)
+
 ## Registers from DHDA in the SDCA project database
 
-<details>
+Below you will find a full describtion of DHDA registers and variables in the project database
 
-<summary>**Den Nationale Børnedatabase - BDB (2009-)
-**</summary>
+::: {.callout-warning collapse="true"}
+## Den Nationale Børnedatabase - BDB (2009-)
 
 | Tabel                 | Variabel                         | Indhold                                                                                                                       | Gyldighed |
 | --------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -72,13 +84,10 @@ description: A description of all DHDA registers and variables in the project da
 | bmi_piger             | bmi27                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
 | bmi_piger             | bmi30                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
 | bmi_piger             | bmi35                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
+::: 
 
-</details>
-
-<details>
-
-<summary>**Cancerregistret - CAR (1943-)
-**</summary>
+::: {.callout-warning collapse="true"}
+## Cancerregistret - CAR (1943-)
 
 | Tabel                       | Variabel                         | Indhold                                                                                      | Gyldighed   |
 | --------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
@@ -160,13 +169,10 @@ description: A description of all DHDA registers and variables in the project da
 | dimcancergruppering_icd10   | cancer_diag_grp_icd10_tekst      | Cancer_diag_grp_ICD10, tekst                                                                 | 1978 -      |
 | dimcancergruppering_nordcan | cancer_diag_grp_nordcan          | NORDCAN gruppering af ICD-koden og morfologi                                                 | 1943 -      |
 | dimcancergruppering_nordcan | cancer_diag_grp_nordcan_tekst    | Cancer_diag_grp_NORDCAN, tekst                                                               | 1943 -      |
+:::
 
-</details>
-
-<details>
-
-<summary>**Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-)
-**</summary>
+::: {.callout-warning collapse="true"}
+## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-)
 
 | Tabel              | Variabel                 | Indhold                                                                                                                                                                         | Gyldighed |
 | ------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -184,13 +190,10 @@ description: A description of all DHDA registers and variables in the project da
 | epiddv_vaccinedata | dosageoptionname         | Information om dosering af vaccinen                                                                                                                                             | 1996 -    |
 | epiddv_vaccinedata | servicecode              | Ydelseskode fra Sygesikringsregisteret (SSR)       
                                           | 1996 -    |
+:::
 
-</details>
-
-<details>
-
-<summary>**Laboratoriedatabasen - LAB (2008-)
-**</summary>
+::: {.callout-warning collapse="true"}
+## Laboratoriedatabasen - LAB (2008-)
 
 | Tabel             | Variabel                     | Indhold                                                                                                                   | Gyldighed |
 | ----------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -216,17 +219,6 @@ description: A description of all DHDA registers and variables in the project da
 | lab_dm_optaelling | speciale                     | Laboratoriets speciale, tekst                                                                                             | 2008 -    |
 | lab_dm_optaelling | region                       | Region, tekst                                                                                                             | 2008 -    |
 | lab_dm_optaelling | kvartal\*                    | Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem)                    | 2008 -    |
-
-</details>
+:::
 
 NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply DHDA to get permission to use the data. 
-
-## Complete DHDA variablelist
-
-[DHDA variableliste](Link mangler) 
-
-## Overview of all registers from DHDA
-
-On The DHDA's webpage you can read more about all the other national health registries you can apply for 
-
-[Overview of registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre) (both in Danish and in English)
