@@ -1,11 +1,13 @@
 ---
 title: "SDCA's Project Database"
-image: _extensions/steno-aarhus/sdca-theme/images/home-banner.jpg
+image: images/data-extraction-storyset.svg
 about:
   id: hero-heading
   template: jolla
-  image-width: 35em
-  image-shape: rounded
+  image-width: 40em
+  image-shape: rectangle
+  image-title: Image from Storyset
+  image-alt: An illustration of a computer screen displaying various data charts, surrounded by servers, folders, and additional charts.
   links:
     - text: "Getting started"
       href: https://steno-aarhus.github.io/registers-project-database/getting-started/index.html
@@ -20,3 +22,4 @@ about:
 :::{#hero-heading}
 :::
 
+Image from [Storyset](https://www.storyset.com)
