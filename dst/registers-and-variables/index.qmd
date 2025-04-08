@@ -264,7 +264,7 @@ callout-appearance: minimal
 :::
 
 ::: {.callout-warning collapse="true"}
-##BOERNSB 2015-2023
+## BOERNSB 2015-2023
 
 |         | Variable name | Variable label | Start year | Endyear |
 | ------- | ------------- | -------------- | ---------- | ------- |
@@ -282,7 +282,7 @@ callout-appearance: minimal
 :::
 
 ::: {.callout-warning collapse="true"}
-##CPST 197512-200612
+## CPST 197512-200612
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
 | ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
@@ -3672,6 +3672,7 @@ callout-appearance: minimal
 | FAIK | VERSION                   | Version                                                                | 1987       | 2023    |
 :::
 
+::: {.callout-warning collapse="true"}
 ## FAIN 1980-2007
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
@@ -4531,7 +4532,7 @@ callout-appearance: minimal
 :::
 
 ::: {.callout-warning collapse="true"}
-#3 LPR_F_MORBARNFORLOEB 2022
+## LPR_F_MORBARNFORLOEB 2022
 
 |                      | Variable name        | Variable label    | Start year | Endyear |
 | -------------------- | -------------------- | ----------------- | ---------- | ------- |
