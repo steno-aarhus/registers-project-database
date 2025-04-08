@@ -4,7 +4,15 @@ description: A description of all DST registers and variables in the projectdata
 callout-appearance: minimal
 ---
 
+## Complete DST variable list
+
+To get the complete DST variable list, click [this link](https://github.com/steno-aarhus/registers-project-database/blob/main/dst/registers-and-variables/Variabelliste_709627_20250407.xlsx). 
+
+This will take you to an Excel file on GitHub.com with the complete variable list. To download the file, click the download button ![](/images/download-icon.svg) in the top right corner of the page.
+
 ## Registers from Statistics Denmark
+
+Below you will find a full describtion of all DST registers and variables in the project database
 
 ::: {.callout-warning collapse="true"}
 ## AEFV	2008-2023
@@ -5773,11 +5781,3 @@ callout-appearance: minimal
 | VNDS | INDUD_LAND    |                |            | 2024    |
 | VNDS | PNR           | Personnummer   |            | 2024    |
 :::
-
-## Complete DST variable list
-
-To get the complete DST variable list, click [this link](https://github.com/steno-aarhus/registers-project-database/blob/main/dst/registers-and-variables/Variabelliste_709627_20250407.xlsx). 
-
-This will take you an Excel file on GitHub.com with the complete variable list. To download the file, click the download button ![](/images/download-icon.svg) in the top right corner of the page.
-
-
