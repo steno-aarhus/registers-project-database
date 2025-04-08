@@ -9,12 +9,12 @@ about:
   links:
     - text: "Getting started"
       href: https://steno-aarhus.github.io/registers-project-database/getting-started/index.html
-    - text: "How to work with data"
-      href: https://steno-aarhus.github.io/registers-project-database/how-to-work-with-data/index.html
     - text: "Statistics Denmark (DST)"
       href: https://steno-aarhus.github.io/registers-project-database/dst/index.html
     - text: "Danish Health Data Authority (DHDA)"
       href: https://steno-aarhus.github.io/registers-project-database/sds/index.html
+    - text: "How to work with data"
+      href: https://steno-aarhus.github.io/registers-project-database/how-to-work-with-data/index.html
 ---
 
 :::{#hero-heading}
