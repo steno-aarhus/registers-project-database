@@ -29,8 +29,8 @@ callout-appearance: minimal
 | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2016    |
 :::
 
-<summary>**AEHJSP	2016-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## AEHJSP	2016-2023
 
 | Variable name  | Variable label                 | Start year | Endyear |
 | -------------- | ------------------------------ | ---------- | ------- |
@@ -44,13 +44,10 @@ callout-appearance: minimal
 | KOM            | INGEN LABEL                    | 2016       | 2023    |
 | PNR            | PNR                            | 2016       | 2023    |
 | VERSION        | VERSION                        | 2016       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**AEREHAB 2017-2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## AEREHAB 2017-2018
 
 | Variable name | Variable label | Start year | Endyear |
 | ------------- | -------------- | ---------- | ------- |
@@ -62,13 +59,10 @@ callout-appearance: minimal
 | PNR           | PNR            | 2017       | 2018    |
 | VERSION       | VERSION        | 2017       | 2018    |
 | AAR           | AAR            | 2017       | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**AETR 2008-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## AETR 2008-2023
 
 | Variable name | Variable label                                              | Start year | Endyear |
 | ------------- | ----------------------------------------------------------- | ---------- | ------- |
@@ -80,13 +74,10 @@ callout-appearance: minimal
 | PNR           | Personnummer                                                | 2008       | 2023    |
 | TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2023    |
 | VERSION       | Version                                                     | 2008       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**AKM 1976-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## AKM 1976-2023
 
 |     | Variable name        | Variable label                                                         | Start year | Endyear |
 | --- | -------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -136,10 +127,7 @@ callout-appearance: minimal
 | AKM | VIRKF                | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
 | AKM | VIRKF_13             | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
 | AKM | VIRKFA               | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
-
-</details>
-
-<details>
+:::
 
 <summary>**BEF 198512-202312
 **</summary>
