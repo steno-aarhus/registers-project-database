@@ -129,57 +129,54 @@ callout-appearance: minimal
 | AKM | VIRKFA               | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
 :::
 
-<summary>**BEF 198512-202312
-**</summary>
+::: {.callout-warning collapse="true"}
+## BEF 198512-202412
 
 |     | Variable name       | Variable label                                            | Start year | Endyear |
 | --- | ------------------- | --------------------------------------------------------- | ---------- | ------- |
-| BEF | ADRESSE_ID          | INGEN LABEL                                               | 198512     | 202312  |
-| BEF | AEGTE_ID            | Personnummer Ægtefælle                                    | 198512     | 202312  |
-| BEF | ALDER               | Alder ultimo året før                                     | 198512     | 202312  |
-| BEF | ANTBOERNF           | ANTBOERNF                                                 | 198512     | 202312  |
-| BEF | ANTBOERNH           | ANTBOERNH                                                 | 198512     | 202312  |
-| BEF | ANTEFAM             | ANTEFAM                                                   | 198512     | 202312  |
-| BEF | ANTPERSF            | ANTPERSF                                                  | 198512     | 202312  |
-| BEF | ANTPERSH            | ANTPERSH                                                  | 198512     | 202312  |
-| BEF | BETALINGSKOM        | BETALINGSKOM                                              | 198512     | 202312  |
-| BEF | BOP_VFRA            | Dato for tilflytning/indvandring                          | 198512     | 202312  |
-| BEF | CIV_VFRA            | Civilstandsdato                                           | 198512     | 202312  |
-| BEF | CIVST               | Civilstand                                                | 198512     | 202312  |
-| BEF | CPRTJEK             | CPR-tjek                                                  | 198512     | 202312  |
-| BEF | CPRTYPE             | CPR-type                                                  | 198512     | 202312  |
-| BEF | E_FAELLE_ID         | PNR                                                       | 198512     | 202312  |
-| BEF | FAM_KOEN            | FAM_KOEN                                                  | 198512     | 202312  |
-| BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202312  |
-| BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202312  |
-| BEF | FAR_ID              | Personnummer far                                          | 198512     | 202312  |
-| BEF | FKIRK               | Folkekirkemarkering                                       | 198512     | 202312  |
-| BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202312  |
-| BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202312  |
-| BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202312  |
-| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 198512     | 202312  |
-| BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202312  |
-| BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202312  |
-| BEF | KOEN                | Køn                                                       | 198512     | 202312  |
-| BEF | KOM                 | Kommunekode                                               | 198512     | 202312  |
-| BEF | MOR_ID              | Personnummer mor                                          | 198512     | 202312  |
-| BEF | OPHOLDMD_DK         | OPHOLDMD_DK                                               | 198512     | 202312  |
-| BEF | OPR_LAND            | Oprindelsesland                                           | 198512     | 202312  |
-| BEF | PLADS               | Familiestatus                                             | 198512     | 202312  |
-| BEF | PNR                 | Personnummer                                              | 198512     | 202312  |
-| BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202312  |
-| BEF | REG                 | Region                                                    | 198512     | 202312  |
-| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 198512     | 202312  |
-| BEF | STATSB              | Statsborgerskab                                           | 198512     | 202312  |
-| BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202312  |
-| BEF | VERSION             | VERSION                                                   | 198512     | 202312  |
+| BEF | ADRESSE_ID          | INGEN LABEL                                               | 198512     | 202412  |
+| BEF | AEGTE_ID            | Personnummer Ægtefælle                                    | 198512     | 202412  |
+| BEF | ALDER               | Alder ultimo året før                                     | 198512     | 202412  |
+| BEF | ANTBOERNF           | ANTBOERNF                                                 | 198512     | 202412  |
+| BEF | ANTBOERNH           | ANTBOERNH                                                 | 198512     | 202412  |
+| BEF | ANTEFAM             | ANTEFAM                                                   | 198512     | 202412  |
+| BEF | ANTPERSF            | ANTPERSF                                                  | 198512     | 202412  |
+| BEF | ANTPERSH            | ANTPERSH                                                  | 198512     | 202412  |
+| BEF | BETALINGSKOM        | BETALINGSKOM                                              | 198512     | 202412  |
+| BEF | BOP_VFRA            | Dato for tilflytning/indvandring                          | 198512     | 202412  |
+| BEF | CIV_VFRA            | Civilstandsdato                                           | 198512     | 202412  |
+| BEF | CIVST               | Civilstand                                                | 198512     | 202412  |
+| BEF | CPRTJEK             | CPR-tjek                                                  | 198512     | 202412  |
+| BEF | CPRTYPE             | CPR-type                                                  | 198512     | 202412  |
+| BEF | E_FAELLE_ID         | PNR                                                       | 198512     | 202412  |
+| BEF | FAM_KOEN            | FAM_KOEN                                                  | 198512     | 202412  |
+| BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202412  |
+| BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202412  |
+| BEF | FAR_ID              | Personnummer far                                          | 198512     | 202412  |
+| BEF | FKIRK               | Folkekirkemarkering                                       | 198512     | 202412  |
+| BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202412  |
+| BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202412  |
+| BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202412  |
+| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 198512     | 202412  |
+| BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202412  |
+| BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202412  |
+| BEF | KOEN                | Køn                                                       | 198512     | 202412  |
+| BEF | KOM                 | Kommunekode                                               | 198512     | 202412  |
+| BEF | MOR_ID              | Personnummer mor                                          | 198512     | 202412  |
+| BEF | OPHOLDMD_DK         | OPHOLDMD_DK                                               | 198512     | 202412  |
+| BEF | OPR_LAND            | Oprindelsesland                                           | 198512     | 202412  |
+| BEF | PLADS               | Familiestatus                                             | 198512     | 202412  |
+| BEF | PNR                 | Personnummer                                              | 198512     | 202412  |
+| BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202412  |
+| BEF | REG                 | Region                                                    | 198512     | 202412  |
+| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 198512     | 202412  |
+| BEF | STATSB              | Statsborgerskab                                           | 198512     | 202412  |
+| BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202412  |
+| BEF | VERSION             | VERSION                                                   | 198512     | 202412  |
+:::
 
-</details>
-
-<details>
-
-<summary>**BEFADR 202409
-**</summary>
+::: {.callout-warning collapse="true"}
+## BEFADR 202409
 
 |        | Variable name | Variable label                             | Start year | Endyear |
 | ------ | ------------- | ------------------------------------------ | ---------- | ------- |
@@ -190,13 +187,10 @@ callout-appearance: minimal
 | BEFADR | BOPIKOM       | Bopælsadresse i kommunen                   |            | 202409  |
 | BEFADR | KOM           | KOM                                        |            | 202409  |
 | BEFADR | OPGIKOM       | Opgangsadresse i kommunen                  |            | 202409  |
+:::
 
-</details>
-
-<details>
-
-<summary>**BFL 2008-2024
-**</summary>
+::: {.callout-warning collapse="true"}
+## BFL 2008-2024
 
 |     | Variable name              | Variable label                                                         | Start year | Endyear |
 | --- | -------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -232,13 +226,10 @@ callout-appearance: minimal
 | BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 2008       | 202403  |
 | BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 2008       | 202403  |
 | BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 2008       | 202403  |
+:::
 
-</details>
-
-<details>
-
-<summary>**BOERNFB 2015-2021
-**</summary>
+::: {.callout-warning collapse="true"}
+## BOERNFB 2015-2021
 
 |         | Variable name  | Variable label                  | Start year | Endyear |
 | ------- | -------------- | ------------------------------- | ---------- | ------- |
@@ -257,13 +248,10 @@ callout-appearance: minimal
 | BOERNFB | TIMER          | Kommunalt angivet pasningstimer | 2015       | 2021    |
 | BOERNFB | VERSION        | VERSION                         | 2015       | 2021    |
 | BOERNFB | AAR            | AAR                             | 2015       | 2021    |
+:::
 
-</details>
-
-<details>
-
-<summary>**BOERNPRI 2018-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## BOERNPRI 2018-2023
 
 |          | Variable name     | Variable label    | Start year | Endyear |
 | -------- | ----------------- | ----------------- | ---------- | ------- |
@@ -273,13 +261,10 @@ callout-appearance: minimal
 | BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2023    |
 | BOERNPRI | PNR               | PNR               | 2018       | 2023    |
 | BOERNPRI | VERSION           | VERSION           | 2018       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**BOERNSB 2015-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+##BOERNSB 2015-2023
 
 |         | Variable name | Variable label | Start year | Endyear |
 | ------- | ------------- | -------------- | ---------- | ------- |
@@ -294,13 +279,10 @@ callout-appearance: minimal
 | BOERNSB | PNR           | PNR            | 2015       | 2023    |
 | BOERNSB | SKOLE_KODE    | INGEN LABEL    | 2015       | 2023    |
 | BOERNSB | VERSION       | VERSION        | 2015       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**CPST 197512-200612
-**</summary>
+::: {.callout-warning collapse="true"}
+##CPST 197512-200612
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
 | ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
@@ -316,28 +298,22 @@ callout-appearance: minimal
 | CPST | STOPHDTO       | Startdato for opholdsgrundlag                                | 197512     | 200612  |
 | CPST | VAN_VFRA       | udvandringsdato                                              | 197512     | 200612  |
 | CPST | VAN_VTIL       | Indvandringsdato                                             | 197512     | 200612  |
+:::
 
-</details>
-
-<details>
-
-<summary>**DOD 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## DOD 2024
 
 |     | Variable name | Variable label              | Start year | Endyear |
 | --- | ------------- | --------------------------- | ---------- | ------- |
-| DOD | ALDER_HAEND   | Alder på hændelsestidspunkt |            | 2023    |
-| DOD | CPRTJEK       | CPR-tjek                    |            | 2023    |
-| DOD | CPRTYPE       | CPR-type                    |            | 2023    |
-| DOD | DODDATO       | Dato for dødsfald           |            | 2023    |
-| DOD | PNR           | Personnummer                |            | 2023    |
+| DOD | ALDER_HAEND   | Alder på hændelsestidspunkt |            | 2024    |
+| DOD | CPRTJEK       | CPR-tjek                    |            | 2024    |
+| DOD | CPRTYPE       | CPR-type                    |            | 2024    |
+| DOD | DODDATO       | Dato for dødsfald           |            | 2024    |
+| DOD | PNR           | Personnummer                |            | 2024    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DODSAARS 2001
-**</summary>
+::: {.callout-warning collapse="true"}
+## DODSAARS 2001
 
 |          | Variable name | Variable label | Start year | Endyear |
 | -------- | ------------- | -------------- | ---------- | ------- |
@@ -349,13 +325,10 @@ callout-appearance: minimal
 | DODSAARS | CPRTYPE       | CPR-type       |            | 2001    |
 | DODSAARS | D_DODSDTO     | Dødsdato       |            | 2001    |
 | DODSAARS | PNR           | Personnummer   |            | 2001    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DODSAASG 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## DODSAASG 2022
 
 |          | Variable name       | Variable label      | Start year | Endyear |
 | -------- | ------------------- | ------------------- | ---------- | ------- |
@@ -400,13 +373,10 @@ callout-appearance: minimal
 | DODSAASG | PNR                 | K_CPR               |            | 2022    |
 | DODSAASG | V_ALDER             | V_ALDER             |            | 2022    |
 | DODSAASG | AAR                 |                     |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DREAM 202409
-**</summary>
+::: {.callout-warning collapse="true"}
+## DREAM 202409
 
 |       | Variable name    | Variable label | Start year | Endyear |
 | ----- | ---------------- | -------------- | ---------- | ------- |
@@ -3214,13 +3184,10 @@ callout-appearance: minimal
 | DREAM | Y_9950           |                |            | 202409  |
 | DREAM | Y_9951           |                |            | 202409  |
 | DREAM | Y_9952           |                |            | 202409  |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRG_KONTAKTER 2021-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRG_KONTAKTER 2021-2023
 
 |               | Variable name            | Variable label | Start year | Endyear |
 | ------------- | ------------------------ | -------------- | ---------- | ------- |
@@ -3348,13 +3315,10 @@ callout-appearance: minimal
 | DRG_KONTAKTER | UDFALDSGIVENDE_KONTAKT   | INGEN LABEL    | 2021       | 2023    |
 | DRG_KONTAKTER | UDTIDSPUNKT_DRGKONTAKT   | INGEN LABEL    | 2021       | 2023    |
 | DRG_KONTAKTER | UDTIDSPUNKT_DRGSGHF      | INGEN LABEL    | 2021       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRG_SGHFORLOB 2021-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRG_SGHFORLOB 2021-2023
 
 |               | Variable name                 | Variable label                                 | Start year | Endyear |
 | ------------- | ----------------------------- | ---------------------------------------------- | ---------- | ------- |
@@ -3416,13 +3380,10 @@ callout-appearance: minimal
 | DRG_SGHFORLOB | TOTALPRIS_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
 | DRG_SGHFORLOB | TRIMPUNKT_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
 | DRG_SGHFORLOB | UDTIDSPUNKT_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRGSOMA_AMB 2002-2017
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRGSOMA_AMB 2002-2017
 
 |             | Variable name | Variable label  | Start year | Endyear |
 | ----------- | ------------- | --------------- | ---------- | ------- |
@@ -3483,13 +3444,10 @@ callout-appearance: minimal
 | DRGSOMA_AMB | V_PRIS        | V_PRIS          | 2002       | 2017    |
 | DRGSOMA_AMB | V_PRIS_GENOP  | V_PRIS_GENOP    | 2002       | 2017    |
 | DRGSOMA_AMB | VERSION       | DST Version     | 2002       | 2017    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRGSOMA_HEL 2002-2017
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRGSOMA_HEL 2002-2017
 
 |             | Variable name   | Variable label  | Start year | Endyear |
 | ----------- | --------------- | --------------- | ---------- | ------- |
@@ -3549,13 +3507,10 @@ callout-appearance: minimal
 | DRGSOMA_HEL | V_TOTPRIS       | V_TOTPRIS       | 2002       | 2017    |
 | DRGSOMA_HEL | V_TOTPRIS_GENOP | V_TOTPRIS_GENOP | 2002       | 2017    |
 | DRGSOMA_HEL | VERSION         | DST Version     | 2002       | 2017    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRGSOMA_KONTAKT 2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRGSOMA_KONTAKT 2018
 
 |                 | Variable name           | Variable label  | Start year | Endyear |
 | --------------- | ----------------------- | --------------- | ---------- | ------- |
@@ -3601,13 +3556,10 @@ callout-appearance: minimal
 | DRGSOMA_KONTAKT | UDDATO                  | INGEN LABEL     |            | 2018    |
 | DRGSOMA_KONTAKT | UDMAADE                 | INGEN LABEL     |            | 2018    |
 | DRGSOMA_KONTAKT | VERSION                 | DST Version     |            | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**DRGSOMA_SGHFORLOB 2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## DRGSOMA_SGHFORLOB 2018
 
 |                   | Variable name          | Variable label         | Start year | Endyear |
 | ----------------- | ---------------------- | ---------------------- | ---------- | ------- |
@@ -3626,13 +3578,10 @@ callout-appearance: minimal
 | DRGSOMA_SGHFORLOB | UDMAADE_DRGSGHF        | UDMAADE_DRGSGHF        |            | 2018    |
 | DRGSOMA_SGHFORLOB | UDTIDSPUNKT_DRGSGHF    | UDTIDSPUNKT_DRGSGHF    |            | 2018    |
 | DRGSOMA_SGHFORLOB | VERSION                | DST Version            |            | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FAIK 1987-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## FAIK 1987-2023
 
 |      | Variable name             | Variable label                                                         | Start year | Endyear |
 | ---- | ------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -3721,13 +3670,9 @@ callout-appearance: minimal
 | FAIK | FAMVIRKOVERSKUD           | nettooverskud af selvstændig virksomhed for familien                   | 1987       | 2023    |
 | FAIK | FAMVIRKOVERSKUD_13        | Familiens samlede overskud af selvstændig virksomhed efter virksomhede | 1987       | 2023    |
 | FAIK | VERSION                   | Version                                                                | 1987       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FAIN 1980-2007
-**</summary>
+## FAIN 1980-2007
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
 | ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
@@ -3758,13 +3703,10 @@ callout-appearance: minimal
 | FAIN | MOR_ID         | Personnummer, Mor                                            | 1980       | 2007    |
 | FAIN | PNR            | Personnummer                                                 | 1980       | 2007    |
 | FAIN | STATSB         | Statsborgerskabskode                                         | 1980       | 2007    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FTBARN 2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## FTBARN 2018
 
 |        | Variable name | Variable label | Start year | Endyear |
 | ------ | ------------- | -------------- | ---------- | ------- |
@@ -3795,13 +3737,10 @@ callout-appearance: minimal
 | FTBARN | PNR           | PNR            |            | 2018    |
 | FTBARN | VAEGT_BARN    | VAEGT_BARN     |            | 2018    |
 | FTBARN | VERSION       | VERSION        |            | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FTDB 2012
-**</summary>
+::: {.callout-warning collapse="true"}
+## FTDB 2012
 
 |      | Variable name | Variable label                          | Start year | Endyear |
 | ---- | ------------- | --------------------------------------- | ---------- | ------- |
@@ -3823,13 +3762,10 @@ callout-appearance: minimal
 | FTDB | PNRB          | Personnummer, barn                      |            | 2012    |
 | FTDB | PNRF          | Personnummer, far                       |            | 2012    |
 | FTDB | PNRM          | Personnummer på mor                     |            | 2012    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FTDK 2012
-**</summary>
+::: {.callout-warning collapse="true"}
+## FTDK 2012
 
 |      | Variable name | Variable label                   | Start year | Endyear |
 | ---- | ------------- | -------------------------------- | ---------- | ------- |
@@ -3844,13 +3780,10 @@ callout-appearance: minimal
 | FTDK | PNRBARN       | Personnummer, barn               |            | 2012    |
 | FTDK | PNRFLDR       | Personnummer, forælder           |            | 2012    |
 | FTDK | PNRINV        | Personnummer, forældrens partner |            | 2012    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FTDM 2012
-**</summary>
+::: {.callout-warning collapse="true"}
+## FTDM 2012
 
 |      | Variable name | Variable label                   | Start year | Endyear |
 | ---- | ------------- | -------------------------------- | ---------- | ------- |
@@ -3865,13 +3798,10 @@ callout-appearance: minimal
 | FTDM | PNRBARN       | Personnummer, barn               |            | 2012    |
 | FTDM | PNRFLDR       | Personnummer, forælder           |            | 2012    |
 | FTDM | PNRINV        | Personnummer, forældrens partner |            | 2012    |
+:::
 
-</details>
-
-<details>
-
-<summary>**FTFORAEL 2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## FTFORAEL 2018
 
 |          | Variable name  | Variable label | Start year | Endyear |
 | -------- | -------------- | -------------- | ---------- | ------- |
@@ -3886,13 +3816,10 @@ callout-appearance: minimal
 | FTFORAEL | MOR_FAR        | MOR_FAR        |            | 2018    |
 | FTFORAEL | PNR            | PNR            |            | 2018    |
 | FTFORAEL | VERSION        | VERSION        |            | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**IDAN 1980-2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## IDAN 1980-2022
 
 |      | Variable name        | Variable label                                             | Start year | Endyear |
 | ---- | -------------------- | ---------------------------------------------------------- | ---------- | ------- |
@@ -3943,13 +3870,10 @@ callout-appearance: minimal
 | IDAN | TLONKVAL             | Kvalitet af timelønsskøn                                   | 1980       | 2022    |
 | IDAN | TYPE                 | Type for ansættelsesforholdet                              | 1980       | 2022    |
 | IDAN | TYPE_2008            | Oplysningstype                                             | 1980       | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**IDAP 1980-2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## IDAP 1980-2022
 
 |      | Variable name            | Variable label                                                        | Start year | Endyear |
 | ---- | ------------------------ | --------------------------------------------------------------------- | ---------- | ------- |
@@ -4024,13 +3948,10 @@ callout-appearance: minimal
 | IDAP | SUMGRAD                  | Sum af ledighedsgrader (fra 1980)                                     | 1980       | 2022    |
 | IDAP | SUMGRAD_BRUTTO           | Summret bruttoledighed fra 2008                                       | 1980       | 2022    |
 | IDAP | SUMGRAD_NETTO            | Summret nettoledighed fra 1980                                        | 1980       | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**IEPE 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## IEPE 2023
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -4040,13 +3961,10 @@ callout-appearance: minimal
 | IEPE | IE_TYPE       | Indvandrere, efterkommere , personer med dansk oprindelse              |            | 2023    |
 | IEPE | OPR_LAND      | Oprindelsesland                                                        |            | 2023    |
 | IEPE | PNR           | PNR                                                                    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**IND 1980-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## IND 1980-2023
 
 |     | Variable name          | Variable label                                                         | Start year | Endyear |
 | --- | ---------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -4294,13 +4212,10 @@ callout-appearance: minimal
 | IND | VIRKORDIND             | Beløb indsat i virksomhedsordningerne netto (speciel ordning for selvs | 1980       | 2023    |
 | IND | VIRKSK                 | Foreløbig skat af beløb overført til virksomhedsordningen og konjunktu | 1980       | 2023    |
 | IND | VIRKSOMHEDS_PRAKTIK    | Dagpenge til personer i virksomhedspraktik                             | 1980       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**KOTRE 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## KOTRE 2023
 
 |       | Variable name | Variable label                            | Start year | Endyear |
 | ----- | ------------- | ----------------------------------------- | ---------- | ------- |
@@ -4318,13 +4233,10 @@ callout-appearance: minimal
 | KOTRE | UDEL          | Uddannelsesdel                            |            | 2023    |
 | KOTRE | UFORM         | Beskriver måden som uddannelsen tages på. |            | 2023    |
 | KOTRE | VERSION       | Version                                   |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LMDB 199512-202312
-**</summary>
+::: {.callout-warning collapse="true"}
+## LMDB 199512-202312
 
 |      | Variable name | Variable label                             | Start year | Endyear |
 | ---- | ------------- | ------------------------------------------ | ---------- | ------- |
@@ -4391,13 +4303,10 @@ callout-appearance: minimal
 | LMDB | VOLTYPECODE   |                                            | 199512     | 202312  |
 | LMDB | VOLTYPETXT    |                                            | 199512     | 202312  |
 | LMDB | VOLUME        | Volume                                     | 199512     | 202312  |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_ADM 1977-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_ADM 1977-2019
 
 | LPR_ADM | C_ADIAG       | Aktionsdiagnose                                                | 1977 | 2019 |
 | ------- | ------------- | -------------------------------------------------------------- | ---- | ---- |
@@ -4451,13 +4360,10 @@ callout-appearance: minimal
 | LPR_ADM | V_SENGDAGE    | Sengedage                                                      | 1977 | 2019 |
 | LPR_ADM | V_UDTIME      | Udskrivningstime                                               | 1977 | 2019 |
 | LPR_ADM | VERSION       | DST Version                                                    | 1977 | 2019 |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_BES 1994-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_BES 1994-2019
 
 |         | Variable name | Variable label         | Start year | Endyear |
 | ------- | ------------- | ---------------------- | ---------- | ------- |
@@ -4465,13 +4371,10 @@ callout-appearance: minimal
 | LPR_BES | LEVERANCEDATO | DST leverancedato      | 1994       | 2019    |
 | LPR_BES | RECNUM        | LPR-identnummer        | 1994       | 2019    |
 | LPR_BES | VERSION       | DST Version            | 1994       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_DIAG 1977-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_DIAG 1977-2019
 
 |          | Variable name | Variable label       | Start year | Endyear |
 | -------- | ------------- | -------------------- | ---------- | ------- |
@@ -4482,13 +4385,10 @@ callout-appearance: minimal
 | LPR_DIAG | LEVERANCEDATO | DST leverancedato    | 1977       | 2019    |
 | LPR_DIAG | RECNUM        | LPR-identnummer      | 1977       | 2019    |
 | LPR_DIAG | VERSION       | DST Version          | 1977       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_DIAGNOSER 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_DIAGNOSER 2022
 
 |                 | Variable name       | Variable label      | Start year | Endyear |
 | --------------- | ------------------- | ------------------- | ---------- | ------- |
@@ -4498,13 +4398,10 @@ callout-appearance: minimal
 | LPR_F_DIAGNOSER | DIAGNOSETYPE_PARENT | diagnosetype_parent |            | 2022    |
 | LPR_F_DIAGNOSER | DW_EK_KONTAKT       | INGEN LABEL         |            | 2022    |
 | LPR_F_DIAGNOSER | SENERE_AFKRAEFTET   | senere_afkraeftet   |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_FORLOEB 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_FORLOEB 2022
 
 |               | Variable name          | Variable label         | Start year | Endyear |
 | ------------- | ---------------------- | ---------------------- | ---------- | ------- |
@@ -4553,13 +4450,10 @@ callout-appearance: minimal
 | LPR_F_FORLOEB | TIDSPUNKT_INDBERETNING | tidspunkt_indberetning |            | 2022    |
 | LPR_F_FORLOEB | TIDSPUNKT_SLUT         | tidspunkt_slut         |            | 2022    |
 | LPR_F_FORLOEB | TIDSPUNKT_START        | tidspunkt_start        |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_FORLOEBSMARKOERER 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_FORLOEBSMARKOERER 2022
 
 |                         | Variable name          | Variable label         | Start year | Endyear |
 | ----------------------- | ---------------------- | ---------------------- | ---------- | ------- |
@@ -4569,25 +4463,19 @@ callout-appearance: minimal
 | LPR_F_FORLOEBSMARKOERER | MARKOER                | markoer                |            | 2022    |
 | LPR_F_FORLOEBSMARKOERER | TIDSPUNKT_INDBERETNING | tidspunkt_indberetning |            | 2022    |
 | LPR_F_FORLOEBSMARKOERER | TIDSPUNKT_MARKOER      | tidspunkt_markoer      |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_HENVISNING_TILLAEG 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_HENVISNING_TILLAEG 2022
 
 |                          | Variable name | Variable label | Start year | Endyear |
 | ------------------------ | ------------- | -------------- | ---------- | ------- |
 | LPR_F_HENVISNING_TILLAEG | DW_EK_FORLOEB | INGEN LABEL    |            | 2022    |
 | LPR_F_HENVISNING_TILLAEG | TILLAEGSKODE  | tillaegskode   |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_KONTAKTER 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_KONTAKTER 2022
 
 |                 | Variable name              | Variable label             | Start year | Endyear |
 | --------------- | -------------------------- | -------------------------- | ---------- | ------- |
@@ -4640,13 +4528,10 @@ callout-appearance: minimal
 | LPR_F_KONTAKTER | TIDSPUNKT_INDBERETNING     | tidspunkt_indberetning     |            | 2022    |
 | LPR_F_KONTAKTER | TIDSPUNKT_SLUT             | tidspunkt_slut             |            | 2022    |
 | LPR_F_KONTAKTER | TIDSPUNKT_START            | tidspunkt_start            |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_MORBARNFORLOEB 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+#3 LPR_F_MORBARNFORLOEB 2022
 
 |                      | Variable name        | Variable label    | Start year | Endyear |
 | -------------------- | -------------------- | ----------------- | ---------- | ------- |
@@ -4661,13 +4546,10 @@ callout-appearance: minimal
 | LPR_F_MORBARNFORLOEB | FORLOEBLABEL_BARN    | forloeblabel_barn |            | 2022    |
 | LPR_F_MORBARNFORLOEB | FORLOEBLABEL_MOR     | forloeblabel_mor  |            | 2022    |
 | LPR_F_MORBARNFORLOEB | KOEN_BARN            | koen_barn         |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_NYT_HELBREDSFORLOEB 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_NYT_HELBREDSFORLOEB 2022
 
 |                           | Variable name             | Variable label           | Start year | Endyear |
 | ------------------------- | ------------------------- | ------------------------ | ---------- | ------- |
@@ -4679,13 +4561,10 @@ callout-appearance: minimal
 | LPR_F_NYT_HELBREDSFORLOEB | FORLOEBLABEL_NYT          | forloeblabel_nyt         |            | 2022    |
 | LPR_F_NYT_HELBREDSFORLOEB | HENVISNINGSAARSAG_NYT     | henvisningsaarsag_nyt    |            | 2022    |
 | LPR_F_NYT_HELBREDSFORLOEB | TIDSPUNKT_HENVISNING_NYT  | tidspunkt_henvisning_nyt |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_ORGANISATIONER 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_ORGANISATIONER 2022
 
 |                      | Variable name         | Variable label        | Start year | Endyear |
 | -------------------- | --------------------- | --------------------- | ---------- | ------- |
@@ -4719,13 +4598,10 @@ callout-appearance: minimal
 | LPR_F_ORGANISATIONER | SPECIALE8             | speciale8             |            | 2022    |
 | LPR_F_ORGANISATIONER | SUNDHEDSINSTITUTION   | INGEN LABEL           |            | 2022    |
 | LPR_F_ORGANISATIONER | YDERNUMMER            | INGEN LABEL           |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_PROCEDURER_ANDRE 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_PROCEDURER_ANDRE 2022
 
 |                        | Variable name               | Variable label         | Start year | Endyear |
 | ---------------------- | --------------------------- | ---------------------- | ---------- | ------- |
@@ -4751,13 +4627,10 @@ callout-appearance: minimal
 | LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_INDBERETNING      | tidspunkt_indberetning |            | 2022    |
 | LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_SLUT              | tidspunkt_slut         |            | 2022    |
 | LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_PROCEDURER_KIRURGI 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_PROCEDURER_KIRURGI 2022
 
 |                          | Variable name               | Variable label         | Start year | Endyear |
 | ------------------------ | --------------------------- | ---------------------- | ---------- | ------- |
@@ -4783,13 +4656,10 @@ callout-appearance: minimal
 | LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_INDBERETNING      | tidspunkt_indberetning |            | 2022    |
 | LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_SLUT              | tidspunkt_slut         |            | 2022    |
 | LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_F_RESULTATER 2022
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_F_RESULTATER 2022
 
 |                  | Variable name          | Variable label         | Start year | Endyear |
 | ---------------- | ---------------------- | ---------------------- | ---------- | ------- |
@@ -4813,13 +4683,10 @@ callout-appearance: minimal
 | LPR_F_RESULTATER | TIDSPUNKT_RESULTAT     | tidspunkt_resultat     |            | 2022    |
 | LPR_F_RESULTATER | TRIGGERKODE            | triggerkode            |            | 2022    |
 | LPR_F_RESULTATER | TRIGGERTYPE            | triggertype            |            | 2022    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_OPR 1977-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_OPR 1977-2019
 
 |         | Variable name | Variable label     | Start year | Endyear |
 | ------- | ------------- | ------------------ | ---------- | ------- |
@@ -4830,13 +4697,10 @@ callout-appearance: minimal
 | LPR_OPR | LEVERANCEDATO | DST leverancedato  | 1977       | 2019    |
 | LPR_OPR | RECNUM        | LPR-identnummer    | 1977       | 2019    |
 | LPR_OPR | VERSION       | DST Version        | 1977       | 2019    |
+::: 
 
-</details>
-
-<details>
-
-<summary>**LPR_SKSOPR 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_SKSOPR 1996-2019
 
 |            | Variable name | Variable label                    | Start year | Endyear |
 | ---------- | ------------- | --------------------------------- | ---------- | ------- |
@@ -4851,13 +4715,10 @@ callout-appearance: minimal
 | LPR_SKSOPR | V_OMINUT      | Procedureminut (operation)        | 1996       | 2019    |
 | LPR_SKSOPR | V_OTIME       | Proceduretime (operation)         | 1996       | 2019    |
 | LPR_SKSOPR | VERSION       | DST Version                       | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPR_SKSUBE 1999-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPR_SKSUBE 1999-2019
 
 |            | Variable name | Variable label                                    | Start year | Endyear |
 | ---------- | ------------- | ------------------------------------------------- | ---------- | ------- |
@@ -4872,13 +4733,10 @@ callout-appearance: minimal
 | LPR_SKSUBE | V_OMINUT      | Procedureminut (undersøgelse & behandling)        | 1999       | 2019    |
 | LPR_SKSUBE | V_OTIME       | Proceduretime (undersøgelse & behandling)         | 1999       | 2019    |
 | LPR_SKSUBE | VERSION       | DST Version                                       | 1999       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**LPRMFRDF 1996
-**</summary>
+::: {.callout-warning collapse="true"}
+## LPRMFRDF 1996
 
 |          | Variable name | Variable label                       | Start year | Endyear |
 | -------- | ------------- | ------------------------------------ | ---------- | ------- |
@@ -4930,13 +4788,10 @@ callout-appearance: minimal
 | LPRMFRLF | V_MISANT      | Antal misdannelser hos barnet        |            | 1996    |
 | LPRMFRLF | V_SVLANGDE    | Svangerskabslængde i uger            |            | 1996    |
 | LPRMFRLF | V_VAGT        | Barnets vægt i gram                  |            | 1996    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR 1997-2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR 1997-2018
 
 |     | Variable name                  | Variable label                 | Start year | Endyear |
 | --- | ------------------------------ | ------------------------------ | ---------- | ------- |
@@ -4979,13 +4834,10 @@ callout-appearance: minimal
 | MFR | VAEGT_BARN                     | VAEGT_BARN                     | 1997       | 2018    |
 | MFR | VAEGT_MODER                    | VAEGT_MODER                    | 1997       | 2018    |
 | MFR | VAKUUMEKSTRAKTION              | VAKUUMEKSTRAKTION              | 1997       | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_DIAGNOSER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_DIAGNOSER 2023
 
 |                    | Variable name                 | Variable label    | Start year | Endyear |
 | ------------------ | ----------------------------- | ----------------- | ---------- | ------- |
@@ -5010,13 +4862,10 @@ callout-appearance: minimal
 | MFR_BARN_DIAGNOSER | SLUTDATO_KONTAKT              | INGEN LABEL       |            | 2023    |
 | MFR_BARN_DIAGNOSER | STARTDATO_FORLOEB             | INGEN LABEL       |            | 2023    |
 | MFR_BARN_DIAGNOSER | STARTDATO_KONTAKT             | INGEN LABEL       |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_FORLOEB 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_FORLOEB 2023
 
 |                  | Variable name                 | Variable label | Start year | Endyear |
 | ---------------- | ----------------------------- | -------------- | ---------- | ------- |
@@ -5049,13 +4898,10 @@ callout-appearance: minimal
 | MFR_BARN_FORLOEB | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
 | MFR_BARN_FORLOEB | STARTTIDSPUNKT_FORLOEB        | INGEN LABEL    |            | 2023    |
 | MFR_BARN_FORLOEB | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_KONTAKTER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_KONTAKTER 2023
 
 |                    | Variable name                 | Variable label | Start year | Endyear |
 | ------------------ | ----------------------------- | -------------- | ---------- | ------- |
@@ -5097,13 +4943,10 @@ callout-appearance: minimal
 | MFR_BARN_KONTAKTER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
 | MFR_BARN_KONTAKTER | STARTTIDSPUNKT_KONTAKT        | INGEN LABEL    |            | 2023    |
 | MFR_BARN_KONTAKTER | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_PROCEDURER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_PROCEDURER 2023
 
 |                     | Variable name                    | Variable label | Start year | Endyear |
 | ------------------- | -------------------------------- | -------------- | ---------- | ------- |
@@ -5143,13 +4986,10 @@ callout-appearance: minimal
 | MFR_BARN_PROCEDURER | STARTDATO_KONTAKT                | INGEN LABEL    |            | 2023    |
 | MFR_BARN_PROCEDURER | STARTDATO_PROCEDURE              | INGEN LABEL    |            | 2023    |
 | MFR_BARN_PROCEDURER | STARTTIDSPUNKT_PROCEDURE         | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_RESULTATER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_RESULTATER 2023
 
 |                     | Variable name                  | Variable label | Start year | Endyear |
 | ------------------- | ------------------------------ | -------------- | ---------- | ------- |
@@ -5185,13 +5025,10 @@ callout-appearance: minimal
 | MFR_BARN_RESULTATER | STARTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
 | MFR_BARN_RESULTATER | STARTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
 | MFR_BARN_RESULTATER | TIDSPUNKT_RESULTAT             | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_DIAGNOSER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_DIAGNOSER 2023
 
 |                   | Variable name                 | Variable label | Start year | Endyear |
 | ----------------- | ----------------------------- | -------------- | ---------- | ------- |
@@ -5215,13 +5052,10 @@ callout-appearance: minimal
 | MFR_MOR_DIAGNOSER | SLUTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
 | MFR_MOR_DIAGNOSER | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
 | MFR_MOR_DIAGNOSER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_FORLOEB 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_FORLOEB 2023
 
 |                 | Variable name                 | Variable label | Start year | Endyear |
 | --------------- | ----------------------------- | -------------- | ---------- | ------- |
@@ -5254,13 +5088,10 @@ callout-appearance: minimal
 | MFR_MOR_FORLOEB | STARTDATO_FORLOEB             | INGEN LABEL    |            | 2023    |
 | MFR_MOR_FORLOEB | STARTTIDSPUNKT_FORLOEB        | INGEN LABEL    |            | 2023    |
 | MFR_MOR_FORLOEB | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_KONTAKTER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_KONTAKTER 2023
 
 |                   | Variable name                 | Variable label | Start year | Endyear |
 | ----------------- | ----------------------------- | -------------- | ---------- | ------- |
@@ -5302,13 +5133,10 @@ callout-appearance: minimal
 | MFR_MOR_KONTAKTER | STARTDATO_KONTAKT             | INGEN LABEL    |            | 2023    |
 | MFR_MOR_KONTAKTER | STARTTIDSPUNKT_KONTAKT        | INGEN LABEL    |            | 2023    |
 | MFR_MOR_KONTAKTER | TIDSPUNKT_HENVISNING          | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_PROCEDURER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_PROCEDURER 2023
 
 |                    | Variable name                    | Variable label | Start year | Endyear |
 | ------------------ | -------------------------------- | -------------- | ---------- | ------- |
@@ -5350,13 +5178,10 @@ callout-appearance: minimal
 | MFR_MOR_PROCEDURER | STARTDATO_KONTAKT                | INGEN LABEL    |            | 2023    |
 | MFR_MOR_PROCEDURER | STARTDATO_PROCEDURE              | INGEN LABEL    |            | 2023    |
 | MFR_MOR_PROCEDURER | STARTTIDSPUNKT_PROCEDURE         | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_RESULTATER 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_RESULTATER 2023
 
 |                    | Variable name                  | Variable label | Start year | Endyear |
 | ------------------ | ------------------------------ | -------------- | ---------- | ------- |
@@ -5392,13 +5217,10 @@ callout-appearance: minimal
 | MFR_MOR_RESULTATER | STARTDATO_FORLOEB              | INGEN LABEL    |            | 2023    |
 | MFR_MOR_RESULTATER | STARTDATO_KONTAKT              | INGEN LABEL    |            | 2023    |
 | MFR_MOR_RESULTATER | TIDSPUNKT_RESULTAT             | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**MFR_BARN_NYFOEDTE 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## MFR_BARN_NYFOEDTE 2023
 
 |              | Variable name                  | Variable label | Start year | Endyear |
 | ------------ | ------------------------------ | -------------- | ---------- | ------- |
@@ -5474,13 +5296,10 @@ callout-appearance: minimal
 | MFR_NYFOEDTE | TOBAKSFORBRUG                  | INGEN LABEL    |            | 2023    |
 | MFR_NYFOEDTE | VAEGT_BARN                     | INGEN LABEL    |            | 2023    |
 | MFR_NYFOEDTE | VAEGT_MOR                      | INGEN LABEL    |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PRIV_ADM 2002-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PRIV_ADM 2002-2019
 
 |          | Variable name | Variable label    | Start year | Endyear |
 | -------- | ------------- | ----------------- | ---------- | ------- |
@@ -5513,13 +5332,10 @@ callout-appearance: minimal
 | PRIV_ADM | V_BEHDAGE     | V_BEHDAGE         | 2002       | 2019    |
 | PRIV_ADM | V_SENGDAGE    | V_SENGDAGE        | 2002       | 2019    |
 | PRIV_ADM | VERSION       | DST Version       | 2002       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PRIV_BES 2002-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PRIV_BES 2002-2019
 
 |          | Variable name     | Variable label    | Start year | Endyear |
 | -------- | ----------------- | ----------------- | ---------- | ------- |
@@ -5528,13 +5344,10 @@ callout-appearance: minimal
 | PRIV_BES | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
 | PRIV_BES | RECNUM            | LPR-identnummer   | 2002       | 2019    |
 | PRIV_BES | VERSION           | DST Version       | 2002       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PRIV_DIAG 2002-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PRIV_DIAG 2002-2019
 
 |           | Variable name     | Variable label    | Start year | Endyear |
 | --------- | ----------------- | ----------------- | ---------- | ------- |
@@ -5545,13 +5358,10 @@ callout-appearance: minimal
 | PRIV_DIAG | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
 | PRIV_DIAG | RECNUM            | LPR-identnummer   | 2002       | 2019    |
 | PRIV_DIAG | VERSION           | DST Version       | 2002       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PRIV_SKSOPR 2002-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PRIV_SKSOPR 2002-2019
 
 |             | Variable name     | Variable label    | Start year | Endyear |
 | ----------- | ----------------- | ----------------- | ---------- | ------- |
@@ -5565,13 +5375,10 @@ callout-appearance: minimal
 | PRIV_SKSOPR | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
 | PRIV_SKSOPR | RECNUM            | LPR-identnummer   | 2002       | 2019    |
 | PRIV_SKSOPR | VERSION           | DST Version       | 2002       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PRIV_SKSUBE 2002-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PRIV_SKSUBE 2002-2019
 
 |             | Variable name     | Variable label    | Start year | Endyear |
 | ----------- | ----------------- | ----------------- | ---------- | ------- |
@@ -5585,13 +5392,10 @@ callout-appearance: minimal
 | PRIV_SKSUBE | LEVERANCEDATO     | DST leverancedato | 2002       | 2019    |
 | PRIV_SKSUBE | RECNUM            | LPR-identnummer   | 2002       | 2019    |
 | PRIV_SKSUBE | VERSION           | DST Version       | 2002       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PSYK_ADM 2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PSYK_ADM 2019
 
 |          | Variable name | Variable label                                                 | Start year | Endyear |
 | -------- | ------------- | -------------------------------------------------------------- | ---------- | ------- |
@@ -5633,13 +5437,10 @@ callout-appearance: minimal
 | PSYK_ADM | V_SENGDAGE    | Sengedage                                                      |            | 2019    |
 | PSYK_ADM | V_UDTIME      | Udskrivningstime                                               |            | 2019    |
 | PSYK_ADM | VERSION       | DST Version                                                    |            | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PSYK_DIAG 2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PSYK_DIAG 2019
 
 |           | Variable name | Variable label    | Start year | Endyear |
 | --------- | ------------- | ----------------- | ---------- | ------- |
@@ -5649,13 +5450,10 @@ callout-appearance: minimal
 | PSYK_DIAG | LEVERANCEDATO | DST leverancedato |            | 2019    |
 | PSYK_DIAG | RECNUM        | LPR-identnummer   |            | 2019    |
 | PSYK_DIAG | VERSION       | DST Version       |            | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**PSYK_PERS 2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## PSYK_PERS 2019
 
 |           | Variable name | Variable label                         | Start year | Endyear |
 | --------- | ------------- | -------------------------------------- | ---------- | ------- |
@@ -5668,13 +5466,10 @@ callout-appearance: minimal
 | PSYK_PERS | LEVERANCEDATO | DST leverancedato                      |            | 2019    |
 | PSYK_PERS | RECNUM        | LPR-identnummer                        |            | 2019    |
 | PSYK_PERS | VERSION       | DST Version                            |            | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**SHSS 1984-2007
-**</summary>
+::: {.callout-warning collapse="true"}
+## SHSS 1984-2007
 
 |      | Variable name | Variable label                            | Start year | Endyear |
 | ---- | ------------- | ----------------------------------------- | ---------- | ------- |
@@ -5687,26 +5482,20 @@ callout-appearance: minimal
 | SHSS | VAR_ARB       | Årsvarighed af arbejdsløshedsdagpenge     | 1984       | 2007    |
 | SHSS | VAR_BAR       | Årsvarighed med fødsels-/barselsdagpenge  | 1984       | 2007    |
 | SHSS | VAR_ORL_BP    | Varighed af børnepasningsorlov            | 1984       | 2007    |
+:::
 
-</details>
-
-<details>
-
-<summary>**SOGN 2002-2016
-**</summary>
+::: {.callout-warning collapse="true"}
+## SOGN 2002-2016
 
 |      | Variable name | Variable label   | Start year | Endyear |
 | ---- | ------------- | ---------------- | ---------- | ------- |
 | SOGN | KOM           | INGEN LABEL      | 2002       | 2016    |
 | SOGN | OPGIKOM       | Opgang i kommune | 2002       | 2016    |
 | SOGN | SOGN          | Sogn             | 2002       | 2016    |
+:::
 
-</details>
-
-<details>
-
-<summary>**SSNV 1984-2007
-**</summary>
+::: {.callout-warning collapse="true"}
+## SSNV 1984-2007
 
 |      | Variable name | Variable label                            | Start year | Endyear |
 | ---- | ------------- | ----------------------------------------- | ---------- | ------- |
@@ -5721,13 +5510,10 @@ callout-appearance: minimal
 | SSNV | VAR_ORL_BP    | Varighed af børnepasningsorlov            | 1984       | 2007    |
 | SSNV | VAR_SYG       | Årsvarighed på sygedagpenge               | 1984       | 2007    |
 | SSNV | VARLED        | Årsvarighed på arbejdsløshedsdagpenge     | 1984       | 2007    |
+:::
 
-</details>
-
-<details>
-
-<summary>**SSSY 2005-2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## SSSY 2005-2023
 
 |      | Variable name    | Variable label                | Start year | Endyear |
 | ---- | ---------------- | ----------------------------- | ---------- | ------- |
@@ -5755,13 +5541,10 @@ callout-appearance: minimal
 | SSSY | YDLANT           | Antal ydelser under specialet | 2005       | 2023    |
 | SSSY | YDLTID           | Tidspunktskode for ydelsen    | 2005       | 2023    |
 | SSSY | YDTYP            | Ydertype                      | 2005       | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**SYSI 1990-2005
-**</summary>
+::: {.callout-warning collapse="true"}
+## SYSI 1990-2005
 
 |      | Variable name | Variable label                | Start year | Endyear |
 | ---- | ------------- | ----------------------------- | ---------- | ------- |
@@ -5779,13 +5562,10 @@ callout-appearance: minimal
 | SYSI | YDLANT        | Antal ydelser under specialet | 1990       | 2005    |
 | SYSI | YDLTID        | Tidspunktskode for ydelsen    | 1990       | 2005    |
 | SYSI | YDTYP         | Ydertype                      | 1990       | 2005    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_ADM 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_ADM 1996-2019
 
 |         | Variable name | Variable label | Start year | Endyear |
 | ------- | ------------- | -------------- | ---------- | ------- |
@@ -5834,13 +5614,10 @@ callout-appearance: minimal
 | UAF_ADM | V_SENGDAGE    | V_SENGDAGE     | 1996       | 2019    |
 | UAF_ADM | V_UDTIME      | V_UDTIME       | 1996       | 2019    |
 | UAF_ADM | VERSION       | INGEN LABEL    | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_BES 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_BES 1996-2019
 
 |         | Variable name | Variable label    | Start year | Endyear |
 | ------- | ------------- | ----------------- | ---------- | ------- |
@@ -5848,13 +5625,10 @@ callout-appearance: minimal
 | UAF_BES | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
 | UAF_BES | RECNUM        | LPR-identnummer   | 1996       | 2019    |
 | UAF_BES | VERSION       | DST Version       | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_DIAG 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_DIAG 1996-2019
 
 |          | Variable name | Variable label    | Start year | Endyear |
 | -------- | ------------- | ----------------- | ---------- | ------- |
@@ -5864,13 +5638,10 @@ callout-appearance: minimal
 | UAF_DIAG | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
 | UAF_DIAG | RECNUM        | LPR-identnummer   | 1996       | 2019    |
 | UAF_DIAG | VERSION       | DST Version       | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_FOEDSLER 2012-2018
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_FOEDSLER 2012-2018
 
 |              | Variable name | Variable label    | Start year | Endyear |
 | ------------ | ------------- | ----------------- | ---------- | ------- |
@@ -5885,13 +5656,10 @@ callout-appearance: minimal
 | UAF_FOEDSLER | V_SPBES       | V_SPBES           | 2012       | 2018    |
 | UAF_FOEDSLER | V_VAGT        | V_VAGT            | 2012       | 2018    |
 | UAF_FOEDSLER | VERSION       | DST Version       | 2012       | 2018    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_OPR 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_OPR 1996-2019
 
 |         | Variable name | Variable label    | Start year | Endyear |
 | ------- | ------------- | ----------------- | ---------- | ------- |
@@ -5902,13 +5670,10 @@ callout-appearance: minimal
 | UAF_OPR | LEVERANCEDATO | DST leverancedato | 1996       | 2019    |
 | UAF_OPR | RECNUM        | LPR-identnummer   | 1996       | 2019    |
 | UAF_OPR | VERSION       | DST Version       | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UAF_SKSOPR 1996-2019
-**</summary>
+::: {.callout-warning collapse="true"}
+## UAF_SKSOPR 1996-2019
 
 |            | Variable name | Variable label    | Start year | Endyear |
 | ---------- | ------------- | ----------------- | ---------- | ------- |
@@ -5923,13 +5688,10 @@ callout-appearance: minimal
 | UAF_SKSOPR | V_OMINUT      | V_OMINUT          | 1996       | 2019    |
 | UAF_SKSOPR | V_OTIME       | V_OTIME           | 1996       | 2019    |
 | UAF_SKSOPR | VERSION       | DST Version       | 1996       | 2019    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UDDA 198012-202309
-**</summary>
+::: {.callout-warning collapse="true"}
+## UDDA 198012-202309
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
@@ -5950,13 +5712,10 @@ callout-appearance: minimal
 | UDDA | PNR           | Personnummer                                                           | 198012     | 202309  |
 | UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202309  |
 | UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202309  |
+:::
 
-</details>
-
-<details>
-
-<summary>**UDFK 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## UDFK 2023
 
 |      | Variable name        | Variable label          | Start year | Endyear |
 | ---- | -------------------- | ----------------------- | ---------- | ------- |
@@ -5982,13 +5741,10 @@ callout-appearance: minimal
 | UDFK | REFPER               | REFPER                  |            | 2023    |
 | UDFK | SKALA                | SKALA                   |            | 2023    |
 | UDFK | SKOLEAAR             | Skoleår                 |            | 2023    |
+:::
 
-</details>
-
-<details>
-
-<summary>**UDG 2023
-**</summary>
+::: {.callout-warning collapse="true"}
+## UDG 2023
 
 |     | Variable name     | Variable label              | Start year | Endyear |
 | --- | ----------------- | --------------------------- | ---------- | ------- |
@@ -6002,20 +5758,19 @@ callout-appearance: minimal
 | UDG | PNR               | Personnummer                |            | 2023    |
 | UDG | SKALA             | Karakterskala               |            | 2023    |
 | UDG | VERSION           | VERSION                     |            | 2023    |
-
-</details>
+:::
 
 ::: {.callout-warning collapse="true"}
-## VNDS 2023
+## VNDS 2024
 
 |      | Variable name | Variable label | Start year | Endyear |
 | ---- | ------------- | -------------- | ---------- | ------- |
-| VNDS | CPRTJEK       | CPR-tjek       |            | 2023    |
-| VNDS | CPRTYPE       | CPR-type       |            | 2023    |
-| VNDS | HAEND_DATO    |                |            | 2023    |
-| VNDS | INDUD_KODE    |                |            | 2023    |
-| VNDS | INDUD_LAND    |                |            | 2023    |
-| VNDS | PNR           | Personnummer   |            | 2023    |
+| VNDS | CPRTJEK       | CPR-tjek       |            | 2024    |
+| VNDS | CPRTYPE       | CPR-type       |            | 2024    |
+| VNDS | HAEND_DATO    |                |            | 2024    |
+| VNDS | INDUD_KODE    |                |            | 2024    |
+| VNDS | INDUD_LAND    |                |            | 2024    |
+| VNDS | PNR           | Personnummer   |            | 2024    |
 :::
 
 ## Complete DST variable list
