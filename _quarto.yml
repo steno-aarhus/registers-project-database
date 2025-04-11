@@ -17,6 +17,8 @@ website:
         href: sds/index.qmd
       - text: "How to work with data"
         href: how-to-work-with-data/index.qmd
+      - text: "Payment"
+        href: payment/index.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
