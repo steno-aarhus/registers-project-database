@@ -17,8 +17,7 @@ website:
         href: sds/index.qmd
       - text: "How to work with data"
         href: how-to-work-with-data/index.qmd
-      - text: "Payment"
-        href: payment/index.qmd
+
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
@@ -38,6 +37,7 @@ website:
       - getting-started/fortegnelsen/index.qmd
       - getting-started/onboarding-to-statistics-denmark/index.qmd
       - getting-started/steering-committee/index.qmd
+      - getting-started/payment/index.qmd      
   - title: "Statistics Denmark (DST)"
     style: "floating"
     contents:
