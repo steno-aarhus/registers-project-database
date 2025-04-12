@@ -18,7 +18,7 @@ On The DHDA's webpage you can read more about all the other national health regi
 
 ## Registers from DHDA in the SDCA project database
 
-Below you will find a full describtion of DHDA registers and variables in the project database
+Below you will find a full description of DHDA registers and variables in the project database
 
 ::: {.callout-warning collapse="true"}
 ## Den Nationale Børnedatabase - BDB (2009-)

@@ -8,10 +8,10 @@ description: Information on how to get permission to set up a project under the 
 
 To get permission to set up a project under the project database you need to send a application to the steering committee.
 
-Members of the steering committee is:
+Members of the steering committee are:
 
 -   Gunnar Vase Toft ([GUNTOFT\@rm.dk](mailto:GUNTOF@rm.dk){.email})
--   Daniel Witte ([daniel.witte\@ph.au.dk](mailto:daniel.witte\@ph.au.dk){.email})
+-   Daniel Witte ([daniel.witte\@ph.au.dk](mailto:daniel.witte@ph.au.dk){.email})
 -   Sigrid Bjerge Gribsholt ([sigrgrib\@rm.dk](mailto:sigrgrib@rm.dk){.email})
 -   Rasmus Møller Jørgensen, ([rasmujer\@rm.dk](mailto:rasmujer@rm.dk){.email})
 -   Kasper Norman ([KANOAN\@rm.dk](mailto:KANOAN@rm.dk){.email})
@@ -22,19 +22,18 @@ Members of the steering committee is:
 The application must contain the following:
 
 -   Title of the project
--   A short resume of the project
--   PI of the project
+-   A short summary of the project
+-   Principal Investigator (PI) of the project
 -   How many users are expected to be working on the project (an estimate)
--   Which data the project should contain, register level is sufficient
--   Expected enddate of the project
-  
-## Application form 
+-   Which data the project should contain. It is sufficient to describe this at the register level
+-   Expected end date of the project
 
-The application to the steering comittee can be registered here:
+## Application form
+
+The application to the steering committee can be registered here:
 
 [Link to REDCap](https://redcap.au.dk/surveys/?s=MFRCYPCJCF4LK4J4)
 
-
 ## Next steps
 
-When the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page. 
+When the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page.
