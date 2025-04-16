@@ -1,47 +1,67 @@
 ---
 title: "Upload of external data"
-description: Information on how to upload external data to a dst project
+description: Information on how to upload external data to a Denmark Statistics project
 ---
 
-When you have a project under the SDCA project database it is possible to upload external datafiles, e.g. own collected data. 
+When you have a project under the SDCA project database it is possible
+to upload external data files, e.g. an existing cohort or your own
+collected data.
 
-To do this it is required that the data is described and approved in the dst project proposal under Additional data sources.
+To do this it is required that the data is described and approved in the
+DST project proposal under Additional data sources.
 
-Before uploading external datafiles for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria is described here:
+Before uploading external data files for use in a project, make sure
+that the criteria for using your microdata in the project are fulfilled.
+The criteria are described here:
 
-[Indsendelse af data](https://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse) (both in Danish and in English)
-
+[Indsendelse af
+data](https://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse)
+(both in Danish and in English)
 
 ## Files with microdata
 
-Data containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.
+Data containing microdata must be uploaded through Statistics Denmark
+FSE-UPLOAD.
 
-All users have access to this service in f5 dynamic webtop with project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found here:
+All users have access to this service through the f5 dynamic webtop with
+their project login. It is possible to upload the data by yourself or
+you can contact either Marie Kempf Frydendahl or Kasper Norman and we
+will support you. Guidelines for FSE-upload can be found here:
 
-[Vejledning til upload af mikrodata](https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&fo=0&ext=forskning) (only in Danish)
- 
+[Vejledning til upload af
+mikrodata](https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&fo=0&ext=forskning)
+(only in Danish)
 
-A complete variable list must be uploaded in the project proposal in DDV. Here it must be clear which variables that need to be de-identified.
+A complete variable list must be uploaded in the project proposal in
+DDV. Here it must be clear which are the variables that need to be
+de-identified.
 
-You can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.
+You can upload data in the following formats: ASC, CSV, DTA, ODS, PDF,
+SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.
 
-The number of datafiles should be kept to a minimum, which will speed up handling time and lower costs.
+The number of data files should be kept to a minimum, which will speed
+up handling time and lower costs.
 
-When the external data + variable list has been uploaded, it is recommended to notify the contact person for the project at dst by email. You will find contact information in the project proposal in DDV. 
-
+When the external data + variable list has been uploaded, it is
+recommended that you notify the contact person for the project at DST by
+email. You will find contact information in the project proposal in DDV.
 
 ## Files without microdata
 
-It is also possible to place information on the project that do not contain microdata, e.g., syntax/code or documentation. 
+It is also possible to place information on the project that does not
+contain microdata, e.g., syntax/code or documentation.
 
-To do this you need to send an email including the file to either the dst contact person or Marie Kempf Frydendahl/Kasper Norman with the following information:
+To do this you need to send an email including the file to either the
+DST contact person or to Marie Kempf Frydendahl/Kasper Norman with the
+following information:
 
- -  Description of what is in the file
- -  Information about project number.
- -  Complete path to where to place the file (typically in the Workdata folder).
+-   Description of what is in the file.
+-   The project number.
+-   Complete path to where to place the file (typically in the Workdata
+    folder).
 
-Furthermore you need to write the following statement: “The file does not contain any personal identifiable information”.
+Furthermore you need to write the following statement: "The file does
+not contain any personally identifiable information".
 
-Please, only send syntax or documentation when it is necessary and too large to practically type in manually.
-
-
+Please, only send syntax or documentation when it is necessary and too
+large to practically type in manually.

@@ -3,30 +3,44 @@ title: "Application to Danish Health Data Authority - DHDA"
 description: A introduction on how to get access to data from the Danish Health Data Authority
 ---
 
-DHDA has a broad range of national registries that can be used for research and development of quality in healthcare.
-You can apply for relevant registers for your project at Statistics Denmark.
-Registers listet in the project database you can get access to without an additional cost, while register not in the projectdatabase you have to pay separately to DHDA and DST for moving the data. Whether the registers is a part of the project database or not you have to make a application to DHDA. 
+The Danish Health Data Authority (DHDA) / Sundhedsdatastyrelsen (SDS)
+has a broad range of national registers that can be used for research
+and development of quality in healthcare. You can apply for relevant
+registers for your project at Statistics Denmark. You can get access to
+the registers listed in the project database without an additional cost,
+while you will have to pay separately to DHDA and DST for moving the
+data if you request registers not in the project database. If you intend
+to use DHDA registers, you will have to make an application to DHDA,
+regardless of whether the registers you request are a part of the
+project database or not.
 
 ## Before applying
 
 Before you can send in your application the following must be fulfilled:
 
--   you need to have an approved project at DST 
--   the project has to be approved by RM's "Intern fortegnelse" and other approvals, if applicable.
+-   you need to have an approved project at DST
+-   the project has to be approved by RM's "Intern fortegnelse" and
+    other approvals, if applicable.
 
 Documentation for this will be required when applying.
 
 ## Application
 
-You apply for data here:
+You apply for data here: 
+[Application](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data)
 
-[Application](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/ansoeg-om-data) 
+According to the application form you have to choose **"Ansøg om data
+leveret til andet databehandlingsted**".
 
-According to application form you have to choose **"Ansøg om data leveret til andet databehandlingsted**".
+If the data you apply for is a part of the SDCA project database you
+must check both "**Godkendelse til genanvendelse**" and "**Samkørsel med
+Danmarks Statistik**" in the application form. In that case you also
+have to make it clear that the project database in question is SDCA
+project database 709627 at DST.
 
-If the data you apply for is a part of SDCA project database you must check both "**Godkendelse til genanvendelse**" and "**Samkørsel med Danmarks Statistik**" in the application form. In that case you also have to make it clear that is is SDCA project database 709627 af DST.  
-
-Your application must contain a projectdescription (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).
+Your application must contain a project description
+(projektbeskrivelse), an extract description (udtræksbeskrivelse) and an
+order sheet (bestillingsark).
 
 **The Project description should contain:**
 
@@ -38,26 +52,32 @@ Your application must contain a projectdescription (projektbeskrivelse), an extr
 -   Societal relevance
 -   Ethical considerations.
 
-**Extract description should contain:** 
+**The extract description should contain:**
 
 -   Place of Treatment of the data
 -   Description of the population
--   Delimitation of data for the project (Including justification for why the requested data is necessary for the project).
+-   Delimitation of data for the project (including justification for
+    why the requested data is necessary for the project).
 
-In the Order sheet you can specify which variables you want access to. 
-You indicate that you want access to a specific variable by checking the box next to the variable in the column 'Desired variable (x)'. 
+On the order sheet you can specify which variables you want access to.
+You can indicate that you want access to a specific variable by checking
+the box next to the variable in the column 'Desired variable (x)'.
 
 ## The Drug Statistics Register (LMDB)
 
-This guide describes how to apply to SDS for access to drug data 
-from the LMDB (Drug Database) via Statistics Denmark.
+This guide describes how to apply to DHDA for access to drug data from
+the LMDB (Drug Database) via Statistics Denmark.
 
-[Application to LMDB](https://sundhedsdatastyrelsen.dk/media/16357/Vejledning_Adgang_laegemiddeldata_DST.pdf)
+[Application to
+LMDB](https://sundhedsdatastyrelsen.dk/media/16357/Vejledning_Adgang_laegemiddeldata_DST.pdf)
 
-In the guide you can also find a link to further describtion on the ATC-system to klassification of the drugs. 
+In the guide you can also find a link to further description of the
+ATC-system of drug classification.
 
 ## Help and inspiration
 
-A more detailed description of what these descriptions should contain and application forms can be found here: 
+A more detailed description of what these descriptions should contain
+and application forms can be found here:
 
-[The Danish Health Data Autority](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/foer-du-soeger/beskrivelse-af-projekt-og-data) 
+[The Danish Health Data
+Authority](https://sundhedsdatastyrelsen.dk/data-og-registre/forskerservice/foer-du-soeger/beskrivelse-af-projekt-og-data)
