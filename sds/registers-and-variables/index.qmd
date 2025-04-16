@@ -6,220 +6,229 @@ callout-appearance: minimal
 
 ## Complete DHDA variable list
 
-To get the complete DHDA variable list, click [this link](https://github.com/steno-aarhus/registers-project-database/blob/main/sds/registers-and-variables/Variabelliste_709627_SDS_20250407.xlsx)
+To get the complete DHDA variable list, click [this
+link](https://github.com/steno-aarhus/registers-project-database/blob/main/sds/registers-and-variables/Variabelliste_709627_SDS_20250407.xlsx)
 
-This will take you to an Excel file on GitHub.com with the complete variable list. To download the file, click the download button ![](/images/download-icon.svg) in the top right corner of the page.
+This will take you to an Excel file on GitHub.com with the complete
+variable list. To download the file, click the download button
+![](/images/download-icon.svg) in the top right corner of the page.
 
 ## Overview of all registers from DHDA
 
-On The DHDA's webpage you can read more about all the other national health registries you can apply for 
+On The DHDA's webpage you can read more about all the other national
+health registries you can apply for
 
-[Overview of registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre) (both in Danish and in English)
+[Overview of
+registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsregistre)
+(both in Danish and in English)
 
 ## Registers from DHDA in the SDCA project database
 
-Below you will find a full description of DHDA registers and variables in the project database
+Below you will find a full description of DHDA registers and variables
+in the project database
 
 ::: {.callout-warning collapse="true"}
 ## Den Nationale Børnedatabase - BDB (2009-)
 
-| Tabel                 | Variabel                         | Indhold                                                                                                                       | Gyldighed |
-| --------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
-| amning_afl            | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
-| amning_afl            | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
-| amning_afl            | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
-| amning_afl            | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
-| amning_afl            | municipalitycode_bfstopdate      | Barnets bopælskommune, kode (på dato for ophør af fuld amning)                                                                | 2009 -    |
-| amning_afl            | municipalitycode_txt_bfstopdate  | Barnets bopælskommune, tekst (på dato for ophør af fuld amning)                                                               | 2009 -    |
-| amning_afl            | breastfeedstopdate               | Dato for ophør af fuld amning                                                                                                 | 2009 -    |
-| amning_afl            | varighed_dage                    | Antal dage med fuld amning (antal dage imellem birthdate og breastfeedstopdate)                                               | 2009 -    |
-| amning_afl            | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
-| rygning_afl           | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
-| rygning_afl           | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
-| rygning_afl           | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
-| rygning_afl           | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
-| rygning_afl           | municipalitycode_birthdate       | Barnets bopælskommune, kode                                                                                                   | 2009 -    |
-| rygning_afl           | municipalitycode_txt_birthdate   | Barnets bopælskommune, tekst                                                                                                  | 2009 -    |
-| rygning_afl           | passivesmoke                     | Har barnet været udsat for passiv rygning, kode                                                                               | 2009 -    |
-| rygning_afl           | passivesmoke_txt                 | Har barnet været udsat for passiv rygning, tekst                                                                              | 2009 -    |
-| rygning_afl           | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
-| maalinger_afl         | cpr                              | Barnets CPR-nummer                                                                                                            | 2009 -    |
-| maalinger_afl         | koen_afl                         | Barnets køn, kode                                                                                                             | 2009 -    |
-| maalinger_afl         | koen_afl_txt                     | Barnets køn, tekst                                                                                                            | 2009 -    |
-| maalinger_afl         | birthdate                        | Barnets fødselsdato                                                                                                           | 2009 -    |
-| maalinger_afl         | alder_aar_afl                    | Barnets alder i år                                                                                                            | 2009 -    |
-| maalinger_afl         | alder_maaned_afl                 | Barnets alder i måneder                                                                                                       | 2009 -    |
-| maalinger_afl         | municipalitycode_measuredate     | Barnets bopælskommune, kode                                                                                                   | 2009 -    |
-| maalinger_afl         | municipalitycode_txt_measuredate | Barnets bopælskommune, tekst                                                                                                  | 2009 -    |
-| maalinger_afl         | measurementdate                  | Dato for måling                                                                                                               | 2009 -    |
-| maalinger_afl         | school                           | Skolekode                                                                                                                     | 2009 -    |
-| maalinger_afl         | school_txt_createddate           | Skolekode, tekst                                                                                                              | 2009 -    |
-| maalinger_afl         | height                           | Barnets højde (cm)                                                                                                            | 2009 -    |
-| maalinger_afl         | weight                           | Barnets vægt (gram)                                                                                                           | 2009 -    |
-| maalinger_afl         | vaegtkategori_afl                | Vægtkategori, kode<br>(baseret på en beregning af barnets BMI (kg/m2) sammenholdt med referenceværdier fra Sundhedsstyrelsen) | 2009 -    |
-| maalinger_afl         | vaegtkategori_afl_txt            | Vægtkategori, tekst                                                                                                           | 2009 -    |
-| maalinger_afl         | ikraft                           | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)                                                              | 2009 -    |
-| bmi_undervaegt_drenge | age                              | Alder i år                                                                                                                    |           |
-| bmi_undervaegt_drenge | sex                              | Køn, kode                                                                                                                     |           |
-| bmi_undervaegt_drenge | bmip3                            | Grænseværdier pr alder til gruppering af BMI for undervægt                                                                    |           |
-| bmi_undervaegt_piger  | age                              | Alder i år                                                                                                                    |           |
-| bmi_undervaegt_piger  | sex                              | Køn, kode                                                                                                                     |           |
-| bmi_undervaegt_piger  | bmip3                            | Grænseværdier pr alder til gruppering af BMI for undervægt                                                                    |           |
-| bmi_drenge            | months                           | Alder i måneder                                                                                                               |           |
-| bmi_drenge            | years                            | Alder i år                                                                                                                    |           |
-| bmi_drenge            | bmi16                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi17                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi18_5                          | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi23                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi25                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi27                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi30                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_drenge            | bmi35                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | months                           | Alder i måneder                                                                                                               |           |
-| bmi_piger             | years                            | Alder i år                                                                                                                    |           |
-| bmi_piger             | bmi16                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi17                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi18_5                          | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi23                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi25                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi27                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi30                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-| bmi_piger             | bmi35                            | IOTF BMI grænseværdier pr alder til gruppering af BMI                                                                         |           |
-::: 
+| Tabel | Variabel | Indhold | Gyldighed |
+|-----------|-----------|---------------------------------------|-----------|
+| amning_afl | cpr | Barnets CPR-nummer | 2009 - |
+| amning_afl | koen_afl | Barnets køn, kode | 2009 - |
+| amning_afl | koen_afl_txt | Barnets køn, tekst | 2009 - |
+| amning_afl | birthdate | Barnets fødselsdato | 2009 - |
+| amning_afl | municipalitycode_bfstopdate | Barnets bopælskommune, kode (på dato for ophør af fuld amning) | 2009 - |
+| amning_afl | municipalitycode_txt_bfstopdate | Barnets bopælskommune, tekst (på dato for ophør af fuld amning) | 2009 - |
+| amning_afl | breastfeedstopdate | Dato for ophør af fuld amning | 2009 - |
+| amning_afl | varighed_dage | Antal dage med fuld amning (antal dage imellem birthdate og breastfeedstopdate) | 2009 - |
+| amning_afl | ikraft | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig) | 2009 - |
+| rygning_afl | cpr | Barnets CPR-nummer | 2009 - |
+| rygning_afl | koen_afl | Barnets køn, kode | 2009 - |
+| rygning_afl | koen_afl_txt | Barnets køn, tekst | 2009 - |
+| rygning_afl | birthdate | Barnets fødselsdato | 2009 - |
+| rygning_afl | municipalitycode_birthdate | Barnets bopælskommune, kode | 2009 - |
+| rygning_afl | municipalitycode_txt_birthdate | Barnets bopælskommune, tekst | 2009 - |
+| rygning_afl | passivesmoke | Har barnet været udsat for passiv rygning, kode | 2009 - |
+| rygning_afl | passivesmoke_txt | Har barnet været udsat for passiv rygning, tekst | 2009 - |
+| rygning_afl | ikraft | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig) | 2009 - |
+| maalinger_afl | cpr | Barnets CPR-nummer | 2009 - |
+| maalinger_afl | koen_afl | Barnets køn, kode | 2009 - |
+| maalinger_afl | koen_afl_txt | Barnets køn, tekst | 2009 - |
+| maalinger_afl | birthdate | Barnets fødselsdato | 2009 - |
+| maalinger_afl | alder_aar_afl | Barnets alder i år | 2009 - |
+| maalinger_afl | alder_maaned_afl | Barnets alder i måneder | 2009 - |
+| maalinger_afl | municipalitycode_measuredate | Barnets bopælskommune, kode | 2009 - |
+| maalinger_afl | municipalitycode_txt_measuredate | Barnets bopælskommune, tekst | 2009 - |
+| maalinger_afl | measurementdate | Dato for måling | 2009 - |
+| maalinger_afl | school | Skolekode | 2009 - |
+| maalinger_afl | school_txt_createddate | Skolekode, tekst | 2009 - |
+| maalinger_afl | height | Barnets højde (cm) | 2009 - |
+| maalinger_afl | weight | Barnets vægt (gram) | 2009 - |
+| maalinger_afl | vaegtkategori_afl | Vægtkategori, kode<br>(baseret på en beregning af barnets BMI (kg/m2) sammenholdt med referenceværdier fra Sundhedsstyrelsen) | 2009 - |
+| maalinger_afl | vaegtkategori_afl_txt | Vægtkategori, tekst | 2009 - |
+| maalinger_afl | ikraft | Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig) | 2009 - |
+| bmi_undervaegt_drenge | age | Alder i år |  |
+| bmi_undervaegt_drenge | sex | Køn, kode |  |
+| bmi_undervaegt_drenge | bmip3 | Grænseværdier pr alder til gruppering af BMI for undervægt |  |
+| bmi_undervaegt_piger | age | Alder i år |  |
+| bmi_undervaegt_piger | sex | Køn, kode |  |
+| bmi_undervaegt_piger | bmip3 | Grænseværdier pr alder til gruppering af BMI for undervægt |  |
+| bmi_drenge | months | Alder i måneder |  |
+| bmi_drenge | years | Alder i år |  |
+| bmi_drenge | bmi16 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi17 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi18_5 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi23 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi25 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi27 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi30 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_drenge | bmi35 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | months | Alder i måneder |  |
+| bmi_piger | years | Alder i år |  |
+| bmi_piger | bmi16 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi17 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi18_5 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi23 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi25 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi27 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi30 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+| bmi_piger | bmi35 | IOTF BMI grænseværdier pr alder til gruppering af BMI |  |
+:::
 
 ::: {.callout-warning collapse="true"}
 ## Cancerregistret - CAR (1943-)
 
-| Tabel                       | Variabel                         | Indhold                                                                                      | Gyldighed   |
-| --------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
-| tumor_aarlig                | cprnummer                        | CPR-nummer                                                                                   | 1943 -      |
-| tumor_aarlig                | borger_koen                      | Køn                                                                                          | 1943 -      |
-| tumor_aarlig                | borger_foedselsdato              | Fødselsdato                                                                                  | 1943 -      |
-| tumor_aarlig                | borger_alder_diagnosedato        | Alder på diagnosetidspunkt                                                                   | 1943 -      |
-| tumor_aarlig                | borger_kommune_kode              | Bopælskommune                                                                                | 1978 -      |
-| tumor_aarlig                | borger_bopael_region_kode        | Bopælsregion                                                                                 | 1978 -      |
-| tumor_aarlig                | borger_statuskode_cpr            | Statuskode (90=død, 80=udrejst, 70=forsvundet, ' '=levende)                                  | 1943 -      |
-| tumor_aarlig                | statuskode_cpr_dato              | Dato for opdatering af statuskode i CPR                                                      | 1943 -      |
-| tumor_aarlig                | borger_kommune_kode_foer07       | Den gamle kommunekode gældende for 1968-2006 - udgået i 2007                                 | 1968 - 2006 |
-| tumor_aarlig                | borger_amt_kode_foer07           | Den gamle amtskode gældende for 1968-2006 - udgået i 2007                                    | 1968 - 2006 |
-| tumor_aarlig                | diagnosedato                     | Dato for hvornår cancerdiagnose er stillet                                                   | 1943 -      |
-| tumor_aarlig                | diagnoseaar                      | Diagnoseår                                                                                   | 1943 -      |
-| tumor_aarlig                | diagnosemaaned                   | Diagnosemåned                                                                                | 1943 -      |
-| tumor_aarlig                | tumornummer                      | Tumor løbenummer                                                                             | 1943 -      |
-| tumor_aarlig                | diagnose_kode_icd7               | ICD7-kode (nordisk klassifikation)                                                           | 1943 - 1977 |
-| tumor_aarlig                | diagnose_kode_icd10              | ICD10-kode                                                                                   | 1978 -      |
-| tumor_aarlig                | morfologi_icdo3                  | Histologi, Morfologi iflg. ICDO3 klassifikationen                                            | 1978 -      |
-| tumor_aarlig                | tnm_t                            | TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet | 2004 -      |
-| tumor_aarlig                | tnm_n                            | TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder      | 2004 -      |
-| tumor_aarlig                | tnm_m                            | TNM klassifikation - angivelse af om der er fundet fjernmetastaser                           | 2004 -      |
-| tumor_aarlig                | tumor_udbredelse                 | Tumorens udbredelse                                                                          | 1943 - 2003 |
-| tumor_aarlig                | udbredelsesklassifikation        | Anvendt udbredelsesklassifikation                                                            | 2004 -      |
-| tumor_aarlig                | ann_arbor_stadie                 | Ann Arbour klassifikation                                                                    | 2004 -      |
-| tumor_aarlig                | lateralitet                      | Lateralitet for parrede organer                                                              | 1943 -      |
-| tumor_aarlig                | makroskopisk_grundlag            | Makroskopisk grundlag                                                                        | 1943 -      |
-| tumor_aarlig                | mikroskopisk_grundlag            | Mikroskopisk grundlag                                                                        | 1943 -      |
-| tumor_aarlig                | gradering                        | Gradering (Kun urinvejstumorer)                                                              | 1943 - 2008 |
-| tumor_aarlig                | sarcom                           | 11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt                             | 1943 - 1997 |
-| tumor_aarlig                | behandling                       | Behandling                                                                                   | 1943 - 2003 |
-| tumor_aarlig                | valideringsaar                   | Seneste årstal for validerede cancerincidenser                                               | 1943 -      |
-| tumor_aarlig                | opdateringsdato                  | Dato for hvornår tabellen er dannet                                                          | 1943 -      |
-| tumor_aarlig                | cancer_diag_grp_icd7_overordnet  | ICD7 diagnosegruppering - overgrupper                                                        | 1943 - 1977 |
-| tumor_aarlig                | cancer_diag_grp_icd7             | ICD7 diagnosegruppering - undergrupper                                                       | 1943 - 1977 |
-| tumor_aarlig                | cancer_diag_grp_icd10_overordnet | ICD10 diagnosegruppering - overgrupper                                                       | 1978 -      |
-| tumor_aarlig                | cancer_diag_grp_icd10            | ICD10 diagnosegruppering - undergrupper                                                      | 1978 -      |
-| tumor_aarlig                | cancer_diag_grp_kp               | Udvalgte KP grupper - diagnosegruppering                                                     | 1978 -      |
-| tumor_aarlig_nordcan        | cprnummer                        | CPR-nummer                                                                                   | 1943 -      |
-| tumor_aarlig_nordcan        | borger_koen                      | Køn                                                                                          | 1943 -      |
-| tumor_aarlig_nordcan        | borger_foedselsdato              | Fødselsdato                                                                                  | 1943 -      |
-| tumor_aarlig_nordcan        | borger_alder_diagnosedato        | Alder på diagnosetidspunkt                                                                   | 1943 -      |
-| tumor_aarlig_nordcan        | borger_kommune_kode              | Bopælskommune                                                                                | 1978 -      |
-| tumor_aarlig_nordcan        | borger_bopael_region_kode        | Bopælsregion                                                                                 | 1978 -      |
-| tumor_aarlig_nordcan        | borger_statuskode_cpr            | Statuskode (90=død, 80=udrejst, 70=forsvundet, ' '=levende)                                  | 1943 -      |
-| tumor_aarlig_nordcan        | statuskode_cpr_dato              | Dato for opdatering af statuskode i CPR                                                      | 1943 -      |
-| tumor_aarlig_nordcan        | borger_kommune_kode_foer07       | Den gamle kommunekode gældende for 1968-2006 - udgået i 2007                                 | 1968 - 2006 |
-| tumor_aarlig_nordcan        | borger_amt_kode_foer07           | Den gamle amtskode gældende for 1968-2006 - udgået i 2007                                    | 1968 - 2006 |
-| tumor_aarlig_nordcan        | diagnosedato                     | Dato for hvornår cancerdiagnose er stillet                                                   | 1943 -      |
-| tumor_aarlig_nordcan        | diagnoseaar                      | Diagnoseår                                                                                   | 1943 -      |
-| tumor_aarlig_nordcan        | diagnosemaaned                   | Diagnosemåned                                                                                | 1943 -      |
-| tumor_aarlig_nordcan        | tumornummer                      | Tumor løbenummer                                                                             | 1943 -      |
-| tumor_aarlig_nordcan        | diagnose_kode_icd7               | ICD7-kode (nordisk klassifikation)                                                           | 1943 - 1977 |
-| tumor_aarlig_nordcan        | diagnose_kode_icd10              | ICD10-kode                                                                                   | 1978 -      |
-| tumor_aarlig_nordcan        | morfologi_icdo3                  | Histologi, Morfologi iflg. ICDO3 klassifikationen                                            | 1978 -      |
-| tumor_aarlig_nordcan        | tnm_t                            | TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet | 2004 -      |
-| tumor_aarlig_nordcan        | tnm_n                            | TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder      | 2004 -      |
-| tumor_aarlig_nordcan        | tnm_m                            | TNM klassifikation - angivelse af om der er fundet fjernmetastaser                           | 2004 -      |
-| tumor_aarlig_nordcan        | tumor_udbredelse                 | Tumorens udbredelse                                                                          | 1943 - 2003 |
-| tumor_aarlig_nordcan        | udbredelsesklassifikation        | Anvendt udbredelsesklassifikation                                                            | 2004 -      |
-| tumor_aarlig_nordcan        | sygdomsstadie                    | Stadieinddeling som angiver hvor udbredt en kræftsygdom er                                   | 1943 -      |
-| tumor_aarlig_nordcan        | ann_arbor_stadie                 | Ann Arbour klassifikation                                                                    | 2004 -      |
-| tumor_aarlig_nordcan        | lateralitet                      | Lateralitet for parrede organer                                                              | 1943 -      |
-| tumor_aarlig_nordcan        | makroskopisk_grundlag            | Makroskopisk grundlag                                                                        | 1943 -      |
-| tumor_aarlig_nordcan        | mikroskopisk_grundlag            | Mikroskopisk grundlag                                                                        | 1943 -      |
-| tumor_aarlig_nordcan        | gradering                        | Gradering (Kun urinvejstumorer)                                                              | 1943 - 2008 |
-| tumor_aarlig_nordcan        | sarcom                           | 11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt                             | 1943 - 1997 |
-| tumor_aarlig_nordcan        | behandling                       | Behandling                                                                                   | 1943 - 2003 |
-| tumor_aarlig_nordcan        | valideringsaar                   | Seneste årstal for validerede cancerincidenser                                               | 1943 -      |
-| tumor_aarlig_nordcan        | opdateringsdato                  | Dato for hvornår tabellen er dannet                                                          | 1943 -      |
-| tumor_aarlig_nordcan        | cancer_diag_grp_icd7_overordnet  | ICD7 diagnosegruppering - overgrupper                                                        | 1943 - 1977 |
-| tumor_aarlig_nordcan        | cancer_diag_grp_icd7             | ICD7 diagnosegruppering - undergrupper                                                       | 1943 - 1977 |
-| tumor_aarlig_nordcan        | cancer_diag_grp_icd10_overordnet | ICD10 diagnosegruppering - overgrupper                                                       | 1978 -      |
-| tumor_aarlig_nordcan        | cancer_diag_grp_icd10            | ICD10 diagnosegruppering - undergrupper                                                      | 1978 -      |
-| tumor_aarlig_nordcan        | cancer_diag_grp_kp               | Udvalgte KP grupper - diagnosegruppering                                                     | 1978 -      |
-| tumor_aarlig_nordcan        | cancer_diag_grp_nordcan          | NORDCAN gruppering af ICD-koden og morfologi                                                 | 1943 -      |
-| dimcancergruppering_icd10   | cancer_diag_grp_icd10            | ICD10 diagnosegruppering - undergrupper                                                      | 1978 -      |
-| dimcancergruppering_icd10   | cancer_diag_grp_icd10_tekst      | Cancer_diag_grp_ICD10, tekst                                                                 | 1978 -      |
-| dimcancergruppering_nordcan | cancer_diag_grp_nordcan          | NORDCAN gruppering af ICD-koden og morfologi                                                 | 1943 -      |
-| dimcancergruppering_nordcan | cancer_diag_grp_nordcan_tekst    | Cancer_diag_grp_NORDCAN, tekst                                                               | 1943 -      |
+| Tabel | Variabel | Indhold | Gyldighed |
+|-------------|-------------|----------------------------------|-------------|
+| tumor_aarlig | cprnummer | CPR-nummer | 1943 - |
+| tumor_aarlig | borger_koen | Køn | 1943 - |
+| tumor_aarlig | borger_foedselsdato | Fødselsdato | 1943 - |
+| tumor_aarlig | borger_alder_diagnosedato | Alder på diagnosetidspunkt | 1943 - |
+| tumor_aarlig | borger_kommune_kode | Bopælskommune | 1978 - |
+| tumor_aarlig | borger_bopael_region_kode | Bopælsregion | 1978 - |
+| tumor_aarlig | borger_statuskode_cpr | Statuskode (90=død, 80=udrejst, 70=forsvundet, ' '=levende) | 1943 - |
+| tumor_aarlig | statuskode_cpr_dato | Dato for opdatering af statuskode i CPR | 1943 - |
+| tumor_aarlig | borger_kommune_kode_foer07 | Den gamle kommunekode gældende for 1968-2006 - udgået i 2007 | 1968 - 2006 |
+| tumor_aarlig | borger_amt_kode_foer07 | Den gamle amtskode gældende for 1968-2006 - udgået i 2007 | 1968 - 2006 |
+| tumor_aarlig | diagnosedato | Dato for hvornår cancerdiagnose er stillet | 1943 - |
+| tumor_aarlig | diagnoseaar | Diagnoseår | 1943 - |
+| tumor_aarlig | diagnosemaaned | Diagnosemåned | 1943 - |
+| tumor_aarlig | tumornummer | Tumor løbenummer | 1943 - |
+| tumor_aarlig | diagnose_kode_icd7 | ICD7-kode (nordisk klassifikation) | 1943 - 1977 |
+| tumor_aarlig | diagnose_kode_icd10 | ICD10-kode | 1978 - |
+| tumor_aarlig | morfologi_icdo3 | Histologi, Morfologi iflg. ICDO3 klassifikationen | 1978 - |
+| tumor_aarlig | tnm_t | TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet | 2004 - |
+| tumor_aarlig | tnm_n | TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder | 2004 - |
+| tumor_aarlig | tnm_m | TNM klassifikation - angivelse af om der er fundet fjernmetastaser | 2004 - |
+| tumor_aarlig | tumor_udbredelse | Tumorens udbredelse | 1943 - 2003 |
+| tumor_aarlig | udbredelsesklassifikation | Anvendt udbredelsesklassifikation | 2004 - |
+| tumor_aarlig | ann_arbor_stadie | Ann Arbour klassifikation | 2004 - |
+| tumor_aarlig | lateralitet | Lateralitet for parrede organer | 1943 - |
+| tumor_aarlig | makroskopisk_grundlag | Makroskopisk grundlag | 1943 - |
+| tumor_aarlig | mikroskopisk_grundlag | Mikroskopisk grundlag | 1943 - |
+| tumor_aarlig | gradering | Gradering (Kun urinvejstumorer) | 1943 - 2008 |
+| tumor_aarlig | sarcom | 11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt | 1943 - 1997 |
+| tumor_aarlig | behandling | Behandling | 1943 - 2003 |
+| tumor_aarlig | valideringsaar | Seneste årstal for validerede cancerincidenser | 1943 - |
+| tumor_aarlig | opdateringsdato | Dato for hvornår tabellen er dannet | 1943 - |
+| tumor_aarlig | cancer_diag_grp_icd7_overordnet | ICD7 diagnosegruppering - overgrupper | 1943 - 1977 |
+| tumor_aarlig | cancer_diag_grp_icd7 | ICD7 diagnosegruppering - undergrupper | 1943 - 1977 |
+| tumor_aarlig | cancer_diag_grp_icd10_overordnet | ICD10 diagnosegruppering - overgrupper | 1978 - |
+| tumor_aarlig | cancer_diag_grp_icd10 | ICD10 diagnosegruppering - undergrupper | 1978 - |
+| tumor_aarlig | cancer_diag_grp_kp | Udvalgte KP grupper - diagnosegruppering | 1978 - |
+| tumor_aarlig_nordcan | cprnummer | CPR-nummer | 1943 - |
+| tumor_aarlig_nordcan | borger_koen | Køn | 1943 - |
+| tumor_aarlig_nordcan | borger_foedselsdato | Fødselsdato | 1943 - |
+| tumor_aarlig_nordcan | borger_alder_diagnosedato | Alder på diagnosetidspunkt | 1943 - |
+| tumor_aarlig_nordcan | borger_kommune_kode | Bopælskommune | 1978 - |
+| tumor_aarlig_nordcan | borger_bopael_region_kode | Bopælsregion | 1978 - |
+| tumor_aarlig_nordcan | borger_statuskode_cpr | Statuskode (90=død, 80=udrejst, 70=forsvundet, ' '=levende) | 1943 - |
+| tumor_aarlig_nordcan | statuskode_cpr_dato | Dato for opdatering af statuskode i CPR | 1943 - |
+| tumor_aarlig_nordcan | borger_kommune_kode_foer07 | Den gamle kommunekode gældende for 1968-2006 - udgået i 2007 | 1968 - 2006 |
+| tumor_aarlig_nordcan | borger_amt_kode_foer07 | Den gamle amtskode gældende for 1968-2006 - udgået i 2007 | 1968 - 2006 |
+| tumor_aarlig_nordcan | diagnosedato | Dato for hvornår cancerdiagnose er stillet | 1943 - |
+| tumor_aarlig_nordcan | diagnoseaar | Diagnoseår | 1943 - |
+| tumor_aarlig_nordcan | diagnosemaaned | Diagnosemåned | 1943 - |
+| tumor_aarlig_nordcan | tumornummer | Tumor løbenummer | 1943 - |
+| tumor_aarlig_nordcan | diagnose_kode_icd7 | ICD7-kode (nordisk klassifikation) | 1943 - 1977 |
+| tumor_aarlig_nordcan | diagnose_kode_icd10 | ICD10-kode | 1978 - |
+| tumor_aarlig_nordcan | morfologi_icdo3 | Histologi, Morfologi iflg. ICDO3 klassifikationen | 1978 - |
+| tumor_aarlig_nordcan | tnm_t | TNM klassifikation - angivelse af primærtumors størrelse og udstrækning i og udenfor organet | 2004 - |
+| tumor_aarlig_nordcan | tnm_n | TNM klassifikation - angivelse af om der er fundet metastaser til regionale lymfeknuder | 2004 - |
+| tumor_aarlig_nordcan | tnm_m | TNM klassifikation - angivelse af om der er fundet fjernmetastaser | 2004 - |
+| tumor_aarlig_nordcan | tumor_udbredelse | Tumorens udbredelse | 1943 - 2003 |
+| tumor_aarlig_nordcan | udbredelsesklassifikation | Anvendt udbredelsesklassifikation | 2004 - |
+| tumor_aarlig_nordcan | sygdomsstadie | Stadieinddeling som angiver hvor udbredt en kræftsygdom er | 1943 - |
+| tumor_aarlig_nordcan | ann_arbor_stadie | Ann Arbour klassifikation | 2004 - |
+| tumor_aarlig_nordcan | lateralitet | Lateralitet for parrede organer | 1943 - |
+| tumor_aarlig_nordcan | makroskopisk_grundlag | Makroskopisk grundlag | 1943 - |
+| tumor_aarlig_nordcan | mikroskopisk_grundlag | Mikroskopisk grundlag | 1943 - |
+| tumor_aarlig_nordcan | gradering | Gradering (Kun urinvejstumorer) | 1943 - 2008 |
+| tumor_aarlig_nordcan | sarcom | 11=ja/0=nej. Fra 1978 og frem registreres sarkomer ikke særskilt | 1943 - 1997 |
+| tumor_aarlig_nordcan | behandling | Behandling | 1943 - 2003 |
+| tumor_aarlig_nordcan | valideringsaar | Seneste årstal for validerede cancerincidenser | 1943 - |
+| tumor_aarlig_nordcan | opdateringsdato | Dato for hvornår tabellen er dannet | 1943 - |
+| tumor_aarlig_nordcan | cancer_diag_grp_icd7_overordnet | ICD7 diagnosegruppering - overgrupper | 1943 - 1977 |
+| tumor_aarlig_nordcan | cancer_diag_grp_icd7 | ICD7 diagnosegruppering - undergrupper | 1943 - 1977 |
+| tumor_aarlig_nordcan | cancer_diag_grp_icd10_overordnet | ICD10 diagnosegruppering - overgrupper | 1978 - |
+| tumor_aarlig_nordcan | cancer_diag_grp_icd10 | ICD10 diagnosegruppering - undergrupper | 1978 - |
+| tumor_aarlig_nordcan | cancer_diag_grp_kp | Udvalgte KP grupper - diagnosegruppering | 1978 - |
+| tumor_aarlig_nordcan | cancer_diag_grp_nordcan | NORDCAN gruppering af ICD-koden og morfologi | 1943 - |
+| dimcancergruppering_icd10 | cancer_diag_grp_icd10 | ICD10 diagnosegruppering - undergrupper | 1978 - |
+| dimcancergruppering_icd10 | cancer_diag_grp_icd10_tekst | Cancer_diag_grp_ICD10, tekst | 1978 - |
+| dimcancergruppering_nordcan | cancer_diag_grp_nordcan | NORDCAN gruppering af ICD-koden og morfologi | 1943 - |
+| dimcancergruppering_nordcan | cancer_diag_grp_nordcan_tekst | Cancer_diag_grp_NORDCAN, tekst | 1943 - |
 :::
 
 ::: {.callout-warning collapse="true"}
 ## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-)
 
-| Tabel              | Variabel                 | Indhold                                                                                                                                                                         | Gyldighed |
-| ------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| epiddv_vaccinedata | cpr                      | CPR-nummer                                                                                                                                                                      | 1996 -    |
-| epiddv_vaccinedata | atccode                  | International kode for lægemidler og vacciner (vedligeholdt af WHO)                                                                                                             | 1996 -    |
-| epiddv_vaccinedata | atctext                  | Tekstbeskrivelse for den internationale kode for lægemidler og vaccinationer, atc-koden (vedligeholdt af WHO)                                                                   | 1996 -    |
-| epiddv_vaccinedata | drugid                   | Unikt dansk ID for et lægemiddel eller en vaccine                                                                                                                               | 1996 -    |
-| epiddv_vaccinedata | drugname                 | Tekstbeskrivelse for det unikke danske ID for et lægemiddel eller en vaccine, drugid                                                                                            | 1996 -    |
-| epiddv_vaccinedata | effectuationdate         | Dato for administration af vaccinen                                                                                                                                             | 1996 -    |
-| epiddv_vaccinedata | vaccinationidentifier    | Unikt ID i vaccinationstabel. Oplysning om, at der er givet en vaccine                                                                                                          | 1996 -    |
-| epiddv_vaccinedata | vaccinename              | Navn på vaccine                                                                                                                                                                 | 1996 -    |
-| epiddv_vaccinedata | credibilityindicator     | Talværdi som indikerer, hvem der har oprettet registreringen af vaccinen. Angiver troværdigheden af registreringen<br>Jo højere værdi, jo højere troværdighed af registreringen | 1996 -    |
-| epiddv_vaccinedata | credibilityindicatortext | Tekstbeskrivelse af credibilityindicator som indikerer, hvem der har oprettet registreringen af vaccinen                                                                        | 1996 -    |
-| epiddv_vaccinedata | effectuatedincountrycode | Landekode for det land, hvor vaccinen er administreret.<br>Denne variabel benytter ISO landekoder (ISO 3166) med 2-bogstavs kode, fx DK for Danmark                             | 1996 -    |
-| epiddv_vaccinedata | dosageoptionname         | Information om dosering af vaccinen                                                                                                                                             | 1996 -    |
-| epiddv_vaccinedata | servicecode              | Ydelseskode fra Sygesikringsregisteret (SSR)       
-                                          | 1996 -    |
+| Tabel | Variabel | Indhold | Gyldighed |
+|---------|---------|---------------------------------------------|---------|
+| epiddv_vaccinedata | cpr | CPR-nummer | 1996 - |
+| epiddv_vaccinedata | atccode | International kode for lægemidler og vacciner (vedligeholdt af WHO) | 1996 - |
+| epiddv_vaccinedata | atctext | Tekstbeskrivelse for den internationale kode for lægemidler og vaccinationer, atc-koden (vedligeholdt af WHO) | 1996 - |
+| epiddv_vaccinedata | drugid | Unikt dansk ID for et lægemiddel eller en vaccine | 1996 - |
+| epiddv_vaccinedata | drugname | Tekstbeskrivelse for det unikke danske ID for et lægemiddel eller en vaccine, drugid | 1996 - |
+| epiddv_vaccinedata | effectuationdate | Dato for administration af vaccinen | 1996 - |
+| epiddv_vaccinedata | vaccinationidentifier | Unikt ID i vaccinationstabel. Oplysning om, at der er givet en vaccine | 1996 - |
+| epiddv_vaccinedata | vaccinename | Navn på vaccine | 1996 - |
+| epiddv_vaccinedata | credibilityindicator | Talværdi som indikerer, hvem der har oprettet registreringen af vaccinen. Angiver troværdigheden af registreringen<br>Jo højere værdi, jo højere troværdighed af registreringen | 1996 - |
+| epiddv_vaccinedata | credibilityindicatortext | Tekstbeskrivelse af credibilityindicator som indikerer, hvem der har oprettet registreringen af vaccinen | 1996 - |
+| epiddv_vaccinedata | effectuatedincountrycode | Landekode for det land, hvor vaccinen er administreret.<br>Denne variabel benytter ISO landekoder (ISO 3166) med 2-bogstavs kode, fx DK for Danmark | 1996 - |
+| epiddv_vaccinedata | dosageoptionname | Information om dosering af vaccinen | 1996 - |
+| epiddv_vaccinedata | servicecode | Ydelseskode fra Sygesikringsregisteret (SSR) | 1996 -  |
 :::
 
 ::: {.callout-warning collapse="true"}
 ## Laboratoriedatabasen - LAB (2008-)
 
-| Tabel             | Variabel                     | Indhold                                                                                                                   | Gyldighed |
-| ----------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
-| lab_dm_forsker    | patient_cpr                  | CPR-nummer                                                                                                                | 2008 -    |
-| lab_dm_forsker    | rekvirent_id                 | ID for rekvirent                                                                                                          | 2008 -    |
-| lab_dm_forsker    | rekvirent_idtype             | Angiver kodetype for rekvirent_id                                                                                         | 2008 -    |
-| lab_dm_forsker    | samplingdate                 | Prøvetagningsdato                                                                                                         | 2008 -    |
-| lab_dm_forsker    | samplingtime                 | Prøvetagningstidspunkt                                                                                                    | 2008 -    |
-| lab_dm_forsker    | laboratorium_idcode          | Producerende laboratorie                                                                                                  | 2008 -    |
-| lab_dm_forsker    | analysiscode                 | NPU/DNK-kode for den målte kvantitet                                                                                      | 2008 -    |
-| lab_dm_forsker    | unit                         | Enhed for indholdet i value                                                                                               | 2008 -    |
-| lab_dm_forsker    | value                        | Analyseresultat i tal eller tekst                                                                                         | 2008 -    |
-| lab_dm_forsker    | operator                     | Kvalifikator, der angiver, om det præcise resultat er ”større end” eller ”mindre end” den værdi, der er angivet i ’value’ | 2008 -    |
-| lab_dm_forsker    | resulttype                   | Angiver om analyseresultat er numerisk eller alfanumerisk                                                                 | 2008 -    |
-| lab_dm_forsker    | referenceinterval_lowerlimit | Nedre grænse for referenceintervallet for analyseresultatet                                                               | 2008 -    |
-| lab_dm_forsker    | referenceinterval_upperlimit | Øvre grænse for referenceintervallet for analyseresultatet                                                                | 2008 -    |
-| lab_dm_forsker    | resultvalidation             | Autogenereret validering af prøveresultatet i forhold til referenceintervallet for den specifikke analyse                 | 2008 -    |
-| lab_dm_labidcodes | idcode                       | Producerende laboratorie, kode                                                                                            | 2008 -    |
-| lab_dm_labidcodes | laboratorium                 | Producerende laboratorie, tekst                                                                                           | 2008 -    |
-| lab_dm_labidcodes | region                       | Region, tekst                                                                                                             | 2008 -    |
-| lab_dm_labidcodes | speciale                     | Laboratoriets speciale, tekst                                                                                             | 2008 -    |
-| lab_dm_optaelling | laboratorium                 | Producerende laboratorie                                                                                                  | 2008 -    |
-| lab_dm_optaelling | speciale                     | Laboratoriets speciale, tekst                                                                                             | 2008 -    |
-| lab_dm_optaelling | region                       | Region, tekst                                                                                                             | 2008 -    |
-| lab_dm_optaelling | kvartal\*                    | Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem)                    | 2008 -    |
+| Tabel | Variabel | Indhold | Gyldighed |
+|-----------|-----------|----------------------------------------|-----------|
+| lab_dm_forsker | patient_cpr | CPR-nummer | 2008 - |
+| lab_dm_forsker | rekvirent_id | ID for rekvirent | 2008 - |
+| lab_dm_forsker | rekvirent_idtype | Angiver kodetype for rekvirent_id | 2008 - |
+| lab_dm_forsker | samplingdate | Prøvetagningsdato | 2008 - |
+| lab_dm_forsker | samplingtime | Prøvetagningstidspunkt | 2008 - |
+| lab_dm_forsker | laboratorium_idcode | Producerende laboratorie | 2008 - |
+| lab_dm_forsker | analysiscode | NPU/DNK-kode for den målte kvantitet | 2008 - |
+| lab_dm_forsker | unit | Enhed for indholdet i value | 2008 - |
+| lab_dm_forsker | value | Analyseresultat i tal eller tekst | 2008 - |
+| lab_dm_forsker | operator | Kvalifikator, der angiver, om det præcise resultat er ”større end” eller ”mindre end” den værdi, der er angivet i ’value’ | 2008 - |
+| lab_dm_forsker | resulttype | Angiver om analyseresultat er numerisk eller alfanumerisk | 2008 - |
+| lab_dm_forsker | referenceinterval_lowerlimit | Nedre grænse for referenceintervallet for analyseresultatet | 2008 - |
+| lab_dm_forsker | referenceinterval_upperlimit | Øvre grænse for referenceintervallet for analyseresultatet | 2008 - |
+| lab_dm_forsker | resultvalidation | Autogenereret validering af prøveresultatet i forhold til referenceintervallet for den specifikke analyse | 2008 - |
+| lab_dm_labidcodes | idcode | Producerende laboratorie, kode | 2008 - |
+| lab_dm_labidcodes | laboratorium | Producerende laboratorie, tekst | 2008 - |
+| lab_dm_labidcodes | region | Region, tekst | 2008 - |
+| lab_dm_labidcodes | speciale | Laboratoriets speciale, tekst | 2008 - |
+| lab_dm_optaelling | laboratorium | Producerende laboratorie | 2008 - |
+| lab_dm_optaelling | speciale | Laboratoriets speciale, tekst | 2008 - |
+| lab_dm_optaelling | region | Region, tekst | 2008 - |
+| lab_dm_optaelling | kvartal\* | Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem) | 2008 - |
 :::
 
-NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply DHDA to get permission to use the data. 
+NOTE: The Drug Statistics Register (LMDB) are described under DST, as
+variables from this register are added through the project application
+in DDV. However, you still need to apply DHDA to get permission to use
+the data.

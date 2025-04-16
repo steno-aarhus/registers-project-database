@@ -3,33 +3,50 @@ title: "Onboarding to Statistics Denmark"
 description: Information on how to get access to Statistics Denmark
 ---
 
-To become a registered user at Statistics Denmark you have to contact either:
+To become a registered user at Statistics Denmark you have to contact
+either:
 
 -   Kasper Norman ([KANOAN\@rm.dk](mailto:KANOAN@rm.dk){.email}) or
--   Marie Kempf Frydendahl ([MAIPEE\@rm.dk](mailto:MAIPEE@rm.dk){.email})
+-   Marie Kempf Frydendahl
+    ([MAIPEE\@rm.dk](mailto:MAIPEE@rm.dk){.email})
 
 ## Affiliation agreement
 
-To get access you need an affiliation agreement to SDCA's authorization at DST (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use your DST ident from there. Otherwise we need the following information to get you registred:
+To get access you need an affiliation agreement to SDCA's authorization
+at DST (aut. 574). If you previously have been a registered user at
+Statistics Denmark, you can use your DST ident from there. Otherwise we
+need the following information to get you registered:
 
 -   Full name
 -   Email address
 -   Phone number
 
-In addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also get help to log on for the first time.
+In addition to this, you will need a short introduction from one of us
+about data security when working with microdata at Statistics Denmark.
+Here you can also get help to log on for the first time.
 
 ## Access to Statistics Denmark
 
-When your affiliation agreement is approved you will receive an email with information on how to log in for the first time. You can also find relevant instructions here:
+When your affiliation agreement is approved you will receive an email
+with information on how to log in for the first time. You can also find
+relevant instructions here:
 
-[Guide to logging in](https://www.dst.dk/da/TilSalg/data-til-forskning/analyseplatform/forskermaskinen)
+[Guide to logging
+in](https://www.dst.dk/da/TilSalg/data-til-forskning/analyseplatform/forskermaskinen)
 
-When logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time here:
+When logged in to Remote.dst.dk you can log in to Danmarks Datavindue -
+DDV. Read more about how to log in to DDV for the first time here:
 
-[Login Danmarks Datavindue](https://www.dst.dk/da/TilSalg/data-til-forskning/brugeradgang/login-i-danmarks-datavindue)
+[Login Danmarks
+Datavindue](https://www.dst.dk/da/TilSalg/data-til-forskning/brugeradgang/login-i-danmarks-datavindue)
 
-The first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at DST with 10 questions. You can read more about the quiz here:
+The first time you log in, you need to approve your user agreement. It
+will pop up automatically. To get final access to data, you need to pass
+a certification quiz about the data security rules at DST with 10
+questions. You can read more about the quiz here:
 
-[Certificering af brugere](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/om-danmarks-datavindue/certificering-af-brugere)
+[Certificering af
+brugere](https://www.dst.dk/da/TilSalg/Forskningsservice/danmarks-datavindue/om-danmarks-datavindue/certificering-af-brugere)
 
-When you have passed the certification you can get access to a specific project at Statistics Denmark's server.
+When you have passed the certification you can get access to a specific
+project at Statistics Denmark's server.
