@@ -294,7 +294,7 @@
     "href": "getting-started/payment/index.html#cost-for-data",
     "title": "Payment",
     "section": "Cost for data",
-    "text": "Cost for data\nData from DST:\n\nIf you only apply for data already in the project database, there will be no extra cost.\nIf you need data not included in the project database (e.g. data from DDV) the project must pay for it separately.\n\nData from DHDA: - If you only apply for data already in the project database, the project must pay for the time DHDA spends processing the application. - If you need registers from DHDA not included in the project database the project must pay for it separately.",
+    "text": "Cost for data\nData from DST:\n\nIf you only apply for data already in the project database, there will be no extra cost.\nIf you need data not included in the project database (e.g. data from DDV) the project must pay for it separately.\n\nData from DHDA:\n\nIf you only apply for data already in the project database, the project must pay for the time DHDA spends processing the application.\nIf you need registers from DHDA not included in the project database the project must pay for it separately.",
     "crumbs": [
       "Getting started",
       "Payment"
@@ -305,7 +305,7 @@
     "href": "getting-started/payment/index.html#other-costs",
     "title": "Payment",
     "section": "Other costs",
-    "text": "Other costs",
+    "text": "Other costs\nIn addition to the costs mentioned, there are costs associated with uploading your own data, special requests for data, etc.",
     "crumbs": [
       "Getting started",
       "Payment"
