@@ -5,8 +5,16 @@ description: Information on payment when setting up a new project under the proj
 One great benefit of having a project database is that it can minimize the costs of data, which usually can be very high. However, when setting up a project, you should expect a small cost depending on the project. 
 On this page you can get an idea of what your project will cost.
 
-## Basic cost for all projects: 
+## Basic cost for all projects 
   -  Basic fee for setting up a new project: xx kr.
   -  A yearly fee for storage of data (depending on the amout of data on the project).
 
-## Cost for data:
+## Cost for data
+Data from DST:
+  -  If you only apply for data already in the project database, there will be no extra cost.
+  -  If you need data not included in the project database (e.g. data from DDV) the project must pay for it separately.
+Data from DHDA:
+  -  If you only apply for data already in the project database, the project must pay for the time DHDA spends processing the application.
+  -  If you need registers from DHDA not included in the project database the project must pay for it separately.
+
+## Other costs
