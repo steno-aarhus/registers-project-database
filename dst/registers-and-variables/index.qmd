@@ -19,22 +19,22 @@ Below you will find a full describtion of all DST registers and variables in the
 
 | Variable name     | Variable label                                                         | Start year | Endyear |
 | ----------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2016    |
-| ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2016    |
-| CPRTJEK           | CPR-tjek                                                               | 2008       | 2016    |
-| CPRTYPE           | CPR-type                                                               | 2008       | 2016    |
-| CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2016    |
-| FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2016    |
-| FTI_MARK          | FTI_MARK                                                               | 2008       | 2016    |
-| HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2016    |
-| LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2016    |
-| MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2016    |
-| PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2016    |
-| PNR               | Personnummer                                                           | 2008       | 2016    |
-| PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2016    |
-| SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2016    |
-| VERSION           | VERSION                                                                | 2008       | 2016    |
-| VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2016    |
+| AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2023    |
+| ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2023    |
+| CPRTJEK           | CPR-tjek                                                               | 2008       | 2023    |
+| CPRTYPE           | CPR-type                                                               | 2008       | 2023    |
+| CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2023    |
+| FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2023    |
+| FTI_MARK          | FTI_MARK                                                               | 2008       | 2023    |
+| HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2023    |
+| LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2023    |
+| MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2023    |
+| PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2023    |
+| PNR               | Personnummer                                                           | 2008       | 2023    |
+| PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2023    |
+| SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2023    |
+| VERSION           | VERSION                                                                | 2008       | 2023    |
+| VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -3814,17 +3814,17 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |          | Variable name  | Variable label | Start year | Endyear |
 | -------- | -------------- | -------------- | ---------- | ------- |
-| FTFORAEL | ADOP           | ADOP           |            | 2018    |
-| FTFORAEL | CPRTJEK        | CPR-tjek       |            | 2018    |
-| FTFORAEL | CPRTYPE        | CPR-type       |            | 2018    |
-| FTFORAEL | DOED_DATO      | DOED_DATO      |            | 2018    |
-| FTFORAEL | ENKELT_PARITET | ENKELT_PARITET |            | 2018    |
-| FTFORAEL | FOED_DAG       | FOED_DAG       |            | 2018    |
-| FTFORAEL | FORAELDER_PNR  | PNR            |            | 2018    |
-| FTFORAEL | MDOED          | MDOED          |            | 2018    |
-| FTFORAEL | MOR_FAR        | MOR_FAR        |            | 2018    |
-| FTFORAEL | PNR            | PNR            |            | 2018    |
-| FTFORAEL | VERSION        | VERSION        |            | 2018    |
+| FTFORAEL | ADOP           | ADOP           |            | 2019    |
+| FTFORAEL | CPRTJEK        | CPR-tjek       |            | 2019    |
+| FTFORAEL | CPRTYPE        | CPR-type       |            | 2019    |
+| FTFORAEL | DOED_DATO      | DOED_DATO      |            | 2019    |
+| FTFORAEL | ENKELT_PARITET | ENKELT_PARITET |            | 2019    |
+| FTFORAEL | FOED_DAG       | FOED_DAG       |            | 2019    |
+| FTFORAEL | FORAELDER_PNR  | PNR            |            | 2019    |
+| FTFORAEL | MDOED          | MDOED          |            | 2019    |
+| FTFORAEL | MOR_FAR        | MOR_FAR        |            | 2019    |
+| FTFORAEL | PNR            | PNR            |            | 2019    |
+| FTFORAEL | VERSION        | VERSION        |            | 2019    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4315,6 +4315,67 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
+## LPR_A_BETALINGSOPLYSNINGER
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_DIAGNOSE
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_FORLOEB
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_FORLOEBSMARKOER
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_HENVISNING_TILLAEG
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_KONTAKT
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_KONTAKTLOKATION
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_MOR_BARN_RELATION
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_PROCREGISTRERING
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_PROCREGISTRERING_AFLYS
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_RESULTATER
+
+:::
+
+::: {.callout-warning collapse="true"}
+## LPR_A_SGHOPHOLD
+
+:::
+
+
+::: {.callout-warning collapse="true"}
 ## LPR_ADM 1977-2019
 
 | LPR_ADM | C_ADIAG       | Aktionsdiagnose                                                | 1977 | 2019 |
@@ -4394,304 +4455,6 @@ Below you will find a full describtion of all DST registers and variables in the
 | LPR_DIAG | LEVERANCEDATO | DST leverancedato    | 1977       | 2019    |
 | LPR_DIAG | RECNUM        | LPR-identnummer      | 1977       | 2019    |
 | LPR_DIAG | VERSION       | DST Version          | 1977       | 2019    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_DIAGNOSER 2022
-
-|                 | Variable name       | Variable label      | Start year | Endyear |
-| --------------- | ------------------- | ------------------- | ---------- | ------- |
-| LPR_F_DIAGNOSER | DIAGNOSEKODE        | diagnosekode        |            | 2022    |
-| LPR_F_DIAGNOSER | DIAGNOSEKODE_PARENT | diagnosekode_parent |            | 2022    |
-| LPR_F_DIAGNOSER | DIAGNOSETYPE        | diagnosetype        |            | 2022    |
-| LPR_F_DIAGNOSER | DIAGNOSETYPE_PARENT | diagnosetype_parent |            | 2022    |
-| LPR_F_DIAGNOSER | DW_EK_KONTAKT       | INGEN LABEL         |            | 2022    |
-| LPR_F_DIAGNOSER | SENERE_AFKRAEFTET   | senere_afkraeftet   |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_FORLOEB 2022
-
-|               | Variable name          | Variable label         | Start year | Endyear |
-| ------------- | ---------------------- | ---------------------- | ---------- | ------- |
-| LPR_F_FORLOEB | AFSLUTNINGSMAADE       | afslutningsmaade       |            | 2022    |
-| LPR_F_FORLOEB | ALDER_DAGE_SLUT        | alder_dage_slut        |            | 2022    |
-| LPR_F_FORLOEB | ALDER_DAGE_START       | alder_dage_start       |            | 2022    |
-| LPR_F_FORLOEB | ALDER_SLUT             | alder_slut             |            | 2022    |
-| LPR_F_FORLOEB | ALDER_START            | alder_start            |            | 2022    |
-| LPR_F_FORLOEB | CPRTJEK                | CPR-tjek               |            | 2022    |
-| LPR_F_FORLOEB | CPRTYPE                | CPR-type               |            | 2022    |
-| LPR_F_FORLOEB | DATO_HENVISNING        | dato_henvisning        |            | 2022    |
-| LPR_F_FORLOEB | DATO_INDBERETNING      | dato_indberetning      |            | 2022    |
-| LPR_F_FORLOEB | DATO_SLUT              | dato_slut              |            | 2022    |
-| LPR_F_FORLOEB | DATO_START             | dato_start             |            | 2022    |
-| LPR_F_FORLOEB | DW_EK_FORLOEB          | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | DW_EK_HELBREDSFORLOEB  | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | ENHEDSTYPE_ANS         | enhedstype_ans         |            | 2022    |
-| LPR_F_FORLOEB | ENHEDSTYPE_HEN         | enhedstype_hen         |            | 2022    |
-| LPR_F_FORLOEB | ENHEDSTYPE_IND         | enhedstype_ind         |            | 2022    |
-| LPR_F_FORLOEB | FORLOEBLABEL           | forloeblabel           |            | 2022    |
-| LPR_F_FORLOEB | HENVISNING_FRITVALG    | henvisning_fritvalg    |            | 2022    |
-| LPR_F_FORLOEB | HENVISNINGSMAADE       | henvisningsmaade       |            | 2022    |
-| LPR_F_FORLOEB | HENVISNINGSAARSAG      | henvisningsaarsag      |            | 2022    |
-| LPR_F_FORLOEB | HOVEDSPECIALE_ANS      | hovedspeciale_ans      |            | 2022    |
-| LPR_F_FORLOEB | HOVEDSPECIALE_HEN      | hovedspeciale_hen      |            | 2022    |
-| LPR_F_FORLOEB | HOVEDSPECIALE_IND      | hovedspeciale_ind      |            | 2022    |
-| LPR_F_FORLOEB | KOEN                   | koen                   |            | 2022    |
-| LPR_F_FORLOEB | LPR_ENTITY_ID          | lpr_entity_id          |            | 2022    |
-| LPR_F_FORLOEB | PNR                    | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | REGION_ANS             | region_ans             |            | 2022    |
-| LPR_F_FORLOEB | REGION_HEN             | region_hen             |            | 2022    |
-| LPR_F_FORLOEB | REGION_IND             | region_ind             |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFD_ANS           | shak_afd_ans           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFD_HEN           | shak_afd_hen           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFD_IND           | shak_afd_ind           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFS_ANS           | shak_afs_ans           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFS_HEN           | shak_afs_hen           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_AFS_IND           | shak_afs_ind           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_SGH_ANS           | shak_sgh_ans           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_SGH_HEN           | shak_sgh_hen           |            | 2022    |
-| LPR_F_FORLOEB | SHAK_SGH_IND           | shak_sgh_ind           |            | 2022    |
-| LPR_F_FORLOEB | SORENHED_ANS           | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | SORENHED_HEN           | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | SORENHED_IND           | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEB | TIDSPUNKT_HENVISNING   | tidspunkt_henvisning   |            | 2022    |
-| LPR_F_FORLOEB | TIDSPUNKT_INDBERETNING | tidspunkt_indberetning |            | 2022    |
-| LPR_F_FORLOEB | TIDSPUNKT_SLUT         | tidspunkt_slut         |            | 2022    |
-| LPR_F_FORLOEB | TIDSPUNKT_START        | tidspunkt_start        |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_FORLOEBSMARKOERER 2022
-
-|                         | Variable name          | Variable label         | Start year | Endyear |
-| ----------------------- | ---------------------- | ---------------------- | ---------- | ------- |
-| LPR_F_FORLOEBSMARKOERER | DATO_INDBERETNING      | dato_indberetning      |            | 2022    |
-| LPR_F_FORLOEBSMARKOERER | DATO_MARKOER           | dato_markoer           |            | 2022    |
-| LPR_F_FORLOEBSMARKOERER | DW_EK_FORLOEB          | INGEN LABEL            |            | 2022    |
-| LPR_F_FORLOEBSMARKOERER | MARKOER                | markoer                |            | 2022    |
-| LPR_F_FORLOEBSMARKOERER | TIDSPUNKT_INDBERETNING | tidspunkt_indberetning |            | 2022    |
-| LPR_F_FORLOEBSMARKOERER | TIDSPUNKT_MARKOER      | tidspunkt_markoer      |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_HENVISNING_TILLAEG 2022
-
-|                          | Variable name | Variable label | Start year | Endyear |
-| ------------------------ | ------------- | -------------- | ---------- | ------- |
-| LPR_F_HENVISNING_TILLAEG | DW_EK_FORLOEB | INGEN LABEL    |            | 2022    |
-| LPR_F_HENVISNING_TILLAEG | TILLAEGSKODE  | tillaegskode   |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_KONTAKTER 2022
-
-|                 | Variable name              | Variable label             | Start year | Endyear |
-| --------------- | -------------------------- | -------------------------- | ---------- | ------- |
-| LPR_F_KONTAKTER | AKTIONSDIAGNOSE            | aktionsdiagnose            |            | 2022    |
-| LPR_F_KONTAKTER | ALDER_DAGE_SLUT            | alder_dage_slut            |            | 2022    |
-| LPR_F_KONTAKTER | ALDER_DAGE_START           | alder_dage_start           |            | 2022    |
-| LPR_F_KONTAKTER | ALDER_SLUT                 | alder_slut                 |            | 2022    |
-| LPR_F_KONTAKTER | ALDER_START                | alder_start                |            | 2022    |
-| LPR_F_KONTAKTER | CPRTJEK                    | CPR-tjek                   |            | 2022    |
-| LPR_F_KONTAKTER | CPRTYPE                    | CPR-type                   |            | 2022    |
-| LPR_F_KONTAKTER | DATO_BEHANDLING_START      | dato_behandling_start      |            | 2022    |
-| LPR_F_KONTAKTER | DATO_HENVISNING            | dato_henvisning            |            | 2022    |
-| LPR_F_KONTAKTER | DATO_INDBERETNING          | dato_indberetning          |            | 2022    |
-| LPR_F_KONTAKTER | DATO_SLUT                  | dato_slut                  |            | 2022    |
-| LPR_F_KONTAKTER | DATO_START                 | dato_start                 |            | 2022    |
-| LPR_F_KONTAKTER | DW_EK_FORLOEB              | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | DW_EK_KONTAKT              | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | ENHEDSTYPE_ANS             | enhedstype_ans             |            | 2022    |
-| LPR_F_KONTAKTER | ENHEDSTYPE_HEN             | enhedstype_hen             |            | 2022    |
-| LPR_F_KONTAKTER | ENHEDSTYPE_IND             | enhedstype_ind             |            | 2022    |
-| LPR_F_KONTAKTER | HENVISNING_FRITVALG        | henvisning_fritvalg        |            | 2022    |
-| LPR_F_KONTAKTER | HENVISNINGSMAADE           | henvisningsmaade           |            | 2022    |
-| LPR_F_KONTAKTER | HENVISNINGSAARSAG          | henvisningsaarsag          |            | 2022    |
-| LPR_F_KONTAKTER | HOVEDSPECIALE_ANS          | hovedspeciale_ans          |            | 2022    |
-| LPR_F_KONTAKTER | HOVEDSPECIALE_HEN          | hovedspeciale_hen          |            | 2022    |
-| LPR_F_KONTAKTER | HOVEDSPECIALE_IND          | hovedspeciale_ind          |            | 2022    |
-| LPR_F_KONTAKTER | KOEN                       | koen                       |            | 2022    |
-| LPR_F_KONTAKTER | KONTAKTTYPE                | kontakttype                |            | 2022    |
-| LPR_F_KONTAKTER | KONTAKTAARSAG              | kontaktaarsag              |            | 2022    |
-| LPR_F_KONTAKTER | LPR_ENTITY_ID              | lpr_entity_id              |            | 2022    |
-| LPR_F_KONTAKTER | PNR                        | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | PRIORITET                  | prioritet                  |            | 2022    |
-| LPR_F_KONTAKTER | REGION_ANS                 | region_ans                 |            | 2022    |
-| LPR_F_KONTAKTER | REGION_HEN                 | region_hen                 |            | 2022    |
-| LPR_F_KONTAKTER | REGION_IND                 | region_ind                 |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFD_ANS               | shak_afd_ans               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFD_HEN               | shak_afd_hen               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFD_IND               | shak_afd_ind               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFS_ANS               | shak_afs_ans               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFS_HEN               | shak_afs_hen               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_AFS_IND               | shak_afs_ind               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_SGH_ANS               | shak_sgh_ans               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_SGH_HEN               | shak_sgh_hen               |            | 2022    |
-| LPR_F_KONTAKTER | SHAK_SGH_IND               | shak_sgh_ind               |            | 2022    |
-| LPR_F_KONTAKTER | SORENHED_ANS               | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | SORENHED_HEN               | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | SORENHED_IND               | INGEN LABEL                |            | 2022    |
-| LPR_F_KONTAKTER | TIDSPUNKT_BEHANDLING_START | tidspunkt_behandling_start |            | 2022    |
-| LPR_F_KONTAKTER | TIDSPUNKT_HENVISNING       | tidspunkt_henvisning       |            | 2022    |
-| LPR_F_KONTAKTER | TIDSPUNKT_INDBERETNING     | tidspunkt_indberetning     |            | 2022    |
-| LPR_F_KONTAKTER | TIDSPUNKT_SLUT             | tidspunkt_slut             |            | 2022    |
-| LPR_F_KONTAKTER | TIDSPUNKT_START            | tidspunkt_start            |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_MORBARNFORLOEB 2022
-
-|                      | Variable name        | Variable label    | Start year | Endyear |
-| -------------------- | -------------------- | ----------------- | ---------- | ------- |
-| LPR_F_MORBARNFORLOEB | CPR_BARN             | INGEN LABEL       |            | 2022    |
-| LPR_F_MORBARNFORLOEB | CPR_MOR              | INGEN LABEL       |            | 2022    |
-| LPR_F_MORBARNFORLOEB | CPRTJEK              | CPR-tjek          |            | 2022    |
-| LPR_F_MORBARNFORLOEB | CPRTYPE              | CPR-type          |            | 2022    |
-| LPR_F_MORBARNFORLOEB | DATO_START_BARN      | dato_start_barn   |            | 2022    |
-| LPR_F_MORBARNFORLOEB | DW_EK_FORLOEB_BARN   | INGEN LABEL       |            | 2022    |
-| LPR_F_MORBARNFORLOEB | DW_EK_FORLOEB_MOR    | INGEN LABEL       |            | 2022    |
-| LPR_F_MORBARNFORLOEB | DW_EK_MORBARNFORLOEB | INGEN LABEL       |            | 2022    |
-| LPR_F_MORBARNFORLOEB | FORLOEBLABEL_BARN    | forloeblabel_barn |            | 2022    |
-| LPR_F_MORBARNFORLOEB | FORLOEBLABEL_MOR     | forloeblabel_mor  |            | 2022    |
-| LPR_F_MORBARNFORLOEB | KOEN_BARN            | koen_barn         |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_NYT_HELBREDSFORLOEB 2022
-
-|                           | Variable name             | Variable label           | Start year | Endyear |
-| ------------------------- | ------------------------- | ------------------------ | ---------- | ------- |
-| LPR_F_NYT_HELBREDSFORLOEB | DATO_HENVISNING_NYT       | dato_henvisning_nyt      |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | DW_EK_FORLOEB_FORRIGE     | INGEN LABEL              |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | DW_EK_FORLOEB_NYT         | INGEN LABEL              |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | DW_EK_NYT_HELBREDSFORLOEB | INGEN LABEL              |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | FORLOEBLABEL_FORRIGE      | forloeblabel_forrige     |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | FORLOEBLABEL_NYT          | forloeblabel_nyt         |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | HENVISNINGSAARSAG_NYT     | henvisningsaarsag_nyt    |            | 2022    |
-| LPR_F_NYT_HELBREDSFORLOEB | TIDSPUNKT_HENVISNING_NYT  | tidspunkt_henvisning_nyt |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_ORGANISATIONER 2022
-
-|                      | Variable name         | Variable label        | Start year | Endyear |
-| -------------------- | --------------------- | --------------------- | ---------- | ------- |
-| LPR_F_ORGANISATIONER | DATO_LUKKET           | dato_lukket           |            | 2022    |
-| LPR_F_ORGANISATIONER | GYLDIG_FRA            | gyldig_fra            |            | 2022    |
-| LPR_F_ORGANISATIONER | GYLDIG_TIL            | gyldig_til            |            | 2022    |
-| LPR_F_ORGANISATIONER | HOVEDSPECIALE         | hovedspeciale         |            | 2022    |
-| LPR_F_ORGANISATIONER | INSTITUTIONSEJER      | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | INSTITUTIONSEJER_TYPE | institutionsejer_type |            | 2022    |
-| LPR_F_ORGANISATIONER | KODETYPE              | kodetype              |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU1     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU2     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU3     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU4     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU5     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU6     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | ORG_ENHED_NIVEAU7     | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | REGION                | region                |            | 2022    |
-| LPR_F_ORGANISATIONER | SHAK_AFD              | shak_afd              |            | 2022    |
-| LPR_F_ORGANISATIONER | SHAK_AFS              | shak_afs              |            | 2022    |
-| LPR_F_ORGANISATIONER | SHAK_SGH              | shak_sgh              |            | 2022    |
-| LPR_F_ORGANISATIONER | SORENHED              | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | SORENHED_TYPE         | sorenhed_type         |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE_SAMLET       | speciale_samlet       |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE2             | speciale2             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE3             | speciale3             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE4             | speciale4             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE5             | speciale5             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE6             | speciale6             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE7             | speciale7             |            | 2022    |
-| LPR_F_ORGANISATIONER | SPECIALE8             | speciale8             |            | 2022    |
-| LPR_F_ORGANISATIONER | SUNDHEDSINSTITUTION   | INGEN LABEL           |            | 2022    |
-| LPR_F_ORGANISATIONER | YDERNUMMER            | INGEN LABEL           |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_PROCEDURER_ANDRE 2022
-
-|                        | Variable name               | Variable label         | Start year | Endyear |
-| ---------------------- | --------------------------- | ---------------------- | ---------- | ------- |
-| LPR_F_PROCEDURER_ANDRE | DATO_INDBERETNING           | dato_indberetning      |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | DATO_SLUT                   | dato_slut              |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | DATO_START                  | dato_start             |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | DW_EK_FORLOEB               | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | DW_EK_KONTAKT               | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | ENHEDSTYPE_PRO              | enhedstype_pro         |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | HOVEDSPECIALE_PRO           | hovedspeciale_pro      |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | KONTRAST                    | kontrast               |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | PROCEDUREKODE               | procedurekode          |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | PROCEDUREKODE_PARENT        | procedurekode_parent   |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | PROCEDUREREGISTRERING_ID    | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | PROCEDURETYPE               | proceduretype          |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | PROCEDURETYPE_PARENT        | proceduretype_parent   |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | REGION_PRO                  | region_pro             |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | SHAK_AFD_PRO                | shak_afd_pro           |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | SHAK_AFS_PRO                | shak_afs_pro           |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | SHAK_SGH_PRO                | shak_sgh_pro           |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | SORENHED_PRO                | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_INDBERETNING      | tidspunkt_indberetning |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_SLUT              | tidspunkt_slut         |            | 2022    |
-| LPR_F_PROCEDURER_ANDRE | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_PROCEDURER_KIRURGI 2022
-
-|                          | Variable name               | Variable label         | Start year | Endyear |
-| ------------------------ | --------------------------- | ---------------------- | ---------- | ------- |
-| LPR_F_PROCEDURER_KIRURGI | DATO_INDBERETNING           | dato_indberetning      |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | DATO_SLUT                   | dato_slut              |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | DATO_START                  | dato_start             |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | DW_EK_FORLOEB               | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | DW_EK_KONTAKT               | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | ENHEDSTYPE_PRO              | enhedstype_pro         |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | HOVEDSPECIALE_PRO           | hovedspeciale_pro      |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | KONTRAST                    | kontrast               |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | PROCEDUREKODE               | procedurekode          |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | PROCEDUREKODE_PARENT        | procedurekode_parent   |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | PROCEDUREREGISTRERING_ID    | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | PROCEDURETYPE               | proceduretype          |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | PROCEDURETYPE_PARENT        | proceduretype_parent   |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | REGION_PRO                  | region_pro             |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | SHAK_AFD_PRO                | shak_afd_pro           |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | SHAK_AFS_PRO                | shak_afs_pro           |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | SHAK_SGH_PRO                | shak_sgh_pro           |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | SORENHED_PRO                | INGEN LABEL            |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_INDBERETNING      | tidspunkt_indberetning |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_SLUT              | tidspunkt_slut         |            | 2022    |
-| LPR_F_PROCEDURER_KIRURGI | TIDSPUNKT_START             | tidspunkt_start        |            | 2022    |
-:::
-
-::: {.callout-warning collapse="true"}
-## LPR_F_RESULTATER 2022
-
-|                  | Variable name          | Variable label         | Start year | Endyear |
-| ---------------- | ---------------------- | ---------------------- | ---------- | ------- |
-| LPR_F_RESULTATER | DATO_INDBERETNING      | dato_indberetning      |            | 2022    |
-| LPR_F_RESULTATER | DATO_RESULTAT          | dato_resultat          |            | 2022    |
-| LPR_F_RESULTATER | DW_EK_FORLOEB          | INGEN LABEL            |            | 2022    |
-| LPR_F_RESULTATER | DW_EK_KONTAKT          | INGEN LABEL            |            | 2022    |
-| LPR_F_RESULTATER | ENHEDSTYPE_ANS         | enhedstype_ans         |            | 2022    |
-| LPR_F_RESULTATER | HOVEDSPECIALE_ANS      | hovedspeciale_ans      |            | 2022    |
-| LPR_F_RESULTATER | INDBERETNINGSSTATUS    | indberetningsstatus    |            | 2022    |
-| LPR_F_RESULTATER | INDBERETNINGSTYPE      | indberetningstype      |            | 2022    |
-| LPR_F_RESULTATER | REGION_ANS             | region_ans             |            | 2022    |
-| LPR_F_RESULTATER | RESULTATNUMMER         | resultatnummer         |            | 2022    |
-| LPR_F_RESULTATER | RESULTATTYPE           | resultattype           |            | 2022    |
-| LPR_F_RESULTATER | RESULTATVAERDI         | resultatvaerdi         |            | 2022    |
-| LPR_F_RESULTATER | SHAK_AFD_ANS           | shak_afd_ans           |            | 2022    |
-| LPR_F_RESULTATER | SHAK_AFS_ANS           | shak_afs_ans           |            | 2022    |
-| LPR_F_RESULTATER | SHAK_SGH_ANS           | shak_sgh_ans           |            | 2022    |
-| LPR_F_RESULTATER | SORENHED_ANS           | INGEN LABEL            |            | 2022    |
-| LPR_F_RESULTATER | TIDSPUNKT_INDBERETNING | tidspunkt_indberetning |            | 2022    |
-| LPR_F_RESULTATER | TIDSPUNKT_RESULTAT     | tidspunkt_resultat     |            | 2022    |
-| LPR_F_RESULTATER | TRIGGERKODE            | triggerkode            |            | 2022    |
-| LPR_F_RESULTATER | TRIGGERTYPE            | triggertype            |            | 2022    |
 :::
 
 ::: {.callout-warning collapse="true"}
