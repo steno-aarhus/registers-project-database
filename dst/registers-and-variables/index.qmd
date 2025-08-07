@@ -4317,6 +4317,22 @@ Below you will find a full describtion of all DST registers and variables in the
 ::: {.callout-warning collapse="true"}
 ## LPR_A_BETALINGSOPLYSNINGER
 
+| Variable name               | Variable label         | Start year | Endyear |
+| --------------------------- | ---------------------- | ---------- | ------- |
+| BET_AFTALE                  | BET_AFTALE             |            | 2023    |
+| BET_AFTALE_TEKST            | BET_AFTALE_TEKST       |            | 2023    |
+| BET_OPL_INDB_TIDSPUNKT      | BET_OPL_INDB_TIDSPUNKT |            | 2023    |
+| BET_OPL_SLUTTIDSPUNKT       | BET_OPL_SLUTTIDSPUNKT  |            | 2023    |
+| BET_OPL_SPEC_NIV            | BET_OPL_SPEC_NIV       |            | 2023    |
+| BET_OPL_SPEC_NIV_TEKST      | BET_OPL_SPEC_NIV_TEKST |            | 2023    |
+| BET_OPL_STARTTIDSPUNKT      | BET_OPL_STARTTIDSPUNKT |            | 2023    |
+| BETALER                     | BETALER                |            | 2023    |
+| BETALER_TEKST               | BETALER_TEKST          |            | 2023    |
+| DW_EK_BETALINGSOPLYSNING    | INGEN LABEL            |            | 2023    |
+| DW_EK_KONTAKT               | INGEN LABEL            |            | 2023    |
+| DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2023    |
+| FLAG_BET_OPL_KONT           | FLAG_BET_OPL_KONT      |            | 2023    |
+
 :::
 
 ::: {.callout-warning collapse="true"}
