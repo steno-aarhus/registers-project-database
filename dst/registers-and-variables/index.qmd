@@ -1,4 +1,4 @@
----
+--
 title: "DST Registers and variables"
 description: A description of all DST registers and variables in the projectdatabase.
 callout-appearance: minimal
@@ -4332,7 +4332,6 @@ Below you will find a full describtion of all DST registers and variables in the
 | DW_EK_KONTAKT               | INGEN LABEL            |            | 2023    |
 | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2023    |
 | FLAG_BET_OPL_KONT           | FLAG_BET_OPL_KONT      |            | 2023    |
-
 :::
 
 ::: {.callout-warning collapse="true"}
