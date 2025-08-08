@@ -1,3 +1,5 @@
+
+
 --
 title: "DST Registers and variables"
 description: A description of all DST registers and variables in the projectdatabase.
@@ -4317,18 +4319,15 @@ Below you will find a full describtion of all DST registers and variables in the
 ::: {.callout-warning collapse="true"}
 ## LPR_A_BETALINGSOPLYSNINGER
 
-
 :::
 
 ::: {.callout-warning collapse="true"}
 ## LPR_A_DIAGNOSE
 
-
 :::
 
 ::: {.callout-warning collapse="true"}
 ## LPR_A_FORLOEB
-
 
 :::
 
@@ -4376,6 +4375,7 @@ Below you will find a full describtion of all DST registers and variables in the
 ## LPR_A_SGHOPHOLD
 
 :::
+
 
 ::: {.callout-warning collapse="true"}
 ## LPR_ADM 1977-2019
