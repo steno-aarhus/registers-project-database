@@ -7,7 +7,7 @@ On this page you can get an idea of what your project will cost.
 
 ## Basic cost for all projects 
 
-  -  Basic fee for setting up a new project: xx kr.
+  -  Basic fee for setting up a new project:  3.348 Dkr.
   -  A yearly fee for storage of data (depending on the amout of data on the project).
 
 ## Cost for data
