@@ -15,43 +15,43 @@ This will take you to an Excel file on GitHub.com with the complete variable lis
 Below you will find a full describtion of all DST registers and variables in the project database
 
 ::: {.callout-warning collapse="true"}
-## AEFV	2008-2023
+## AEFV	2008-2024
 
 |      | Variable name     |  Variable label                                                        | Start year | Endyear |
 | ---- | ----------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| AEFV | AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2023    |
-| AEFV | ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2023    |
-| AEFV | CPRTJEK           | CPR-tjek                                                               | 2008       | 2023    |
-| AEFV | CPRTYPE           | CPR-type                                                               | 2008       | 2023    |
-| AEFV | CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2023    |
-| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2023    |
-| AEFV | FTI_MARK          | FTI_MARK                                                               | 2008       | 2023    |
-| AEFV | HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2023    |
-| AEFV | LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2023    |
-| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2023    |
-| AEFV | PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2023    |
-| AEFV | PNR               | Personnummer                                                           | 2008       | 2023    |
-| AEFV | PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2023    |
-| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2023    |
-| AEFV | VERSION           | VERSION                                                                | 2008       | 2023    |
-| AEFV | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2023    |
+| AEFV | AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2024    |
+| AEFV | ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2024    |
+| AEFV | CPRTJEK           | CPR-tjek                                                               | 2008       | 2024    |
+| AEFV | CPRTYPE           | CPR-type                                                               | 2008       | 2024    |
+| AEFV | CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2024    |
+| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2024    |
+| AEFV | FTI_MARK          | FTI_MARK                                                               | 2008       | 2024    |
+| AEFV | HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2024    |
+| AEFV | LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2024    |
+| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2024    |
+| AEFV | PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2024    |
+| AEFV | PNR               | Personnummer                                                           | 2008       | 2024    |
+| AEFV | PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2024    |
+| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2024    |
+| AEFV | VERSION           | VERSION                                                                | 2008       | 2024    |
+| AEFV | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## AEHJSP	2016-2023
+## AEHJSP	2016-2024
 
 |        | Variable name  |  Variable label                | Start year | Endyear |
 | ------ | -------------- | ------------------------------ | ---------- | ------- |
-| AEHJSP | ALDER_ULT      | ALDER_ULT                      | 2016       | 2023    |
-| AEHJSP | CPRTJEK        | CPR-tjek                       | 2016       | 2023    |
-| AEHJSP | CPRTYPE        | CPR-type                       | 2016       | 2023    |
-| AEHJSP | CVRNR          | Leverandørs CVR identifikation | 2016       | 2023    |
-| AEHJSP | HAEND_MDR      | Hændelses måned                | 2016       | 2023    |
-| AEHJSP | HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2023    |
-| AEHJSP | IMP_MARK       | IMP_MARK                       | 2016       | 2023    |
-| AEHJSP | KOM            | INGEN LABEL                    | 2016       | 2023    |
-| AEHJSP | PNR            | PNR                            | 2016       | 2023    |
-| AEHJSP | VERSION        | VERSION                        | 2016       | 2023    |
+| AEHJSP | ALDER_ULT      | ALDER_ULT                      | 2016       | 2024    |
+| AEHJSP | CPRTJEK        | CPR-tjek                       | 2016       | 2024    |
+| AEHJSP | CPRTYPE        | CPR-type                       | 2016       | 2024    |
+| AEHJSP | CVRNR          | Leverandørs CVR identifikation | 2016       | 2024    |
+| AEHJSP | HAEND_MDR      | Hændelses måned                | 2016       | 2024    |
+| AEHJSP | HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2024    |
+| AEHJSP | IMP_MARK       | IMP_MARK                       | 2016       | 2024    |
+| AEHJSP | KOM            | INGEN LABEL                    | 2016       | 2024    |
+| AEHJSP | PNR            | PNR                            | 2016       | 2024    |
+| AEHJSP | VERSION        | VERSION                        | 2016       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -70,18 +70,18 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## AETR 2008-2023
+## AETR 2008-2024
 
 |      | Variable name |  Variable label                                             | Start year | Endyear |
 | ---- | ------------- | ----------------------------------------------------------- | ---------- | ------- |
-| AETR | AEL_KOMKOD    | Kommunekode                                                 | 2008       | 2023    |
-| AETR | ALDER_ULT     | Alder ultimo                                                | 2008       | 2023    |
-| AETR | CPRTJEK       | CPR-tjek                                                    | 2008       | 2023    |
-| AETR | CPRTYPE       | CPR-type                                                    | 2008       | 2023    |
-| AETR | HAEND_MDR     | Hændelses måned.                                            | 2008       | 2023    |
-| AETR | PNR           | Personnummer                                                | 2008       | 2023    |
-| AETR | TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2023    |
-| AETR | VERSION       | Version                                                     | 2008       | 2023    |
+| AETR | AEL_KOMKOD    | Kommunekode                                                 | 2008       | 2024    |
+| AETR | ALDER_ULT     | Alder ultimo                                                | 2008       | 2024    |
+| AETR | CPRTJEK       | CPR-tjek                                                    | 2008       | 2024    |
+| AETR | CPRTYPE       | CPR-type                                                    | 2008       | 2024    |
+| AETR | HAEND_MDR     | Hændelses måned.                                            | 2008       | 2024    |
+| AETR | PNR           | Personnummer                                                | 2008       | 2024    |
+| AETR | TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2024    |
+| AETR | VERSION       | Version                                                     | 2008       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -198,42 +198,42 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BFL 2008-2024
+## BFL 200812-202312
 
-|     | Variable name              | Variable label                                                         | Start year | Endyear |
-| --- | -------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| BFL | AJO_ARB_KOMKODE            | Arbejdsstedets kommunekode                                             | 2008       | 202403  |
-| BFL | AJO_ARBNR_SENR             | Entydigt 10-cifret identifikationsnummer for et arbejdssted            | 2008       | 202403  |
-| BFL | AJO_ATP_BELOEB             | Indbetalt ATP-bidrag                                                   | 2008       | 202403  |
-| BFL | AJO_ATP_BIDRAG_SATS_KODE   | ATP-bidragssats på jobbet                                              | 2008       | 202403  |
-| BFL | AJO_BRANCHE07              | DB07 branche knyttet til jobbets arbejdssted                           | 2008       | 202403  |
-| BFL | AJO_BREDT_LOENBELOEB       | Bredt lønbeløb er en summering af al lønindkomst i eIR                 | 2008       | 202403  |
-| BFL | AJO_CVR_NR_FRA_PROD_JOB    | Indberetterens CVR-nummer fra prodjob                                  | 2008       | 202403  |
-| BFL | AJO_FIKTIV_ARB_KODE        | Fiktiv arbejdssteds kode på det komprimerede prodjob                   | 2008       | 202403  |
-| BFL | AJO_FULDTID_BESKAEFTIGET   | Fuldtidsbeskæftigelse                                                  | 2008       | 202403  |
-| BFL | AJO_FUNKTIONSKODE          | Funktionskode til sektorplacering af arbejdsstedet                     | 2008       | 202403  |
-| BFL | AJO_INDBERETTEDE_LOENTIMER | Løntimer på prodjob                                                    | 2008       | 202403  |
-| BFL | AJO_INDKOMST_ART_KODE      | Indkomstartkode på prodjob                                             | 2008       | 202403  |
-| BFL | AJO_INDKOMST_TYPE_KODE     | Indkomsttypekode på prodjob                                            | 2008       | 202403  |
-| BFL | AJO_JOB_SLUT_DATO          | Slutdato for det komprimerede job                                      | 2008       | 202403  |
-| BFL | AJO_JOB_START_DATO         | Startdato for det komprimerede job                                     | 2008       | 202403  |
-| BFL | AJO_LOENTIME_KODE          | Kode for, om løntimer er indberettet eller imputeret                   | 2008       | 202403  |
-| BFL | AJO_LOENTIMER              | Løntimer på komprimerede job                                           | 2008       | 202403  |
-| BFL | AJO_OK_NR                  | Økonomisk enhed (statistisk enhed)                                     | 2008       | 202403  |
-| BFL | AJO_PROD_NR_FRA_APP        | Produktionsenhedsnummer ifølge APP på prodjob                          | 2008       | 202403  |
-| BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 2008       | 202403  |
-| BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 2008       | 202403  |
-| BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 2008       | 202403  |
-| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 2008       | 202403  |
-| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 2008       | 202403  |
-| BFL | CPRTJEK                    | CPR-tjek                                                               | 2008       | 202403  |
-| BFL | CPRTYPE                    | CPR-type                                                               | 2008       | 202403  |
-| BFL | PNR                        | Personnummer                                                           | 2008       | 202403  |
-| BFL | SEKTORKODE                 | Sektor kode                                                            | 2008       | 202403  |
-| BFL | VMO_DISCO_KODE             | DISCO kode                                                             | 2008       | 202403  |
-| BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 2008       | 202403  |
-| BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 2008       | 202403  |
-| BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 2008       | 202403  |
+|     | Variable name              | Variable label                                                         | Start year   | Endyear |
+| --- | -------------------------- | ---------------------------------------------------------------------- | ----------   | ------- |
+| BFL | AJO_ARB_KOMKODE            | Arbejdsstedets kommunekode                                             | 200812       | 202312  |
+| BFL | AJO_ARBNR_SENR             | Entydigt 10-cifret identifikationsnummer for et arbejdssted            | 200812       | 202312  |
+| BFL | AJO_ATP_BELOEB             | Indbetalt ATP-bidrag                                                   | 200812       | 202312  |
+| BFL | AJO_ATP_BIDRAG_SATS_KODE   | ATP-bidragssats på jobbet                                              | 200812       | 202312  |
+| BFL | AJO_BRANCHE07              | DB07 branche knyttet til jobbets arbejdssted                           | 200812       | 202312  |
+| BFL | AJO_BREDT_LOENBELOEB       | Bredt lønbeløb er en summering af al lønindkomst i eIR                 | 200812       | 202312  |
+| BFL | AJO_CVR_NR_FRA_PROD_JOB    | Indberetterens CVR-nummer fra prodjob                                  | 200812       | 202312  |
+| BFL | AJO_FIKTIV_ARB_KODE        | Fiktiv arbejdssteds kode på det komprimerede prodjob                   | 200812       | 202312  |
+| BFL | AJO_FULDTID_BESKAEFTIGET   | Fuldtidsbeskæftigelse                                                  | 200812       | 202312  |
+| BFL | AJO_FUNKTIONSKODE          | Funktionskode til sektorplacering af arbejdsstedet                     | 200812       | 202312  |
+| BFL | AJO_INDBERETTEDE_LOENTIMER | Løntimer på prodjob                                                    | 200812       | 202312  |
+| BFL | AJO_INDKOMST_ART_KODE      | Indkomstartkode på prodjob                                             | 200812       | 202312  |
+| BFL | AJO_INDKOMST_TYPE_KODE     | Indkomsttypekode på prodjob                                            | 200812       | 202312  |
+| BFL | AJO_JOB_SLUT_DATO          | Slutdato for det komprimerede job                                      | 200812       | 202312  |
+| BFL | AJO_JOB_START_DATO         | Startdato for det komprimerede job                                     | 200812       | 202312  |
+| BFL | AJO_LOENTIME_KODE          | Kode for, om løntimer er indberettet eller imputeret                   | 200812       | 202312  |
+| BFL | AJO_LOENTIMER              | Løntimer på komprimerede job                                           | 200812       | 202312  |
+| BFL | AJO_OK_NR                  | Økonomisk enhed (statistisk enhed)                                     | 200812       | 202312  |
+| BFL | AJO_PROD_NR_FRA_APP        | Produktionsenhedsnummer ifølge APP på prodjob                          | 200812       | 202312  |
+| BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 200812       | 202312  |
+| BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 200812       | 202312  |
+| BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 200812       | 202312  |
+| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 200812       | 202312  |
+| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 200812       | 202312  |
+| BFL | CPRTJEK                    | CPR-tjek                                                               | 200812       | 202312  |
+| BFL | CPRTYPE                    | CPR-type                                                               | 200812       | 202312  |
+| BFL | PNR                        | Personnummer                                                           | 200812       | 202312  |
+| BFL | SEKTORKODE                 | Sektor kode                                                            | 200812       | 202312  |
+| BFL | VMO_DISCO_KODE             | DISCO kode                                                             | 200812       | 202312  |
+| BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 200812       | 202312  |
+| BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 200812       | 202312  |
+| BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 200812       | 202312  |
 :::
 
 ::: {.callout-warning collapse="true"}
