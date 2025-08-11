@@ -259,34 +259,34 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BOERNPRI 2018-2023
+## BOERNPRI 2018-2024
 
 |          | Variable name     | Variable label    | Start year | Endyear |
 | -------- | ----------------- | ----------------- | ---------- | ------- |
-| BOERNPRI | CPRTJEK           | CPR-tjek          | 2018       | 2023    |
-| BOERNPRI | CPRTYPE           | CPR-type          | 2018       | 2023    |
-| BOERNPRI | INST_TYPE_BORNPAS | INST_TYPE_BORNPAS | 2018       | 2023    |
-| BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2023    |
-| BOERNPRI | PNR               | PNR               | 2018       | 2023    |
-| BOERNPRI | VERSION           | VERSION           | 2018       | 2023    |
+| BOERNPRI | CPRTJEK           | CPR-tjek          | 2018       | 2024    |
+| BOERNPRI | CPRTYPE           | CPR-type          | 2018       | 2024    |
+| BOERNPRI | INST_TYPE_BORNPAS | INST_TYPE_BORNPAS | 2018       | 2024    |
+| BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2024    |
+| BOERNPRI | PNR               | PNR               | 2018       | 2024    |
+| BOERNPRI | VERSION           | VERSION           | 2018       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## BOERNSB 2015-2023
+## BOERNSB 2015-2024
 
 |         | Variable name | Variable label | Start year | Endyear |
 | ------- | ------------- | -------------- | ---------- | ------- |
-| BOERNSB | ALDER_OKT     | INGEN LABEL    | 2015       | 2023    |
-| BOERNSB | CPRTJEK       | CPR-tjek       | 2015       | 2023    |
-| BOERNSB | CPRTYPE       | CPR-type       | 2015       | 2023    |
-| BOERNSB | CVRNR         | INGEN LABEL    | 2015       | 2023    |
-| BOERNSB | EJER2         | EJER2          | 2015       | 2023    |
-| BOERNSB | INSTNRBP      | INGEN LABEL    | 2015       | 2023    |
-| BOERNSB | INSTTYPE2     | INSTTYPE2      | 2015       | 2023    |
-| BOERNSB | KOM           | INGEN LABEL    | 2015       | 2023    |
-| BOERNSB | PNR           | PNR            | 2015       | 2023    |
-| BOERNSB | SKOLE_KODE    | INGEN LABEL    | 2015       | 2023    |
-| BOERNSB | VERSION       | VERSION        | 2015       | 2023    |
+| BOERNSB | ALDER_OKT     | INGEN LABEL    | 2015       | 2024    |
+| BOERNSB | CPRTJEK       | CPR-tjek       | 2015       | 2024    |
+| BOERNSB | CPRTYPE       | CPR-type       | 2015       | 2024    |
+| BOERNSB | CVRNR         | INGEN LABEL    | 2015       | 2024    |
+| BOERNSB | EJER2         | EJER2          | 2015       | 2024    |
+| BOERNSB | INSTNRBP      | INGEN LABEL    | 2015       | 2024    |
+| BOERNSB | INSTTYPE2     | INSTTYPE2      | 2015       | 2024    |
+| BOERNSB | KOM           | INGEN LABEL    | 2015       | 2024    |
+| BOERNSB | PNR           | PNR            | 2015       | 2024    |
+| BOERNSB | SKOLE_KODE    | INGEN LABEL    | 2015       | 2024    |
+| BOERNSB | VERSION       | VERSION        | 2015       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -3810,7 +3810,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTFORAEL 2018
+## FTFORAEL 2019
 
 |          | Variable name  | Variable label | Start year | Endyear |
 | -------- | -------------- | -------------- | ---------- | ------- |
@@ -3828,148 +3828,148 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## IDAN 1980-2022
+## IDAN 1980-2023
 
 |      | Variable name        | Variable label                                             | Start year | Endyear |
 | ---- | -------------------- | ---------------------------------------------------------- | ---------- | ------- |
-| IDAN | ANSDAGE              | Antal dage ansat                                           | 1980       | 2022    |
-| IDAN | ANSDAGE_2008         | Antal dage ansat i jobbet                                  | 1980       | 2022    |
-| IDAN | ANSXFREM             | Ansættelsesændring frem til året efter                     | 1980       | 2022    |
-| IDAN | ANSXTILB             | Ansættelsesændring i forhold til året før                  | 1980       | 2022    |
-| IDAN | ANSAAR               | År for ansættelse på arbejdssted                           | 1980       | 2022    |
-| IDAN | ARB_HOVED_BRA_DB07   | Branche for arbejdsstedet                                  | 1980       | 2022    |
-| IDAN | ARB_SEKTORKODE       | Arbejdsstedets sektorkode                                  | 1980       | 2022    |
-| IDAN | ARBGNR               | Arbejdsgivernummer                                         | 1980       | 2022    |
-| IDAN | ARBGNR9              | Arbejdsgivernummer inkl sektorkode                         | 1980       | 2022    |
-| IDAN | ARBLED               | Ledighedsgrad i arbejdsår (ekskl. ferie)                   | 1980       | 2022    |
-| IDAN | ARBNR                | Arbejdsstedsnummer                                         | 1980       | 2022    |
-| IDAN | ARBSTK               | Arbejdsstedskode                                           | 1980       | 2022    |
-| IDAN | ATP_BELOEB           | ATP-beløb omregnet til B-sats                              | 1980       | 2022    |
-| IDAN | BRED_TIMELOEN        | Bred timeløn i jobbet                                      | 1980       | 2022    |
-| IDAN | BREDT_LOEN_BELOEB    | Bred løn i jobbet                                          | 1980       | 2022    |
-| IDAN | BRUTTO_GRADAAR       | Bruttoledighed i året                                      | 1980       | 2022    |
-| IDAN | BRUTTO_LEDIGHED      | Antal uger med bruttoledighed                              | 1980       | 2022    |
-| IDAN | CPRTJEK              | CPR-tjek                                                   | 1980       | 2022    |
-| IDAN | CPRTYPE              | CPR-type                                                   | 1980       | 2022    |
-| IDAN | CVRNR                | CVR-nummer                                                 | 1980       | 2022    |
-| IDAN | DISCO_KODE           | Arbejdsfunktion i jobbet                                   | 1980       | 2022    |
-| IDAN | DISCO_MATCHPRIO_KODE | Kode for kvalitet af kobling mellem arbejdsfunktion og job | 1980       | 2022    |
-| IDAN | FRAVAER_BESK_KODE    | Fravær i jobbet                                            | 1980       | 2022    |
-| IDAN | JOBATP               | Atpbeløb fra oplysningsseddel                              | 1980       | 2022    |
-| IDAN | JOBKAT               | Jobtype i ansættelsen                                      | 1980       | 2022    |
-| IDAN | JOBLON               | Lønbeløb i ansættelsesforholdet                            | 1980       | 2022    |
-| IDAN | KOM                  | INGEN LABEL                                                | 1980       | 2022    |
-| IDAN | LBNR                 | Arbejdsstedets løbenummer                                  | 1980       | 2022    |
-| IDAN | LOENTIMER            | Løntimer i jobbet                                          | 1980       | 2022    |
-| IDAN | LONMFREM             | Lønmodtager året efter                                     | 1980       | 2022    |
-| IDAN | LONMTILB             | Lønmodtager året før                                       | 1980       | 2022    |
-| IDAN | NETTO_GRADAAR        | Nettoledighed i året                                       | 1980       | 2022    |
-| IDAN | NETTO_LEDIGHED       | Antal uger med nettoledighed                               | 1980       | 2022    |
-| IDAN | OPGIKOM              | INGEN LABEL                                                | 1980       | 2022    |
-| IDAN | PERSBRC              | Personlig branche                                          | 1980       | 2022    |
-| IDAN | PERSBRC07            | Personlig branche (db07)                                   | 1980       | 2022    |
-| IDAN | PNR                  | Personnummer                                               | 1980       | 2022    |
-| IDAN | SMAL_TIMELOEN        | Smal timeløn i jobbet                                      | 1980       | 2022    |
-| IDAN | SMALT_LOEN_BELOEB    | Smal løn i jobbet                                          | 1980       | 2022    |
-| IDAN | SOC_STATUS_KODE      | Socioøkonomisk status                                      | 1980       | 2022    |
-| IDAN | STILL                | Arbejdsstilling                                            | 1980       | 2022    |
-| IDAN | STOETTE_BESK_KODE    | Støttet beskæftigelse                                      | 1980       | 2022    |
-| IDAN | TILKNYT              | Tilknytning til primært arbejdssted                        | 1980       | 2022    |
-| IDAN | TIMELON              | Timeløn i ansættelsen                                      | 1980       | 2022    |
-| IDAN | TLONKVAL             | Kvalitet af timelønsskøn                                   | 1980       | 2022    |
-| IDAN | TYPE                 | Type for ansættelsesforholdet                              | 1980       | 2022    |
-| IDAN | TYPE_2008            | Oplysningstype                                             | 1980       | 2022    |
+| IDAN | ANSDAGE              | Antal dage ansat                                           | 1980       | 2023    |
+| IDAN | ANSDAGE_2008         | Antal dage ansat i jobbet                                  | 1980       | 2023    |
+| IDAN | ANSXFREM             | Ansættelsesændring frem til året efter                     | 1980       | 2023    |
+| IDAN | ANSXTILB             | Ansættelsesændring i forhold til året før                  | 1980       | 2023    |
+| IDAN | ANSAAR               | År for ansættelse på arbejdssted                           | 1980       | 2023    |
+| IDAN | ARB_HOVED_BRA_DB07   | Branche for arbejdsstedet                                  | 1980       | 2023    |
+| IDAN | ARB_SEKTORKODE       | Arbejdsstedets sektorkode                                  | 1980       | 2023    |
+| IDAN | ARBGNR               | Arbejdsgivernummer                                         | 1980       | 2023    |
+| IDAN | ARBGNR9              | Arbejdsgivernummer inkl sektorkode                         | 1980       | 2023    |
+| IDAN | ARBLED               | Ledighedsgrad i arbejdsår (ekskl. ferie)                   | 1980       | 2023    |
+| IDAN | ARBNR                | Arbejdsstedsnummer                                         | 1980       | 2023    |
+| IDAN | ARBSTK               | Arbejdsstedskode                                           | 1980       | 2023    |
+| IDAN | ATP_BELOEB           | ATP-beløb omregnet til B-sats                              | 1980       | 2023    |
+| IDAN | BRED_TIMELOEN        | Bred timeløn i jobbet                                      | 1980       | 2023    |
+| IDAN | BREDT_LOEN_BELOEB    | Bred løn i jobbet                                          | 1980       | 2023    |
+| IDAN | BRUTTO_GRADAAR       | Bruttoledighed i året                                      | 1980       | 2023    |
+| IDAN | BRUTTO_LEDIGHED      | Antal uger med bruttoledighed                              | 1980       | 2023    |
+| IDAN | CPRTJEK              | CPR-tjek                                                   | 1980       | 2023    |
+| IDAN | CPRTYPE              | CPR-type                                                   | 1980       | 2023    |
+| IDAN | CVRNR                | CVR-nummer                                                 | 1980       | 2023    |
+| IDAN | DISCO_KODE           | Arbejdsfunktion i jobbet                                   | 1980       | 2023    |
+| IDAN | DISCO_MATCHPRIO_KODE | Kode for kvalitet af kobling mellem arbejdsfunktion og job | 1980       | 2023    |
+| IDAN | FRAVAER_BESK_KODE    | Fravær i jobbet                                            | 1980       | 2023    |
+| IDAN | JOBATP               | Atpbeløb fra oplysningsseddel                              | 1980       | 2023    |
+| IDAN | JOBKAT               | Jobtype i ansættelsen                                      | 1980       | 2023    |
+| IDAN | JOBLON               | Lønbeløb i ansættelsesforholdet                            | 1980       | 2023    |
+| IDAN | KOM                  | INGEN LABEL                                                | 1980       | 2023    |
+| IDAN | LBNR                 | Arbejdsstedets løbenummer                                  | 1980       | 2023    |
+| IDAN | LOENTIMER            | Løntimer i jobbet                                          | 1980       | 2023    |
+| IDAN | LONMFREM             | Lønmodtager året efter                                     | 1980       | 2023    |
+| IDAN | LONMTILB             | Lønmodtager året før                                       | 1980       | 2023    |
+| IDAN | NETTO_GRADAAR        | Nettoledighed i året                                       | 1980       | 2023    |
+| IDAN | NETTO_LEDIGHED       | Antal uger med nettoledighed                               | 1980       | 2023    |
+| IDAN | OPGIKOM              | INGEN LABEL                                                | 1980       | 2023    |
+| IDAN | PERSBRC              | Personlig branche                                          | 1980       | 2023    |
+| IDAN | PERSBRC07            | Personlig branche (db07)                                   | 1980       | 2023    |
+| IDAN | PNR                  | Personnummer                                               | 1980       | 2023    |
+| IDAN | SMAL_TIMELOEN        | Smal timeløn i jobbet                                      | 1980       | 2023    |
+| IDAN | SMALT_LOEN_BELOEB    | Smal løn i jobbet                                          | 1980       | 2023    |
+| IDAN | SOC_STATUS_KODE      | Socioøkonomisk status                                      | 1980       | 2023    |
+| IDAN | STILL                | Arbejdsstilling                                            | 1980       | 2023    |
+| IDAN | STOETTE_BESK_KODE    | Støttet beskæftigelse                                      | 1980       | 2023    |
+| IDAN | TILKNYT              | Tilknytning til primært arbejdssted                        | 1980       | 2023    |
+| IDAN | TIMELON              | Timeløn i ansættelsen                                      | 1980       | 2023    |
+| IDAN | TLONKVAL             | Kvalitet af timelønsskøn                                   | 1980       | 2023    |
+| IDAN | TYPE                 | Type for ansættelsesforholdet                              | 1980       | 2023    |
+| IDAN | TYPE_2008            | Oplysningstype                                             | 1980       | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## IDAP 1980-2022
+## IDAP 1980-2023
 
 |      | Variable name            | Variable label                                                        | Start year | Endyear |
 | ---- | ------------------------ | --------------------------------------------------------------------- | ---------- | ------- |
-| IDAP | AKASAF                   | Seneste år som medlem af A-kasse                                      | 1980       | 2022    |
-| IDAP | AKASSE_ID                | Akasse ident                                                          | 1980       | 2022    |
-| IDAP | AKASST                   | Seneste startår som medlem af en A-kasse                              | 1980       | 2022    |
-| IDAP | ALDERNOV                 | Alder beregnet ultimo november                                        | 1980       | 2022    |
-| IDAP | ANDEL_BEF                | Andel dage i befolningen i året                                       | 1980       | 2022    |
-| IDAP | ANDEL_BEF_AKK            | Andel dage i befolkningen siden 2008                                  | 1980       | 2022    |
-| IDAP | ANDEL_BESK               | Andel dage med beskæftigelse i året                                   | 1980       | 2022    |
-| IDAP | ANDEL_BESK_AKK           | Andel dage med beskæftigelse fra 2008                                 | 1980       | 2022    |
-| IDAP | ARLEDGR                  | Årsledighedsgrad                                                      | 1980       | 2022    |
-| IDAP | ARLEDGR_BRUTTO           | Summret bruttoledighed i året                                         | 1980       | 2022    |
-| IDAP | ARLEDGR_NETTO            | Summeret nettoledighed i året                                         | 1980       | 2022    |
-| IDAP | ATPAR                    | Antal år som lønmodtager                                              | 1980       | 2022    |
-| IDAP | ATPXX                    | ATP omregnet til B-sats                                               | 1980       | 2022    |
-| IDAP | BEF_ULT_NOV_AKK          | I befolkningen ultimo november antal år siden 1980                    | 1980       | 2022    |
-| IDAP | BESK_ULT_NOV_AKK         | I beskæftigelse ultimo november antal år siden 1980                   | 1980       | 2022    |
-| IDAP | CPRTJEK                  | CPR-tjek                                                              | 1980       | 2022    |
-| IDAP | CPRTYPE                  | CPR-type                                                              | 1980       | 2022    |
-| IDAP | EJNOV                    | Antal supplerende ej-november ansættelser                             | 1980       | 2022    |
-| IDAP | EJNOVSUM                 | Ej-novemberansættelser lønsum                                         | 1980       | 2022    |
-| IDAP | EJNOVSUM_BRED            | Ej-novemberansættelser bred lønsum                                    | 1980       | 2022    |
-| IDAP | EJNOVSUM_SMAL            | Ej-novemberansættelser smal lønsum                                    | 1980       | 2022    |
-| IDAP | ERHVER                   | Erhvervserfaring fra 1980 i 1000                                      | 1980       | 2022    |
-| IDAP | ERHVER_2007              | Erhvervserfaring 1980-2007 på baggrund af ATP                         | 1980       | 2022    |
-| IDAP | ERHVER_TIMER             | Erhvervserfaring i året i 1000 på baggrund af løntimer                | 1980       | 2022    |
-| IDAP | ERHVER_TIMER_AKK         | Erhvervserfaring fra 2008 i 1000 på baggrund af løntimer              | 1980       | 2022    |
-| IDAP | ERHVER79                 | Erhvervserfaring ultimo 1979                                          | 1980       | 2022    |
-| IDAP | FORSIKRINGSKATEGORI_KODE | Forsikringskategori                                                   | 1980       | 2022    |
-| IDAP | KON                      | Køn                                                                   | 1980       | 2022    |
-| IDAP | LEDAR                    | Første ledighed (årstal)                                              | 1980       | 2022    |
-| IDAP | LEDAR_BRUTTO             | År for første bruttoledighed fra 2008                                 | 1980       | 2022    |
-| IDAP | LEDAR_NETTO              | År for første nettoledighed fra 1980                                  | 1980       | 2022    |
-| IDAP | LEDDEL                   | Uger delvis ledig                                                     | 1980       | 2022    |
-| IDAP | LEDFULD                  | Uger fuld ledighed                                                    | 1980       | 2022    |
-| IDAP | LEDIGHED_BRUTTO          | Antal uger med bruttoledighed                                         | 1980       | 2022    |
-| IDAP | LEDIGHED_NETTO           | Antal uger med nettoledighed                                          | 1980       | 2022    |
-| IDAP | LONIND                   | Kontant løn - Arbejdsgivernes oplysningssedler                        | 1980       | 2022    |
-| IDAP | NSUP                     | Supplerende november-ansættelser (antal).                             | 1980       | 2022    |
-| IDAP | NSUPSUM                  | Supplerende løn i november-ansættelser (sum)                          | 1980       | 2022    |
-| IDAP | NSUPSUM_BRED             | Supplerende løn (bred) i november ansættelser                         | 1980       | 2022    |
-| IDAP | NSUPSUM_SMAL             | Supplerende løn (smal) i november ansættelser                         | 1980       | 2022    |
-| IDAP | PENSALD                  | Alder ved pensionering (offentlig)                                    | 1980       | 2022    |
-| IDAP | PJOB_DAGE                | Antal dage i året beskæftiget i det primære job                       | 1980       | 2022    |
-| IDAP | PLOENTIMER               | Løntimer i primært job                                                | 1980       | 2022    |
-| IDAP | PNR                      | Personnummer                                                          | 1980       | 2022    |
-| IDAP | POTLEAR                  | Forsikret/ledig antal år (fra 1980)                                   | 1980       | 2022    |
-| IDAP | POTLEAR_BRUTTO           | Antal år hvor personen har været forsikret eller bruttoledig fra 2008 | 1980       | 2022    |
-| IDAP | POTLEAR_NETTO            | Antal år hvor personen har været forsikret eller nettoledig fra 1980  | 1980       | 2022    |
-| IDAP | PSOC_STATUS_KODE         | Socioøkonomisk status i hovedjobbet                                   | 1980       | 2022    |
-| IDAP | PSTILL                   | Primær arbejdsstilling                                                | 1980       | 2022    |
-| IDAP | PSUM_BRED                | Løn i primært job bred                                                | 1980       | 2022    |
-| IDAP | PSUM_SMAL                | Løn i primært job smal                                                | 1980       | 2022    |
-| IDAP | PTIMELOEN_BRED           | Timeløn i primært job bred løn                                        | 1980       | 2022    |
-| IDAP | PTIMELOEN_SMAL           | Timeløn i primært job smal løn                                        | 1980       | 2022    |
-| IDAP | SAMLET_BREDT_LOEN_BELOEB | Summeret løn (bred) samtlige job                                      | 1980       | 2022    |
-| IDAP | SAMLET_SMALT_LOEN_BELOEB | Summeret løn (smal) samtlige job                                      | 1980       | 2022    |
-| IDAP | SATP79                   | Samlet ATP ultimo 1979                                                | 1980       | 2022    |
-| IDAP | SENAFAR                  | Seneste afslutning på arbejdsmarkedet                                 | 1980       | 2022    |
-| IDAP | SENSTAR                  | Seneste start på arbejdsmarkedet                                      | 1980       | 2022    |
-| IDAP | SJOB_DAGE                | Antal dage i året beskæftiget i det sekundære job                     | 1980       | 2022    |
-| IDAP | SLOENTIMER               | Løntimer i sekundært job                                              | 1980       | 2022    |
-| IDAP | SLON                     | Samlet løn fra oplysningssedler                                       | 1980       | 2022    |
-| IDAP | SSOC_STATUS_KODE         |  Socioøkonomisk status i de sekundære job                             | 1980       | 2022    |
-| IDAP | SSTILL                   | Sekundær arbejdsstilling                                              | 1980       | 2022    |
-| IDAP | SSUM_BRED                | Løn i sekunædrt job bred                                              | 1980       | 2022    |
-| IDAP | SSUM_SMAL                | Løn i sekundært job smal                                              | 1980       | 2022    |
-| IDAP | STARTAR                  | Første år på arbejdsmarkedet                                          | 1980       | 2022    |
-| IDAP | STIMELOEN_BRED           | Timeløn i sekundært job bred løn                                      | 1980       | 2022    |
-| IDAP | STIMELOEN_SMAL           | Timeløn i sekundært job smal løn                                      | 1980       | 2022    |
-| IDAP | SUMGRAD                  | Sum af ledighedsgrader (fra 1980)                                     | 1980       | 2022    |
-| IDAP | SUMGRAD_BRUTTO           | Summret bruttoledighed fra 2008                                       | 1980       | 2022    |
-| IDAP | SUMGRAD_NETTO            | Summret nettoledighed fra 1980                                        | 1980       | 2022    |
+| IDAP | AKASAF                   | Seneste år som medlem af A-kasse                                      | 1980       | 2023    |
+| IDAP | AKASSE_ID                | Akasse ident                                                          | 1980       | 2023    |
+| IDAP | AKASST                   | Seneste startår som medlem af en A-kasse                              | 1980       | 2023    |
+| IDAP | ALDERNOV                 | Alder beregnet ultimo november                                        | 1980       | 2023    |
+| IDAP | ANDEL_BEF                | Andel dage i befolningen i året                                       | 1980       | 2023    |
+| IDAP | ANDEL_BEF_AKK            | Andel dage i befolkningen siden 2008                                  | 1980       | 2023    |
+| IDAP | ANDEL_BESK               | Andel dage med beskæftigelse i året                                   | 1980       | 2023    |
+| IDAP | ANDEL_BESK_AKK           | Andel dage med beskæftigelse fra 2008                                 | 1980       | 2023    |
+| IDAP | ARLEDGR                  | Årsledighedsgrad                                                      | 1980       | 2023    |
+| IDAP | ARLEDGR_BRUTTO           | Summret bruttoledighed i året                                         | 1980       | 2023    |
+| IDAP | ARLEDGR_NETTO            | Summeret nettoledighed i året                                         | 1980       | 2023    |
+| IDAP | ATPAR                    | Antal år som lønmodtager                                              | 1980       | 2023    |
+| IDAP | ATPXX                    | ATP omregnet til B-sats                                               | 1980       | 2023    |
+| IDAP | BEF_ULT_NOV_AKK          | I befolkningen ultimo november antal år siden 1980                    | 1980       | 2023    |
+| IDAP | BESK_ULT_NOV_AKK         | I beskæftigelse ultimo november antal år siden 1980                   | 1980       | 2023    |
+| IDAP | CPRTJEK                  | CPR-tjek                                                              | 1980       | 2023    |
+| IDAP | CPRTYPE                  | CPR-type                                                              | 1980       | 2023    |
+| IDAP | EJNOV                    | Antal supplerende ej-november ansættelser                             | 1980       | 2023    |
+| IDAP | EJNOVSUM                 | Ej-novemberansættelser lønsum                                         | 1980       | 2023    |
+| IDAP | EJNOVSUM_BRED            | Ej-novemberansættelser bred lønsum                                    | 1980       | 2023    |
+| IDAP | EJNOVSUM_SMAL            | Ej-novemberansættelser smal lønsum                                    | 1980       | 2023    |
+| IDAP | ERHVER                   | Erhvervserfaring fra 1980 i 1000                                      | 1980       | 2023    |
+| IDAP | ERHVER_2007              | Erhvervserfaring 1980-2007 på baggrund af ATP                         | 1980       | 2023    |
+| IDAP | ERHVER_TIMER             | Erhvervserfaring i året i 1000 på baggrund af løntimer                | 1980       | 2023    |
+| IDAP | ERHVER_TIMER_AKK         | Erhvervserfaring fra 2008 i 1000 på baggrund af løntimer              | 1980       | 2023    |
+| IDAP | ERHVER79                 | Erhvervserfaring ultimo 1979                                          | 1980       | 2023    |
+| IDAP | FORSIKRINGSKATEGORI_KODE | Forsikringskategori                                                   | 1980       | 2023    |
+| IDAP | KON                      | Køn                                                                   | 1980       | 2023    |
+| IDAP | LEDAR                    | Første ledighed (årstal)                                              | 1980       | 2023    |
+| IDAP | LEDAR_BRUTTO             | År for første bruttoledighed fra 2008                                 | 1980       | 2023    |
+| IDAP | LEDAR_NETTO              | År for første nettoledighed fra 1980                                  | 1980       | 2023    |
+| IDAP | LEDDEL                   | Uger delvis ledig                                                     | 1980       | 2023    |
+| IDAP | LEDFULD                  | Uger fuld ledighed                                                    | 1980       | 2023    |
+| IDAP | LEDIGHED_BRUTTO          | Antal uger med bruttoledighed                                         | 1980       | 2023    |
+| IDAP | LEDIGHED_NETTO           | Antal uger med nettoledighed                                          | 1980       | 2023    |
+| IDAP | LONIND                   | Kontant løn - Arbejdsgivernes oplysningssedler                        | 1980       | 2023    |
+| IDAP | NSUP                     | Supplerende november-ansættelser (antal).                             | 1980       | 2023    |
+| IDAP | NSUPSUM                  | Supplerende løn i november-ansættelser (sum)                          | 1980       | 2023    |
+| IDAP | NSUPSUM_BRED             | Supplerende løn (bred) i november ansættelser                         | 1980       | 2023    |
+| IDAP | NSUPSUM_SMAL             | Supplerende løn (smal) i november ansættelser                         | 1980       | 2023    |
+| IDAP | PENSALD                  | Alder ved pensionering (offentlig)                                    | 1980       | 2023    |
+| IDAP | PJOB_DAGE                | Antal dage i året beskæftiget i det primære job                       | 1980       | 2023    |
+| IDAP | PLOENTIMER               | Løntimer i primært job                                                | 1980       | 2023    |
+| IDAP | PNR                      | Personnummer                                                          | 1980       | 2023    |
+| IDAP | POTLEAR                  | Forsikret/ledig antal år (fra 1980)                                   | 1980       | 2023    |
+| IDAP | POTLEAR_BRUTTO           | Antal år hvor personen har været forsikret eller bruttoledig fra 2008 | 1980       | 2023    |
+| IDAP | POTLEAR_NETTO            | Antal år hvor personen har været forsikret eller nettoledig fra 1980  | 1980       | 2023    |
+| IDAP | PSOC_STATUS_KODE         | Socioøkonomisk status i hovedjobbet                                   | 1980       | 2023    |
+| IDAP | PSTILL                   | Primær arbejdsstilling                                                | 1980       | 2023    |
+| IDAP | PSUM_BRED                | Løn i primært job bred                                                | 1980       | 2023    |
+| IDAP | PSUM_SMAL                | Løn i primært job smal                                                | 1980       | 2023    |
+| IDAP | PTIMELOEN_BRED           | Timeløn i primært job bred løn                                        | 1980       | 2023    |
+| IDAP | PTIMELOEN_SMAL           | Timeløn i primært job smal løn                                        | 1980       | 2023    |
+| IDAP | SAMLET_BREDT_LOEN_BELOEB | Summeret løn (bred) samtlige job                                      | 1980       | 2023    |
+| IDAP | SAMLET_SMALT_LOEN_BELOEB | Summeret løn (smal) samtlige job                                      | 1980       | 2023    |
+| IDAP | SATP79                   | Samlet ATP ultimo 1979                                                | 1980       | 2023    |
+| IDAP | SENAFAR                  | Seneste afslutning på arbejdsmarkedet                                 | 1980       | 2023    |
+| IDAP | SENSTAR                  | Seneste start på arbejdsmarkedet                                      | 1980       | 2023    |
+| IDAP | SJOB_DAGE                | Antal dage i året beskæftiget i det sekundære job                     | 1980       | 2023    |
+| IDAP | SLOENTIMER               | Løntimer i sekundært job                                              | 1980       | 2023    |
+| IDAP | SLON                     | Samlet løn fra oplysningssedler                                       | 1980       | 2023    |
+| IDAP | SSOC_STATUS_KODE         |  Socioøkonomisk status i de sekundære job                             | 1980       | 2023    |
+| IDAP | SSTILL                   | Sekundær arbejdsstilling                                              | 1980       | 2023    |
+| IDAP | SSUM_BRED                | Løn i sekunædrt job bred                                              | 1980       | 2023    |
+| IDAP | SSUM_SMAL                | Løn i sekundært job smal                                              | 1980       | 2023    |
+| IDAP | STARTAR                  | Første år på arbejdsmarkedet                                          | 1980       | 2023    |
+| IDAP | STIMELOEN_BRED           | Timeløn i sekundært job bred løn                                      | 1980       | 2023    |
+| IDAP | STIMELOEN_SMAL           | Timeløn i sekundært job smal løn                                      | 1980       | 2023    |
+| IDAP | SUMGRAD                  | Sum af ledighedsgrader (fra 1980)                                     | 1980       | 2023    |
+| IDAP | SUMGRAD_BRUTTO           | Summret bruttoledighed fra 2008                                       | 1980       | 2023    |
+| IDAP | SUMGRAD_NETTO            | Summret nettoledighed fra 1980                                        | 1980       | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## IEPE 2023
+## IEPE 2024
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| IEPE | CPRTJEK       | CPR-tjek                                                               |            | 2023    |
-| IEPE | CPRTYPE       | CPR-type                                                               |            | 2023    |
-| IEPE | GENERATION    | Kategorisering af 2. og 3. generationsindvandrere (efter DS. definitio |            | 2023    |
-| IEPE | IE_TYPE       | Indvandrere, efterkommere , personer med dansk oprindelse              |            | 2023    |
-| IEPE | OPR_LAND      | Oprindelsesland                                                        |            | 2023    |
-| IEPE | PNR           | PNR                                                                    |            | 2023    |
+| IEPE | CPRTJEK       | CPR-tjek                                                               |            | 2024    |
+| IEPE | CPRTYPE       | CPR-type                                                               |            | 2024    |
+| IEPE | GENERATION    | Kategorisering af 2. og 3. generationsindvandrere (efter DS. definitio |            | 2024    |
+| IEPE | IE_TYPE       | Indvandrere, efterkommere , personer med dansk oprindelse              |            | 2024    |
+| IEPE | OPR_LAND      | Oprindelsesland                                                        |            | 2024    |
+| IEPE | PNR           | PNR                                                                    |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4224,24 +4224,24 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## KOTRE 2023
+## KOTRE 2024
 
 |       | Variable name | Variable label                            | Start year | Endyear |
 | ----- | ------------- | ----------------------------------------- | ---------- | ------- |
-| KOTRE | AFG_ART       | Afgangsart                                |            | 2023    |
-| KOTRE | AUDD          | Afsluttende uddannelseskode               |            | 2023    |
-| KOTRE | CPRTJEK       | CPR-tjek                                  |            | 2023    |
-| KOTRE | CPRTYPE       | CPR-type                                  |            | 2023    |
-| KOTRE | ELEV3_VFRA    | Starttidspunkt                            |            | 2023    |
-| KOTRE | ELEV3_VTIL    | Sluttidspunkt                             |            | 2023    |
-| KOTRE | INSTNR        | Institutionsnummer                        |            | 2023    |
-| KOTRE | KOMP          | Kompetencekode                            |            | 2023    |
-| KOTRE | PNR           | Personnummer                              |            | 2023    |
-| KOTRE | TILG_ART      | Tilgangsart                               |            | 2023    |
-| KOTRE | UDD           | Uddannelseskode                           |            | 2023    |
-| KOTRE | UDEL          | Uddannelsesdel                            |            | 2023    |
-| KOTRE | UFORM         | Beskriver måden som uddannelsen tages på. |            | 2023    |
-| KOTRE | VERSION       | Version                                   |            | 2023    |
+| KOTRE | AFG_ART       | Afgangsart                                |            | 2024    |
+| KOTRE | AUDD          | Afsluttende uddannelseskode               |            | 2024    |
+| KOTRE | CPRTJEK       | CPR-tjek                                  |            | 2024    |
+| KOTRE | CPRTYPE       | CPR-type                                  |            | 2024    |
+| KOTRE | ELEV3_VFRA    | Starttidspunkt                            |            | 2024    |
+| KOTRE | ELEV3_VTIL    | Sluttidspunkt                             |            | 2024    |
+| KOTRE | INSTNR        | Institutionsnummer                        |            | 2024    |
+| KOTRE | KOMP          | Kompetencekode                            |            | 2024    |
+| KOTRE | PNR           | Personnummer                              |            | 2024    |
+| KOTRE | TILG_ART      | Tilgangsart                               |            | 2024    |
+| KOTRE | UDD           | Uddannelseskode                           |            | 2024    |
+| KOTRE | UDEL          | Uddannelsesdel                            |            | 2024    |
+| KOTRE | UFORM         | Beskriver måden som uddannelsen tages på. |            | 2024    |
+| KOTRE | VERSION       | Version                                   |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -5525,8 +5525,10 @@ Below you will find a full describtion of all DST registers and variables in the
 |      | Variable name | Variable label   | Start year | Endyear |
 | ---- | ------------- | ---------------- | ---------- | ------- |
 | SOGN | KOM           | INGEN LABEL      | 2002       | 2016    |
+| SOGN | POSTNR        | Postnummer       | 2002       | 2016    |
 | SOGN | OPGIKOM       | Opgang i kommune | 2002       | 2016    |
 | SOGN | SOGN          | Sogn             | 2002       | 2016    |
+
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -5548,34 +5550,34 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## SSSY 2005-2023
+## SSSY 2005-2024
 
 |      | Variable name    | Variable label                | Start year | Endyear |
 | ---- | ---------------- | ----------------------------- | ---------- | ------- |
-| SSSY | AFRPER           | Afregningsperiode             | 2005       | 2023    |
-| SSSY | ALDERIMP         | Alder ultimo inkl. imputerede | 2005       | 2023    |
-| SSSY | BARNMAK          | Barnemarkering                | 2005       | 2023    |
-| SSSY | BEHANDLINGSDATO  | BEHANDLINGSDATO               | 2005       | 2023    |
-| SSSY | BRUHON           | Bruttohonorar til læge mv.    | 2005       | 2023    |
-| SSSY | CPRTJEK          | CPR-tjek                      | 2005       | 2023    |
-| SSSY | CPRTYPE          | CPR-type                      | 2005       | 2023    |
-| SSSY | HONUGE           | Honoraruge                    | 2005       | 2023    |
-| SSSY | KOENIMP          | Køn inkl. imputerede          | 2005       | 2023    |
-| SSSY | KONTAKT          | Kontakt                       | 2005       | 2023    |
-| SSSY | PATGRP           | Patientgruppe                 | 2005       | 2023    |
-| SSSY | PNR              | Personnummer                  | 2005       | 2023    |
-| SSSY | REGISTRERINGSTID | REGISTRERINGSTID              | 2005       | 2023    |
-| SSSY | SIKGRUP          | Sygesikringsgruppe            | 2005       | 2023    |
-| SSSY | SPEC2            | 2-cifret speciale             | 2005       | 2023    |
-| SSSY | SPEC80           | SPEC80                        | 2005       | 2023    |
-| SSSY | SPECIALE         | 6-cifret speciale             | 2005       | 2023    |
-| SSSY | STATPOP          | STATPOP                       | 2005       | 2023    |
-| SSSY | VERSION          | Version                       | 2005       | 2023    |
-| SSSY | YDERNR           | Ydernummer                    | 2005       | 2023    |
-| SSSY | YDERSAMT         | Yders amt                     | 2005       | 2023    |
-| SSSY | YDLANT           | Antal ydelser under specialet | 2005       | 2023    |
-| SSSY | YDLTID           | Tidspunktskode for ydelsen    | 2005       | 2023    |
-| SSSY | YDTYP            | Ydertype                      | 2005       | 2023    |
+| SSSY | AFRPER           | Afregningsperiode             | 2005       | 2024    |
+| SSSY | ALDERIMP         | Alder ultimo inkl. imputerede | 2005       | 2024    |
+| SSSY | BARNMAK          | Barnemarkering                | 2005       | 2024    |
+| SSSY | BEHANDLINGSDATO  | BEHANDLINGSDATO               | 2005       | 2024    |
+| SSSY | BRUHON           | Bruttohonorar til læge mv.    | 2005       | 2024    |
+| SSSY | CPRTJEK          | CPR-tjek                      | 2005       | 2024    |
+| SSSY | CPRTYPE          | CPR-type                      | 2005       | 2024    |
+| SSSY | HONUGE           | Honoraruge                    | 2005       | 2024    |
+| SSSY | KOENIMP          | Køn inkl. imputerede          | 2005       | 2024    |
+| SSSY | KONTAKT          | Kontakt                       | 2005       | 2024    |
+| SSSY | PATGRP           | Patientgruppe                 | 2005       | 2024    |
+| SSSY | PNR              | Personnummer                  | 2005       | 2024    |
+| SSSY | REGISTRERINGSTID | REGISTRERINGSTID              | 2005       | 2024    |
+| SSSY | SIKGRUP          | Sygesikringsgruppe            | 2005       | 2024    |
+| SSSY | SPEC2            | 2-cifret speciale             | 2005       | 2024    |
+| SSSY | SPEC80           | SPEC80                        | 2005       | 2024    |
+| SSSY | SPECIALE         | 6-cifret speciale             | 2005       | 2024    |
+| SSSY | STATPOP          | STATPOP                       | 2005       | 2024    |
+| SSSY | VERSION          | Version                       | 2005       | 2024    |
+| SSSY | YDERNR           | Ydernummer                    | 2005       | 2024    |
+| SSSY | YDERSAMT         | Yders amt                     | 2005       | 2024    |
+| SSSY | YDLANT           | Antal ydelser under specialet | 2005       | 2024    |
+| SSSY | YDLTID           | Tidspunktskode for ydelsen    | 2005       | 2024    |
+| SSSY | YDTYP            | Ydertype                      | 2005       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -5726,73 +5728,73 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## UDDA 198012-202309
+## UDDA 198012-202409
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| UDDA | ALM_VFRA      | Tidspunkt for opnået almenuddannelse                                   | 198012     | 202309  |
-| UDDA | ALMAUDD       | Højst fuldførte almen uddannelse                                       | 198012     | 202309  |
-| UDDA | ALMINSTNR     | Institutionsnummer                                                     | 198012     | 202309  |
-| UDDA | CPRTJEK       | CPR-tjek                                                               | 198012     | 202309  |
-| UDDA | CPRTYPE       | CPR-type                                                               | 198012     | 202309  |
-| UDDA | ERH_VFRA      | Tidspunkt for opnået erhvervskompetancegivende uddannelse              | 198012     | 202309  |
-| UDDA | ERHAUDD       | Højst fuldførte erhvervskompetencegivende uddannelse                   | 198012     | 202309  |
-| UDDA | ERHINSTNR     | Institutionsnummer                                                     | 198012     | 202309  |
-| UDDA | HF_KILDE      | Kilde til uddannelsesoplysningen                                       | 198012     | 202309  |
-| UDDA | HF_VFRA       | Tidspunkt for opnået højst fuldførte uddannelse                        | 198012     | 202309  |
-| UDDA | HFAUDD        | Højste fuldførte uddannelse                                            | 198012     | 202309  |
-| UDDA | HFINSTNR      | Institutionsnummer                                                     | 198012     | 202309  |
-| UDDA | IG_VFRA       | Påbegyndelsestidspunkt for igangværende uddannelse                     | 198012     | 202309  |
-| UDDA | IGINSTNR      | Institutionsnummer                                                     | 198012     | 202309  |
-| UDDA | PNR           | Personnummer                                                           | 198012     | 202309  |
-| UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202309  |
-| UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202309  |
+| UDDA | ALM_VFRA      | Tidspunkt for opnået almenuddannelse                                   | 198012     | 202409  |
+| UDDA | ALMAUDD       | Højst fuldførte almen uddannelse                                       | 198012     | 202409  |
+| UDDA | ALMINSTNR     | Institutionsnummer                                                     | 198012     | 202409  |
+| UDDA | CPRTJEK       | CPR-tjek                                                               | 198012     | 202409  |
+| UDDA | CPRTYPE       | CPR-type                                                               | 198012     | 202409  |
+| UDDA | ERH_VFRA      | Tidspunkt for opnået erhvervskompetancegivende uddannelse              | 198012     | 202409  |
+| UDDA | ERHAUDD       | Højst fuldførte erhvervskompetencegivende uddannelse                   | 198012     | 202409  |
+| UDDA | ERHINSTNR     | Institutionsnummer                                                     | 198012     | 202409  |
+| UDDA | HF_KILDE      | Kilde til uddannelsesoplysningen                                       | 198012     | 202409  |
+| UDDA | HF_VFRA       | Tidspunkt for opnået højst fuldførte uddannelse                        | 198012     | 202409  |
+| UDDA | HFAUDD        | Højste fuldførte uddannelse                                            | 198012     | 202409  |
+| UDDA | HFINSTNR      | Institutionsnummer                                                     | 198012     | 202409  |
+| UDDA | IG_VFRA       | Påbegyndelsestidspunkt for igangværende uddannelse                     | 198012     | 202409  |
+| UDDA | IGINSTNR      | Institutionsnummer                                                     | 198012     | 202409  |
+| UDDA | PNR           | Personnummer                                                           | 198012     | 202409  |
+| UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202409  |
+| UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202409  |
 :::
 
 ::: {.callout-warning collapse="true"}
-## UDFK 2023
+## UDFK 2024
 
 |      | Variable name        | Variable label          | Start year | Endyear |
 | ---- | -------------------- | ----------------------- | ---------- | ------- |
-| UDFK | BEDOEMMELSESFORM     | Bedømmelsesform         |            | 2023    |
-| UDFK | CPRTJEK              | CPR-tjek                |            | 2023    |
-| UDFK | CPRTYPE              | CPR-type                |            | 2023    |
-| UDFK | FAGDISCIPLIN         | Fagdiciplin             |            | 2023    |
-| UDFK | FAGKODE              | Fagkode                 |            | 2023    |
-| UDFK | GRUNDSKOLEFAG        | Grundskolefag           |            | 2023    |
-| UDFK | GRUNDSKOLEKARAKTER   | Grundskolekarakter      |            | 2023    |
-| UDFK | GRUNDSKOLENIVEAU     | Niveauet for karakteren |            | 2023    |
-| UDFK | INSTNR               | INSTNR                  |            | 2023    |
-| UDFK | KARAKTERAARSAG       | KARAKTERAARSAG          |            | 2023    |
-| UDFK | KARAKTERAARSAG_TEKST | KARAKTERAARSAG_TEKST    |            | 2023    |
-| UDFK | KL_BETEGNELSE        | Klassebetegnelse        |            | 2023    |
-| UDFK | KLASSETYPE           | Klassetype              |            | 2023    |
-| UDFK | KLTRIN               | Klassetrin              |            | 2023    |
-| UDFK | OPR_KARAKTER         | Oprindelig karakter     |            | 2023    |
-| UDFK | PNR                  | PNR                     |            | 2023    |
-| UDFK | PRIVATISTER          | Privatist               |            | 2023    |
-| UDFK | PROEVEART            | Prøveart                |            | 2023    |
-| UDFK | PROEVEFORM           | Prøveform               |            | 2023    |
-| UDFK | REFPER               | REFPER                  |            | 2023    |
-| UDFK | SKALA                | SKALA                   |            | 2023    |
-| UDFK | SKOLEAAR             | Skoleår                 |            | 2023    |
+| UDFK | BEDOEMMELSESFORM     | Bedømmelsesform         |            | 2024    |
+| UDFK | CPRTJEK              | CPR-tjek                |            | 2024    |
+| UDFK | CPRTYPE              | CPR-type                |            | 2024    |
+| UDFK | FAGDISCIPLIN         | Fagdiciplin             |            | 2024    |
+| UDFK | FAGKODE              | Fagkode                 |            | 2024    |
+| UDFK | GRUNDSKOLEFAG        | Grundskolefag           |            | 2024    |
+| UDFK | GRUNDSKOLEKARAKTER   | Grundskolekarakter      |            | 2024    |
+| UDFK | GRUNDSKOLENIVEAU     | Niveauet for karakteren |            | 2024    |
+| UDFK | INSTNR               | INSTNR                  |            | 2024    |
+| UDFK | KARAKTERAARSAG       | KARAKTERAARSAG          |            | 2024    |
+| UDFK | KARAKTERAARSAG_TEKST | KARAKTERAARSAG_TEKST    |            | 2024    |
+| UDFK | KL_BETEGNELSE        | Klassebetegnelse        |            | 2024    |
+| UDFK | KLASSETYPE           | Klassetype              |            | 2024    |
+| UDFK | KLTRIN               | Klassetrin              |            | 2024    |
+| UDFK | OPR_KARAKTER         | Oprindelig karakter     |            | 2024    |
+| UDFK | PNR                  | PNR                     |            | 2024    |
+| UDFK | PRIVATISTER          | Privatist               |            | 2024    |
+| UDFK | PROEVEART            | Prøveart                |            | 2024    |
+| UDFK | PROEVEFORM           | Prøveform               |            | 2024    |
+| UDFK | REFPER               | REFPER                  |            | 2024    |
+| UDFK | SKALA                | SKALA                   |            | 2024    |
+| UDFK | SKOLEAAR             | Skoleår                 |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## UDG 2023
+## UDG 2024
 
 |     | Variable name     | Variable label              | Start year | Endyear |
 | --- | ----------------- | --------------------------- | ---------- | ------- |
-| UDG | AUDD              | Afsluttende uddannelseskode |            | 2023    |
-| UDG | CPRTJEK           | CPR-tjek                    |            | 2023    |
-| UDG | CPRTYPE           | CPR-type                    |            | 2023    |
-| UDG | INSTNR            | Institutionsnummer          |            | 2023    |
-| UDG | KARAKTER_UDD      | Karaktergennemsnit          |            | 2023    |
-| UDG | KARAKTER_UDD_VTIL | Sluttidspunkt               |            | 2023    |
-| UDG | OFF_DATO          | OFF_DATO                    |            | 2023    |
-| UDG | PNR               | Personnummer                |            | 2023    |
-| UDG | SKALA             | Karakterskala               |            | 2023    |
-| UDG | VERSION           | VERSION                     |            | 2023    |
+| UDG | AUDD              | Afsluttende uddannelseskode |            | 2024    |
+| UDG | CPRTJEK           | CPR-tjek                    |            | 2024    |
+| UDG | CPRTYPE           | CPR-type                    |            | 2024    |
+| UDG | INSTNR            | Institutionsnummer          |            | 2024    |
+| UDG | KARAKTER_UDD      | Karaktergennemsnit          |            | 2024    |
+| UDG | KARAKTER_UDD_VTIL | Sluttidspunkt               |            | 2024    |
+| UDG | OFF_DATO          | OFF_DATO                    |            | 2024    |
+| UDG | PNR               | Personnummer                |            | 2024    |
+| UDG | SKALA             | Karakterskala               |            | 2024    |
+| UDG | VERSION           | VERSION                     |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
