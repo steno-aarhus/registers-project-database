@@ -11,8 +11,8 @@ The Project database is a common database for all epidemiological and
 clinical research projects affiliated to Steno Diabetes Center Aarhus.
 It gives the possible to get access to a broad range of data from e.g.
 Statistics Denmark, the Danish health authorities and other datasources
-in a minimal cost with the posibility of yearly updates of the
-registers. Also there is a posibility to upload your own data on the
+in a minimal cost with the possibility of yearly updates of the
+registers. Also there is a possibility to upload your own data on the
 sub-project.
 
 ## Purpose
