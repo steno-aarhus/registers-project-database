@@ -5,3 +5,16 @@ description: Some general guidelines on how to work with data on a project at St
 ---
 
 ## How to initiate a project
+When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible:
+SAS 
+STATA
+Parquet
+
+If more dataformats is required at the project, an arrangement can be made regarding that. 
+
+## Parquet files
+Both SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with. 
+
+## Code of conduct
+
+
