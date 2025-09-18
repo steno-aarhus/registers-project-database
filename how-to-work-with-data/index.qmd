@@ -13,7 +13,7 @@ When the project is approved by the Statistic Denmark data can be moved to the p
 
 If more dataformats is required at the project, an arrangement can be made regarding that. 
 
-## File formats
+## How to work with data
 Both SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with. 
 
 ## Code of conduct
