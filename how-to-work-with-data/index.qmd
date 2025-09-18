@@ -13,9 +13,19 @@ When the project is approved by the Statistic Denmark data can be moved to the p
 
 If more dataformats is required at the project, an arrangement can be made regarding that. 
 
-## Parquet files
+## File formats
 Both SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with. 
 
 ## Code of conduct
+-   To keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.
+-   As the Rawdata folder only contains read only data files, you cannot make any changes to data or write new files. To avoid unnecessary copies of rawdata your code/syntax should read data directly from this location. 
+-   When working with data create one dataset based on your population and the needed variables.
+-   Never keep more than one version of a dataset - several datasets quickly take up disk space.
+-   Delete datasets when analyze are done. 
+-   Make sure to save your code/syntax so you can always recreate your dataset.
+-   A good advice is to keep track of research progress by documenting the files with a word or text file.  
+-   Always close down programs and sign out by the end of the day. 
+
+
 
 
