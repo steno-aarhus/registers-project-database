@@ -4,7 +4,7 @@ description: Some general guidelines on how to work with data on a project at St
 
 ---
 
-## How to initiate a project
+## Launching the project
 When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible:
 
 -   SAS
