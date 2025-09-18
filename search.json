@@ -393,6 +393,34 @@
     ]
   },
   {
+    "objectID": "how-to-work-with-data/index.html",
+    "href": "how-to-work-with-data/index.html",
+    "title": "How to work with data",
+    "section": "",
+    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible: SAS STATA Parquet\nIf more dataformats is required at the project, an arrangement can be made regarding that."
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#how-to-initiate-a-project",
+    "href": "how-to-work-with-data/index.html#how-to-initiate-a-project",
+    "title": "How to work with data",
+    "section": "",
+    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible: SAS STATA Parquet\nIf more dataformats is required at the project, an arrangement can be made regarding that."
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#parquet-files",
+    "href": "how-to-work-with-data/index.html#parquet-files",
+    "title": "How to work with data",
+    "section": "Parquet files",
+    "text": "Parquet files\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#code-of-conduct",
+    "href": "how-to-work-with-data/index.html#code-of-conduct",
+    "title": "How to work with data",
+    "section": "Code of conduct",
+    "text": "Code of conduct"
+  },
+  {
     "objectID": "getting-started/onboarding-to-statistics-denmark/index.html",
     "href": "getting-started/onboarding-to-statistics-denmark/index.html",
     "title": "Onboarding to Statistics Denmark",
