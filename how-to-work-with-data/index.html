@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#how-to-initiate-a-project" id="toc-how-to-initiate-a-project" class="nav-link active" data-scroll-target="#how-to-initiate-a-project">How to initiate a project</a></li>
-  <li><a href="#parquet-files" id="toc-parquet-files" class="nav-link" data-scroll-target="#parquet-files">Parquet files</a></li>
+  <li><a href="#file-formats" id="toc-file-formats" class="nav-link" data-scroll-target="#file-formats">File formats</a></li>
   <li><a href="#code-of-conduct" id="toc-code-of-conduct" class="nav-link" data-scroll-target="#code-of-conduct">Code of conduct</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/registers-project-database/edit/main/how-to-work-with-data/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/registers-project-database/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/registers-project-database/blob/main/how-to-work-with-data/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
@@ -171,12 +171,23 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>If more dataformats is required at the project, an arrangement can be made regarding that.</p>
 </section>
-<section id="parquet-files" class="level2">
-<h2 class="anchored" data-anchor-id="parquet-files">Parquet files</h2>
+<section id="file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="file-formats">File formats</h2>
 <p>Both SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with.</p>
 </section>
 <section id="code-of-conduct" class="level2">
 <h2 class="anchored" data-anchor-id="code-of-conduct">Code of conduct</h2>
+<ul>
+<li>To keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.</li>
+<li>As the Rawdata folder only contains read only data files, you cannot make any changes to data or write new files. To avoid unnecessary copies of rawdata your code/syntax should read data directly from this location.&nbsp;</li>
+<li>When working with data create one dataset based on your population and the needed variables.</li>
+<li>Never keep more than one version of a dataset - several datasets quickly take up disk space.</li>
+<li>Delete datasets when analyze are done.</li>
+<li>Make sure to save your code/syntax so you can always recreate your dataset.</li>
+<li>A good advice is to keep track of research progress by documenting the files with a word or text file.<br>
+</li>
+<li>Always close down programs and sign out by the end of the day.</li>
+</ul>
 
 
 </section>

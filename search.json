@@ -407,18 +407,18 @@
     "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement can be made regarding that."
   },
   {
-    "objectID": "how-to-work-with-data/index.html#parquet-files",
-    "href": "how-to-work-with-data/index.html#parquet-files",
+    "objectID": "how-to-work-with-data/index.html#file-formats",
+    "href": "how-to-work-with-data/index.html#file-formats",
     "title": "How to work with data",
-    "section": "Parquet files",
-    "text": "Parquet files\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
+    "section": "File formats",
+    "text": "File formats\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
   },
   {
     "objectID": "how-to-work-with-data/index.html#code-of-conduct",
     "href": "how-to-work-with-data/index.html#code-of-conduct",
     "title": "How to work with data",
     "section": "Code of conduct",
-    "text": "Code of conduct"
+    "text": "Code of conduct\n\nTo keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.\nAs the Rawdata folder only contains read only data files, you cannot make any changes to data or write new files. To avoid unnecessary copies of rawdata your code/syntax should read data directly from this location. \nWhen working with data create one dataset based on your population and the needed variables.\nNever keep more than one version of a dataset - several datasets quickly take up disk space.\nDelete datasets when analyze are done.\nMake sure to save your code/syntax so you can always recreate your dataset.\nA good advice is to keep track of research progress by documenting the files with a word or text file.\n\nAlways close down programs and sign out by the end of the day."
   },
   {
     "objectID": "getting-started/onboarding-to-statistics-denmark/index.html",
