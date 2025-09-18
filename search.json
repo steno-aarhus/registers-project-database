@@ -407,11 +407,11 @@
     "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are avaible:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement can be made regarding that."
   },
   {
-    "objectID": "how-to-work-with-data/index.html#file-formats",
-    "href": "how-to-work-with-data/index.html#file-formats",
+    "objectID": "how-to-work-with-data/index.html#how-to-work-with-data",
+    "href": "how-to-work-with-data/index.html#how-to-work-with-data",
     "title": "How to work with data",
-    "section": "File formats",
-    "text": "File formats\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
+    "section": "How to work with data",
+    "text": "How to work with data\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
   },
   {
     "objectID": "how-to-work-with-data/index.html#code-of-conduct",
