@@ -198,7 +198,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BFL 200812-202312
+## BFL 200812-202412
 
 |     | Variable name              | Variable label                                                         | Start year   | Endyear |
 | --- | -------------------------- | ---------------------------------------------------------------------- | ----------   | ------- |
@@ -3715,39 +3715,44 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTBARN 2018
+## FTBARN 2023
 
-|        | Variable name    | Variable label   | Start year | Endyear |
-| ------ | -------------    | --------------   | ---------- | ------- |
-| FTBARN | B_KILDE          | B_KILDE          |            | 2023    |
-| FTBARN | CPRTJEK          | CPR-tjek         |            | 2023    |
-| FTBARN | CPRTYPE          | CPR-type         |            | 2023    |
-| FTBARN | F_KILDE          | F_KILDE          |            | 2023    |
-| FTBARN | FAR_ALDER        | FAR_ALDER        |            | 2023    |
-| FTBARN | FAR_ALDER_ULT    | FAR_ALDER_ULT    |            | 2023    |
-| FTBARN | FAR_FOED_ADOP    | FAR_FOED_ADOP    |            | 2023    |
-| FTBARN | FAR_KOEN         | FAR_KOEN         |            | 2023    |
-| FTBARN | FAR_VFRA         | FAR_VFRA         |            | 2023    |
-| FTBARN | FLERFOLD         | FLERFOLD         |            | 2023    |
-| FTBARN | FAR1             | FAR1             |            | 2023    |
-| FTBARN | FAR2             | FAR2             |            | 2023    |
-| FTBARN | FOED_DAG         | FOED_DAG         |            | 2023    |
-| FTBARN | FOEDREG_DK       | FOEDREG_DK       |            | 2023    |
-| FTBARN | FOEDREG_KODE     | FOEDREG_KODE     |            | 2023    |
-| FTBARN | FOEDTE_POPULATION| FOEDTE_POPULATION|            | 2023    |
-| FTBARN | FOEDAAR          | FOEDAAR          |            | 2023    |
-| FTBARN | KOEN             | KOEN             |            | 2023    |
-| FTBARN | M_KILDE          | M_KILDE          |            | 2023    |
-| FTBARN | MOR_ALDER        | MOR_ALDER        |            | 2023    |
-| FTBARN | MOR_ALDER_ULT    | MOR_ALDER_ULT    |            | 2023    |
-| FTBARN | MOR_FOED_ADOP    | MOR_FOED_ADOP    |            | 2023    |
-| FTBARN | MOR_KOEN         | MOR_KOEN         |            | 2023    |
-| FTBARN | MOR_VFRA         | MOR_VFRA         |            | 2023    |
-| FTBARN | MOR1             | MOR1             |            | 2023    |
-| FTBARN | MOR2             | MOR2             |            | 2023    |
-| FTBARN | PNR              | PNR              |            | 2023    |
-| FTBARN | VAEGT_BARN       | VAEGT_BARN       |            | 2023    |
-| FTBARN | VERSION          | VERSION          |            | 2023    |
+|        | Variable name          | Variable label          | Start year | Endyear |
+| ------ | ---------------------- | ----------------------- | ---------- | ------- |
+| FTBARN | B_KILDE                | B_KILDE                 |            | 2023    |
+| FTBARN | CPRTJEK                | CPR-tjek                |            | 2023    |
+| FTBARN | CPRTYPE                | CPR-type                |            | 2023    |
+| FTBARN | F_KILDE                | F_KILDE                 |            | 2023    |
+| FTBARN | FAR_ALDER              | FAR_ALDER               |            | 2023    |
+| FTBARN | FAR_ALDER_ULT          | FAR_ALDER_ULT           |            | 2023    |
+| FTBARN | FAR_FOED_ADOP          | FAR_FOED_ADOP           |            | 2023    |
+| FTBARN | FAR_KOEN               | FAR_KOEN                |            | 2023    |
+| FTBARN | FAR_VFRA               | FAR_VFRA                |            | 2023    |
+| FTBARN | FLERFOLD               | FLERFOLD                |            | 2023    |
+| FTBARN | FAR1                   | FAR1                    |            | 2023    |
+| FTBARN | FAR2                   | FAR2                    |            | 2023    |
+| FTBARN | FOED_DAG               | FOED_DAG                |            | 2023    |
+| FTBARN | FOEDREG_DK             | FOEDREG_DK              |            | 2023    |
+| FTBARN | FOEDREG_KODE           | FOEDREG_KODE            |            | 2023    |
+| FTBARN | FOEDTE_POPULATION      | FOEDTE_POPULATION       |            | 2023    |
+| FTBARN | FOEDAAR                | FOEDAAR                 |            | 2023    |
+| FTBARN | INDDAG                 | INDDAG                  |            | 2023    |
+| FTBARN | KOEN                   | KOEN                    |            | 2023    |
+| FTBARN | LAENGDE_BARN           | LAENGDE_BARN            |            | 2023    |
+| FTBARN | LEVENDE_ELLER_DOEDFOEDT| LEVENDE_ELLER_DOEDFOEDT |            | 2023    |
+| FTBARN | M_DOED                 | M_DOED                  |            | 2023    |
+| FTBARN | MFR_OPLYSNING          | MFR_OPLYSNING           |            | 2023    |
+| FTBARN | M_KILDE                | M_KILDE                 |            | 2023    |
+| FTBARN | MOR_ALDER              | MOR_ALDER               |            | 2023    |
+| FTBARN | MOR_ALDER_ULT          | MOR_ALDER_ULT           |            | 2023    |
+| FTBARN | MOR_FOED_ADOP          | MOR_FOED_ADOP           |            | 2023    |
+| FTBARN | MOR_KOEN               | MOR_KOEN                |            | 2023    |
+| FTBARN | MOR_VFRA               | MOR_VFRA                |            | 2023    |
+| FTBARN | MOR1                   | MOR1                    |            | 2023    |
+| FTBARN | MOR2                   | MOR2                    |            | 2023    |
+| FTBARN | PNR                    | PNR                     |            | 2023    |
+| FTBARN | VAEGT_BARN             | VAEGT_BARN              |            | 2023    |
+| FTBARN | VERSION                | VERSION                 |            | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
