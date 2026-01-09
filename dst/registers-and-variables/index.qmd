@@ -161,11 +161,11 @@ Below you will find a full describtion of all DST registers and variables in the
 | BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202412  |
 | BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202412  |
 | BEF | FAR_ID              | Personnummer far                                          | 198512     | 202412  |
-| BEF | FKIRK               | Folkekirkemarkering                                       | 198512     | 202412  |
+| BEF | FKIRK               | Folkekirkemarkering                                       | 200412     | 202412  |
 | BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202412  |
 | BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202412  |
 | BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202412  |
-| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 198512     | 202412  |
+| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 200412     | 202412  |
 | BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202412  |
 | BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202412  |
 | BEF | KOEN                | Køn                                                       | 198512     | 202412  |
@@ -177,10 +177,10 @@ Below you will find a full describtion of all DST registers and variables in the
 | BEF | PNR                 | Personnummer                                              | 198512     | 202412  |
 | BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202412  |
 | BEF | REG                 | Region                                                    | 198512     | 202412  |
-| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 198512     | 202412  |
+| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 200412     | 202412  |
 | BEF | STATSB              | Statsborgerskab                                           | 198512     | 202412  |
 | BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202412  |
-| BEF | VERSION             | VERSION                                                   | 198512     | 202412  |
+| BEF | VERSION             | VERSION                                                   | 200412     | 202412  |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -224,8 +224,8 @@ Below you will find a full describtion of all DST registers and variables in the
 | BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 200812       | 202412  |
 | BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 200812       | 202412  |
 | BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 200812       | 202412  |
-| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 200812       | 202412  |
-| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 200812       | 202412  |
+| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 201912       | 202412  |
+| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 201912       | 202412  |
 | BFL | CPRTJEK                    | CPR-tjek                                                               | 200812       | 202412  |
 | BFL | CPRTYPE                    | CPR-type                                                               | 200812       | 202412  |
 | BFL | PNR                        | Personnummer                                                           | 200812       | 202412  |
