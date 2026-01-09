@@ -4326,19 +4326,19 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                            | Variable name               |  Variable label        | Start year | Endyear |
 | -------------------------- | --------------------------- | ---------------------- | ---------- | ------- |
-| LPR_A_BETALINGSOPLYSNINGER | BET_AFTALE                  | BET_AFTALE             |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_AFTALE_TEKST            | BET_AFTALE_TEKST       |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_INDB_TIDSPUNKT      | BET_OPL_INDB_TIDSPUNKT |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SLUTTIDSPUNKT       | BET_OPL_SLUTTIDSPUNKT  |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SPEC_NIV            | BET_OPL_SPEC_NIV       |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SPEC_NIV_TEKST      | BET_OPL_SPEC_NIV_TEKST |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_STARTTIDSPUNKT      | BET_OPL_STARTTIDSPUNKT |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BETALER                     | BETALER                |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | BETALER_TEKST               | BETALER_TEKST          |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | DW_EK_BETALINGSOPLYSNING    | INGEN LABEL            |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | DW_EK_KONTAKT               | INGEN LABEL            |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2023    |
-| LPR_A_BETALINGSOPLYSNINGER | FLAG_BET_OPL_KONT           | FLAG_BET_OPL_KONT      |            | 2023    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_AFTALE                  | BET_AFTALE             |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_AFTALE_TEKST            | BET_AFTALE_TEKST       |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_INDB_TIDSPUNKT      | BET_OPL_INDB_TIDSPUNKT |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SLUTTIDSPUNKT       | BET_OPL_SLUTTIDSPUNKT  |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SPEC_NIV            | BET_OPL_SPEC_NIV       |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_SPEC_NIV_TEKST      | BET_OPL_SPEC_NIV_TEKST |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BET_OPL_STARTTIDSPUNKT      | BET_OPL_STARTTIDSPUNKT |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BETALER                     | BETALER                |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | BETALER_TEKST               | BETALER_TEKST          |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | DW_EK_BETALINGSOPLYSNING    | INGEN LABEL            |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | DW_EK_KONTAKT               | INGEN LABEL            |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2024    |
+| LPR_A_BETALINGSOPLYSNINGER | FLAG_BET_OPL_KONT           | FLAG_BET_OPL_KONT      |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4346,17 +4346,17 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                | Variable name               |  Variable label             | Start year | Endyear |
 | -------------- | --------------------------- | --------------------------- | ---------- | ------- |
-| LPR_A_DIAGNOSE | DIAG_KODE                   | DIAG_KODE                   |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_KODE_TEKST             | DIAG_KODE_TEKST             |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_KODE_TYPE              | DIAG_KODE_TYPE              |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_KODE_TYPE_TEKST        | DIAG_KODE_TYPE_TEKST        |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_PARENT_KODE            | DIAG_PARENT_KODE            |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TEKST      | DIAG_PARENT_KODE_TEKST      |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TYPE       | DIAG_PARENT_KODE_TYPE       |            | 2023    |
-| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TYPE_TEKST | DIAG_PARENT_KODE_TYPE_TEKST |            | 2023    |
-| LPR_A_DIAGNOSE | DW_EK_KONTAKT               | INGEN LABEL                 |            | 2023    |
-| LPR_A_DIAGNOSE | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2023    |
-| LPR_A_DIAGNOSE | SENERE_AFKRAEFTET           | SENERE_AFKRAEFTET           |            | 2023    |
+| LPR_A_DIAGNOSE | DIAG_KODE                   | DIAG_KODE                   |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_KODE_TEKST             | DIAG_KODE_TEKST             |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_KODE_TYPE              | DIAG_KODE_TYPE              |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_KODE_TYPE_TEKST        | DIAG_KODE_TYPE_TEKST        |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_PARENT_KODE            | DIAG_PARENT_KODE            |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TEKST      | DIAG_PARENT_KODE_TEKST      |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TYPE       | DIAG_PARENT_KODE_TYPE       |            | 2024    |
+| LPR_A_DIAGNOSE | DIAG_PARENT_KODE_TYPE_TEKST | DIAG_PARENT_KODE_TYPE_TEKST |            | 2024    |
+| LPR_A_DIAGNOSE | DW_EK_KONTAKT               | INGEN LABEL                 |            | 2024    |
+| LPR_A_DIAGNOSE | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2024    |
+| LPR_A_DIAGNOSE | SENERE_AFKRAEFTET           | SENERE_AFKRAEFTET           |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4364,41 +4364,41 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |               | Variable name               |  Variable label             | Start year | Endyear |
 | ------------- | --------------------------- | --------------------------- | ---------- | ------- |
-| LPR_A_FORLOEB | CPRTJEK                     | CPR-tjek                    |            | 2023    |
-| LPR_A_FORLOEB | CPRTYPE                     | CPR-type                    |            | 2023    |
-| LPR_A_FORLOEB | DW_EK_BORGER                | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | DW_EK_FORLOEB               | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | DW_EK_FORLOEB_FORRIGE       | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | DW_EK_HELBREDSFORLOEB       | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | FORL_AFSLUT_MAADE           | FORL_AFSLUT_MAADE           |            | 2023    |
-| LPR_A_FORLOEB | FORL_AFSLUT_MAADE_TEKST     | FORL_AFSLUT_MAADE_TEKST     |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS                    | FORL_ANS                    |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS_GEO_REG            | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS_GEO_REG_TEKST      | FORL_ANS_GEO_REG_TEKST      |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS_INST               | FORL_ANS_INST               |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS_ORG_REG            | INGEN LABEL                 |            | 2023    |
-| LPR_A_FORLOEB | FORL_ANS_ORG_REG_TEKST      | FORL_ANS_ORG_REG_TEKST      |            | 2023    |
-| LPR_A_FORLOEB | FORL_FRITVALG               | FORL_FRITVALG               |            | 2023    |
-| LPR_A_FORLOEB | FORL_FRITVALG_TEKST         | FORL_FRITVALG_TEKST         |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_INSTANS           | FORL_HENV_INSTANS           |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_MAADE             | FORL_HENV_MAADE             |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_MAADE_TEKST       | FORL_HENV_MAADE_TEKST       |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_TIDSPUNKT         | FORL_HENV_TIDSPUNKT         |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_AARSAG            | FORL_HENV_AARSAG            |            | 2023    |
-| LPR_A_FORLOEB | FORL_HENV_AARSAG_TEKST      | FORL_HENV_AARSAG_TEKST      |            | 2023    |
-| LPR_A_FORLOEB | FORL_INDB_TIDSPUNKT         | FORL_INDB_TIDSPUNKT         |            | 2023    |
-| LPR_A_FORLOEB | FORL_INST_EJERTYPE          | FORL_INST_EJERTYPE          |            | 2023    |
-| LPR_A_FORLOEB | FORL_LABEL                  | FORL_LABEL                  |            | 2023    |
-| LPR_A_FORLOEB | FORL_LABEL_TEKST            | FORL_LABEL_TEKST            |            | 2023    |
-| LPR_A_FORLOEB | FORL_LPR_ENTITY_ID          | FORL_LPR_ENTITY_ID          |            | 2023    |
-| LPR_A_FORLOEB | FORL_REF_TYPE               | FORL_REF_TYPE               |            | 2023    |
-| LPR_A_FORLOEB | FORL_REF_TYPE_TEKST         | FORL_REF_TYPE_TEKST         |            | 2023    |
-| LPR_A_FORLOEB | FORL_SLUTTIDSPUNKT          | FORL_SLUTTIDSPUNKT          |            | 2023    |
-| LPR_A_FORLOEB | FORL_STARTTIDSPUNKT         | FORL_STARTTIDSPUNKT         |            | 2023    |
-| LPR_A_FORLOEB | HELBREDSFORL_SLUTTIDSPUNKT  | HELBREDSFORL_SLUTTIDSPUNKT  |            | 2023    |
-| LPR_A_FORLOEB | HELBREDSFORL_STARTTIDSPUNKT | HELBREDSFORL_STARTTIDSPUNKT |            | 2023    |
-| LPR_A_FORLOEB | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2023    |
-| LPR_A_FORLOEB | PNR                         | PNR                         |            | 2023    |
+| LPR_A_FORLOEB | CPRTJEK                     | CPR-tjek                    |            | 2024    |
+| LPR_A_FORLOEB | CPRTYPE                     | CPR-type                    |            | 2024    |
+| LPR_A_FORLOEB | DW_EK_BORGER                | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | DW_EK_FORLOEB               | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | DW_EK_FORLOEB_FORRIGE       | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | DW_EK_HELBREDSFORLOEB       | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | FORL_AFSLUT_MAADE           | FORL_AFSLUT_MAADE           |            | 2024    |
+| LPR_A_FORLOEB | FORL_AFSLUT_MAADE_TEKST     | FORL_AFSLUT_MAADE_TEKST     |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS                    | FORL_ANS                    |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS_GEO_REG            | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS_GEO_REG_TEKST      | FORL_ANS_GEO_REG_TEKST      |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS_INST               | FORL_ANS_INST               |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS_ORG_REG            | INGEN LABEL                 |            | 2024    |
+| LPR_A_FORLOEB | FORL_ANS_ORG_REG_TEKST      | FORL_ANS_ORG_REG_TEKST      |            | 2024    |
+| LPR_A_FORLOEB | FORL_FRITVALG               | FORL_FRITVALG               |            | 2024    |
+| LPR_A_FORLOEB | FORL_FRITVALG_TEKST         | FORL_FRITVALG_TEKST         |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_INSTANS           | FORL_HENV_INSTANS           |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_MAADE             | FORL_HENV_MAADE             |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_MAADE_TEKST       | FORL_HENV_MAADE_TEKST       |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_TIDSPUNKT         | FORL_HENV_TIDSPUNKT         |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_AARSAG            | FORL_HENV_AARSAG            |            | 2024    |
+| LPR_A_FORLOEB | FORL_HENV_AARSAG_TEKST      | FORL_HENV_AARSAG_TEKST      |            | 2024    |
+| LPR_A_FORLOEB | FORL_INDB_TIDSPUNKT         | FORL_INDB_TIDSPUNKT         |            | 2024    |
+| LPR_A_FORLOEB | FORL_INST_EJERTYPE          | FORL_INST_EJERTYPE          |            | 2024    |
+| LPR_A_FORLOEB | FORL_LABEL                  | FORL_LABEL                  |            | 2024    |
+| LPR_A_FORLOEB | FORL_LABEL_TEKST            | FORL_LABEL_TEKST            |            | 2024    |
+| LPR_A_FORLOEB | FORL_LPR_ENTITY_ID          | FORL_LPR_ENTITY_ID          |            | 2024    |
+| LPR_A_FORLOEB | FORL_REF_TYPE               | FORL_REF_TYPE               |            | 2024    |
+| LPR_A_FORLOEB | FORL_REF_TYPE_TEKST         | FORL_REF_TYPE_TEKST         |            | 2024    |
+| LPR_A_FORLOEB | FORL_SLUTTIDSPUNKT          | FORL_SLUTTIDSPUNKT          |            | 2024    |
+| LPR_A_FORLOEB | FORL_STARTTIDSPUNKT         | FORL_STARTTIDSPUNKT         |            | 2024    |
+| LPR_A_FORLOEB | HELBREDSFORL_SLUTTIDSPUNKT  | HELBREDSFORL_SLUTTIDSPUNKT  |            | 2024    |
+| LPR_A_FORLOEB | HELBREDSFORL_STARTTIDSPUNKT | HELBREDSFORL_STARTTIDSPUNKT |            | 2024    |
+| LPR_A_FORLOEB | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2024    |
+| LPR_A_FORLOEB | PNR                         | PNR                         |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4406,15 +4406,15 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                       | Variable name             |  Variable label        | Start year | Endyear |
 | --------------------- | ------------------------- | ---------------------- | ---------- | ------- |
-| LPR_A_FORLOEBSMARKOER | DW_EK_FORLOEB             | INGEN LABEL            |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | DW_EK_HELBREDSFORLOEB     | INGEN LABEL            |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | DW_EK_MARKOERREGISTRERING | INGEN LABEL            |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | LPRINDBERETNINGSSYSTEM    | LPRINDBERETNINGSSYSTEM |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | MARKOER                   | MARKOER                |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | MARKOER_INDB_TIDSPUNKT    | MARKOER_INDB_TIDSPUNKT |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | MARKOER_SKS_TYPE          | MARKOER_SKS_TYPE       |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | MARKOER_TEKST             | MARKOER_TEKST          |            | 2023    |
-| LPR_A_FORLOEBSMARKOER | MARKOER_TIDSPUNKT         | MARKOER_TIDSPUNKT      |            | 2023    |
+| LPR_A_FORLOEBSMARKOER | DW_EK_FORLOEB             | INGEN LABEL            |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | DW_EK_HELBREDSFORLOEB     | INGEN LABEL            |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | DW_EK_MARKOERREGISTRERING | INGEN LABEL            |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | LPRINDBERETNINGSSYSTEM    | LPRINDBERETNINGSSYSTEM |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | MARKOER                   | MARKOER                |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | MARKOER_INDB_TIDSPUNKT    | MARKOER_INDB_TIDSPUNKT |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | MARKOER_SKS_TYPE          | MARKOER_SKS_TYPE       |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | MARKOER_TEKST             | MARKOER_TEKST          |            | 2024    |
+| LPR_A_FORLOEBSMARKOER | MARKOER_TIDSPUNKT         | MARKOER_TIDSPUNKT      |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4422,11 +4422,11 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                          | Variable name          |  Variable label        | Start year | Endyear |
 | ------------------------ | ---------------------- | ---------------------- | ---------- | ------- |
-| LPR_A_HENVISNING_TILLAEG | DW_EK_FORLOEB          | INGEN LABEL            |            | 2023    |
-| LPR_A_HENVISNING_TILLAEG | DW_EK_KONTAKT          | INGEN LABEL            |            | 2023    |
-| LPR_A_HENVISNING_TILLAEG | HENV_AARSAG_TILL       | HENV_AARSAG_TILL       |            | 2023    |
-| LPR_A_HENVISNING_TILLAEG | HENV_AARSAG_TILL_TEKST | HENV_AARSAG_TILL_TEKST |            | 2023    |
-| LPR_A_HENVISNING_TILLAEG | LPRINDBERETNINGSSYSTEM | INGEN LABEL            |            | 2023    |
+| LPR_A_HENVISNING_TILLAEG | DW_EK_FORLOEB          | INGEN LABEL            |            | 2024    |
+| LPR_A_HENVISNING_TILLAEG | DW_EK_KONTAKT          | INGEN LABEL            |            | 2024    |
+| LPR_A_HENVISNING_TILLAEG | HENV_AARSAG_TILL       | HENV_AARSAG_TILL       |            | 2024    |
+| LPR_A_HENVISNING_TILLAEG | HENV_AARSAG_TILL_TEKST | HENV_AARSAG_TILL_TEKST |            | 2024    |
+| LPR_A_HENVISNING_TILLAEG | LPRINDBERETNINGSSYSTEM | INGEN LABEL            |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4434,59 +4434,61 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |               | Variable name           |  Variable label         | Start year | Endyear |
 | ------------- | ----------------------- | ----------------------- | ---------- | ------- |
-| LPR_A_KONTAKT | ADIAG                   | ADIAG                   |            | 2023    |
-| LPR_A_KONTAKT | ADIAG_TEKST             | ADIAG_TEKST             |            | 2023    |
-| LPR_A_KONTAKT | BEH_STARTTIDSPUNKT      | BEH_STARTTIDSPUNKT      |            | 2023    |
-| LPR_A_KONTAKT | BORGER_ALDER_AAR_IND    | BORGER_ALDER_AAR_IND    |            | 2023    |
-| LPR_A_KONTAKT | BORGER_ALDER_AAR_UD     | BORGER_ALDER_AAR_UD     |            | 2023    |
-| LPR_A_KONTAKT | BORGER_BO_KOM           | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | BORGER_BO_KOM_TEKST     | BORGER_BO_KOM_TEKST     |            | 2023    |
-| LPR_A_KONTAKT | BORGER_BO_REG           | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | BORGER_BO_REG_TEKST     | BORGER_BO_REG_TEKST     |            | 2023    |
-| LPR_A_KONTAKT | BORGER_DOEDSDATO        | BORGER_DOEDSDATO        |            | 2023    |
-| LPR_A_KONTAKT | BORGER_FOEDSELSDATO     | BORGER_FOEDSELSDATO     |            | 2023    |
-| LPR_A_KONTAKT | BORGER_KOEN             | BORGER_KOEN             |            | 2023    |
-| LPR_A_KONTAKT | CPRTJEK                 | CPR-tjek                |            | 2023    |
-| LPR_A_KONTAKT | CPRTYPE                 | CPR-type                |            | 2023    |
-| LPR_A_KONTAKT | DW_EK_BORGER            | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | DW_EK_FORLOEB           | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | DW_EK_HELBREDSFORLOEB   | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | DW_EK_KONTAKT           | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | DW_SK_SYGEHUSOPHOLD     | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | FLAG_KONT_AFSLUTTET     | FLAG_KONT_AFSLUTTET     |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS                | KONT_ANS                |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_GEO_REG        | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_GEO_REG_TEKST  | KONT_ANS_GEO_REG_TEKST  |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_HOVEDSPEC      | KONT_ANS_HOVEDSPEC      |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_HOVEDSPEC_SHAK | KONT_ANS_HOVEDSPEC_SHAK |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_INST           | KONT_ANS_INST           |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_ORG_REG        | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKT | KONT_ANS_ORG_REG_TEKST  | KONT_ANS_ORG_REG_TEKST  |            | 2023    |
-| LPR_A_KONTAKT | KONT_FIR_KODE           | KONT_FIR_KODE           |            | 2023    |
-| LPR_A_KONTAKT | KONT_FIR_TEKST          | KONT_FIR_TEKST          |            | 2023    |
-| LPR_A_KONTAKT | KONT_FRITVALG           | KONT_FRITVALG           |            | 2023    |
-| LPR_A_KONTAKT | KONT_FRITVALG_TEKST     | KONT_FRITVALG_TEKST     |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_INSTANS       | KONT_HENV_INSTANS       |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_MAADE         | KONT_HENV_MAADE         |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_MAADE_TEKST   | KONT_HENV_MAADE_TEKST   |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_TIDSPUNKT     | KONT_HENV_TIDSPUNKT     |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_AARSAG        | KONT_HENV_AARSAG        |            | 2023    |
-| LPR_A_KONTAKT | KONT_HENV_AARSAG_TEKST  | KONT_HENV_AARSAG_TEKST  |            | 2023    |
-| LPR_A_KONTAKT | KONT_INDB_TIDSPUNKT     | KONT_INDB_TIDSPUNKT     |            | 2023    |
-| LPR_A_KONTAKT | KONT_INST_EJERTYPE      | KONT_INST_EJERTYPE      |            | 2023    |
-| LPR_A_KONTAKT | KONT_LPR_ENTITY_ID      | KONT_LPR_ENTITY_ID      |            | 2023    |
-| LPR_A_KONTAKT | KONT_PATIENT_TYPE       | KONT_PATIENT_TYPE       |            | 2023    |
-| LPR_A_KONTAKT | KONT_PATIENT_TYPE_TEKST | KONT_PATIENT_TYPE_TEKST |            | 2023    |
-| LPR_A_KONTAKT | KONT_SLUTTIDSPUNKT      | KONT_SLUTTIDSPUNKT      |            | 2023    |
-| LPR_A_KONTAKT | KONT_STARTTIDSPUNKT     | KONT_STARTTIDSPUNKT     |            | 2023    |
-| LPR_A_KONTAKT | KONT_TYPE               | KONT_TYPE               |            | 2023    |
-| LPR_A_KONTAKT | KONT_TYPE_TEKST         | KONT_TYPE_TEKST         |            | 2023    |
-| LPR_A_KONTAKT | KONT_AARSAG             | KONT_AARSAG             |            | 2023    |
-| LPR_A_KONTAKT | KONT_AARSAG_TEKST       | KONT_AARSAG_TEKST       |            | 2023    |
-| LPR_A_KONTAKT | LPRINDBERETNINGSSYSTEM  | LPRINDBERETNINGSSYSTEM  |            | 2023    |
-| LPR_A_KONTAKT | PNR                     | PNR                     |            | 2023    |
-| LPR_A_KONTAKT | PRIORITET               | PRIORITET               |            | 2023    |
-| LPR_A_KONTAKT | PRIORITET_TEKST         | PRIORITET_TEKST         |            | 2023    |
+| LPR_A_KONTAKT | ADIAG                   | ADIAG                   |            | 2024    |
+| LPR_A_KONTAKT | ADIAG_TEKST             | ADIAG_TEKST             |            | 2024    |
+| LPR_A_KONTAKT | BEH_STARTTIDSPUNKT      | BEH_STARTTIDSPUNKT      |            | 2024    |
+| LPR_A_KONTAKT | BORGER_ALDER_AAR_IND    | BORGER_ALDER_AAR_IND    |            | 2024    |
+| LPR_A_KONTAKT | BORGER_ALDER_AAR_UD     | BORGER_ALDER_AAR_UD     |            | 2024    |
+| LPR_A_KONTAKT | BORGER_BO_KOM           | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | BORGER_BO_KOM_TEKST     | BORGER_BO_KOM_TEKST     |            | 2024    |
+| LPR_A_KONTAKT | BORGER_BO_REG           | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | BORGER_BO_REG_TEKST     | BORGER_BO_REG_TEKST     |            | 2024    |
+| LPR_A_KONTAKT | BORGER_DOEDSDATO        | BORGER_DOEDSDATO        |            | 2024    |
+| LPR_A_KONTAKT | BORGER_FOEDSELSDATO     | BORGER_FOEDSELSDATO     |            | 2024    |
+| LPR_A_KONTAKT | BORGER_KOEN             | BORGER_KOEN             |            | 2024    |
+| LPR_A_KONTAKT | CPRTJEK                 | CPR-tjek                |            | 2024    |
+| LPR_A_KONTAKT | CPRTYPE                 | CPR-type                |            | 2024    |
+| LPR_A_KONTAKT | DW_EK_BORGER            | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | DW_EK_FORLOEB           | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | DW_EK_HELBREDSFORLOEB   | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | DW_EK_KONTAKT           | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | DW_SK_SYGEHUSOPHOLD     | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | FLAG_KONT_AFSLUTTET     | FLAG_KONT_AFSLUTTET     |            | 2024    |
+| LPR_A_KONTAKT | KONT_AARSAG             | KONT_ANS                |            | 2024    |
+| LPR_A_KONTAKT | KONT_AARSAG_TEKST       | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS                | KONT_ANS                |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_GEO_REG        | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_GEO_REG_TEKST  | KONT_ANS_GEO_REG_TEKST  |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_HOVEDSPEC      | KONT_ANS_HOVEDSPEC      |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_HOVEDSPEC_SHAK | KONT_ANS_HOVEDSPEC_SHAK |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_INST           | KONT_ANS_INST           |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_ORG_REG        | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKT | KONT_ANS_ORG_REG_TEKST  | KONT_ANS_ORG_REG_TEKST  |            | 2024    |
+| LPR_A_KONTAKT | KONT_FIR_KODE           | KONT_FIR_KODE           |            | 2024    |
+| LPR_A_KONTAKT | KONT_FIR_TEKST          | KONT_FIR_TEKST          |            | 2024    |
+| LPR_A_KONTAKT | KONT_FRITVALG           | KONT_FRITVALG           |            | 2024    |
+| LPR_A_KONTAKT | KONT_FRITVALG_TEKST     | KONT_FRITVALG_TEKST     |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_INSTANS       | KONT_HENV_INSTANS       |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_MAADE         | KONT_HENV_MAADE         |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_MAADE_TEKST   | KONT_HENV_MAADE_TEKST   |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_TIDSPUNKT     | KONT_HENV_TIDSPUNKT     |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_AARSAG        | KONT_HENV_AARSAG        |            | 2024    |
+| LPR_A_KONTAKT | KONT_HENV_AARSAG_TEKST  | KONT_HENV_AARSAG_TEKST  |            | 2024    |
+| LPR_A_KONTAKT | KONT_INDB_TIDSPUNKT     | KONT_INDB_TIDSPUNKT     |            | 2024    |
+| LPR_A_KONTAKT | KONT_INST_EJERTYPE      | KONT_INST_EJERTYPE      |            | 2024    |
+| LPR_A_KONTAKT | KONT_LPR_ENTITY_ID      | KONT_LPR_ENTITY_ID      |            | 2024    |
+| LPR_A_KONTAKT | KONT_PATIENT_TYPE       | KONT_PATIENT_TYPE       |            | 2024    |
+| LPR_A_KONTAKT | KONT_PATIENT_TYPE_TEKST | KONT_PATIENT_TYPE_TEKST |            | 2024    |
+| LPR_A_KONTAKT | KONT_SLUTTIDSPUNKT      | KONT_SLUTTIDSPUNKT      |            | 2024    |
+| LPR_A_KONTAKT | KONT_STARTTIDSPUNKT     | KONT_STARTTIDSPUNKT     |            | 2024    |
+| LPR_A_KONTAKT | KONT_TYPE               | KONT_TYPE               |            | 2024    |
+| LPR_A_KONTAKT | KONT_TYPE_TEKST         | KONT_TYPE_TEKST         |            | 2024    |
+| LPR_A_KONTAKT | KONT_AARSAG             | KONT_AARSAG             |            | 2024    |
+| LPR_A_KONTAKT | KONT_AARSAG_TEKST       | KONT_AARSAG_TEKST       |            | 2024    |
+| LPR_A_KONTAKT | LPRINDBERETNINGSSYSTEM  | LPRINDBERETNINGSSYSTEM  |            | 2024    |
+| LPR_A_KONTAKT | PNR                     | PNR                     |            | 2024    |
+| LPR_A_KONTAKT | PRIORITET               | PRIORITET               |            | 2024    |
+| LPR_A_KONTAKT | PRIORITET_TEKST         | PRIORITET_TEKST         |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4494,17 +4496,17 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                       | Variable name           |  Variable label         | Start year | Endyear |
 | --------------------- | ----------------------- | ----------------------- | ---------- | ------- |
-| LPR_A_KONTAKTLOKATION | DW_EK_KONTAKT           | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKTLOKATION | DW_EK_KONTAKTLOKATION   | INGEN LABEL             |            | 2023    |
-| LPR_A_KONTAKTLOKATION | FLAG_FRAVAER            | FLAG_FRAVAER            |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_ENH            | KONT_LOK_ENH            |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_ENH_HOVEDSPEC  | KONT_LOK_ENH_HOVEDSPEC  |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_FRAVAER        | KONT_LOK_FRAVAER        |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_FRAVAER_TEKST  | KONT_LOK_FRAVAER_TEKST  |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_INDB_TIDSPUNKT | KONT_LOK_INDB_TIDSPUNKT |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_INST           | KONT_LOK_INST           |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_SLUTTIDSPUNKT  | KONT_LOK_SLUTTIDSPUNKT  |            | 2023    |
-| LPR_A_KONTAKTLOKATION | KONT_LOK_STARTTIDSPUNKT | KONT_LOK_STARTTIDSPUNKT |            | 2023    |
+| LPR_A_KONTAKTLOKATION | DW_EK_KONTAKT           | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKTLOKATION | DW_EK_KONTAKTLOKATION   | INGEN LABEL             |            | 2024    |
+| LPR_A_KONTAKTLOKATION | FLAG_FRAVAER            | FLAG_FRAVAER            |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_ENH            | KONT_LOK_ENH            |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_ENH_HOVEDSPEC  | KONT_LOK_ENH_HOVEDSPEC  |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_FRAVAER        | KONT_LOK_FRAVAER        |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_FRAVAER_TEKST  | KONT_LOK_FRAVAER_TEKST  |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_INDB_TIDSPUNKT | KONT_LOK_INDB_TIDSPUNKT |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_INST           | KONT_LOK_INST           |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_SLUTTIDSPUNKT  | KONT_LOK_SLUTTIDSPUNKT  |            | 2024    |
+| LPR_A_KONTAKTLOKATION | KONT_LOK_STARTTIDSPUNKT | KONT_LOK_STARTTIDSPUNKT |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4512,20 +4514,22 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                         | Variable name            |  Variable label          | Start year | Endyear |
 | ----------------------- | ------------------------ | ------------------------ | ---------- | ------- |
-| LPR_A_MOR_BARN_RELATION | BORGER_KOEN_BARN         | BORGER_KOEN_BARN         |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | DW_EK_BORGER_BARN        | INGEN LABEL              |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | DW_EK_BORGER_MOR         | INGEN LABEL              |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | DW_EK_FORLOEB_BARN       | INGEN LABEL              |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | DW_EK_FORLOEB_MOR        | INGEN LABEL              |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | DW_EK_MOR_BARN_RELATION  | INGEN LABEL              |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_LABEL_BARN          | FORL_LABEL_BARN          |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_LABEL_BARN_TEKST    | FORL_LABEL_BARN_TEKST    |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_LABEL_MOR           | FORL_LABEL_MOR           |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_LABEL_MOR_TEKST     | FORL_LABEL_MOR_TEKST     |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_REF_TYPE_BARN       | FORL_REF_TYPE_BARN       |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | FORL_REF_TYPE_BARN_TEKST | FORL_REF_TYPE_BARN_TEKST |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | PNR_BARN                 | PNR                      |            | 2023    |
-| LPR_A_MOR_BARN_RELATION | PNR_MOR                  | PNR                      |            | 2023    |
+| LPR_A_MOR_BARN_RELATION | BORGER_KOEN_BARN         | BORGER_KOEN_BARN         |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | CPRTJEK                  | CPR-tjek                 |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | CPRTYPE                  | CPR-type                 |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | DW_EK_BORGER_BARN        | INGEN LABEL              |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | DW_EK_BORGER_MOR         | INGEN LABEL              |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | DW_EK_FORLOEB_BARN       | INGEN LABEL              |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | DW_EK_FORLOEB_MOR        | INGEN LABEL              |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | DW_EK_MOR_BARN_RELATION  | INGEN LABEL              |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_LABEL_BARN          | FORL_LABEL_BARN          |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_LABEL_BARN_TEKST    | FORL_LABEL_BARN_TEKST    |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_LABEL_MOR           | FORL_LABEL_MOR           |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_LABEL_MOR_TEKST     | FORL_LABEL_MOR_TEKST     |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_REF_TYPE_BARN       | FORL_REF_TYPE_BARN       |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | FORL_REF_TYPE_BARN_TEKST | FORL_REF_TYPE_BARN_TEKST |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | PNR_BARN                 | PNR                      |            | 2024    |
+| LPR_A_MOR_BARN_RELATION | PNR_MOR                  | PNR                      |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4533,26 +4537,26 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                        | Variable name               |  Variable label             | Start year | Endyear |
 | ---------------------- | --------------------------- | --------------------------- | ---------- | ------- |
-| LPR_A_PROCREGISTRERING | DW_EK_FORLOEB               | INGEN LABEL                 |            | 2023    |
-| LPR_A_PROCREGISTRERING | DW_EK_KONTAKT               | INGEN LABEL                 |            | 2023    |
-| LPR_A_PROCREGISTRERING | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL                 |            | 2023    |
-| LPR_A_PROCREGISTRERING | DW_SK_SYGEHUSOPHOLD         | INGEN LABEL                 |            | 2023    |
-| LPR_A_PROCREGISTRERING | FLAG_PROC_UDEN_KONT         | FLAG_PROC_UDEN_KONT         |            | 2023    |
-| LPR_A_PROCREGISTRERING | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_INDB_TIDSPUNKT         | PROC_INDB_TIDSPUNKT         |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_KODE                   | PROC_KODE                   |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_KODE_TEKST             | PROC_KODE_TEKST             |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_KODE_TYPE              | PROC_KODE_TYPE              |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_KODE_TYPE_TEKST        | PROC_KODE_TYPE_TEKST        |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_LPR_ENTITY_ID          | PROC_LPR_ENTITY_ID          |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE            | PROC_PARENT_KODE            |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TEKST      | PROC_PARENT_KODE_TEKST      |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TYPE       | PROC_PARENT_KODE_TYPE       |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TYPE_TEKST | PROC_PARENT_KODE_TYPE_TEKST |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_SLUTTIDSPUNKT          | PROC_SLUTTIDSPUNKT          |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROC_STARTTIDSPUNKT         | PROC_STARTTIDSPUNKT         |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROD_ENH                    | PROD_ENH                    |            | 2023    |
-| LPR_A_PROCREGISTRERING | PROD_INST                   | PROD_INST                   |            | 2023    |
+| LPR_A_PROCREGISTRERING | DW_EK_FORLOEB               | INGEN LABEL                 |            | 2024    |
+| LPR_A_PROCREGISTRERING | DW_EK_KONTAKT               | INGEN LABEL                 |            | 2024    |
+| LPR_A_PROCREGISTRERING | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL                 |            | 2024    |
+| LPR_A_PROCREGISTRERING | DW_SK_SYGEHUSOPHOLD         | INGEN LABEL                 |            | 2024    |
+| LPR_A_PROCREGISTRERING | FLAG_PROC_UDEN_KONT         | FLAG_PROC_UDEN_KONT         |            | 2024    |
+| LPR_A_PROCREGISTRERING | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM      |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_INDB_TIDSPUNKT         | PROC_INDB_TIDSPUNKT         |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_KODE                   | PROC_KODE                   |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_KODE_TEKST             | PROC_KODE_TEKST             |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_KODE_TYPE              | PROC_KODE_TYPE              |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_KODE_TYPE_TEKST        | PROC_KODE_TYPE_TEKST        |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_LPR_ENTITY_ID          | PROC_LPR_ENTITY_ID          |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE            | PROC_PARENT_KODE            |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TEKST      | PROC_PARENT_KODE_TEKST      |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TYPE       | PROC_PARENT_KODE_TYPE       |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_PARENT_KODE_TYPE_TEKST | PROC_PARENT_KODE_TYPE_TEKST |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_SLUTTIDSPUNKT          | PROC_SLUTTIDSPUNKT          |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROC_STARTTIDSPUNKT         | PROC_STARTTIDSPUNKT         |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROD_ENH                    | PROD_ENH                    |            | 2024    |
+| LPR_A_PROCREGISTRERING | PROD_INST                   | PROD_INST                   |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4586,31 +4590,31 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |                  | Variable name               |  Variable label        | Start year | Endyear |
 | ---------------- | --------------------------- | ---------------------- | ---------- | ------- |
-| LPR_A_RESULTATER | CPRTJEK                     | CPR-tjek               |            | 2023    |
-| LPR_A_RESULTATER | CPRTYPE                     | CPR-type               |            | 2023    |
-| LPR_A_RESULTATER | DW_EK_FORLOEB               | INGEN LABEL            |            | 2023    |
-| LPR_A_RESULTATER | DW_EK_KONTAKT               | INGEN LABEL            |            | 2023    |
-| LPR_A_RESULTATER | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2023    |
-| LPR_A_RESULTATER | DW_EK_RESULTATINDBERETNING  | INGEN LABEL            |            | 2023    |
-| LPR_A_RESULTATER | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB                    | RES_INDB               |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_ANS                | RES_INDB_ANS           |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_ANS_INST           | RES_INDB_ANS_INST      |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_LPR_ENTITY_ID      | RES_INDB_LPR_ENTITY_ID |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_STATUS             | RES_INDB_STATUS        |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_STATUS_TEKST       | RES_INDB_STATUS_TEKST  |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_TEKST              | RES_INDB_TEKST         |            | 2023    |
-| LPR_A_RESULTATER | RES_INDB_TIDSPUNKT          | RES_INDB_TIDSPUNKT     |            | 2023    |
-| LPR_A_RESULTATER | RES_TYPE                    | RES_TYPE               |            | 2023    |
-| LPR_A_RESULTATER | RES_TYPE_TEKST              | RES_TYPE_TEKST         |            | 2023    |
-| LPR_A_RESULTATER | RES_UDFOERT_TIDSPUNKT       | RES_UDFOERT_TIDSPUNKT  |            | 2023    |
-| LPR_A_RESULTATER | RES_VAERDI_PNR              | PNR                    |            | 2023    |
-| LPR_A_RESULTATER | RES_VAERDI_TAL              | RES_VAERDI_TAL         |            | 2023    |
-| LPR_A_RESULTATER | RES_VAERDI_TEKST            | RES_VAERDI_TEKST       |            | 2023    |
-| LPR_A_RESULTATER | RES_VAERDI_TIDSPUNKT        | RES_VAERDI_TIDSPUNKT   |            | 2023    |
-| LPR_A_RESULTATER | TRIGGERKODE                 | TRIGGERKODE            |            | 2023    |
-| LPR_A_RESULTATER | TRIGGERKODE_TEKST           | TRIGGERKODE_TEKST      |            | 2023    |
-| LPR_A_RESULTATER | TRIGGERTYPE                 | TRIGGERTYPE            |            | 2023    |
+| LPR_A_RESULTATER | CPRTJEK                     | CPR-tjek               |            | 2024    |
+| LPR_A_RESULTATER | CPRTYPE                     | CPR-type               |            | 2024    |
+| LPR_A_RESULTATER | DW_EK_FORLOEB               | INGEN LABEL            |            | 2024    |
+| LPR_A_RESULTATER | DW_EK_KONTAKT               | INGEN LABEL            |            | 2024    |
+| LPR_A_RESULTATER | DW_EK_PROCEDUREREGISTRERING | INGEN LABEL            |            | 2024    |
+| LPR_A_RESULTATER | DW_EK_RESULTATINDBERETNING  | INGEN LABEL            |            | 2024    |
+| LPR_A_RESULTATER | LPRINDBERETNINGSSYSTEM      | LPRINDBERETNINGSSYSTEM |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB                    | RES_INDB               |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_ANS                | RES_INDB_ANS           |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_ANS_INST           | RES_INDB_ANS_INST      |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_LPR_ENTITY_ID      | RES_INDB_LPR_ENTITY_ID |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_STATUS             | RES_INDB_STATUS        |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_STATUS_TEKST       | RES_INDB_STATUS_TEKST  |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_TEKST              | RES_INDB_TEKST         |            | 2024    |
+| LPR_A_RESULTATER | RES_INDB_TIDSPUNKT          | RES_INDB_TIDSPUNKT     |            | 2024    |
+| LPR_A_RESULTATER | RES_TYPE                    | RES_TYPE               |            | 2024    |
+| LPR_A_RESULTATER | RES_TYPE_TEKST              | RES_TYPE_TEKST         |            | 2024    |
+| LPR_A_RESULTATER | RES_UDFOERT_TIDSPUNKT       | RES_UDFOERT_TIDSPUNKT  |            | 2024    |
+| LPR_A_RESULTATER | RES_VAERDI_PNR              | PNR                    |            | 2024    |
+| LPR_A_RESULTATER | RES_VAERDI_TAL              | RES_VAERDI_TAL         |            | 2024    |
+| LPR_A_RESULTATER | RES_VAERDI_TEKST            | RES_VAERDI_TEKST       |            | 2024    |
+| LPR_A_RESULTATER | RES_VAERDI_TIDSPUNKT        | RES_VAERDI_TIDSPUNKT   |            | 2024    |
+| LPR_A_RESULTATER | TRIGGERKODE                 | TRIGGERKODE            |            | 2024    |
+| LPR_A_RESULTATER | TRIGGERKODE_TEKST           | TRIGGERKODE_TEKST      |            | 2024    |
+| LPR_A_RESULTATER | TRIGGERTYPE                 | TRIGGERTYPE            |            | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
