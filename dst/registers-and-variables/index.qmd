@@ -15,43 +15,43 @@ This will take you to an Excel file on GitHub.com with the complete variable lis
 Below you will find a full describtion of all DST registers and variables in the project database
 
 ::: {.callout-warning collapse="true"}
-## AEFV	2008-2024
+## AEFV	2008-2025
 
 |      | Variable name     |  Variable label                                                        | Start year | Endyear |
 | ---- | ----------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| AEFV | AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2024    |
-| AEFV | ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2024    |
-| AEFV | CPRTJEK           | CPR-tjek                                                               | 2008       | 2024    |
-| AEFV | CPRTYPE           | CPR-type                                                               | 2008       | 2024    |
-| AEFV | CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2024    |
-| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2024    |
-| AEFV | FTI_MARK          | FTI_MARK                                                               | 2008       | 2024    |
-| AEFV | HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2024    |
-| AEFV | LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2024    |
-| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2024    |
-| AEFV | PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2024    |
-| AEFV | PNR               | Personnummer                                                           | 2008       | 2024    |
-| AEFV | PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2024    |
-| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2024    |
-| AEFV | VERSION           | VERSION                                                                | 2008       | 2024    |
-| AEFV | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2024    |
+| AEFV | AEL_KOMKOD        | Kommunekode                                                            | 2008       | 2025    |
+| AEFV | ALDER_ULT         | Alder ultimo året                                                      | 2008       | 2025    |
+| AEFV | CPRTJEK           | CPR-tjek                                                               | 2008       | 2025    |
+| AEFV | CPRTYPE           | CPR-type                                                               | 2008       | 2025    |
+| AEFV | CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2025    |
+| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2025    |
+| AEFV | FTI_MARK          | FTI_MARK                                                               | 2008       | 2025    |
+| AEFV | HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2025    |
+| AEFV | LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2025    |
+| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2025    |
+| AEFV | PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2025    |
+| AEFV | PNR               | Personnummer                                                           | 2008       | 2025    |
+| AEFV | PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2025    |
+| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2025    |
+| AEFV | VERSION           | VERSION                                                                | 2008       | 2025    |
+| AEFV | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## AEHJSP	2016-2024
+## AEHJSP	2016-2025
 
 |        | Variable name  |  Variable label                | Start year | Endyear |
 | ------ | -------------- | ------------------------------ | ---------- | ------- |
-| AEHJSP | ALDER_ULT      | ALDER_ULT                      | 2016       | 2024    |
-| AEHJSP | CPRTJEK        | CPR-tjek                       | 2016       | 2024    |
-| AEHJSP | CPRTYPE        | CPR-type                       | 2016       | 2024    |
-| AEHJSP | CVRNR          | Leverandørs CVR identifikation | 2016       | 2024    |
-| AEHJSP | HAEND_MDR      | Hændelses måned                | 2016       | 2024    |
-| AEHJSP | HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2024    |
-| AEHJSP | IMP_MARK       | IMP_MARK                       | 2016       | 2024    |
-| AEHJSP | KOM            | INGEN LABEL                    | 2016       | 2024    |
-| AEHJSP | PNR            | PNR                            | 2016       | 2024    |
-| AEHJSP | VERSION        | VERSION                        | 2016       | 2024    |
+| AEHJSP | ALDER_ULT      | ALDER_ULT                      | 2016       | 2025    |
+| AEHJSP | CPRTJEK        | CPR-tjek                       | 2016       | 2025    |
+| AEHJSP | CPRTYPE        | CPR-type                       | 2016       | 2025    |
+| AEHJSP | CVRNR          | Leverandørs CVR identifikation | 2016       | 2025    |
+| AEHJSP | HAEND_MDR      | Hændelses måned                | 2016       | 2025    |
+| AEHJSP | HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2025    |
+| AEHJSP | IMP_MARK       | IMP_MARK                       | 2016       | 2025    |
+| AEHJSP | KOM            | INGEN LABEL                    | 2016       | 2025    |
+| AEHJSP | PNR            | PNR                            | 2016       | 2025    |
+| AEHJSP | VERSION        | VERSION                        | 2016       | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -70,71 +70,71 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## AETR 2008-2024
+## AETR 2008-2025
 
 |      | Variable name |  Variable label                                             | Start year | Endyear |
 | ---- | ------------- | ----------------------------------------------------------- | ---------- | ------- |
-| AETR | AEL_KOMKOD    | Kommunekode                                                 | 2008       | 2024    |
-| AETR | ALDER_ULT     | Alder ultimo                                                | 2008       | 2024    |
-| AETR | CPRTJEK       | CPR-tjek                                                    | 2008       | 2024    |
-| AETR | CPRTYPE       | CPR-type                                                    | 2008       | 2024    |
-| AETR | HAEND_MDR     | Hændelses måned.                                            | 2008       | 2024    |
-| AETR | PNR           | Personnummer                                                | 2008       | 2024    |
-| AETR | TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2024    |
-| AETR | VERSION       | Version                                                     | 2008       | 2024    |
+| AETR | AEL_KOMKOD    | Kommunekode                                                 | 2008       | 2025    |
+| AETR | ALDER_ULT     | Alder ultimo                                                | 2008       | 2025    |
+| AETR | CPRTJEK       | CPR-tjek                                                    | 2008       | 2025    |
+| AETR | CPRTYPE       | CPR-type                                                    | 2008       | 2025    |
+| AETR | HAEND_MDR     | Hændelses måned.                                            | 2008       | 2025    |
+| AETR | PNR           | Personnummer                                                | 2008       | 2025    |
+| AETR | TRAEN_ART     | Markering af ydelse (genoptræning/ vedligeholdelsestræning) | 2008       | 2025    |
+| AETR | VERSION       | Version                                                     | 2008       | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## AKM 1976-2023
+## AKM 1976-2024
 
 |     | Variable name        | Variable label                                                         | Start year | Endyear |
 | --- | -------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| AKM | ALDER_ULT_INK        | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1976       | 2023    |
-| AKM | ANT_ANSAT_ARBSTED    | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 1976       | 2023    |
-| AKM | ANT_ANSAT_ARBSTED_13 | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 1976       | 2023    |
-| AKM | ANT_ANSAT_SENR       | Antal ansatte for væsentligste beskæftigelse                           | 1976       | 2023    |
-| AKM | ATPSUM2              | Beskæftigelsesmål baseret på ATP- indbetalinger                        | 1976       | 2023    |
-| AKM | BESKST               | Beskæftigelsesstatus 1980 til 2001                                     | 1976       | 2023    |
-| AKM | BESKST02             | Beskæftigelsesstatus fra 2002                                          | 1976       | 2023    |
-| AKM | BESKST13             | Kode for personens væsentligste indkomstkilde                          | 1976       | 2023    |
-| AKM | BRANCHE_77           | Branchekode                                                            | 1976       | 2023    |
-| AKM | BRCHI                | Branchekode for indehaver                                              | 1976       | 2023    |
-| AKM | BRCHL                | Branchekode for lønmodtager                                            | 1976       | 2023    |
-| AKM | CPRTJEK              | CPR-tjek                                                               | 1976       | 2023    |
-| AKM | CPRTYPE              | CPR-type                                                               | 1976       | 2023    |
-| AKM | DISCO_ALLE_INDK_13   | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1976       | 2023    |
-| AKM | DISCO08_ALLE_INDK    | Fagklassifikation for beskæftigelsesforhold, fra 2010                  | 1976       | 2023    |
-| AKM | DISCO08_ALLE_INDK_13 | Fagkode for væsentligste beskæftigelse i året- fra 2010                | 1976       | 2023    |
-| AKM | DISCO08_LOEN_INDK    | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 1976       | 2023    |
-| AKM | DISCO08_SEL_INDK     | Fagkode for arbejde i selvstændig virksomhed                           | 1976       | 2023    |
-| AKM | DISCOALLE_INDK       | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1976       | 2023    |
-| AKM | DISCOLOEN_INDK       | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 1976       | 2023    |
-| AKM | DISCOSEL_INDK        | Fagkode for arbejde i selvstændig virksomhed                           | 1976       | 2023    |
-| AKM | DISCOTYP             | Kilde til lønmodtager DISCO-koden                                      | 1976       | 2023    |
-| AKM | FUNK_TIMEANT         | Personens samlede antal arbejdstimer i året.                           | 1976       | 2023    |
-| AKM | NACE                 | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1976       | 2023    |
-| AKM | NACE_13              | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1976       | 2023    |
-| AKM | NACE_DB07            | Branche for væsentligste beskæftigelse, fra 2008                       | 1976       | 2023    |
-| AKM | NACE_DB07_13         | Branche for væsentligste beskæftigelse, fra 2007                       | 1976       | 2023    |
-| AKM | NACEA                | Branchegruppering for arbejdssted (1993 til 2007)                      | 1976       | 2023    |
-| AKM | NACEA_DB07           | Branchegruppering for arbejdssted ( fra 2007)                          | 1976       | 2023    |
-| AKM | NACEI                | Branchekode for selvstændige og medarbejdende ægtefællers virksomhed(1 | 1976       | 2023    |
-| AKM | NACEI_DB07           | Branchegruppering for indehaver (Selvstændig eller medhjælpende ægtefæ | 1976       | 2023    |
-| AKM | NYSTGR               | Stillingsgruppering 1980 til 1995                                      | 1976       | 2023    |
-| AKM | OMFANG               | Omfang af skattepligt                                                  | 1976       | 2023    |
-| AKM | PNR                  | Personnummer                                                           | 1976       | 2023    |
-| AKM | SENR                 | SE-nummer for væsentligste beskæftigelse                               | 1976       | 2023    |
-| AKM | SENRI                | SE-nummer for den virksomhed som personen ejer                         | 1976       | 2023    |
-| AKM | SENRL                | SE-nummer for lønmodtager                                              | 1976       | 2023    |
-| AKM | SOCIO                | Socioøkonomisk klassifikation fra 1994 til 2001                        | 1976       | 2023    |
-| AKM | SOCIO_GL             | Socioøkonomisk klassifikation fra 1976 til 1990                        | 1976       | 2023    |
-| AKM | SOCIO02              | Socioøkonomisk klassifikation fra 2002                                 | 1976       | 2023    |
-| AKM | SOCIO13              | Socioøkonomisk klassifikation version 2013                             | 1976       | 2023    |
-| AKM | TYP                  | Stillingstype                                                          | 1976       | 2023    |
-| AKM | VERSION              | Version                                                                | 1976       | 2023    |
-| AKM | VIRKF                | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
-| AKM | VIRKF_13             | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
-| AKM | VIRKFA               | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 1976       | 2023    |
+| AKM | ALDER_ULT_INK        | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1991       | 2024    |
+| AKM | ANT_ANSAT_ARBSTED    | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 2006       | 2013    |
+| AKM | ANT_ANSAT_ARBSTED_13 | Antal ansatte for væsentligste arbejdssted ( optælling af ansatte sker | 2010       | 2024    |
+| AKM | ANT_ANSAT_SENR       | Antal ansatte for væsentligste beskæftigelse                           | 1976       | 2005    |
+| AKM | ATPSUM2              | Beskæftigelsesmål baseret på ATP- indbetalinger                        | 1976       | 2010    |
+| AKM | BESKST               | Beskæftigelsesstatus 1980 til 2001                                     | 1976       | 2001    |
+| AKM | BESKST02             | Beskæftigelsesstatus fra 2002                                          | 2002       | 2013    |
+| AKM | BESKST13             | Kode for personens væsentligste indkomstkilde                          | 1991       | 2024    |
+| AKM | BRANCHE_77           | Branchekode                                                            | 1980       | 1999    |
+| AKM | BRCHI                | Branchekode for indehaver                                              | 1976       | 2002    |
+| AKM | BRCHL                | Branchekode for lønmodtager                                            | 1976       | 1999    |
+| AKM | CPRTJEK              | CPR-tjek                                                               | 1991       | 2024    |
+| AKM | CPRTYPE              | CPR-type                                                               | 1991       | 2024    |
+| AKM | DISCO_ALLE_INDK_13   | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1991       | 2009    |
+| AKM | DISCO08_ALLE_INDK    | Fagklassifikation for beskæftigelsesforhold, fra 2010                  | 2010       | 2013    |
+| AKM | DISCO08_ALLE_INDK_13 | Fagkode for væsentligste beskæftigelse i året- fra 2010                | 2010       | 2024    |
+| AKM | DISCO08_LOEN_INDK    | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 2010       | 2024    |
+| AKM | DISCO08_SEL_INDK     | Fagkode for arbejde i selvstændig virksomhed                           | 2010       | 2024    |
+| AKM | DISCOALLE_INDK       | Fagklassifikation for beskæftigelsesforhold, fra 1991 TIL 2009         | 1993       | 2009    |
+| AKM | DISCOLOEN_INDK       | Fagkode for væsentligste lønmodtagerbeskæftigelse i året.              | 1991       | 2009    |
+| AKM | DISCOSEL_INDK        | Fagkode for arbejde i selvstændig virksomhed                           | 1991       | 2009    |
+| AKM | DISCOTYP             | Kilde til lønmodtager DISCO-koden                                      | 1991       | 2024    |
+| AKM | FUNK_TIMEANT         | Personens samlede antal arbejdstimer i året.                           | 2008       | 2024    |
+| AKM | NACE                 | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1992       | 2007    |
+| AKM | NACE_13              | Branche for væsentligste beskæftigelse, fra 1992 til 2007              | 1993       | 2007    |
+| AKM | NACE_DB07            | Branche for væsentligste beskæftigelse, fra 2008                       | 2007       | 2013    |
+| AKM | NACE_DB07_13         | Branche for væsentligste beskæftigelse, fra 2007                       | 2007       | 2024    |
+| AKM | NACEA                | Branchegruppering for arbejdssted (1993 til 2007)                      | 1992       | 2007    |
+| AKM | NACEA_DB07           | Branchegruppering for arbejdssted ( fra 2007)                          | 2007       | 2024    |
+| AKM | NACEI                | Branchekode for selvstændige og medarbejdende ægtefællers virksomhed(1 | 1993       | 2007    |
+| AKM | NACEI_DB07           | Branchegruppering for indehaver (Selvstændig eller medhjælpende ægtefæ | 2007       | 2024    |
+| AKM | NYSTGR               | Stillingsgruppering 1980 til 1995                                      | 1980       | 1999    |
+| AKM | OMFANG               | Omfang af skattepligt                                                  | 1991       | 2024    |
+| AKM | PNR                  | Personnummer                                                           | 1976       | 2024    |
+| AKM | SENR                 | SE-nummer for væsentligste beskæftigelse                               | 1985       | 2002    |
+| AKM | SENRI                | SE-nummer for den virksomhed som personen ejer                         | 1985       | 2002    |
+| AKM | SENRL                | SE-nummer for lønmodtager                                              | 1985       | 1998    |
+| AKM | SOCIO                | Socioøkonomisk klassifikation fra 1994 til 2001                        | 1994       | 2001    |
+| AKM | SOCIO_GL             | Socioøkonomisk klassifikation fra 1976 til 1990                        | 1976       | 1990    |
+| AKM | SOCIO02              | Socioøkonomisk klassifikation fra 2002                                 | 2002       | 2013    |
+| AKM | SOCIO13              | Socioøkonomisk klassifikation version 2013                             | 1991       | 2024    |
+| AKM | TYP                  | Stillingstype                                                          | 1980       | 1999    |
+| AKM | VERSION              | Version                                                                | 1991       | 2024    |
+| AKM | VIRKF                | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 2001       | 2013    |
+| AKM | VIRKF_13             | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 2001       | 2024    |
+| AKM | VIRKFA               | Virksomhedskode angiver hvilken form for ejerskab der er på den arbejd | 2001       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
