@@ -24,15 +24,15 @@ Below you will find a full describtion of all DST registers and variables in the
 | AEFV | CPRTJEK           | CPR-tjek                                                               | 2008       | 2025    |
 | AEFV | CPRTYPE           | CPR-type                                                               | 2008       | 2025    |
 | AEFV | CVRNR             | Leverandørs CVR identifikation                                         | 2008       | 2025    |
-| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2008       | 2025    |
+| AEFV | FRITVALGS_BEVIS   | FRITVALGS_BEVIS                                                        | 2023       | 2025    |
 | AEFV | FTI_MARK          | FTI_MARK                                                               | 2008       | 2025    |
 | AEFV | HAEND_MDR         | Hændelses måned.                                                       | 2008       | 2025    |
 | AEFV | LEV_TYPE_VIS      | Leverandør type for visiteret hjemmehjælp frit valg.                   | 2008       | 2025    |
-| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2008       | 2025    |
+| AEFV | MAD_SERVICE       | MAD_SERVICE                                                            | 2023       | 2025    |
 | AEFV | PERPL_VIS         | Personlig pleje frit valg, gennemsnitlig visiteret tid pr. uge i minut | 2008       | 2025    |
 | AEFV | PNR               | Personnummer                                                           | 2008       | 2025    |
 | AEFV | PRAHJ_VIS         | Praktisk hjælp frit valg, gennemsnitlig visiteret tid pr. uge i minutt | 2008       | 2025    |
-| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2008       | 2025    |
+| AEFV | SELVVALGTHJAELPER | SELVVALGTHJAELPER                                                      | 2023       | 2025    |
 | AEFV | VERSION           | VERSION                                                                | 2008       | 2025    |
 | AEFV | VISIT_FOERSTE     | Dato for første visitation.                                            | 2008       | 2025    |
 :::
