@@ -46,7 +46,7 @@ Below you will find a full describtion of all DST registers and variables in the
 | AEHJSP | CPRTJEK        | CPR-tjek                       | 2016       | 2025    |
 | AEHJSP | CPRTYPE        | CPR-type                       | 2016       | 2025    |
 | AEHJSP | CVRNR          | Leverandørs CVR identifikation | 2016       | 2025    |
-| AEHJSP | HAEND_MDR      | Hændelses måned                | 2016       | 2025    |
+| AEHJSP | HAEND_MDR      | Hændelses måned                | 2022       | 2025    |
 | AEHJSP | HJEMSYGEP_DATO | HJEMSYGEP_DATO                 | 2016       | 2025    |
 | AEHJSP | IMP_MARK       | IMP_MARK                       | 2016       | 2025    |
 | AEHJSP | KOM            | INGEN LABEL                    | 2016       | 2025    |
