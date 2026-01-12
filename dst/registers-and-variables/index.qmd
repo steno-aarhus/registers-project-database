@@ -5543,6 +5543,24 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
+## LPR_A_DIAGNOSE
+
+|                 | Variable name               |  Variable label                             | Start year | Endyear |
+| --------------- | --------------------------- | ------------------------------------------- | ---------- | ------- |
+| SOR_OPLYSNINGER | ENHEDSNAVN                  | Enhedens navn                               |            | 2024    |
+| SOR_OPLYSNINGER | ENHEDSTYPE                  | Enhedens type                               |            | 2024    |
+| SOR_OPLYSNINGER | GÆLDENDE_FRA_DATO           | Gældende fra dato                           |            | 2024    |
+| SOR_OPLYSNINGER | OPHOERT_DATO                | Ophørt dato                                 |            | 2024    |
+| SOR_OPLYSNINGER | PARENT_SOR_KODE             | SOR-kode for den direkte overordnede enhed  |            | 2024    |
+| SOR_OPLYSNINGER | SOR_KODE                    | SOR-kode for enheden                        |            | 2024    |
+| SOR_OPLYSNINGER | SGHAFD_KODE                 | SghAfd-kode                                 |            | 2024    |
+| SOR_OPLYSNINGER | SIDST_AENDRET_DATO          | Gældende fra dato for sidste ændring        |            | 2024    |
+| SOR_OPLYSNINGER | TOP_PARENT_ENHEDSTYPE       | Enhedstype for den øverste overordnede enhed|            | 2024    |
+| SOR_OPLYSNINGER | TOP_PARENT_SOR_KODE         | SOR-kode for den øverste overordnede enhed  |            | 2024    |
+:::
+
+
+::: {.callout-warning collapse="true"}
 ## SSNV 1984-2007
 
 |      | Variable name | Variable label                            | Start year | Endyear |
