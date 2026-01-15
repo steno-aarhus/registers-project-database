@@ -237,7 +237,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BOERNFB 2015-2021
+## BOERNFB 2015-2021 (Register lukket)
 
 |         | Variable name  | Variable label                  | Start year | Endyear |
 | ------- | -------------- | ------------------------------- | ---------- | ------- |
@@ -290,7 +290,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## CPST 197512-200612
+## CPST 197512-200612 (Register lukket)
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
 | ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
@@ -321,7 +321,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DODSAARS 2001
+## DODSAARS 2001 (Register lukket)
 
 |          | Variable name | Variable label | Start year | Endyear |
 | -------- | ------------- | -------------- | ---------- | ------- |
@@ -3195,203 +3195,232 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRG_KONTAKTER 2021-2023
+## DRG_KONTAKTER 2021-2024
 
 |               | Variable name            | Variable label | Start year | Endyear |
 | ------------- | ------------------------ | -------------- | ---------- | ------- |
-| DRG_KONTAKTER | AFSLUTNINGSMAADE         | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | AKTIVITETSAAR            | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | ALDER_DAGE               | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | ALDER_AAR                | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BETALER                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BETALER_KOM              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BETALER_REGION           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BETALINGSAFTALE          | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BO_KOM                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BO_KOM_SOURCE            | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | BO_REGION                | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | CPRTJEK                  | CPR-tjek       | 2021       | 2023    |
-| DRG_KONTAKTER | CPRTYPE                  | CPR-type       | 2021       | 2023    |
-| DRG_KONTAKTER | D90UA04                  | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | AFSLUTNINGSMAADE         | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | AKTIVITETSAAR            | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | ALDER_DAGE               | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | ALDER_AAR                | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BETALER                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BETALER_KOM              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BETALER_REGION           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BETALINGSAFTALE          | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BO_KOM                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BO_KOM_SOURCE            | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | BO_REGION                | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | CPRTJEK                  | CPR-tjek       | 2021       | 2024    |
+| DRG_KONTAKTER | CPRTYPE                  | CPR-type       | 2021       | 2024    |
+| DRG_KONTAKTER | D90UA04                  | INGEN LABEL    | 2021       | 2024    |
 | DRG_KONTAKTER | D90UA05                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA01                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA02                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA03                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA04                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA05                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA06                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA07                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA08                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA09                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA10                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA11                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA12                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA13                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA14                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DIA15                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRG                      | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRG_DRGSGHF              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRG_FORLOBSELEMENT_ENHED | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRG_GROUPER              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRG_KONTAKT_ENHED        | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRGKONTAKT_ID_F          | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRGKONTAKTTYPE           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRGSGHFORLOB_ID          | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRGSGHFORLOB_NR          | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | DRGSGHFORLOB_TYPE        | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | FORLOB_VAERDI            | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | FORLOEBSPROCEDURE        | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | HENVISNINGSMAADE         | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | HENVISNINGSTIDSPUNKT     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | HENVISNINGSAARSAG        | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INDTIDSPUNKT_DRGKONTAKT  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK1                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK2                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK3                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK4                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK5                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | INK6                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | KOEN                     | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | KONTAKT_VAERDI           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | KONTAKTDAGE              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | KONTAKTTYPE              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | KONTAKTAARSAG            | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | LANGLIGGERDAGE           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | LANGLIGGERPRIS           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | LIGGEDAGE                | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | MDC                      | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PNR                      | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PRIORITET                | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PRIS_DRG                 | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC01                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC02                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC03                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC04                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC05                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC06                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC07                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC08                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC09                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC10                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC11                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC12                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC13                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC14                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC15                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC16                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC17                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC18                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC19                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC20                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC21                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC22                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC23                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC24                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC25                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC26                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC27                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC28                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | PROC29                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | REGEL                    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | RTC                      | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SORENHED                 | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SORENHED_HEN             | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SPECIALE                 | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SPECIALISERINGSNIVEAU    | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SYGDOMSFORLOB_ID         | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SYGEHUS_REGION           | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | SYGEHUSTYPE              | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA01                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA02                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA03                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA04                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA05                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TDIA06                   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TOTALPRIS_DRG            | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC01                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC02                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC03                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC04                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC05                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC06                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC07                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC08                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC09                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TPROC10                  | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TRIMPUNKT                | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | TUNGESTE_DRGKONTAKT      | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | UDFALDSGIVENDE_KONTAKT   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | UDTIDSPUNKT_DRGKONTAKT   | INGEN LABEL    | 2021       | 2023    |
-| DRG_KONTAKTER | UDTIDSPUNKT_DRGSGHF      | INGEN LABEL    | 2021       | 2023    |
+| DRG_KONTAKTER | DIA01                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA02                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA03                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA04                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA05                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA06                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA07                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA08                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA09                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DIA10                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA11                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA12                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA13                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA14                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA15                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA16                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA17                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA18                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA19                    | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DIA120                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | DRG                      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRG_DRGSGHF              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRG_FORLOBSELEMENT_ENHED | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRG_GROUPER              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRG_KONTAKT_ENHED        | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRGKONTAKT_ID_F          | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRGKONTAKTTYPE           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRGSGHFORLOB_ID          | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRGSGHFORLOB_NR          | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | DRGSGHFORLOB_TYPE        | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | FORLOB_VAERDI            | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | FORLOEBSPROCEDURE        | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | HENVISNINGSMAADE         | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | HENVISNINGSTIDSPUNKT     | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | HENVISNINGSAARSAG        | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | INDTIDSPUNKT_DRGKONTAKT  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | INK1                     | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | INK2                     | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | INK3                     | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | INK4                     | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | INK5                     | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | INK6                     | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | KOEN                     | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | KONTAKT_VAERDI           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | KONTAKTDAGE              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | KONTAKTTYPE              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | KONTAKTAARSAG            | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | LANGLIGGERDAGE           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | LANGLIGGERPRIS           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | LIGGEDAGE                | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | MDC                      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PNR                      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PRIORITET                | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PRIS_DRG                 | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC01                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC02                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC03                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC04                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC05                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC06                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC07                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC08                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC09                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC10                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC11                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC12                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC13                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC14                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC15                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC16                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC17                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC18                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC19                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC20                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC21                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC22                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC23                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC24                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC25                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC26                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC27                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC28                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC29                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | PROC30                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC31                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC32                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC33                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC34                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC35                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC36                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC37                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC38                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC39                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | PROC40                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | REGEL                    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | RTC                      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SORENHED                 | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SORENHED_HEN             | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SPECIALE                 | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SPECIALISERINGSNIVEAU    | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SYGDOMSFORLOB_ID         | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SYGEHUS_REGION           | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | SYGEHUSTYPE              | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA01                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA02                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA03                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA04                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA05                   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TDIA06                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA07                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA08                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA09                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA10                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA11                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA12                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA13                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TDIA14                   | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | TOTALPRIS_DRG            | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC01                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC02                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC03                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC04                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC05                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC06                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC07                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC08                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC09                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TPROC10                  | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TRIMPUNKT                | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | TUNGESTE_DRGKONTAKT      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | UDFALDSGIVENDE_KONTAKT   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | UDTIDSPUNKT_DRGKONTAKT   | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | UDTIDSPUNKT_DRGSGHF      | INGEN LABEL    | 2021       | 2024    |
+| DRG_KONTAKTER | VARIGHED_TIME            | INGEN LABEL    | 2022       | 2024    |
+| DRG_KONTAKTER | VARIGHED_TIME_TYPE       | INGEN LABEL    | 2022       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRG_SGHFORLOB 2021-2023
+## DRG_SGHFORLOB 2021-2024
 
 |               | Variable name                 | Variable label                                 | Start year | Endyear |
 | ------------- | ----------------------------- | ---------------------------------------------- | ---------- | ------- |
-| DRG_SGHFORLOB | ADIAG_DRGSGH_IND              | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | ADIAG_DRGSGH_UD               | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | ADIAG_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | AFSLUTNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | AKTIVITETSAAR                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | ALDER_DAGE_DRGSGHF            | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | ALDER_AAR_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | ANTAL_I_FORLOB                | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BETALER_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BETALER_KOM_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BETALER_REGION_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BETALINGSAFTALE_DRGSGHF       | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BO_KOM_DRGSGHF                | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BO_KOM_SOURCE_DRGSGHF         | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | BO_REGION_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | CPRTJEK                       | CPR-tjek                                       | 2021       | 2023    |
-| DRG_SGHFORLOB | CPRTYPE                       | CPR-type                                       | 2021       | 2023    |
+| DRG_SGHFORLOB | ADIAG_DRGSGH_IND              | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | ADIAG_DRGSGH_UD               | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | ADIAG_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | AFSLUTNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | AKTIVITETSAAR                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | ALDER_DAGE_DRGSGHF            | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | ALDER_AAR_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | ANTAL_I_FORLOB                | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BETALER_DRGSGHF               | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BETALER_KOM_DRGSGHF           | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BETALER_REGION_DRGSGHF        | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BETALINGSAFTALE_DRGSGHF       | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BO_KOM_DRGSGHF                | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BO_KOM_SOURCE_DRGSGHF         | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | BO_REGION_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | CPRTJEK                       | CPR-tjek                                       | 2021       | 2024    |
+| DRG_SGHFORLOB | CPRTYPE                       | CPR-type                                       | 2021       | 2024    |
 | DRG_SGHFORLOB | D90UA04_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | D90UA05_DRGSGHF               | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRG_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRG_GROUPER_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRG_KONTAKT_ID_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRGKONTAKT_ID_IND             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRGKONTAKT_ID_UD              | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRGKONTAKTTYPE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRGSGHFORLOB_ID               | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | DRGSGHFORLOB_TYPE             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | HENVISNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | HENVISNINGSTIDSPUNKT_DRGSGHF  | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | HENVISNINGSAARSAG_DRGSGHF     | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | INDTIDSPUNKT_DRGSGHF          | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | KOEN                          | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | KONTAKTDAGE_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | KONTAKTAARSAG_DRGSGHF         | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | LANGLIGGERDAGE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | LANGLIGGERPRIS_DRGSGHF        | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | LIGGEDAGE_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | LONSUMAFGIFT_LANGLIGGERPRIS   | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | LONSUMAFGIFT_PRIS_DRGSGHF     | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | MDC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | MRK_NAERHED_1                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | MRK_NAERHED_2                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | MRK_NAERHED_4                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | MAANED_DRGSGHF                | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | PNR                           | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | PRIORITET_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | PRIS_DRG_DRGSGHF              | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | REGEL_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | RTC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | SORENHED                      | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | SORENHED_HEN                  | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | SPECIALISERINGSNIVEAU_DRGSGHF | Se dokumentation hos SDS/sundhedsdatastyrelsen | 2021       | 2023    |
-| DRG_SGHFORLOB | SYGDOMSFORLOB_ID              | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | SYGEHUS_REGION                | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | SYGEHUSTYPE                   | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | TOTALPRIS_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | TRIMPUNKT_DRGSGHF             | INGEN LABEL                                    | 2021       | 2023    |
-| DRG_SGHFORLOB | UDTIDSPUNKT_DRGSGHF           | INGEN LABEL                                    | 2021       | 2023    |
+| DRG_SGHFORLOB | D90UA05_DRGSGHF               | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRG_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRG_GROUPER_DRGSGHF           | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRG_KONTAKT_ID_DRGSGHF        | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRGKONTAKT_ID_IND             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRGKONTAKT_ID_UD              | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRGKONTAKTTYPE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRGSGHFORLOB_ID               | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | DRGSGHFORLOB_TYPE             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | HENVISNINGSMAADE_DRGSGHF      | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | HENVISNINGSTIDSPUNKT_DRGSGHF  | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | HENVISNINGSAARSAG_DRGSGHF     | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | INDTIDSPUNKT_DRGSGHF          | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | KOEN                          | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | KONTAKTDAGE_DRGSGHF           | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | KONTAKTAARSAG_DRGSGHF         | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | LANGLIGGERDAGE_DRGSGHF        | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | LANGLIGGERPRIS_DRGSGHF        | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | LIGGEDAGE_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | LONSUMAFGIFT_LANGLIGGERPRIS   | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | LONSUMAFGIFT_PRIS_DRGSGHF     | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | MDC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | MRK_KIRURGI                   | INGEN LABEL                                    | 2022       | 2024    |
+| DRG_SGHFORLOB | MRK_NAERHED_1                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | MRK_NAERHED_2                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | MRK_NAERHED_4                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | MAANED_DRGSGHF                | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | PNR                           | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | PRIORITET_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | PRIS_DRG_DRGSGHF              | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | REGEL_DRGSGHF                 | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | RTC_DRGSGHF                   | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | SORENHED                      | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | SORENHED_HEN                  | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | SPECIALISERINGSNIVEAU_DRGSGHF | Se dokumentation hos SDS/sundhedsdatastyrelsen | 2021       | 2024    |
+| DRG_SGHFORLOB | SYGDOMSFORLOB_ID              | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | SYGEHUS_REGION                | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | SYGEHUSTYPE                   | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | TOTALPRIS_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | TRIMPUNKT_DRGSGHF             | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | UDTIDSPUNKT_DRGSGHF           | INGEN LABEL                                    | 2021       | 2024    |
+| DRG_SGHFORLOB | VARIGHED_TIME_DRGSGHF         | INGEN LABEL                                    | 2022       | 2024    |
+| DRG_SGHFORLOB | VARIGHED_TIME_TYPE_DRGSGHF    | INGEN LABEL                                    | 2022       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRGSOMA_AMB 2002-2017
+## DRGSOMA_AMB 2002-2017 (Register lukket)
 
 |             | Variable name | Variable label  | Start year | Endyear |
 | ----------- | ------------- | --------------- | ---------- | ------- |
@@ -3455,7 +3484,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRGSOMA_HEL 2002-2017
+## DRGSOMA_HEL 2002-2017 (Register lukket)
 
 |             | Variable name   | Variable label  | Start year | Endyear |
 | ----------- | --------------- | --------------- | ---------- | ------- |
@@ -3518,7 +3547,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRGSOMA_KONTAKT 2018
+## DRGSOMA_KONTAKT 2018 (Register lukket)
 
 |                 | Variable name           | Variable label  | Start year | Endyear |
 | --------------- | ----------------------- | --------------- | ---------- | ------- |
@@ -3567,7 +3596,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DRGSOMA_SGHFORLOB 2018
+## DRGSOMA_SGHFORLOB 2018 (Register lukket)
 
 |                   | Variable name          | Variable label         | Start year | Endyear |
 | ----------------- | ---------------------- | ---------------------- | ---------- | ------- |
@@ -3589,7 +3618,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FAIK 1987-2023
+## FAIK 1987-2024
 
 |      | Variable name             | Variable label                                                         | Start year | Endyear |
 | ---- | ------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
