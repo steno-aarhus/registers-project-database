@@ -241,19 +241,19 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |         | Variable name  | Variable label                  | Start year | Endyear |
 | ------- | -------------- | ------------------------------- | ---------- | ------- |
-| BOERNFB | BORN_VFRA      | Indmeldelsestidspunkt           | 2015       | 2021    |
-| BOERNFB | BORN_VTIL      | Udmeldelsestidspunkt            | 2015       | 2021    |
+| BOERNFB | BORN_VFRA      | Indmeldelsestidspunkt           | 2017       | 2021    |
+| BOERNFB | BORN_VTIL      | Udmeldelsestidspunkt            | 2017       | 2021    |
 | BOERNFB | CPRTJEK        | CPR-tjek                        | 2015       | 2021    |
 | BOERNFB | CPRTYPE        | CPR-type                        | 2015       | 2021    |
 | BOERNFB | DKOM           | DKOM                            | 2015       | 2021    |
-| BOERNFB | DST_INSTNR     | DST_INSTNR                      | 2015       | 2021    |
-| BOERNFB | EJER_BP        | EJER_BP                         | 2015       | 2021    |
+| BOERNFB | DST_INSTNR     | DST_INSTNR                      | 2019       | 2021    |
+| BOERNFB | EJER_BP        | EJER_BP                         | 2017       | 2021    |
 | BOERNFB | FULDTID_BORN   | FULDTID_BORN                    | 2015       | 2021    |
 | BOERNFB | I_NORMERING    | I_NORMERING                     | 2015       | 2021    |
-| BOERNFB | KALDINST       | KALDINST                        | 2015       | 2021    |
+| BOERNFB | KALDINST       | KALDINST                        | 2017       | 2021    |
 | BOERNFB | PASNINGSTILBUD | PASNINGSTILBUD                  | 2015       | 2021    |
 | BOERNFB | PNR            | PNR                             | 2015       | 2021    |
-| BOERNFB | TIMER          | Kommunalt angivet pasningstimer | 2015       | 2021    |
+| BOERNFB | TIMER          | Kommunalt angivet pasningstimer | 2017       | 2021    |
 | BOERNFB | VERSION        | VERSION                         | 2015       | 2021    |
 | BOERNFB | AAR            | AAR                             | 2015       | 2021    |
 :::
@@ -298,14 +298,14 @@ Below you will find a full describtion of all DST registers and variables in the
 | CPST | BOPIKOM        | Adressen (vej, husnummer, husbogstav, etage, side/dørnummer) | 197512     | 200612  |
 | CPST | CIVDATO        | Civilstandsdato                                              | 197512     | 200612  |
 | CPST | CIVST          | Civilstand                                                   | 197512     | 200612  |
-| CPST | FAR_ID         | PNR for far                                                  | 197512     | 200612  |
+| CPST | FAR_ID         | PNR for far                                                  | 197812     | 200612  |
 | CPST | KOM            | Bopæls kommune                                               | 197512     | 200612  |
-| CPST | MOR_ID         | PNR for mor                                                  | 197512     | 200612  |
+| CPST | MOR_ID         | PNR for mor                                                  | 197812     | 200612  |
 | CPST | OPGIKOM        | Opgangsadresse i kommunen                                    | 197512     | 200612  |
 | CPST | PNR            | Personnummer                                                 | 197512     | 200612  |
-| CPST | STOPHDTO       | Startdato for opholdsgrundlag                                | 197512     | 200612  |
-| CPST | VAN_VFRA       | udvandringsdato                                              | 197512     | 200612  |
-| CPST | VAN_VTIL       | Indvandringsdato                                             | 197512     | 200612  |
+| CPST | STOPHDTO       | Startdato for opholdsgrundlag                                | 199912     | 200312  |
+| CPST | VAN_VFRA       | udvandringsdato                                              | 199112     | 200312  |
+| CPST | VAN_VTIL       | Indvandringsdato                                             | 197812     | 200612  |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -336,7 +336,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DODSAASG 2022
+## DODSAASG 2022 (Register lukket)
 
 |          | Variable name       | Variable label      | Start year | Endyear |
 | -------- | ------------------- | ------------------- | ---------- | ------- |
