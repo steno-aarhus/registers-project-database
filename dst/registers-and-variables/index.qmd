@@ -3622,95 +3622,95 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |      | Variable name             | Variable label                                                         | Start year | Endyear |
 | ---- | ------------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| FAIK | FAMAEKVIVADISP            | Ækvivaleret disponibel indkomst for familien                           | 1987       | 2023    |
-| FAIK | FAMAEKVIVADISP_13         | Ækvivaleret disponibel indkomst for familien                           | 1987       | 2023    |
-| FAIK | FAMAEKVIVAINDKNETTO       | Ækvivaleret samlet indkomst med nettorenter for familien               | 1987       | 2023    |
-| FAIK | FAMAKTIEINDK              | Aktieindkomster                                                        | 1987       | 2023    |
-| FAIK | FAMANDENPENSION           | Andre pensionsudbetalinger til familien                                | 1987       | 2023    |
-| FAIK | FAMANDOVERFORSEL          | Andre overførsler til familien                                         | 1987       | 2023    |
-| FAIK | FAMANTALFSKATTEPLIGTIGE   | Antal fuldt skattepligtige voksne i familien                           | 1987       | 2023    |
-| FAIK | FAMARBEJDSLOESP           | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse for familien          | 1987       | 2023    |
-| FAIK | FAMARBMABIDRAG            | Arbejdsmarkedsbidrag mv                                                | 1987       | 2023    |
-| FAIK | FAMBOERNETILSKUD          | Børnetilskud og familieydelser til familien                            | 1987       | 2023    |
-| FAIK | FAMBOLIGFORM              | Familiens boligform                                                    | 1987       | 2023    |
-| FAIK | FAMBOLIGSTOETTE           | Boligstøtte udbetalt til familien                                      | 1987       | 2023    |
-| FAIK | FAMBOLIGTYPE              | Familiens boligtype                                                    | 1987       | 2023    |
-| FAIK | FAMBRUTTOINDK             | Bruttoindkomst for familien                                            | 1987       | 2023    |
-| FAIK | FAMDAGPENGE_KONTANT_13    | Familiens samlede dagpenge og kontanthjælp                             | 1987       | 2023    |
-| FAIK | FAMDISPONIBEL             | Diponibel indkomst for familien                                        | 1987       | 2023    |
-| FAIK | FAMDISPONIBEL_13          | Disponibel indkomst                                                    | 1987       | 2023    |
-| FAIK | FAMEFTERLOEN              | Efterløn                                                               | 1987       | 2023    |
-| FAIK | FAMEJDSKAT_EJERBOLIG      | Ejendomsskat for boligejere                                            | 1987       | 2023    |
-| FAIK | FAMEJDSKAT_LEJERBOLIG     | Ejendomsskat for lejere                                                | 1987       | 2023    |
-| FAIK | FAMEJENDOMSVURDERING      | Kontant ejendomsværdi                                                  | 1987       | 2023    |
-| FAIK | FAMERHVERVSINDK           | Erhversindkomst for familien                                           | 1987       | 2023    |
-| FAIK | FAMERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1987       | 2023    |
-| FAIK | FAMFOLKEFORTID_13         | Folke- og førtidspension i familien                                    | 1987       | 2023    |
-| FAIK | FAMFORMREST_NY05          | Familiens nettorestformue ultimo året, ekskl. Pensionsformuer          | 1987       | 2023    |
-| FAIK | FAMFORMUEAKTIVER          | Familiens samlede aktiver                                              | 1987       | 2023    |
-| FAIK | FAMFORMUEINDK             | Formueindkomst i alt for familien                                      | 1987       | 2023    |
-| FAIK | FAMFORMUEINDK_BRUTTO      | Formueindkomst. brutto i familien                                      | 1987       | 2023    |
-| FAIK | FAMFRADRAGIALT            | Samlet beregnet fradrag for familien                                   | 1987       | 2023    |
-| FAIK | FAMFRYNSEGODER            | Skattmæssig værdi af frynsegoderne i familien                          | 1987       | 2023    |
-| FAIK | FAMGAELDIALT              | Familiens passiver                                                     | 1987       | 2023    |
-| FAIK | FAMGRON_CHECK             | Grøn check                                                             | 1987       | 2023    |
-| FAIK | FAMHOEJSTUDDA             | Højeste uddannelse for de voksne i familien                            | 1987       | 2023    |
-| FAIK | FAMHONNY                  | AMB. pligtige honorarer                                                | 1987       | 2023    |
-| FAIK | FAMILIE_ID                | Familie identifikation                                                 | 1987       | 2023    |
-| FAIK | FAMINDKOMSTIALT           | Familieindkomst i alt før skat                                         | 1987       | 2023    |
-| FAIK | FAMINDKOMSTIALT_13        | Indkomst i alt, før skatter mv.                                        | 1987       | 2023    |
-| FAIK | FAMKONTANTHJAELP          | Kontanthjælp for familien                                              | 1987       | 2023    |
-| FAIK | FAMKONTANTHJAELP_13       | Kontant hjælp i familien                                               | 1987       | 2023    |
-| FAIK | FAMLEJEV_EGEN_BOLIG       | Beregnet lejeværdi af egen bolig                                       | 1987       | 2023    |
-| FAIK | FAMLEJEVAERDI             | beregnet lejeværdi af egen bolig for familien                          | 1987       | 2023    |
-| FAIK | FAMLOENMV                 | Lønindkomst i alt i familien                                           | 1987       | 2023    |
-| FAIK | FAMLOENMV_13              | Lønindkomst i alt i familien                                           | 1987       | 2023    |
-| FAIK | FAMMIDLERTIDYD            | Midlertidige overførselsindkomster                                     | 1987       | 2023    |
-| FAIK | FAMOEVRIGFORMUE           | Anden formueindkomst for familien                                      | 1987       | 2023    |
-| FAIK | FAMOEVRIGFORMUE_13        | Øvrige formueindkomster i familien (aktieindkomst mv.)                 | 1987       | 2023    |
-| FAIK | FAMOFF_OVERFORSEL_13      | Familiens offentlige overførsler                                       | 1987       | 2023    |
-| FAIK | FAMOFFPENS_EFTLON_13      | Offentlige pensioner i familien                                        | 1987       | 2023    |
-| FAIK | FAMORLOVSYDELSE           | Orlovsydelser udbetalt til familien                                    | 1987       | 2023    |
-| FAIK | FAMOVERFOERINDK           | Familiens samlede overførselsindkomster                                | 1987       | 2023    |
-| FAIK | FAMOVERGANGYD             | Familiens samledeoOvergangsydelse                                      | 1987       | 2023    |
-| FAIK | FAMOVRIG_DAGPENGE_AKAS_13 | Øvrige dagpenge fra A-kasser                                           | 1987       | 2023    |
-| FAIK | FAMOVRIG_KONTANTHJALP_13  | Familiens samlede Aktiverings-, ledigheds- og revalideringsydelse      | 1987       | 2023    |
-| FAIK | FAMOVRIG_OVERFORSEL_13    | Øvrige overførselsindkomster i familien                                | 1987       | 2023    |
-| FAIK | FAMPENSIONATP             | Pensionsudbetaling fra ATP for familien                                | 1987       | 2023    |
-| FAIK | FAMPENSIONIALT            | Pensioner i alt for familien                                           | 1987       | 2023    |
-| FAIK | FAMPENSOFFENTLIG          | Folke- og førtidspension for familien                                  | 1987       | 2023    |
-| FAIK | FAMPENSTJENESTE           | Tjenestemandspension for familien                                      | 1987       | 2023    |
-| FAIK | FAMPRIVAT_PENSION_13      | Private pensioner i familien                                           | 1987       | 2023    |
-| FAIK | FAMRENTEINDK              | Samlede renteindtægter fra Danmark for familien                        | 1987       | 2023    |
-| FAIK | FAMRENTEINDK_13           | Familiens samlede skattepligtige renteindtægter fra Danmark undtagen r | 1987       | 2023    |
-| FAIK | FAMRENTEUDGIFTER          | Samlede fradragsberettigede renteudgifter for familien                 | 1987       | 2023    |
-| FAIK | FAMRENTEUDGIFTER_13       | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1987       | 2023    |
-| FAIK | FAMRESTBISTANDSYD         | Andre ydelser fra kommuuner og A-kasser udbetalt til familien          | 1987       | 2023    |
-| FAIK | FAMRESTINDK               | Diverse indkomster som ikke direkte kan klassificeres i hovedgrupperne | 1987       | 2023    |
-| FAIK | FAMRESTINDK_13            | Anden personlig indkomst i familien                                    | 1987       | 2023    |
-| FAIK | FAMSAMLETINDK             | Samlet indkomst for familien                                           | 1987       | 2023    |
-| FAIK | FAMSKATFRIYD              | Skattefrie indkomster i familien                                       | 1987       | 2023    |
-| FAIK | FAMSKATMVIALT             | Skat og arbejdsmarkedsbidrag betalt af familien                        | 1987       | 2023    |
-| FAIK | FAMSKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1987       | 2023    |
-| FAIK | FAMSKATPLIGTINDK          | Skattepligtig indkomst for familien                                    | 1987       | 2023    |
-| FAIK | FAMSKATTOT                | Samlet indkomstskat betalt af familien                                 | 1987       | 2023    |
-| FAIK | FAMSKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1987       | 2023    |
-| FAIK | FAMSOCIOGRUP              | Familiens socioøkonomiske gruppe                                       | 1987       | 2023    |
-| FAIK | FAMSOCIOGRUP_13           | socioøkonomiske klassifikation                                         | 1987       | 2023    |
-| FAIK | FAMSU                     | Stipendier fra Statens Uddannelsesstøtte - SU udbetalt til familien    | 1987       | 2023    |
-| FAIK | FAMSUMINDKNETTORENT       | Samlet indkomst med nettorenter for familien                           | 1987       | 2023    |
-| FAIK | FAMSYG_BARSEL_13          | Familiens syge- og barselsdagpenge ekskl. refusion til arbejdsgiver.   | 1987       | 2023    |
-| FAIK | FAMTRANSPORTFRADRAG       | Samlet befordringsfradrag i familien                                   | 1987       | 2023    |
-| FAIK | FAMTYPE                   | familietype                                                            | 1987       | 2023    |
-| FAIK | FAMUNDERHBIDRAG           | Underholdsbidrag betalt af familien                                    | 1987       | 2023    |
-| FAIK | FAMVIRKORDIND             | Familiens samlede beløb indsat i virksomhedsordningerne netto (speciel | 1987       | 2023    |
-| FAIK | FAMVIRKOVERSKUD           | nettooverskud af selvstændig virksomhed for familien                   | 1987       | 2023    |
-| FAIK | FAMVIRKOVERSKUD_13        | Familiens samlede overskud af selvstændig virksomhed efter virksomhede | 1987       | 2023    |
-| FAIK | VERSION                   | Version                                                                | 1987       | 2023    |
+| FAIK | FAMAEKVIVADISP            | Ækvivaleret disponibel indkomst for familien                           | 1990       | 2012    |
+| FAIK | FAMAEKVIVADISP_13         | Ækvivaleret disponibel indkomst for familien                           | 1987       | 2024    |
+| FAIK | FAMAEKVIVAINDKNETTO       | Ækvivaleret samlet indkomst med nettorenter for familien               | 1990       | 2012    |
+| FAIK | FAMAKTIEINDK              | Aktieindkomster                                                        | 1990       | 2009    |
+| FAIK | FAMANDENPENSION           | Andre pensionsudbetalinger til familien                                | 1987       | 2024    |
+| FAIK | FAMANDOVERFORSEL          | Andre overførsler til familien                                         | 1990       | 2012    |
+| FAIK | FAMANTALFSKATTEPLIGTIGE   | Antal fuldt skattepligtige voksne i familien                           | 1987       | 2024    |
+| FAIK | FAMARBEJDSLOESP           | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse for familien          | 1987       | 2024    |
+| FAIK | FAMARBMABIDRAG            | Arbejdsmarkedsbidrag mv                                                | 1987       | 2024    |
+| FAIK | FAMBOERNETILSKUD          | Børnetilskud og familieydelser til familien                            | 1987       | 2024    |
+| FAIK | FAMBOLIGFORM              | Familiens boligform                                                    | 2000       | 2024    |
+| FAIK | FAMBOLIGSTOETTE           | Boligstøtte udbetalt til familien                                      | 1987       | 2024    |
+| FAIK | FAMBOLIGTYPE              | Familiens boligtype                                                    | 2000       | 2024    |
+| FAIK | FAMBRUTTOINDK             | Bruttoindkomst for familien                                            | 1990       | 2009    |
+| FAIK | FAMDAGPENGE_KONTANT_13    | Familiens samlede dagpenge og kontanthjælp                             | 1987       | 2024    |
+| FAIK | FAMDISPONIBEL             | Diponibel indkomst for familien                                        | 1990       | 2012    |
+| FAIK | FAMDISPONIBEL_13          | Disponibel indkomst                                                    | 1987       | 2024    |
+| FAIK | FAMEFTERLOEN              | Efterløn                                                               | 1987       | 2024    |
+| FAIK | FAMEJDSKAT_EJERBOLIG      | Ejendomsskat for boligejere                                            | 2010       | 2024    |
+| FAIK | FAMEJDSKAT_LEJERBOLIG     | Ejendomsskat for lejere                                                | 2010       | 2024    |
+| FAIK | FAMEJENDOMSVURDERING      | Kontant ejendomsværdi                                                  | 1987       | 2024    |
+| FAIK | FAMERHVERVSINDK           | Erhversindkomst for familien                                           | 1990       | 2012    |
+| FAIK | FAMERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1987       | 2024    |
+| FAIK | FAMFOLKEFORTID_13         | Folke- og førtidspension i familien                                    | 1987       | 2024    |
+| FAIK | FAMFORMREST_NY05          | Familiens nettorestformue ultimo året, ekskl. Pensionsformuer          | 1987       | 2024    |
+| FAIK | FAMFORMUEAKTIVER          | Familiens samlede aktiver                                              | 1987       | 2024    |
+| FAIK | FAMFORMUEINDK             | Formueindkomst i alt for familien                                      | 1990       | 2012    |
+| FAIK | FAMFORMUEINDK_BRUTTO      | Formueindkomst. brutto i familien                                      | 1987       | 2024    |
+| FAIK | FAMFRADRAGIALT            | Samlet beregnet fradrag for familien                                   | 1990       | 2012    |
+| FAIK | FAMFRYNSEGODER            | Skattmæssig værdi af frynsegoderne i familien                          | 1993       | 2009    |
+| FAIK | FAMGAELDIALT              | Familiens passiver                                                     | 1987       | 2024    |
+| FAIK | FAMGRON_CHECK             | Grøn check                                                             | 2010       | 2024    |
+| FAIK | FAMHOEJSTUDDA             | Højeste uddannelse for de voksne i familien                            | 2000       | 2024    |
+| FAIK | FAMHONNY                  | AMB. pligtige honorarer                                                | 1987       | 2024    |
+| FAIK | FAMILIE_ID                | Familie identifikation                                                 | 1987       | 2024    |
+| FAIK | FAMINDKOMSTIALT           | Familieindkomst i alt før skat                                         | 1990       | 2012    |
+| FAIK | FAMINDKOMSTIALT_13        | Indkomst i alt, før skatter mv.                                        | 1987       | 2024    |
+| FAIK | FAMKONTANTHJAELP          | Kontanthjælp for familien                                              | 1990       | 2009    |
+| FAIK | FAMKONTANTHJAELP_13       | Kontant hjælp i familien                                               | 1987       | 2024    |
+| FAIK | FAMLEJEV_EGEN_BOLIG       | Beregnet lejeværdi af egen bolig                                       | 1987       | 2024    |
+| FAIK | FAMLEJEVAERDI             | beregnet lejeværdi af egen bolig for familien                          | 1990       | 2012    |
+| FAIK | FAMLOENMV                 | Lønindkomst i alt i familien                                           | 1990       | 2012    |
+| FAIK | FAMLOENMV_13              | Lønindkomst i alt i familien                                           | 1987       | 2024    |
+| FAIK | FAMMIDLERTIDYD            | Midlertidige overførselsindkomster                                     | 1990       | 2012    |
+| FAIK | FAMOEVRIGFORMUE           | Anden formueindkomst for familien                                      | 1990       | 2009    |
+| FAIK | FAMOEVRIGFORMUE_13        | Øvrige formueindkomster i familien (aktieindkomst mv.)                 | 1987       | 2024    |
+| FAIK | FAMOFF_OVERFORSEL_13      | Familiens offentlige overførsler                                       | 1987       | 2024    |
+| FAIK | FAMOFFPENS_EFTLON_13      | Offentlige pensioner i familien                                        | 1987       | 2024    |
+| FAIK | FAMORLOVSYDELSE           | Orlovsydelser udbetalt til familien                                    | 1994       | 2009    |
+| FAIK | FAMOVERFOERINDK           | Familiens samlede overførselsindkomster                                | 1990       | 2012    |
+| FAIK | FAMOVERGANGYD             | Familiens samledeoOvergangsydelse                                      | 1994       | 2006    |
+| FAIK | FAMOVRIG_DAGPENGE_AKAS_13 | Øvrige dagpenge fra A-kasser                                           | 1987       | 2024    |
+| FAIK | FAMOVRIG_KONTANTHJALP_13  | Familiens samlede Aktiverings-, ledigheds- og revalideringsydelse      | 1987       | 2024    |
+| FAIK | FAMOVRIG_OVERFORSEL_13    | Øvrige overførselsindkomster i familien                                | 1987       | 2024    |
+| FAIK | FAMPENSIONATP             | Pensionsudbetaling fra ATP for familien                                | 1987       | 2024    |
+| FAIK | FAMPENSIONIALT            | Pensioner i alt for familien                                           | 1990       | 2012    |
+| FAIK | FAMPENSOFFENTLIG          | Folke- og førtidspension for familien                                  | 1990       | 2009    |
+| FAIK | FAMPENSTJENESTE           | Tjenestemandspension for familien                                      | 1987       | 2024    |
+| FAIK | FAMPRIVAT_PENSION_13      | Private pensioner i familien                                           | 1987       | 2024    |
+| FAIK | FAMRENTEINDK              | Samlede renteindtægter fra Danmark for familien                        | 1990       | 2009    |
+| FAIK | FAMRENTEINDK_13           | Familiens samlede skattepligtige renteindtægter fra Danmark undtagen r | 1987       | 2024    |
+| FAIK | FAMRENTEUDGIFTER          | Samlede fradragsberettigede renteudgifter for familien                 | 1990       | 2012    |
+| FAIK | FAMRENTEUDGIFTER_13       | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1987       | 2024    |
+| FAIK | FAMRESTBISTANDSYD         | Andre ydelser fra kommuuner og A-kasser udbetalt til familien          | 1990       | 2009    |
+| FAIK | FAMRESTINDK               | Diverse indkomster som ikke direkte kan klassificeres i hovedgrupperne | 1990       | 2012    |
+| FAIK | FAMRESTINDK_13            | Anden personlig indkomst i familien                                    | 1987       | 2024    |
+| FAIK | FAMSAMLETINDK             | Samlet indkomst for familien                                           | 1990       | 2009    |
+| FAIK | FAMSKATFRIYD              | Skattefrie indkomster i familien                                       | 1990       | 2012    |
+| FAIK | FAMSKATMVIALT             | Skat og arbejdsmarkedsbidrag betalt af familien                        | 1990       | 2012    |
+| FAIK | FAMSKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1987       | 2024    |
+| FAIK | FAMSKATPLIGTINDK          | Skattepligtig indkomst for familien                                    | 1987       | 2024    |
+| FAIK | FAMSKATTOT                | Samlet indkomstskat betalt af familien                                 | 1990       | 2009    |
+| FAIK | FAMSKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1987       | 2024    |
+| FAIK | FAMSOCIOGRUP              | Familiens socioøkonomiske gruppe                                       | 1994       | 2009    |
+| FAIK | FAMSOCIOGRUP_13           | socioøkonomiske klassifikation                                         | 1993       | 2024    |
+| FAIK | FAMSU                     | Stipendier fra Statens Uddannelsesstøtte - SU udbetalt til familien    | 1987       | 2024    |
+| FAIK | FAMSUMINDKNETTORENT       | Samlet indkomst med nettorenter for familien                           | 1990       | 2012    |
+| FAIK | FAMSYG_BARSEL_13          | Familiens syge- og barselsdagpenge ekskl. refusion til arbejdsgiver.   | 1987       | 2024    |
+| FAIK | FAMTRANSPORTFRADRAG       | Samlet befordringsfradrag i familien                                   | 1990       | 2009    |
+| FAIK | FAMTYPE                   | familietype                                                            | 1987       | 2024    |
+| FAIK | FAMUNDERHBIDRAG           | Underholdsbidrag betalt af familien                                    | 1987       | 2024    |
+| FAIK | FAMVIRKORDIND             | Familiens samlede beløb indsat i virksomhedsordningerne netto (speciel | 1987       | 2024    |
+| FAIK | FAMVIRKOVERSKUD           | nettooverskud af selvstændig virksomhed for familien                   | 1990       | 2009    |
+| FAIK | FAMVIRKOVERSKUD_13        | Familiens samlede overskud af selvstændig virksomhed efter virksomhede | 1987       | 2024    |
+| FAIK | VERSION                   | Version                                                                | 1987       | 2024    |
 :::
 
 ::: {.callout-warning collapse="true"}
-## FAIN 1980-2007
+## FAIN 1980-2007 (Register lukket)
 
 |      | Variable name  | Variable label                                               | Start year | Endyear |
 | ---- | -------------- | ------------------------------------------------------------ | ---------- | ------- |
@@ -3785,7 +3785,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTDB 2012
+## FTDB 2012 (Register lukket)
 
 |      | Variable name | Variable label                          | Start year | Endyear |
 | ---- | ------------- | --------------------------------------- | ---------- | ------- |
@@ -3810,7 +3810,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTDK 2012
+## FTDK 2012 (Register lukket)
 
 |      | Variable name | Variable label                   | Start year | Endyear |
 | ---- | ------------- | -------------------------------- | ---------- | ------- |
@@ -3828,7 +3828,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTDM 2012
+## FTDM 2012 (Register lukket)
 
 |      | Variable name | Variable label                   | Start year | Endyear |
 | ---- | ------------- | -------------------------------- | ---------- | ------- |
@@ -3846,21 +3846,21 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## FTFORAEL 2019
+## FTFORAEL 2023
 
 |          | Variable name  | Variable label | Start year | Endyear |
 | -------- | -------------- | -------------- | ---------- | ------- |
-| FTFORAEL | ADOP           | ADOP           |            | 2019    |
-| FTFORAEL | CPRTJEK        | CPR-tjek       |            | 2019    |
-| FTFORAEL | CPRTYPE        | CPR-type       |            | 2019    |
-| FTFORAEL | DOED_DATO      | DOED_DATO      |            | 2019    |
-| FTFORAEL | ENKELT_PARITET | ENKELT_PARITET |            | 2019    |
-| FTFORAEL | FOED_DAG       | FOED_DAG       |            | 2019    |
-| FTFORAEL | FORAELDER_PNR  | PNR            |            | 2019    |
-| FTFORAEL | MDOED          | MDOED          |            | 2019    |
-| FTFORAEL | MOR_FAR        | MOR_FAR        |            | 2019    |
-| FTFORAEL | PNR            | PNR            |            | 2019    |
-| FTFORAEL | VERSION        | VERSION        |            | 2019    |
+| FTFORAEL | ADOP           | ADOP           |            | 2023    |
+| FTFORAEL | CPRTJEK        | CPR-tjek       |            | 2023    |
+| FTFORAEL | CPRTYPE        | CPR-type       |            | 2023    |
+| FTFORAEL | DOED_DATO      | DOED_DATO      |            | 2023    |
+| FTFORAEL | ENKELT_PARITET | ENKELT_PARITET |            | 2023    |
+| FTFORAEL | FOED_DAG       | FOED_DAG       |            | 2023    |
+| FTFORAEL | FORAELDER_PNR  | PNR            |            | 2023    |
+| FTFORAEL | MDOED          | MDOED          |            | 2023    |
+| FTFORAEL | MOR_FAR        | MOR_FAR        |            | 2023    |
+| FTFORAEL | PNR            | PNR            |            | 2023    |
+| FTFORAEL | VERSION        | VERSION        |            | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
