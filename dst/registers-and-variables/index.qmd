@@ -3923,76 +3923,76 @@ Below you will find a full describtion of all DST registers and variables in the
 |      | Variable name            | Variable label                                                        | Start year | Endyear |
 | ---- | ------------------------ | --------------------------------------------------------------------- | ---------- | ------- |
 | IDAP | AKASAF                   | Seneste år som medlem af A-kasse                                      | 1980       | 2023    |
-| IDAP | AKASSE_ID                | Akasse ident                                                          | 1980       | 2023    |
+| IDAP | AKASSE_ID                | Akasse ident                                                          | 2008       | 2023    |
 | IDAP | AKASST                   | Seneste startår som medlem af en A-kasse                              | 1980       | 2023    |
 | IDAP | ALDERNOV                 | Alder beregnet ultimo november                                        | 1980       | 2023    |
-| IDAP | ANDEL_BEF                | Andel dage i befolningen i året                                       | 1980       | 2023    |
-| IDAP | ANDEL_BEF_AKK            | Andel dage i befolkningen siden 2008                                  | 1980       | 2023    |
-| IDAP | ANDEL_BESK               | Andel dage med beskæftigelse i året                                   | 1980       | 2023    |
-| IDAP | ANDEL_BESK_AKK           | Andel dage med beskæftigelse fra 2008                                 | 1980       | 2023    |
-| IDAP | ARLEDGR                  | Årsledighedsgrad                                                      | 1980       | 2023    |
-| IDAP | ARLEDGR_BRUTTO           | Summret bruttoledighed i året                                         | 1980       | 2023    |
-| IDAP | ARLEDGR_NETTO            | Summeret nettoledighed i året                                         | 1980       | 2023    |
+| IDAP | ANDEL_BEF                | Andel dage i befolningen i året                                       | 2008       | 2023    |
+| IDAP | ANDEL_BEF_AKK            | Andel dage i befolkningen siden 2008                                  | 2008       | 2023    |
+| IDAP | ANDEL_BESK               | Andel dage med beskæftigelse i året                                   | 2008       | 2023    |
+| IDAP | ANDEL_BESK_AKK           | Andel dage med beskæftigelse fra 2008                                 | 2008       | 2023    |
+| IDAP | ARLEDGR                  | Årsledighedsgrad                                                      | 1980       | 2007    |
+| IDAP | ARLEDGR_BRUTTO           | Summret bruttoledighed i året                                         | 2008       | 2023    |
+| IDAP | ARLEDGR_NETTO            | Summeret nettoledighed i året                                         | 2008       | 2023    |
 | IDAP | ATPAR                    | Antal år som lønmodtager                                              | 1980       | 2023    |
 | IDAP | ATPXX                    | ATP omregnet til B-sats                                               | 1980       | 2023    |
-| IDAP | BEF_ULT_NOV_AKK          | I befolkningen ultimo november antal år siden 1980                    | 1980       | 2023    |
-| IDAP | BESK_ULT_NOV_AKK         | I beskæftigelse ultimo november antal år siden 1980                   | 1980       | 2023    |
-| IDAP | CPRTJEK                  | CPR-tjek                                                              | 1980       | 2023    |
-| IDAP | CPRTYPE                  | CPR-type                                                              | 1980       | 2023    |
+| IDAP | BEF_ULT_NOV_AKK          | I befolkningen ultimo november antal år siden 1980                    | 2008       | 2023    |
+| IDAP | BESK_ULT_NOV_AKK         | I beskæftigelse ultimo november antal år siden 1980                   | 2008       | 2023    |
+| IDAP | CPRTJEK                  | CPR-tjek                                                              | 2008       | 2023    |
+| IDAP | CPRTYPE                  | CPR-type                                                              | 2008       | 2023    |
 | IDAP | EJNOV                    | Antal supplerende ej-november ansættelser                             | 1980       | 2023    |
-| IDAP | EJNOVSUM                 | Ej-novemberansættelser lønsum                                         | 1980       | 2023    |
-| IDAP | EJNOVSUM_BRED            | Ej-novemberansættelser bred lønsum                                    | 1980       | 2023    |
-| IDAP | EJNOVSUM_SMAL            | Ej-novemberansættelser smal lønsum                                    | 1980       | 2023    |
+| IDAP | EJNOVSUM                 | Ej-novemberansættelser lønsum                                         | 1980       | 2007    |
+| IDAP | EJNOVSUM_BRED            | Ej-novemberansættelser bred lønsum                                    | 2008       | 2023    |
+| IDAP | EJNOVSUM_SMAL            | Ej-novemberansættelser smal lønsum                                    | 2008       | 2023    |
 | IDAP | ERHVER                   | Erhvervserfaring fra 1980 i 1000                                      | 1980       | 2023    |
-| IDAP | ERHVER_2007              | Erhvervserfaring 1980-2007 på baggrund af ATP                         | 1980       | 2023    |
-| IDAP | ERHVER_TIMER             | Erhvervserfaring i året i 1000 på baggrund af løntimer                | 1980       | 2023    |
-| IDAP | ERHVER_TIMER_AKK         | Erhvervserfaring fra 2008 i 1000 på baggrund af løntimer              | 1980       | 2023    |
+| IDAP | ERHVER_2007              | Erhvervserfaring 1980-2007 på baggrund af ATP                         | 2008       | 2023    |
+| IDAP | ERHVER_TIMER             | Erhvervserfaring i året i 1000 på baggrund af løntimer                | 2008       | 2023    |
+| IDAP | ERHVER_TIMER_AKK         | Erhvervserfaring fra 2008 i 1000 på baggrund af løntimer              | 2008       | 2023    |
 | IDAP | ERHVER79                 | Erhvervserfaring ultimo 1979                                          | 1980       | 2023    |
 | IDAP | FORSIKRINGSKATEGORI_KODE | Forsikringskategori                                                   | 1980       | 2023    |
 | IDAP | KON                      | Køn                                                                   | 1980       | 2023    |
-| IDAP | LEDAR                    | Første ledighed (årstal)                                              | 1980       | 2023    |
-| IDAP | LEDAR_BRUTTO             | År for første bruttoledighed fra 2008                                 | 1980       | 2023    |
-| IDAP | LEDAR_NETTO              | År for første nettoledighed fra 1980                                  | 1980       | 2023    |
-| IDAP | LEDDEL                   | Uger delvis ledig                                                     | 1980       | 2023    |
-| IDAP | LEDFULD                  | Uger fuld ledighed                                                    | 1980       | 2023    |
-| IDAP | LEDIGHED_BRUTTO          | Antal uger med bruttoledighed                                         | 1980       | 2023    |
-| IDAP | LEDIGHED_NETTO           | Antal uger med nettoledighed                                          | 1980       | 2023    |
-| IDAP | LONIND                   | Kontant løn - Arbejdsgivernes oplysningssedler                        | 1980       | 2023    |
+| IDAP | LEDAR                    | Første ledighed (årstal)                                              | 1980       | 2007    |
+| IDAP | LEDAR_BRUTTO             | År for første bruttoledighed fra 2008                                 | 2008       | 2023    |
+| IDAP | LEDAR_NETTO              | År for første nettoledighed fra 1980                                  | 2008       | 2023    |
+| IDAP | LEDDEL                   | Uger delvis ledig                                                     | 1980       | 2007    |
+| IDAP | LEDFULD                  | Uger fuld ledighed                                                    | 1980       | 2007    |
+| IDAP | LEDIGHED_BRUTTO          | Antal uger med bruttoledighed                                         | 2008       | 2023    |
+| IDAP | LEDIGHED_NETTO           | Antal uger med nettoledighed                                          | 2008       | 2023    |
+| IDAP | LONIND                   | Kontant løn - Arbejdsgivernes oplysningssedler                        | 1980       | 2007    |
 | IDAP | NSUP                     | Supplerende november-ansættelser (antal).                             | 1980       | 2023    |
-| IDAP | NSUPSUM                  | Supplerende løn i november-ansættelser (sum)                          | 1980       | 2023    |
-| IDAP | NSUPSUM_BRED             | Supplerende løn (bred) i november ansættelser                         | 1980       | 2023    |
-| IDAP | NSUPSUM_SMAL             | Supplerende løn (smal) i november ansættelser                         | 1980       | 2023    |
+| IDAP | NSUPSUM                  | Supplerende løn i november-ansættelser (sum)                          | 1980       | 2007    |
+| IDAP | NSUPSUM_BRED             | Supplerende løn (bred) i november ansættelser                         | 2008       | 2023    |
+| IDAP | NSUPSUM_SMAL             | Supplerende løn (smal) i november ansættelser                         | 2008       | 2023    |
 | IDAP | PENSALD                  | Alder ved pensionering (offentlig)                                    | 1980       | 2023    |
-| IDAP | PJOB_DAGE                | Antal dage i året beskæftiget i det primære job                       | 1980       | 2023    |
-| IDAP | PLOENTIMER               | Løntimer i primært job                                                | 1980       | 2023    |
+| IDAP | PJOB_DAGE                | Antal dage i året beskæftiget i det primære job                       | 2008       | 2023    |
+| IDAP | PLOENTIMER               | Løntimer i primært job                                                | 2008       | 2023    |
 | IDAP | PNR                      | Personnummer                                                          | 1980       | 2023    |
-| IDAP | POTLEAR                  | Forsikret/ledig antal år (fra 1980)                                   | 1980       | 2023    |
-| IDAP | POTLEAR_BRUTTO           | Antal år hvor personen har været forsikret eller bruttoledig fra 2008 | 1980       | 2023    |
-| IDAP | POTLEAR_NETTO            | Antal år hvor personen har været forsikret eller nettoledig fra 1980  | 1980       | 2023    |
-| IDAP | PSOC_STATUS_KODE         | Socioøkonomisk status i hovedjobbet                                   | 1980       | 2023    |
-| IDAP | PSTILL                   | Primær arbejdsstilling                                                | 1980       | 2023    |
-| IDAP | PSUM_BRED                | Løn i primært job bred                                                | 1980       | 2023    |
-| IDAP | PSUM_SMAL                | Løn i primært job smal                                                | 1980       | 2023    |
-| IDAP | PTIMELOEN_BRED           | Timeløn i primært job bred løn                                        | 1980       | 2023    |
-| IDAP | PTIMELOEN_SMAL           | Timeløn i primært job smal løn                                        | 1980       | 2023    |
-| IDAP | SAMLET_BREDT_LOEN_BELOEB | Summeret løn (bred) samtlige job                                      | 1980       | 2023    |
-| IDAP | SAMLET_SMALT_LOEN_BELOEB | Summeret løn (smal) samtlige job                                      | 1980       | 2023    |
+| IDAP | POTLEAR                  | Forsikret/ledig antal år (fra 1980)                                   | 1980       | 2007    |
+| IDAP | POTLEAR_BRUTTO           | Antal år hvor personen har været forsikret eller bruttoledig fra 2008 | 2008       | 2023    |
+| IDAP | POTLEAR_NETTO            | Antal år hvor personen har været forsikret eller nettoledig fra 1980  | 2008       | 2023    |
+| IDAP | PSOC_STATUS_KODE         | Socioøkonomisk status i hovedjobbet                                   | 2008       | 2023    |
+| IDAP | PSTILL                   | Primær arbejdsstilling                                                | 1980       | 2007    |
+| IDAP | PSUM_BRED                | Løn i primært job bred                                                | 2008       | 2023    |
+| IDAP | PSUM_SMAL                | Løn i primært job smal                                                | 2008       | 2023    |
+| IDAP | PTIMELOEN_BRED           | Timeløn i primært job bred løn                                        | 2008       | 2023    |
+| IDAP | PTIMELOEN_SMAL           | Timeløn i primært job smal løn                                        | 2008       | 2023    |
+| IDAP | SAMLET_BREDT_LOEN_BELOEB | Summeret løn (bred) samtlige job                                      | 2008       | 2023    |
+| IDAP | SAMLET_SMALT_LOEN_BELOEB | Summeret løn (smal) samtlige job                                      | 2008       | 2023    |
 | IDAP | SATP79                   | Samlet ATP ultimo 1979                                                | 1980       | 2023    |
 | IDAP | SENAFAR                  | Seneste afslutning på arbejdsmarkedet                                 | 1980       | 2023    |
 | IDAP | SENSTAR                  | Seneste start på arbejdsmarkedet                                      | 1980       | 2023    |
-| IDAP | SJOB_DAGE                | Antal dage i året beskæftiget i det sekundære job                     | 1980       | 2023    |
-| IDAP | SLOENTIMER               | Løntimer i sekundært job                                              | 1980       | 2023    |
-| IDAP | SLON                     | Samlet løn fra oplysningssedler                                       | 1980       | 2023    |
-| IDAP | SSOC_STATUS_KODE         |  Socioøkonomisk status i de sekundære job                             | 1980       | 2023    |
-| IDAP | SSTILL                   | Sekundær arbejdsstilling                                              | 1980       | 2023    |
-| IDAP | SSUM_BRED                | Løn i sekunædrt job bred                                              | 1980       | 2023    |
-| IDAP | SSUM_SMAL                | Løn i sekundært job smal                                              | 1980       | 2023    |
+| IDAP | SJOB_DAGE                | Antal dage i året beskæftiget i det sekundære job                     | 2008       | 2023    |
+| IDAP | SLOENTIMER               | Løntimer i sekundært job                                              | 2008       | 2023    |
+| IDAP | SLON                     | Samlet løn fra oplysningssedler                                       | 1980       | 2007    |
+| IDAP | SSOC_STATUS_KODE         |  Socioøkonomisk status i de sekundære job                             | 2008       | 2023    |
+| IDAP | SSTILL                   | Sekundær arbejdsstilling                                              | 1980       | 2007    |
+| IDAP | SSUM_BRED                | Løn i sekunædrt job bred                                              | 2008       | 2023    |
+| IDAP | SSUM_SMAL                | Løn i sekundært job smal                                              | 2008       | 2023    |
 | IDAP | STARTAR                  | Første år på arbejdsmarkedet                                          | 1980       | 2023    |
-| IDAP | STIMELOEN_BRED           | Timeløn i sekundært job bred løn                                      | 1980       | 2023    |
-| IDAP | STIMELOEN_SMAL           | Timeløn i sekundært job smal løn                                      | 1980       | 2023    |
-| IDAP | SUMGRAD                  | Sum af ledighedsgrader (fra 1980)                                     | 1980       | 2023    |
-| IDAP | SUMGRAD_BRUTTO           | Summret bruttoledighed fra 2008                                       | 1980       | 2023    |
-| IDAP | SUMGRAD_NETTO            | Summret nettoledighed fra 1980                                        | 1980       | 2023    |
+| IDAP | STIMELOEN_BRED           | Timeløn i sekundært job bred løn                                      | 2008       | 2023    |
+| IDAP | STIMELOEN_SMAL           | Timeløn i sekundært job smal løn                                      | 2008       | 2023    |
+| IDAP | SUMGRAD                  | Sum af ledighedsgrader (fra 1980)                                     | 1980       | 2007    |
+| IDAP | SUMGRAD_BRUTTO           | Summret bruttoledighed fra 2008                                       | 2008       | 2023    |
+| IDAP | SUMGRAD_NETTO            | Summret nettoledighed fra 1980                                        | 2008       | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4009,80 +4009,80 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## IND 1980-2023
+## IND 1980-2024
 
 |     | Variable name          | Variable label                                                         | Start year | Endyear |
 | --- | ---------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| IND | ADAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne ekskl. udbetaling til  | 1980       | 2023    |
-| IND | ADAGPAGN               | Arbejdsgiverbetalt sygedagpenge                                        | 1980       | 2023    |
-| IND | AEKVIVADISP_13         | Ækvivaleret disponibel indkomst                                        | 1980       | 2023    |
-| IND | AFHFORM                | Gevinst og tab ved afhændelse af formuegoder samt anden ikke specielt  | 1980       | 2023    |
-| IND | AINDK94                | Løn mm. (arbejdsmarkedsbidragspligtig indkomst hvoraf der betales fore | 1980       | 2023    |
-| IND | AKAPSKL                | Anden kapitalindkomst i virksomhed end renteindtægter, excl. kapitalin | 1980       | 2023    |
-| IND | AKIHUBS                | Aktieudbytte af danske aktier hvor der er indeholdet udbyttetskat.     | 1980       | 2023    |
-| IND | AKIIHUBS               | Gevinst/tab på danske aktier og investeringsforeningsbeviser samt udby | 1980       | 2023    |
-| IND | AKTIEINDK              | Udbytte samt gevinst/tab på aktier og visse aktiebaserede investerings | 1980       | 2023    |
-| IND | AKTIUDL                | Udbytte af udenlandske aktier samt visse gevinster og tab på udenlands | 1980       | 2023    |
-| IND | AKTKOEB                | Aktieoptionsaflønning, skattepligtig                                   | 1980       | 2023    |
-| IND | ALDER_ULT_INK          | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1980       | 2023    |
-| IND | AMTSSK                 | Amtsskat                                                               | 1980       | 2023    |
-| IND | ANDAKAS                | Anden understøttelse fra arbejdsløshedskasser                          | 1980       | 2023    |
-| IND | ANDBISTANDYD           | Andre ydelser fra kommuner og a-kasser                                 | 1980       | 2023    |
-| IND | ANDFRAD                | Fradrag i personlig indkomst                                           | 1980       | 2023    |
-| IND | ANDOVERFORSEL          | Andre overførsler består af SU, boligstøtte og børnetilskud.           | 1980       | 2023    |
-| IND | ANKAPPER               | Andre kapitalindkomster end renteindtægter, excl. kapitalindkomster i  | 1980       | 2023    |
-| IND | ANPERIND               | Anden personlig indkomst                                               | 1980       | 2023    |
-| IND | ANUDLAK                | Gevinster og tab på udenlandske aktier som ikke er omfattet af en skat | 1980       | 2023    |
-| IND | ARBBIDMVALM            | Arbejdsmarkedsbidrag og særlig pension af erhvervsindkomst             | 1980       | 2023    |
-| IND | ARBFORS                | Arbejdsløshedsforsikring, faglige kontingenter, efterløns- og fleksyde | 1980       | 2023    |
-| IND | ARBLHU                 | Arbejdsløshedsdagpenge                                                 | 1980       | 2023    |
-| IND | ARBLHUMV               | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse                       | 1980       | 2023    |
-| IND | ASKPLI                 | Anden arbejdsmarkedsbidragsfri a-skattepligtig indkomst                | 1980       | 2023    |
-| IND | ATPABES                | ATP A                                                                  | 1980       | 2023    |
-| IND | ATPBBES                | ATP B                                                                  | 1980       | 2023    |
-| IND | ATPCBES                | ATP C                                                                  | 1980       | 2023    |
-| IND | ATPDBES                | ATP D                                                                  | 1980       | 2023    |
-| IND | ATPEBES                | ATP E                                                                  | 1980       | 2023    |
-| IND | ATPFBES                | ATPFBES                                                                | 1980       | 2023    |
-| IND | ATPSAML                | Samlet ATP-bidrag i året                                               | 1980       | 2023    |
-| IND | BANKAKT                | Indestående i pengeinstitut pr. 31. 12                                 | 1980       | 2023    |
-| IND | BANKGAELD              | Gæld til pengeinstitutter mv. pr. 31. 12                               | 1980       | 2023    |
-| IND | BARNEP                 | Dagpenge udbetalt af a-kasse ved orlov til børnepasning                | 1980       | 2023    |
-| IND | BDAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne til selvstændige       | 1980       | 2023    |
-| IND | BEFORDR                | Det selvangivne beløb vedr. befordring (fradrag i skattepligtig indkom | 1980       | 2023    |
-| IND | BESKST                 | Beskæftigelsesstatus 1980 til 2001                                     | 1980       | 2023    |
-| IND | BESKST02               | Beskæftigelsesstatus fra 2002                                          | 1980       | 2023    |
-| IND | BESKST13               | Kode for personens væsentligste indkomstkilde                          | 1980       | 2023    |
-| IND | BOSBOERN               | Boligstøtte og børnetilskud                                            | 1980       | 2023    |
-| IND | BRUTTO                 | Skattepligtig bruttoindkomst før fradrag i kr.                         | 1980       | 2023    |
-| IND | BUNSKA                 | Beregnet bundskat til staten                                           | 1980       | 2023    |
-| IND | CORFRYNS               | Skattemæssig værdi af frynsegoder i forbindelse med beskæftigelse      | 1980       | 2023    |
-| IND | CORLOEN                | Kontant løn fra indberetninger til skats oplysningsseddelregister/e-in | 1980       | 2023    |
-| IND | CPRTJEK                | CPR-tjek                                                               | 1980       | 2023    |
-| IND | CPRTYPE                | CPR-type                                                               | 1980       | 2023    |
-| IND | DAGPENGE_KONTANT_13    | Dagpenge og kontanthjælp mv. ialt                                      | 1980       | 2023    |
-| IND | DAKTIE                 | Udbytte samt gevinst/tab på danske aktier og visse aktiebaserede inves | 1980       | 2023    |
-| IND | DELPENS                | Delpension                                                             | 1980       | 2023    |
-| IND | DISPON_13              | Indkomst efter skat og renteR                                          | 1980       | 2023    |
-| IND | DISPON_NY              | Indkomst efter skat og renter (samlet indkomst fratrukket renteudgifte | 1980       | 2023    |
-| IND | DSPSUM                 | Særligt pensionsbidrag                                                 | 1980       | 2023    |
-| IND | EFTLEVHJ               | Efterlevelseshjælp                                                     | 1980       | 2023    |
-| IND | EFTLOEN                | Efterløn ( fra 2009 ink.l fleksydelse)                                 | 1980       | 2023    |
-| IND | EJD_SKAT_EJER_BOLIG    | Ejendomsskat(grundskyld) for boligejere                                | 1980       | 2023    |
-| IND | EJD_SKAT_LEJER_BOLIG   | Ejendomsskat(grundskyld) for lejere                                    | 1980       | 2023    |
-| IND | EJENDOMSVURDERING      | Kontant ejendomsværdi af ejendomme i Danmark ejet pr. 31. 12           | 1980       | 2023    |
-| IND | EJVSKAT                | Ejendomsværdiskat                                                      | 1980       | 2023    |
-| IND | ERHVERVSINDK           | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1980       | 2023    |
-| IND | ERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1980       | 2023    |
-| IND | ERHVERVSINDK_GL        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed       | 1980       | 2023    |
-| IND | ETABHUI                | Indskud på etableringskonto                                            | 1980       | 2023    |
-| IND | FAGFKDB                | Fagforeningskontingent i kr.                                           | 1980       | 2023    |
-| IND | FERIE_DAGPENGE         | Dagpenge udbetalt af a_kasse til medlemmer på ferie                    | 1980       | 2023    |
-| IND | FLEXLON_TILSKUD        | Tilskud til flexløn                                                    | 1980       | 2023    |
-| IND | FLEXYD                 | Fleksydelse                                                            | 1980       | 2023    |
-| IND | FOLKEFORTID_13         | Folke- og førtidspension mv.                                           | 1980       | 2023    |
-| IND | FORM                   | Skattemæssigt beregnet værdi af nettoformuen ultimo året, ekskl. pensi | 1980       | 2023    |
-| IND | FORMREST_NY05          | Nettorestformue ultimo året, ekskl. pensionsformuer                    | 1980       | 2023    |
+| IND | ADAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne ekskl. udbetaling til  | 1980       | 2024    |
+| IND | ADAGPAGN               | Arbejdsgiverbetalt sygedagpenge                                        | 2002       | 2024    |
+| IND | AEKVIVADISP_13         | Ækvivaleret disponibel indkomst                                        | 1987       | 2024    |
+| IND | AFHFORM                | Gevinst og tab ved afhændelse af formuegoder samt anden ikke specielt  | 1983       | 2024    |
+| IND | AINDK94                | Løn mm. (arbejdsmarkedsbidragspligtig indkomst hvoraf der betales fore | 1994       | 2024    |
+| IND | AKAPSKL                | Anden kapitalindkomst i virksomhed end renteindtægter, excl. kapitalin | 2002       | 2024    |
+| IND | AKIHUBS                | Aktieudbytte af danske aktier hvor der er indeholdet udbyttetskat.     | 1997       | 2024    |
+| IND | AKIIHUBS               | Gevinst/tab på danske aktier og investeringsforeningsbeviser samt udby | 1997       | 2024    |
+| IND | AKTIEINDK              | Udbytte samt gevinst/tab på aktier og visse aktiebaserede investerings | 1980       | 2024    |
+| IND | AKTIUDL                | Udbytte af udenlandske aktier samt visse gevinster og tab på udenlands | 1995       | 2024    |
+| IND | AKTKOEB                | Aktieoptionsaflønning, skattepligtig                                   | 2002       | 2024    |
+| IND | ALDER_ULT_INK          | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1980       | 2024    |
+| IND | AMTSSK                 | Amtsskat                                                               | 1980       | 2006    |
+| IND | ANDAKAS                | Anden understøttelse fra arbejdsløshedskasser                          | 1994       | 2024    |
+| IND | ANDBISTANDYD           | Andre ydelser fra kommuner og a-kasser                                 | 1980       | 2013    |
+| IND | ANDFRAD                | Fradrag i personlig indkomst                                           | 2002       | 2024    |
+| IND | ANDOVERFORSEL          | Andre overførsler består af SU, boligstøtte og børnetilskud.           | 1984       | 2024    |
+| IND | ANKAPPER               | Andre kapitalindkomster end renteindtægter, excl. kapitalindkomster i  | 2002       | 2024    |
+| IND | ANPERIND               | Anden personlig indkomst                                               | 1997       | 2024    |
+| IND | ANUDLAK                | Gevinster og tab på udenlandske aktier som ikke er omfattet af en skat | 1997       | 2024    |
+| IND | ARBBIDMVALM            | Arbejdsmarkedsbidrag og særlig pension af erhvervsindkomst             | 1994       | 2024    |
+| IND | ARBFORS                | Arbejdsløshedsforsikring, faglige kontingenter, efterløns- og fleksyde | 1984       | 2024    |
+| IND | ARBLHU                 | Arbejdsløshedsdagpenge                                                 | 1980       | 2024    |
+| IND | ARBLHUMV               | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse                       | 1980       | 2024    |
+| IND | ASKPLI                 | Anden arbejdsmarkedsbidragsfri a-skattepligtig indkomst                | 2002       | 2024    |
+| IND | ATPABES                | ATP A                                                                  | 1997       | 2024    |
+| IND | ATPBBES                | ATP B                                                                  | 1997       | 2024    |
+| IND | ATPCBES                | ATP C                                                                  | 1997       | 2024    |
+| IND | ATPDBES                | ATP D                                                                  | 2006       | 2024    |
+| IND | ATPEBES                | ATP E                                                                  | 2010       | 2024    |
+| IND | ATPFBES                | ATPFBES                                                                | 2011       | 2024    |
+| IND | ATPSAML                | Samlet ATP-bidrag i året                                               | 1997       | 2024    |
+| IND | BANKAKT                | Indestående i pengeinstitut pr. 31. 12                                 | 1995       | 2024    |
+| IND | BANKGAELD              | Gæld til pengeinstitutter mv. pr. 31. 12                               | 1987       | 2024    |
+| IND | BARNEP                 | Dagpenge udbetalt af a-kasse ved orlov til børnepasning                | 1994       | 2013    |
+| IND | BDAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne til selvstændige       | 1980       | 2024    |
+| IND | BEFORDR                | Det selvangivne beløb vedr. befordring (fradrag i skattepligtig indkom | 1984       | 2024    |
+| IND | BESKST                 | Beskæftigelsesstatus 1980 til 2001                                     | 1980       | 2001    |
+| IND | BESKST02               | Beskæftigelsesstatus fra 2002                                          | 2002       | 2013    |
+| IND | BESKST13               | Kode for personens væsentligste indkomstkilde                          | 1980       | 2024    |
+| IND | BOSBOERN               | Boligstøtte og børnetilskud                                            | 2002       | 2024    |
+| IND | BRUTTO                 | Skattepligtig bruttoindkomst før fradrag i kr.                         | 1980       | 2013    |
+| IND | BUNSKA                 | Beregnet bundskat til staten                                           | 1994       | 2024    |
+| IND | CORFRYNS               | Skattemæssig værdi af frynsegoder i forbindelse med beskæftigelse      | 1993       | 2024    |
+| IND | CORLOEN                | Kontant løn fra indberetninger til skats oplysningsseddelregister/e-in | 2002       | 2024    |
+| IND | CPRTJEK                | CPR-tjek                                                               | 1980       | 2024    |
+| IND | CPRTYPE                | CPR-type                                                               | 1980       | 2024    |
+| IND | DAGPENGE_KONTANT_13    | Dagpenge og kontanthjælp mv. ialt                                      | 1980       | 2024    |
+| IND | DAKTIE                 | Udbytte samt gevinst/tab på danske aktier og visse aktiebaserede inves | 2002       | 2024    |
+| IND | DELPENS                | Delpension                                                             | 1988       | 2005    |
+| IND | DISPON_13              | Indkomst efter skat og renteR                                          | 1980       | 2024    |
+| IND | DISPON_NY              | Indkomst efter skat og renter (samlet indkomst fratrukket renteudgifte | 1980       | 2013    |
+| IND | DSPSUM                 | Særligt pensionsbidrag                                                 | 1998       | 2008    |
+| IND | EFTLEVHJ               | Efterlevelseshjælp                                                     | 2000       | 2024    |
+| IND | EFTLOEN                | Efterløn ( fra 2009 ink.l fleksydelse)                                 | 1980       | 2024    |
+| IND | EJD_SKAT_EJER_BOLIG    | Ejendomsskat(grundskyld) for boligejere                                | 2010       | 2024    |
+| IND | EJD_SKAT_LEJER_BOLIG   | Ejendomsskat(grundskyld) for lejere                                    | 2010       | 2024    |
+| IND | EJENDOMSVURDERING      | Kontant ejendomsværdi af ejendomme i Danmark ejet pr. 31. 12           | 1994       | 2024    |
+| IND | EJVSKAT                | Ejendomsværdiskat                                                      | 2000       | 2024    |
+| IND | ERHVERVSINDK           | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1994       | 2013    |
+| IND | ERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1980       | 2024    |
+| IND | ERHVERVSINDK_GL        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed       | 1980       | 2013    |
+| IND | ETABHUI                | Indskud på etableringskonto                                            | 1984       | 2024    |
+| IND | FAGFKDB                | Fagforeningskontingent i kr.                                           | 1993       | 2024    |
+| IND | FERIE_DAGPENGE         | Dagpenge udbetalt af a_kasse til medlemmer på ferie                    | 2009       | 2024    |
+| IND | FLEXLON_TILSKUD        | Tilskud til flexløn                                                    | 2013       | 2024    |
+| IND | FLEXYD                 | Fleksydelse                                                            | 2010       | 2024    |
+| IND | FOLKEFORTID_13         | Folke- og førtidspension mv.                                           | 1980       | 2024    |
+| IND | FORM                   | Skattemæssigt beregnet værdi af nettoformuen ultimo året, ekskl. pensi | 1980       | 1997    |
+| IND | FORMREST_NY05          | Nettorestformue ultimo året, ekskl. pensionsformuer                    | 1997       | 2024    |
 | IND | FORMUEINDK_BRUTTO      | Formueindkomst brutto                                                  | 1980       | 2023    |
 | IND | FORMUEINDK_NY          | Samlede formueindkomster inkl. beregnet lejeværdi af egen bolig        | 1980       | 2023    |
 | IND | FOSFUFRD               | Pensionsbidrag privattegnet ordning med løbende udbetaling/ ratepensio | 1980       | 2023    |
