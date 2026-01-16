@@ -3864,7 +3864,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## IDAN 1980-2023
+## IDAN 1980-2024
 
 |      | Variable name        | Variable label                                             | Start year | Endyear |
 | ---- | -------------------- | ---------------------------------------------------------- | ---------- | ------- |
