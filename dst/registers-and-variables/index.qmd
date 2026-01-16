@@ -3864,57 +3864,57 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## IDAN 1980-2024
+## IDAN 1980-2023
 
 |      | Variable name        | Variable label                                             | Start year | Endyear |
 | ---- | -------------------- | ---------------------------------------------------------- | ---------- | ------- |
-| IDAN | ANSDAGE              | Antal dage ansat                                           | 1980       | 2023    |
-| IDAN | ANSDAGE_2008         | Antal dage ansat i jobbet                                  | 1980       | 2023    |
-| IDAN | ANSXFREM             | Ansættelsesændring frem til året efter                     | 1980       | 2023    |
-| IDAN | ANSXTILB             | Ansættelsesændring i forhold til året før                  | 1980       | 2023    |
+| IDAN | ANSDAGE              | Antal dage ansat                                           | 1980       | 2007    |
+| IDAN | ANSDAGE_2008         | Antal dage ansat i jobbet                                  | 2008       | 2023    |
+| IDAN | ANSXFREM             | Ansættelsesændring frem til året efter                     | 1980       | 2022    |
+| IDAN | ANSXTILB             | Ansættelsesændring i forhold til året før                  | 1981       | 2023    |
 | IDAN | ANSAAR               | År for ansættelse på arbejdssted                           | 1980       | 2023    |
-| IDAN | ARB_HOVED_BRA_DB07   | Branche for arbejdsstedet                                  | 1980       | 2023    |
-| IDAN | ARB_SEKTORKODE       | Arbejdsstedets sektorkode                                  | 1980       | 2023    |
-| IDAN | ARBGNR               | Arbejdsgivernummer                                         | 1980       | 2023    |
-| IDAN | ARBGNR9              | Arbejdsgivernummer inkl sektorkode                         | 1980       | 2023    |
-| IDAN | ARBLED               | Ledighedsgrad i arbejdsår (ekskl. ferie)                   | 1980       | 2023    |
-| IDAN | ARBNR                | Arbejdsstedsnummer                                         | 1980       | 2023    |
-| IDAN | ARBSTK               | Arbejdsstedskode                                           | 1980       | 2023    |
-| IDAN | ATP_BELOEB           | ATP-beløb omregnet til B-sats                              | 1980       | 2023    |
-| IDAN | BRED_TIMELOEN        | Bred timeløn i jobbet                                      | 1980       | 2023    |
-| IDAN | BREDT_LOEN_BELOEB    | Bred løn i jobbet                                          | 1980       | 2023    |
-| IDAN | BRUTTO_GRADAAR       | Bruttoledighed i året                                      | 1980       | 2023    |
-| IDAN | BRUTTO_LEDIGHED      | Antal uger med bruttoledighed                              | 1980       | 2023    |
-| IDAN | CPRTJEK              | CPR-tjek                                                   | 1980       | 2023    |
-| IDAN | CPRTYPE              | CPR-type                                                   | 1980       | 2023    |
-| IDAN | CVRNR                | CVR-nummer                                                 | 1980       | 2023    |
-| IDAN | DISCO_KODE           | Arbejdsfunktion i jobbet                                   | 1980       | 2023    |
-| IDAN | DISCO_MATCHPRIO_KODE | Kode for kvalitet af kobling mellem arbejdsfunktion og job | 1980       | 2023    |
-| IDAN | FRAVAER_BESK_KODE    | Fravær i jobbet                                            | 1980       | 2023    |
-| IDAN | JOBATP               | Atpbeløb fra oplysningsseddel                              | 1980       | 2023    |
-| IDAN | JOBKAT               | Jobtype i ansættelsen                                      | 1980       | 2023    |
-| IDAN | JOBLON               | Lønbeløb i ansættelsesforholdet                            | 1980       | 2023    |
+| IDAN | ARB_HOVED_BRA_DB07   | Branche for arbejdsstedet                                  | 2008       | 2023    |
+| IDAN | ARB_SEKTORKODE       | Arbejdsstedets sektorkode                                  | 2008       | 2023    |
+| IDAN | ARBGNR               | Arbejdsgivernummer                                         | 1980       | 2007    |
+| IDAN | ARBGNR9              | Arbejdsgivernummer inkl sektorkode                         | 1980       | 2007    |
+| IDAN | ARBLED               | Ledighedsgrad i arbejdsår (ekskl. ferie)                   | 1980       | 2007    |
+| IDAN | ARBNR                | Arbejdsstedsnummer                                         | 2008       | 2023    |
+| IDAN | ARBSTK               | Arbejdsstedskode                                           | 1980       | 2007    |
+| IDAN | ATP_BELOEB           | ATP-beløb omregnet til B-sats                              | 2008       | 2023    |
+| IDAN | BRED_TIMELOEN        | Bred timeløn i jobbet                                      | 2008       | 2023    |
+| IDAN | BREDT_LOEN_BELOEB    | Bred løn i jobbet                                          | 2008       | 2023    |
+| IDAN | BRUTTO_GRADAAR       | Bruttoledighed i året                                      | 2008       | 2023    |
+| IDAN | BRUTTO_LEDIGHED      | Antal uger med bruttoledighed                              | 2008       | 2023    |
+| IDAN | CPRTJEK              | CPR-tjek                                                   | 2007       | 2023    |
+| IDAN | CPRTYPE              | CPR-type                                                   | 2007       | 2023    |
+| IDAN | CVRNR                | CVR-nummer                                                 | 2008       | 2023    |
+| IDAN | DISCO_KODE           | Arbejdsfunktion i jobbet                                   | 2008       | 2023    |
+| IDAN | DISCO_MATCHPRIO_KODE | Kode for kvalitet af kobling mellem arbejdsfunktion og job | 2008       | 2023    |
+| IDAN | FRAVAER_BESK_KODE    | Fravær i jobbet                                            | 2008       | 2023    |
+| IDAN | JOBATP               | Atpbeløb fra oplysningsseddel                              | 1980       | 2007    |
+| IDAN | JOBKAT               | Jobtype i ansættelsen                                      | 1980       | 2007    |
+| IDAN | JOBLON               | Lønbeløb i ansættelsesforholdet                            | 1980       | 2007    |
 | IDAN | KOM                  | INGEN LABEL                                                | 1980       | 2023    |
 | IDAN | LBNR                 | Arbejdsstedets løbenummer                                  | 1980       | 2023    |
-| IDAN | LOENTIMER            | Løntimer i jobbet                                          | 1980       | 2023    |
-| IDAN | LONMFREM             | Lønmodtager året efter                                     | 1980       | 2023    |
-| IDAN | LONMTILB             | Lønmodtager året før                                       | 1980       | 2023    |
-| IDAN | NETTO_GRADAAR        | Nettoledighed i året                                       | 1980       | 2023    |
-| IDAN | NETTO_LEDIGHED       | Antal uger med nettoledighed                               | 1980       | 2023    |
+| IDAN | LOENTIMER            | Løntimer i jobbet                                          | 2008       | 2023    |
+| IDAN | LONMFREM             | Lønmodtager året efter                                     | 1980       | 2022    |
+| IDAN | LONMTILB             | Lønmodtager året før                                       | 1981       | 2023    |
+| IDAN | NETTO_GRADAAR        | Nettoledighed i året                                       | 2008       | 2023    |
+| IDAN | NETTO_LEDIGHED       | Antal uger med nettoledighed                               | 2008       | 2023    |
 | IDAN | OPGIKOM              | INGEN LABEL                                                | 1980       | 2023    |
-| IDAN | PERSBRC              | Personlig branche                                          | 1980       | 2023    |
-| IDAN | PERSBRC07            | Personlig branche (db07)                                   | 1980       | 2023    |
+| IDAN | PERSBRC              | Personlig branche                                          | 1980       | 2007    |
+| IDAN | PERSBRC07            | Personlig branche (db07)                                   | 1980       | 2007    |
 | IDAN | PNR                  | Personnummer                                               | 1980       | 2023    |
-| IDAN | SMAL_TIMELOEN        | Smal timeløn i jobbet                                      | 1980       | 2023    |
-| IDAN | SMALT_LOEN_BELOEB    | Smal løn i jobbet                                          | 1980       | 2023    |
-| IDAN | SOC_STATUS_KODE      | Socioøkonomisk status                                      | 1980       | 2023    |
-| IDAN | STILL                | Arbejdsstilling                                            | 1980       | 2023    |
-| IDAN | STOETTE_BESK_KODE    | Støttet beskæftigelse                                      | 1980       | 2023    |
-| IDAN | TILKNYT              | Tilknytning til primært arbejdssted                        | 1980       | 2023    |
-| IDAN | TIMELON              | Timeløn i ansættelsen                                      | 1980       | 2023    |
-| IDAN | TLONKVAL             | Kvalitet af timelønsskøn                                   | 1980       | 2023    |
-| IDAN | TYPE                 | Type for ansættelsesforholdet                              | 1980       | 2023    |
-| IDAN | TYPE_2008            | Oplysningstype                                             | 1980       | 2023    |
+| IDAN | SMAL_TIMELOEN        | Smal timeløn i jobbet                                      | 1980       | 2008    |
+| IDAN | SMALT_LOEN_BELOEB    | Smal løn i jobbet                                          | 1980       | 2008    |
+| IDAN | SOC_STATUS_KODE      | Socioøkonomisk status                                      | 1980       | 2008    |
+| IDAN | STILL                | Arbejdsstilling                                            | 1980       | 2007    |
+| IDAN | STOETTE_BESK_KODE    | Støttet beskæftigelse                                      | 2008       | 2023    |
+| IDAN | TILKNYT              | Tilknytning til primært arbejdssted                        | 1980       | 2007    |
+| IDAN | TIMELON              | Timeløn i ansættelsen                                      | 1980       | 2007    |
+| IDAN | TLONKVAL             | Kvalitet af timelønsskøn                                   | 1980       | 2007    |
+| IDAN | TYPE                 | Type for ansættelsesforholdet                              | 1980       | 2007    |
+| IDAN | TYPE_2008            | Oplysningstype                                             | 2008       | 2023    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -4285,7 +4285,7 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |      | Variable name | Variable label                             | Start year | Endyear |
 | ---- | ------------- | ------------------------------------------ | ---------- | ------- |
-| LMDB | ABC           | ABC-kode                                   | 199512     | 202312  |
+| LMDB | ABC           | ABC-kode                                   | 200712     | 202312  |
 | LMDB | AIP           | Registerpris ("Apotekets indkøbspris") (s) | 199512     | 202312  |
 | LMDB | ALDR          | Alder på udleveringstidspunkt              | 199512     | 202312  |
 | LMDB | APK           | Antal pakninger                            | 199512     | 202312  |
@@ -4296,36 +4296,36 @@ Below you will find a full describtion of all DST registers and variables in the
 | LMDB | ATC3          | ATC-niveau 3 (s)                           | 199512     | 202312  |
 | LMDB | ATC4          | ATC-niveau 4 (s)                           | 199512     | 202312  |
 | LMDB | AUP           | Registerpris ("Apotekets udsalgspris") (s) | 199512     | 202312  |
-| LMDB | BALD          | Barns alder                                | 199512     | 202312  |
-| LMDB | CPR_KOM       | CPR-bopælskommune på ekspeditionsdatoen    | 199512     | 202312  |
-| LMDB | CPR_REG       | CPR-bopælsregion på ekspeditionsdatoen     | 199512     | 202312  |
+| LMDB | BALD          | Barns alder                                | 199512     | 201112  |
+| LMDB | CPR_KOM       | CPR-bopælskommune på ekspeditionsdatoen    | 200512     | 202312  |
+| LMDB | CPR_REG       | CPR-bopælsregion på ekspeditionsdatoen     | 200512     | 202312  |
 | LMDB | CPRTJEK       | CPR-tjek                                   | 199512     | 202312  |
 | LMDB | CPRTYPE       | CPR-type                                   | 199512     | 202312  |
 | LMDB | DOSFORM       | Lægemiddelform (s)                         | 199512     | 202312  |
-| LMDB | DOSO          | Doseringskode                              | 199512     | 202312  |
-| LMDB | EDBL          | INGEN LABEL                                | 199512     | 202312  |
-| LMDB | EJS           | Fravalg af substitution                    | 199512     | 202312  |
+| LMDB | DOSO          | Doseringskode                              | 200412     | 202312  |
+| LMDB | EDBL          | INGEN LABEL                                | 202012     | 202312  |
+| LMDB | EJS           | Fravalg af substitution                    | 199712     | 202312  |
 | LMDB | EKSD          | Ekspeditionsdato                           | 199512     | 202312  |
 | LMDB | EKSP          | Ekspeditionspris                           | 199512     | 202312  |
 | LMDB | EKST          | Ekspeditionstype                           | 199512     | 202312  |
-| LMDB | ETID          | Ekspeditionstidspunkt                      | 199512     | 202312  |
-| LMDB | IBGP          | Indberettet beregningsgrundlagspris        | 199512     | 202312  |
+| LMDB | ETID          | Ekspeditionstidspunkt                      | 199712     | 202312  |
+| LMDB | IBGP          | Indberettet beregningsgrundlagspris        | 200112     | 202312  |
 | LMDB | IBNR          | Indberetternummer                          | 199512     | 202312  |
-| LMDB | INDO          | Indikationskode                            | 199512     | 202312  |
+| LMDB | INDO          | Indikationskode                            | 200412     | 202312  |
 | LMDB | ITYPE         | Indberettertype                            | 199512     | 202312  |
 | LMDB | KOM           | Kommunekode                                | 199512     | 202312  |
 | LMDB | KORR          | Korrektionskode                            | 199512     | 202312  |
 | LMDB | NAME          | Lægemidlets navn (Store bogstaver) (s)     | 199512     | 202312  |
-| LMDB | OVNR          | Ordineret varenummer                       | 199512     | 202312  |
+| LMDB | OVNR          | Ordineret varenummer                       | 199712     | 202312  |
 | LMDB | PACKSIZE      | Numerisk pakningsstørrelse (s)             | 199512     | 202312  |
 | LMDB | PACKTEXT      | PACKTEXT                                   | 199512     | 202312  |
-| LMDB | PATT          | Patienttype                                | 199512     | 202312  |
-| LMDB | PKSUBGR       | Pakningssubstitutionsgruppe                | 199512     | 202312  |
+| LMDB | PATT          | Patienttype                                | 200012     | 202312  |
+| LMDB | PKSUBGR       | Pakningssubstitutionsgruppe                | 200712     | 202312  |
 | LMDB | PNR12         | CPR-nummer                                 | 199512     | 202312  |
 | LMDB | PPRS          | Udleveringsbestemmelse                     | 199512     | 202312  |
 | LMDB | PTP           | Patientbetaling                            | 199512     | 202312  |
 | LMDB | RAMT          | Amtskommunekode                            | 199512     | 202312  |
-| LMDB | RECA          | Autorisationskode for receptudsteder       | 199512     | 202312  |
+| LMDB | RECA          | Autorisationskode for receptudsteder       | 200512     | 202312  |
 | LMDB | RECU          | Receptudsteder                             | 199512     | 202312  |
 | LMDB | RGL1          | 1\. Kommuneregelnummer                     | 199512     | 202312  |
 | LMDB | RGL2          | 2\. kommuneregelnummer                     | 199512     | 202312  |
@@ -4337,7 +4337,7 @@ Below you will find a full describtion of all DST registers and variables in the
 | LMDB | STRNUM        | Styrke, numerisk (s)                       | 199512     | 202312  |
 | LMDB | STRUNIT       | Enhed til numerisk styrke (s)              | 199512     | 202312  |
 | LMDB | TAKD          | Takstdato                                  | 199512     | 202312  |
-| LMDB | TARD          | Takseringsdato                             | 199512     | 202312  |
+| LMDB | TARD          | Takseringsdato                             | 200012     | 202312  |
 | LMDB | TILPRIS       | Tilskudspris pr. pakning                   | 199512     | 202312  |
 | LMDB | TSK1          | 1\. Kommunale tilskud                      | 199512     | 202312  |
 | LMDB | TSK2          | 2\. Kommunale tilskud                      | 199512     | 202312  |
