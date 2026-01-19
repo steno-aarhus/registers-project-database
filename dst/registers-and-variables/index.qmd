@@ -4149,70 +4149,70 @@ Below you will find a full describtion of all DST registers and variables in the
 | IND | OVSKEJD                | Beregnet lejeværdi af egen bolig (beregnet af SKAT)                    | 1980       | 1999    |
 | IND | OVSKEJD02_NY           | Beregnet lejeværdi af egen bolig                                       | 1984       | 2006    |
 | IND | OVSKEJD07              | Beregnet lejeværdi af egen bolig                                       | 2007       | 2013    |
-| IND | PANTAKT                | Kursværdi af pantebreve i depot (aktiver) pr. 31. 12.                  | 1980       | 2023    |
-| IND | PANTGAELD              | Pantebrevsgæld pr. 31. 12                                              | 1980       | 2023    |
-| IND | PASBOERN               | Andre ydelser fra kommuner end kontanthjælp, aktivering, revalidering, | 1980       | 2023    |
-| IND | PENBPA                 | Arbejdsmarkedsbidragspligtige pensionsudbetalinger                     | 1980       | 2023    |
-| IND | PENBPB                 | Pensionsudbetalinger fra tidligere arbejdsgivere ikke arbejdsmarkedsbi | 1980       | 2023    |
-| IND | PENSBLB2               | Pension udbetalt af forsikringsselskab eller pengeinstitut             | 1980       | 2023    |
-| IND | PENSBLB7               | Pension fra pensionskasse                                              | 1980       | 2023    |
-| IND | PERINDKIALT            | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2023    |
-| IND | PERINDKIALT_13         | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2023    |
-| IND | PERINDKP               | Skattemæssig personlig indkomst beregnet af Skat                       | 1980       | 2023    |
-| IND | PEROEVRIGFORMUE        | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2023    |
-| IND | PEROEVRIGFORMUE_13     | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2023    |
-| IND | PERSAMLINKNETRENT_NY   | Samlede indkomster inkl. beregnet lejeværdi fratrukket fradragsberetti | 1980       | 2023    |
-| IND | PERSONINDK             | Personindkomst i alt uden formueindkomst, og før fradrag af arbejdsmar | 1980       | 2023    |
-| IND | PFRDKM                 | Personfradrag til kommune, amt/sundhedsbidrag og kirke, som skatteyder | 1980       | 2023    |
-| IND | PFRDST                 | Personfradrag, staten yder skatteyderen ved beregning af statsskat     | 1980       | 2023    |
-| IND | PNR                    | Personnummer                                                           | 1980       | 2023    |
-| IND | PRE_SOCIO              | Socioøkonomisk klassifikation                                          | 1980       | 2023    |
-| IND | PRIVAT_PENSION_13      | Udbetalte private pensioner.                                           | 1980       | 2023    |
-| IND | QAKTIE                 | Værdi af aktieoptionsaflønnning                                        | 1980       | 2023    |
-| IND | QAKTIVF                | Samlede aktiver ultimo året ekskl. pensionsformuer                     | 1980       | 2023    |
-| IND | QAKTIVF_NY05           | Aktiver ultimo året, ekskl. pensionsformuer                            | 1980       | 2023    |
-| IND | QAKTSKA                | Skat af de aktieindkomster,der indberettes til skat.                   | 1980       | 2023    |
-| IND | QANDEN                 | Honorarer hvoraf der ikke skal betales arbejdsmarkedsbidrag og foreløb | 1980       | 2023    |
-| IND | QANDPENS               | Udbetalinger fra arbejdsmarkedspensioner( ekskl.tjenestemandspensioner | 1980       | 2023    |
-| IND | QARBLOS                | Udbetalinger fra arbejdsløshedskasser af arbejdsløshedsdagpenge og lig | 1980       | 2023    |
-| IND | QBISTYD                | Kontanthjælps-, aktiverings-, revaliderings, integrations-, og ledighe | 1980       | 2023    |
-| IND | QBISTYD2               | Skattepligtig kontanthjælps-, aktiverings- og revalideringsydelser     | 1980       | 2023    |
-| IND | QEFTLON                | Efterløn, overgangsydelse og(fra2008 flexydelse)                       | 1980       | 2023    |
-| IND | QHVIRKSK               | Foreløbig betalt skat af beløb hævet i virksomhedsordningerne          | 1980       | 2023    |
-| IND | QIVARK                 | Ydelse udbetalt af a-kasser til iværksættere                           | 1980       | 2023    |
-| IND | QMIDYD                 | Midlertidige overførselsindkomster (kontanthjælpsydelser, dagpenge ink | 1980       | 2023    |
-| IND | QORLOV                 | Orlov børnepasning og sabbat                                           | 1980       | 2023    |
-| IND | QORLOV2                | Dagpenge udbetalt af a-kasse ved orlov til børnepasning, uddannelse og | 1980       | 2023    |
-| IND | QPASSIV                | Skattemæssigt beregnet værdi af passiver ultimo året                   | 1980       | 2023    |
-| IND | QPASSIVN               | Passiver ultimo året                                                   | 1980       | 2023    |
-| IND | QPENSIALT              | Alle pensionsindkomster                                                | 1980       | 2023    |
-| IND | QPENSNY                | Folke- og førtidspension, delpension samt skattefrie tillæg til førtid | 1980       | 2023    |
-| IND | QPENSPRI               | Udbetalinger fra arbejdsmarkedspensioner(ekskl.tjenestemandspension) o | 1980       | 2023    |
-| IND | QRENTIND               | Samlede skattepligtige renteindtægter fra Danmark undtagen renteindtæg | 1980       | 2023    |
-| IND | QRENTUD2               | Samlede fradragsberettigede renteudgifter inkl. virksomhedsrenter      | 1980       | 2023    |
-| IND | QSAR                   | En række engangsindtægter samt fortjeneste ved salg af ejendom under v | 1980       | 2023    |
-| IND | QSKATFRI               | Skattefri løn fra politi og retsvæsen Grønland, DANIDA m. fl.          | 1980       | 2023    |
-| IND | QSPLINDK               | Skattepligtig indkomst                                                 | 1980       | 2023    |
-| IND | QTILPENS               | Udbetalte pensioner fra ATP (ATP, særlig og midlertidig pension)       | 1980       | 2023    |
-| IND | QTJPENS                | Tjenestemandspension inkl. pension til efterladte ægtefæller og børn.  | 1980       | 2023    |
-| IND | QUDDYDL                | Uddannelsesgodtgørelse til ledige                                      | 1980       | 2023    |
-| IND | QUDINK                 | Anden personlig indkomst fra udlandet end løn                          | 1980       | 2023    |
-| IND | RENTBANK               | Renteindtægt af obligationer, pantebreve i depot samt indestående i pe | 1980       | 2023    |
-| IND | RENTEINDK              | Samlede skattepligtige renteindtægter fra Danmark-fra 2010 ekskl. rent | 1980       | 2023    |
-| IND | RENTPBED               | Renteindtægter af pantebreve der ikke er i depot inkl. renter af solgt | 1980       | 2023    |
-| IND | RENTUDGPR              | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1980       | 2023    |
-| IND | RENTUDIO               | Øvrige rentudgifter, ekskl. lempelsesberettigede renteudgifter til udl | 1980       | 2023    |
-| IND | RENTUPRI               | Renteudgift vedrørende prioritetsgæld, ekskl. renteudgifter til udland | 1980       | 2023    |
-| IND | RENTVIRK               | Renteindtægter, der vedrører virksomhed (inkl. nettorenteindtægter fra | 1980       | 2023    |
-| IND | RESUINK                | Restindkomst inkl. børnebidrag                                         | 1980       | 2023    |
-| IND | RESUINK_13             | Restindkomst inkl. børnebidrag                                         | 1980       | 2023    |
-| IND | RESUINK_GL             | Restindkomst inkl. honoraraflønning og børnebidrag                     | 1980       | 2023    |
-| IND | REVAL                  | Revalideringsydelse                                                    | 1980       | 2023    |
-| IND | RNT_UDG_OFF_GAELD      | Renteudgifter af gæld til det offentlige                               | 1980       | 2023    |
-| IND | RNTIOVIR               | Renteindtægter fra Danmark i virksomhed                                | 1980       | 2023    |
-| IND | RNTUDIOV               | Renteudgifter i virksomhed                                             | 1980       | 2023    |
-| IND | RNTUDSTU               | Renteudgifter af studielån fra Økonomistyrelsen/fra SU-styrelsen       | 1980       | 2023    |
-| IND | RUDGBANK               | Renteudgifter til pengeinstitutter inkl. pantebreve i depot, (ekskl. r | 1980       | 2023    |
+| IND | PANTAKT                | Kursværdi af pantebreve i depot (aktiver) pr. 31. 12.                  | 1995       | 2024    |
+| IND | PANTGAELD              | Pantebrevsgæld pr. 31. 12                                              | 1987       | 2024    |
+| IND | PASBOERN               | Andre ydelser fra kommuner end kontanthjælp, aktivering, revalidering, | 1994       | 2004    |
+| IND | PENBPA                 | Arbejdsmarkedsbidragspligtige pensionsudbetalinger                     | 1994       | 2024    |
+| IND | PENBPB                 | Pensionsudbetalinger fra tidligere arbejdsgivere ikke arbejdsmarkedsbi | 1994       | 2024    |
+| IND | PENSBLB2               | Pension udbetalt af forsikringsselskab eller pengeinstitut             | 1990       | 2024    |
+| IND | PENSBLB7               | Pension fra pensionskasse                                              | 1991       | 2024    |
+| IND | PERINDKIALT            | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2013    |
+| IND | PERINDKIALT_13         | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2024    |
+| IND | PERINDKP               | Skattemæssig personlig indkomst beregnet af Skat                       | 1987       | 2024    |
+| IND | PEROEVRIGFORMUE        | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2013    |
+| IND | PEROEVRIGFORMUE_13     | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2024    |
+| IND | PERSAMLINKNETRENT_NY   | Samlede indkomster inkl. beregnet lejeværdi fratrukket fradragsberetti | 1980       | 2013    |
+| IND | PERSONINDK             | Personindkomst i alt uden formueindkomst, og før fradrag af arbejdsmar | 1980       | 2024    |
+| IND | PFRDKM                 | Personfradrag til kommune, amt/sundhedsbidrag og kirke, som skatteyder | 1983       | 2024    |
+| IND | PFRDST                 | Personfradrag, staten yder skatteyderen ved beregning af statsskat     | 1980       | 2024    |
+| IND | PNR                    | Personnummer                                                           | 1980       | 2024    |
+| IND | PRE_SOCIO              | Socioøkonomisk klassifikation                                          | 1980       | 2024    |
+| IND | PRIVAT_PENSION_13      | Udbetalte private pensioner.                                           | 1991       | 2024    |
+| IND | QAKTIE                 | Værdi af aktieoptionsaflønnning                                        | 2002       | 2024    |
+| IND | QAKTIVF                | Samlede aktiver ultimo året ekskl. pensionsformuer                     | 1980       | 2005    |
+| IND | QAKTIVF_NY05           | Aktiver ultimo året, ekskl. pensionsformuer                            | 1995       | 2024    |
+| IND | QAKTSKA                | Skat af de aktieindkomster,der indberettes til skat.                   | 1994       | 2024    |
+| IND | QANDEN                 | Honorarer hvoraf der ikke skal betales arbejdsmarkedsbidrag og foreløb | 2002       | 2024    |
+| IND | QANDPENS               | Udbetalinger fra arbejdsmarkedspensioner( ekskl.tjenestemandspensioner | 1991       | 2024    |
+| IND | QARBLOS                | Udbetalinger fra arbejdsløshedskasser af arbejdsløshedsdagpenge og lig | 2002       | 2024    |
+| IND | QBISTYD                | Kontanthjælps-, aktiverings-, revaliderings, integrations-, og ledighe | 1994       | 2024    |
+| IND | QBISTYD2               | Skattepligtig kontanthjælps-, aktiverings- og revalideringsydelser     | 1994       | 2024    |
+| IND | QEFTLON                | Efterløn, overgangsydelse og(fra2008 flexydelse)                       | 1980       | 2024    |
+| IND | QHVIRKSK               | Foreløbig betalt skat af beløb hævet i virksomhedsordningerne          | 1988       | 2024    |
+| IND | QIVARK                 | Ydelse udbetalt af a-kasser til iværksættere                           | 1988       | 2001    |
+| IND | QMIDYD                 | Midlertidige overførselsindkomster (kontanthjælpsydelser, dagpenge ink | 1980       | 2013    |
+| IND | QORLOV                 | Orlov børnepasning og sabbat                                           | 2002       | 2003    |
+| IND | QORLOV2                | Dagpenge udbetalt af a-kasse ved orlov til børnepasning, uddannelse og | 1994       | 2013    |
+| IND | QPASSIV                | Skattemæssigt beregnet værdi af passiver ultimo året                   | 1980       | 1996    |
+| IND | QPASSIVN               | Passiver ultimo året                                                   | 1995       | 2024    |
+| IND | QPENSIALT              | Alle pensionsindkomster                                                | 1980       | 2013    |
+| IND | QPENSNY                | Folke- og førtidspension, delpension samt skattefrie tillæg til førtid | 1980       | 2013    |
+| IND | QPENSPRI               | Udbetalinger fra arbejdsmarkedspensioner(ekskl.tjenestemandspension) o | 1991       | 2024    |
+| IND | QRENTIND               | Samlede skattepligtige renteindtægter fra Danmark undtagen renteindtæg | 1980       | 2024    |
+| IND | QRENTUD2               | Samlede fradragsberettigede renteudgifter inkl. virksomhedsrenter      | 1980       | 2013    |
+| IND | QSAR                   | En række engangsindtægter samt fortjeneste ved salg af ejendom under v | 1980       | 1995    |
+| IND | QSKATFRI               | Skattefri løn fra politi og retsvæsen Grønland, DANIDA m. fl.          | 1994       | 2024    |
+| IND | QSPLINDK               | Skattepligtig indkomst                                                 | 1980       | 2024    |
+| IND | QTILPENS               | Udbetalte pensioner fra ATP (ATP, særlig og midlertidig pension)       | 1980       | 2024    |
+| IND | QTJPENS                | Tjenestemandspension inkl. pension til efterladte ægtefæller og børn.  | 1991       | 2024    |
+| IND | QUDDYDL                | Uddannelsesgodtgørelse til ledige                                      | 1988       | 2024    |
+| IND | QUDINK                 | Anden personlig indkomst fra udlandet end løn                          | 2002       | 2024    |
+| IND | RENTBANK               | Renteindtægt af obligationer, pantebreve i depot samt indestående i pe | 1980       | 2024    |
+| IND | RENTEINDK              | Samlede skattepligtige renteindtægter fra Danmark-fra 2010 ekskl. rent | 1980       | 2013    |
+| IND | RENTPBED               | Renteindtægter af pantebreve der ikke er i depot inkl. renter af solgt | 1993       | 2009    |
+| IND | RENTUDGPR              | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1980       | 2024    |
+| IND | RENTUDIO               | Øvrige rentudgifter, ekskl. lempelsesberettigede renteudgifter til udl | 1984       | 2024    |
+| IND | RENTUPRI               | Renteudgift vedrørende prioritetsgæld, ekskl. renteudgifter til udland | 1984       | 2024    |
+| IND | RENTVIRK               | Renteindtægter, der vedrører virksomhed (inkl. nettorenteindtægter fra | 2002       | 2024    |
+| IND | RESUINK                | Restindkomst inkl. børnebidrag                                         | 1994       | 2013    |
+| IND | RESUINK_13             | Restindkomst inkl. børnebidrag                                         | 1980       | 2024    |
+| IND | RESUINK_GL             | Restindkomst inkl. honoraraflønning og børnebidrag                     | 1980       | 2013    |
+| IND | REVAL                  | Revalideringsydelse                                                    | 1994       | 2024    |
+| IND | RNT_UDG_OFF_GAELD      | Renteudgifter af gæld til det offentlige                               | 2013       | 2019    |
+| IND | RNTIOVIR               | Renteindtægter fra Danmark i virksomhed                                | 1987       | 2024    |
+| IND | RNTUDIOV               | Renteudgifter i virksomhed                                             | 1987       | 2024    |
+| IND | RNTUDSTU               | Renteudgifter af studielån fra Økonomistyrelsen/fra SU-styrelsen       | 1988       | 2024    |
+| IND | RUDGBANK               | Renteudgifter til pengeinstitutter inkl. pantebreve i depot, (ekskl. r | 1987       | 2024    |
 | IND | SAMLINK_NY             | Samlet indkomst inkl. beregnet lejeværdi før fradrag af renteudgifter, | 1980       | 2023    |
 | IND | SAMSKAT                | Kode der angiver, om en person er sambeskattet med en anden person     | 1980       | 2023    |
 | IND | SFRIFOND               | Skattefri uddelinger fra fonde og foreninger mv.                       | 1980       | 2023    |
