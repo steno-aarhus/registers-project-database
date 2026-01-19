@@ -4213,43 +4213,43 @@ Below you will find a full describtion of all DST registers and variables in the
 | IND | RNTUDIOV               | Renteudgifter i virksomhed                                             | 1987       | 2024    |
 | IND | RNTUDSTU               | Renteudgifter af studielån fra Økonomistyrelsen/fra SU-styrelsen       | 1988       | 2024    |
 | IND | RUDGBANK               | Renteudgifter til pengeinstitutter inkl. pantebreve i depot, (ekskl. r | 1987       | 2024    |
-| IND | SAMLINK_NY             | Samlet indkomst inkl. beregnet lejeværdi før fradrag af renteudgifter, | 1980       | 2023    |
-| IND | SAMSKAT                | Kode der angiver, om en person er sambeskattet med en anden person     | 1980       | 2023    |
-| IND | SFRIFOND               | Skattefri uddelinger fra fonde og foreninger mv.                       | 1980       | 2023    |
-| IND | SKATFRIYD              | Skattefrie indkomster                                                  | 1980       | 2023    |
-| IND | SKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1980       | 2023    |
-| IND | SKATMVIALT_NY          | Skat, arbejdsmarkedsbidrag og særlig pension i alt                     | 1980       | 2023    |
-| IND | SKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2023    |
-| IND | SKATTOT_NY             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2023    |
-| IND | SKPLDGAN               | Skattepligtige dage                                                    | 1980       | 2023    |
-| IND | SLUSKAT                | Samlet slutskat for en skatteyder                                      | 1980       | 2023    |
-| IND | SLUT_LIGNET            | Markering for slutligning                                              | 1980       | 2023    |
-| IND | SLUTBID                | Samlet arbejdsmarkedsbidrag                                            | 1980       | 2023    |
-| IND | SOEMAND                | Lønindkomst fra ansættelse som sømand                                  | 1980       | 2023    |
-| IND | ST12PCT                | 12 pct. skat til staten                                                | 1980       | 2023    |
-| IND | ST22PCT                | 22 pct. skat til staten                                                | 1980       | 2023    |
-| IND | ST6PCT                 | 6 pct. skat til staten                                                 | 1980       | 2023    |
-| IND | STIP                   | Stipendier fra Statens Uddannelsesstøtte - SU                          | 1980       | 2023    |
-| IND | STSKAT                 | Statsskatten                                                           | 1980       | 2023    |
-| IND | SUNDHEDSBIDRAG         | Sundhedsbidrag                                                         | 1980       | 2023    |
-| IND | SYG_BARSEL_13          | Udbetalte sygedagpenge fra kommuner                                    | 1980       | 2023    |
-| IND | TBKONT                 | Tilbagebetalt kontanthjælp og øvrige fradrag                           | 1980       | 2023    |
-| IND | TBKONTHJ               | Tilbagebetalt kontanthjælp                                             | 1980       | 2023    |
-| IND | TILBTOT                | Skattefrit tillæg til førtidspensionister                              | 1980       | 2023    |
-| IND | TOPSKA                 | Beregnet topskat til staten                                            | 1980       | 2023    |
-| IND | UDBYTTER               | UDBYTTER                                                               | 1980       | 2023    |
-| IND | UDD_YD                 | Uddannelsesydelse/ledighedsydelse/arbejdsmarkedsydelse til ledige der  | 1980       | 2023    |
-| IND | UDDAN                  | Dagpenge udbetalt af a-kasse ved orlov under uddannelse                | 1980       | 2023    |
-| IND | UDKAINVR               | Nettorenter i udenlandsk virksomhed                                    | 1980       | 2023    |
-| IND | UDLAKT                 | Udenlandske aktiver                                                    | 1980       | 2023    |
-| IND | UDLFAKF                | Udenlandsk kapitalindkomst, såfremt denne er omfattet af en skattemæss | 1980       | 2023    |
-| IND | UDLIN2KA               | Udenlandsk kapitalindkomst der er i følge en dobbeltbeskatningsoverens | 1980       | 2023    |
-| IND | UDLOEN                 | Løn for arbejde i udlandet, del der kan skelnes fra anden udenlandsk p | 1980       | 2023    |
-| IND | UDLPENS                | Pensioner fra udlandet                                                 | 1980       | 2023    |
-| IND | UDLSKAT                | Udenlandsk betalt skat af indkomster i udlandet                        | 1980       | 2023    |
-| IND | UDPRIGAEL              | Gæld til realkreditinstitutter, pengeinstitutter mv. i udlandet        | 1980       | 2023    |
-| IND | ULAKTIE                | Udbytter fra udenlandske aktier samt gevinst og tab på udenlandske akt | 1980       | 2023    |
-| IND | UNDERHOL               | Betalt underholdsbidrag (fradrag i skattepligtig indkomst)             | 1980       | 2023    |
+| IND | SAMLINK_NY             | Samlet indkomst inkl. beregnet lejeværdi før fradrag af renteudgifter, | 1980       | 2013    |
+| IND | SAMSKAT                | Kode der angiver, om en person er sambeskattet med en anden person     | 1980       | 2024    |
+| IND | SFRIFOND               | Skattefri uddelinger fra fonde og foreninger mv.                       | 1995       | 2024    |
+| IND | SKATFRIYD              | Skattefrie indkomster                                                  | 1980       | 2024    |
+| IND | SKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1980       | 2024    |
+| IND | SKATMVIALT_NY          | Skat, arbejdsmarkedsbidrag og særlig pension i alt                     | 1980       | 2013    |
+| IND | SKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2024    |
+| IND | SKATTOT_NY             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2013    |
+| IND | SKPLDGAN               | Skattepligtige dage                                                    | 1980       | 2001    |
+| IND | SLUSKAT                | Samlet slutskat for en skatteyder                                      | 1980       | 2024    |
+| IND | SLUT_LIGNET            | Markering for slutligning                                              | 1994       | 2024    |
+| IND | SLUTBID                | Samlet arbejdsmarkedsbidrag                                            | 2014       | 2024    |
+| IND | SOEMAND                | Lønindkomst fra ansættelse som sømand                                  | 1994       | 2024    |
+| IND | ST12PCT                | 12 pct. skat til staten                                                | 1987       | 1993    |
+| IND | ST22PCT                | 22 pct. skat til staten                                                | 1987       | 1993    |
+| IND | ST6PCT                 | 6 pct. skat til staten                                                 | 1987       | 1993    |
+| IND | STIP                   | Stipendier fra Statens Uddannelsesstøtte - SU                          | 1983       | 2024    |
+| IND | STSKAT                 | Statsskatten                                                           | 1980       | 2024    |
+| IND | SUNDHEDSBIDRAG         | Sundhedsbidrag                                                         | 2007       | 2018    |
+| IND | SYG_BARSEL_13          | Udbetalte sygedagpenge fra kommuner                                    | 1980       | 2024    |
+| IND | TBKONT                 | Tilbagebetalt kontanthjælp og øvrige fradrag                           | 2002       | 2024    |
+| IND | TBKONTHJ               | Tilbagebetalt kontanthjælp                                             | 1997       | 2024    |
+| IND | TILBTOT                | Skattefrit tillæg til førtidspensionister                              | 1984       | 2024    |
+| IND | TOPSKA                 | Beregnet topskat til staten                                            | 1994       | 2024    |
+| IND | UDBYTTER               | UDBYTTER                                                               | 2019       | 2024    |
+| IND | UDD_YD                 | Uddannelsesydelse/ledighedsydelse/arbejdsmarkedsydelse til ledige der  | 2013       | 2024    |
+| IND | UDDAN                  | Dagpenge udbetalt af a-kasse ved orlov under uddannelse                | 1994       | 2003    |
+| IND | UDKAINVR               | Nettorenter i udenlandsk virksomhed                                    | 1987       | 2024    |
+| IND | UDLAKT                 | Udenlandske aktiver                                                    | 1987       | 2024    |
+| IND | UDLFAKF                | Udenlandsk kapitalindkomst, såfremt denne er omfattet af en skattemæss | 2002       | 2024    |
+| IND | UDLIN2KA               | Udenlandsk kapitalindkomst der er i følge en dobbeltbeskatningsoverens | 1986       | 2024    |
+| IND | UDLOEN                 | Løn for arbejde i udlandet, del der kan skelnes fra anden udenlandsk p | 1987       | 2024    |
+| IND | UDLPENS                | Pensioner fra udlandet                                                 | 2002       | 2024    |
+| IND | UDLSKAT                | Udenlandsk betalt skat af indkomster i udlandet                        | 1998       | 2024    |
+| IND | UDPRIGAEL              | Gæld til realkreditinstitutter, pengeinstitutter mv. i udlandet        | 2002       | 2024    |
+| IND | ULAKTIE                | Udbytter fra udenlandske aktier samt gevinst og tab på udenlandske akt | 1997       | 2024    |
+| IND | UNDERHOL               | Betalt underholdsbidrag (fradrag i skattepligtig indkomst)             | 2002       | 2024    |
 | IND | UNHINDK                | Modtaget underholdsbidrag og børnebidrag                               | 1980       | 2023    |
 | IND | VARMEHJALP             | Varmehjælp til folkepensionister                                       | 1980       | 2023    |
 | IND | VERSION                | Version                                                                | 1980       | 2023    |
