@@ -4011,253 +4011,253 @@ Below you will find a full describtion of all DST registers and variables in the
 ::: {.callout-warning collapse="true"}
 ## IND 1980-2024
 
-|     | Variable name          | Variable label                                                         | Start year | Endyear |
-| --- | ---------------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| IND | ADAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne ekskl. udbetaling til  | 1980       | 2024    |
-| IND | ADAGPAGN               | Arbejdsgiverbetalt sygedagpenge                                        | 2002       | 2024    |
-| IND | AEKVIVADISP_13         | Ækvivaleret disponibel indkomst                                        | 1987       | 2024    |
-| IND | AFHFORM                | Gevinst og tab ved afhændelse af formuegoder samt anden ikke specielt  | 1983       | 2024    |
-| IND | AINDK94                | Løn mm. (arbejdsmarkedsbidragspligtig indkomst hvoraf der betales fore | 1994       | 2024    |
-| IND | AKAPSKL                | Anden kapitalindkomst i virksomhed end renteindtægter, excl. kapitalin | 2002       | 2024    |
-| IND | AKIHUBS                | Aktieudbytte af danske aktier hvor der er indeholdet udbyttetskat.     | 1997       | 2024    |
-| IND | AKIIHUBS               | Gevinst/tab på danske aktier og investeringsforeningsbeviser samt udby | 1997       | 2024    |
-| IND | AKTIEINDK              | Udbytte samt gevinst/tab på aktier og visse aktiebaserede investerings | 1980       | 2024    |
-| IND | AKTIUDL                | Udbytte af udenlandske aktier samt visse gevinster og tab på udenlands | 1995       | 2024    |
-| IND | AKTKOEB                | Aktieoptionsaflønning, skattepligtig                                   | 2002       | 2024    |
-| IND | ALDER_ULT_INK          | Personens alder på referenecetidspunktet, 13 . 12. det pågældende år   | 1980       | 2024    |
-| IND | AMTSSK                 | Amtsskat                                                               | 1980       | 2006    |
-| IND | ANDAKAS                | Anden understøttelse fra arbejdsløshedskasser                          | 1994       | 2024    |
-| IND | ANDBISTANDYD           | Andre ydelser fra kommuner og a-kasser                                 | 1980       | 2013    |
-| IND | ANDFRAD                | Fradrag i personlig indkomst                                           | 2002       | 2024    |
-| IND | ANDOVERFORSEL          | Andre overførsler består af SU, boligstøtte og børnetilskud.           | 1984       | 2024    |
-| IND | ANKAPPER               | Andre kapitalindkomster end renteindtægter, excl. kapitalindkomster i  | 2002       | 2024    |
-| IND | ANPERIND               | Anden personlig indkomst                                               | 1997       | 2024    |
-| IND | ANUDLAK                | Gevinster og tab på udenlandske aktier som ikke er omfattet af en skat | 1997       | 2024    |
-| IND | ARBBIDMVALM            | Arbejdsmarkedsbidrag og særlig pension af erhvervsindkomst             | 1994       | 2024    |
-| IND | ARBFORS                | Arbejdsløshedsforsikring, faglige kontingenter, efterløns- og fleksyde | 1984       | 2024    |
-| IND | ARBLHU                 | Arbejdsløshedsdagpenge                                                 | 1980       | 2024    |
-| IND | ARBLHUMV               | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse                       | 1980       | 2024    |
-| IND | ASKPLI                 | Anden arbejdsmarkedsbidragsfri a-skattepligtig indkomst                | 2002       | 2024    |
-| IND | ATPABES                | ATP A                                                                  | 1997       | 2024    |
-| IND | ATPBBES                | ATP B                                                                  | 1997       | 2024    |
-| IND | ATPCBES                | ATP C                                                                  | 1997       | 2024    |
-| IND | ATPDBES                | ATP D                                                                  | 2006       | 2024    |
-| IND | ATPEBES                | ATP E                                                                  | 2010       | 2024    |
-| IND | ATPFBES                | ATPFBES                                                                | 2011       | 2024    |
-| IND | ATPSAML                | Samlet ATP-bidrag i året                                               | 1997       | 2024    |
-| IND | BANKAKT                | Indestående i pengeinstitut pr. 31. 12                                 | 1995       | 2024    |
-| IND | BANKGAELD              | Gæld til pengeinstitutter mv. pr. 31. 12                               | 1987       | 2024    |
-| IND | BARNEP                 | Dagpenge udbetalt af a-kasse ved orlov til børnepasning                | 1994       | 2013    |
-| IND | BDAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne til selvstændige       | 1980       | 2024    |
-| IND | BEFORDR                | Det selvangivne beløb vedr. befordring (fradrag i skattepligtig indkom | 1984       | 2024    |
-| IND | BESKST                 | Beskæftigelsesstatus 1980 til 2001                                     | 1980       | 2001    |
-| IND | BESKST02               | Beskæftigelsesstatus fra 2002                                          | 2002       | 2013    |
-| IND | BESKST13               | Kode for personens væsentligste indkomstkilde                          | 1980       | 2024    |
-| IND | BOSBOERN               | Boligstøtte og børnetilskud                                            | 2002       | 2024    |
-| IND | BRUTTO                 | Skattepligtig bruttoindkomst før fradrag i kr.                         | 1980       | 2013    |
-| IND | BUNSKA                 | Beregnet bundskat til staten                                           | 1994       | 2024    |
-| IND | CORFRYNS               | Skattemæssig værdi af frynsegoder i forbindelse med beskæftigelse      | 1993       | 2024    |
-| IND | CORLOEN                | Kontant løn fra indberetninger til skats oplysningsseddelregister/e-in | 2002       | 2024    |
-| IND | CPRTJEK                | CPR-tjek                                                               | 1980       | 2024    |
-| IND | CPRTYPE                | CPR-type                                                               | 1980       | 2024    |
-| IND | DAGPENGE_KONTANT_13    | Dagpenge og kontanthjælp mv. ialt                                      | 1980       | 2024    |
-| IND | DAKTIE                 | Udbytte samt gevinst/tab på danske aktier og visse aktiebaserede inves | 2002       | 2024    |
-| IND | DELPENS                | Delpension                                                             | 1988       | 2005    |
-| IND | DISPON_13              | Indkomst efter skat og renteR                                          | 1980       | 2024    |
-| IND | DISPON_NY              | Indkomst efter skat og renter (samlet indkomst fratrukket renteudgifte | 1980       | 2013    |
-| IND | DSPSUM                 | Særligt pensionsbidrag                                                 | 1998       | 2008    |
-| IND | EFTLEVHJ               | Efterlevelseshjælp                                                     | 2000       | 2024    |
-| IND | EFTLOEN                | Efterløn ( fra 2009 ink.l fleksydelse)                                 | 1980       | 2024    |
-| IND | EJD_SKAT_EJER_BOLIG    | Ejendomsskat(grundskyld) for boligejere                                | 2010       | 2024    |
-| IND | EJD_SKAT_LEJER_BOLIG   | Ejendomsskat(grundskyld) for lejere                                    | 2010       | 2024    |
-| IND | EJENDOMSVURDERING      | Kontant ejendomsværdi af ejendomme i Danmark ejet pr. 31. 12           | 1994       | 2024    |
-| IND | EJVSKAT                | Ejendomsværdiskat                                                      | 2000       | 2024    |
-| IND | ERHVERVSINDK           | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1994       | 2013    |
-| IND | ERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. | 1980       | 2024    |
-| IND | ERHVERVSINDK_GL        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed       | 1980       | 2013    |
-| IND | ETABHUI                | Indskud på etableringskonto                                            | 1984       | 2024    |
-| IND | FAGFKDB                | Fagforeningskontingent i kr.                                           | 1993       | 2024    |
-| IND | FERIE_DAGPENGE         | Dagpenge udbetalt af a_kasse til medlemmer på ferie                    | 2009       | 2024    |
-| IND | FLEXLON_TILSKUD        | Tilskud til flexløn                                                    | 2013       | 2024    |
-| IND | FLEXYD                 | Fleksydelse                                                            | 2010       | 2024    |
-| IND | FOLKEFORTID_13         | Folke- og førtidspension mv.                                           | 1980       | 2024    |
-| IND | FORM                   | Skattemæssigt beregnet værdi af nettoformuen ultimo året, ekskl. pensi | 1980       | 1997    |
-| IND | FORMREST_NY05          | Nettorestformue ultimo året, ekskl. pensionsformuer                    | 1997       | 2024    |
-| IND | FORMUEINDK_BRUTTO      | Formueindkomst brutto                                                  | 1980       | 2024    |
-| IND | FORMUEINDK_NY          | Samlede formueindkomster inkl. beregnet lejeværdi af egen bolig        | 1980       | 2013    |
-| IND | FOSFUFRD               | Pensionsbidrag privattegnet ordning med løbende udbetaling/ ratepensio | 1980       | 2024    |
-| IND | FRADRAG                | Samlet beregnet fradrag i skattepligtig indkomst                       | 1980       | 2024    |
-| IND | FRADRAGBES             | Beskæftigelsesfradrag                                                  | 2007       | 2024    |
-| IND | FRDUDL                 | Skattemæssige fradrag for lempelsesberettigede indkomster fra udlandet | 2002       | 2024    |
-| IND | FRIOFBEF               | Markering for frikort til offentlig befordring                         | 1996       | 2024    |
-| IND | GAELD_TIL_OFF          | Gæld til det offentlige                                                | 2013       | 2016    |
-| IND | GEVAFKAP               | Genvundne afskrivninger, kapitalindkomst. Fortjeneste/tab ved ophør af | 1996       | 2024    |
-| IND | GRON_CHECK             | Grøn check                                                             | 2010       | 2024    |
-| IND | HAEDGAVS               | Hædersgaver m.v. hvoraf arbejdsmarkedsbidrag ikke skal betales, og hvo | 1996       | 2024    |
-| IND | HONNY                  | Honoraraflønning, arbejdsmarkedsbidragspligtig                         | 1994       | 2024    |
-| IND | INDBEEFT               | Indbetaling til efterløn (efterlønsbidrag)                             | 1999       | 2024    |
-| IND | INDESTPI               | Indestående i pengeinstitutter mv., kursværdi af obligationer og pante | 1983       | 2024    |
-| IND | INDSKIB                | Nettoindkomst ved skibsanparter, inkl. vindmøller omfattet af anpartsr | 1986       | 2024    |
-| IND | INTGRAYD               | Integrationsydelse til flygtninge-kontanthjælp til udlændinge          | 1999       | 2024    |
-| IND | INVUDL                 | Udlodning fra investeringsforening, hvor der er indeholdt udbytteskat  | 1991       | 2024    |
-| IND | JUBJUB                 | Jubilæumsgratiale og fratrædelsesgodtgørelse ekskl. pension            | 2002       | 2024    |
-| IND | KAPINDKP               | Skattemæssig kapitalindkomst beregnet af Skat                          | 1987       | 2024    |
-| IND | KAPITIALT              | Samlet kapitalindkomst ekskl. aktieindkomster                          | 2002       | 2024    |
-| IND | KAPITPRIV              | Samlet kapitalindkomst ekskl. aktieindkomster og ekskl. kapitalindkoms | 2002       | 2024    |
-| IND | KAPITVIRK              | Samlet kapitalindkomst fra virksomhed                                  | 2002       | 2024    |
-| IND | KAPPENS                | Skattemæssigt fradrag i personlig indkomst vedr. privattegnet kapitalp | 1987       | 2013    |
-| IND | KAPVAERS               | Reservefondsudlodninger fra kreditforeninger samt kapitalværdistigning | 1993       | 2024    |
-| IND | KHFLYGT                | Aktiveringsydelse- kontanthjælpsmodtagere                              | 1994       | 2024    |
-| IND | KISKAT                 | Kirkeskat for medlemmer af folkekirken                                 | 1980       | 2024    |
-| IND | KMSKAT                 | Kommuneskat                                                            | 1980       | 2024    |
-| IND | KOEJD                  | Kontant værdi af ejendomme i Danmark ejet pr. 31. 12                   | 1983       | 2024    |
-| IND | KOM_RES_FORLOB         | Kommunalt ressource forløb, ressourceforløbsydelse                     | 2013       | 2024    |
-| IND | KONT_GL                | Kontanthjælpsydelser 1980 - 1993                                       | 1994       | 2024    |
-| IND | KONTANTHJ_13           | Kontanthjælp (underhold/forsørgelse)                                   | 1994       | 2024    |
-| IND | KONTHJ                 | Skattepligtig kontanthjælp (underhold/forsørgelse)                     | 2002       | 2024    |
-| IND | KONTSKFRI              | Skattetfri kontanthjælp                                                | 1980       | 1993    |
-| IND | KORSTOETT              | Korrigeret boligstøtte (boligsikring/boligydelse)                      | 1984       | 2024    |
-| IND | KORYDIAL               | Udbetalte børnetilskud og familieydelser efter opregning til hele kale | 1984       | 2024    |
-| IND | KURSAKT                | Kursværdi af danske aktier og investeringsforeningsbeviser i depot pr. | 1984       | 2024    |
-| IND | KURSGEVINSTER          | KURSGEVINSTER                                                          | 2019       | 2024    |
-| IND | KURSUSG                | Godtgørelse for kursus og kørsel i forbindelse med arbejdsmarkedsuddan | 1994       | 2024    |
-| IND | LEDIGHEDSYDELSE        | Ydelse udbetalt til ledige personer visiteret til flexjob              | 2005       | 2024    |
-| IND | LEJEV_EGEN_BOLIG       | Beregnet lejeværdi af egen bolig                                       | 1980       | 2024    |
-| IND | LEJINDT                | Den skattepligtige nettolejeindtægt ved udleje af helårsbolig en del a | 1993       | 2024    |
-| IND | LIGNFRDP               | Ligningsmæssige fradrag                                                | 1987       | 2024    |
-| IND | LOENMIO                | Øvrige lønmodtagerudgifter                                             | 1984       | 2024    |
-| IND | LOENMV                 | Lønindkomst i alt                                                      | 1980       | 2013    |
-| IND | LOENMV_13              | Lønindkomst i alt                                                      | 1980       | 2024    |
-| IND | LOENSKPL               | Skattepligtig lønindkomst inkl. værdi af frynsegoder                   | 2002       | 2024    |
-| IND | MLLSKA                 | Beregnet mellemskat til staten                                         | 1994       | 2009    |
-| IND | NETOVSKUD              | Nettooverskud af selvstændig virksomhed inkl. visse honorarer, før kap | 1994       | 2013    |
-| IND | NETOVSKUD_13           | Nettooverskud af selvstændig virksomhed inkl. visse honorarer, før kap | 1980       | 2024    |
-| IND | NETOVSKUD_GL           | Nettooverskud af selvstændig virksomhed, før kapitalindtægter og udgif | 1980       | 2013    |
-| IND | NYSTGR                 | Stillingsgruppering 1980 til 1995                                      | 1980       | 1995    |
-| IND | OBLAKT                 | Kursværdi af obligationer i depot (aktiver) pr. 31. 12                 | 1995       | 2024    |
-| IND | OBLGAELD               | Kursværdi af obligationsgæld pr. 31. 12                                | 1995       | 2024    |
-| IND | OFF_OVERFORSEL_13      | Offentlige overførsler                                                 | 1980       | 2024    |
-| IND | OFFPENS                | Folke- og førtidspension                                               | 1980       | 2024    |
-| IND | OFFPENS_EFTERLON_13    | Offentlige pensioner, inkl. efterløn                                   | 1980       | 2024    |
-| IND | OMFANG                 | Omfang af skattepligt                                                  | 1980       | 2024    |
-| IND | OMFSKPL                | Kode for skattepligtens omfang                                         | 1980       | 2001    |
-| IND | OVERFORSINDK           | Overførselsindkomster inkl. udbetalinger fra pensionskasser, ratepensi | 1980       | 2013    |
-| IND | OVERG                  | Overgangsydelse                                                        | 1994       | 2006    |
-| IND | OVRIG_DAGPENGE_AKAS_13 | Øvrige dagpenge fra A-kasser                                           | 1980       | 2024    |
-| IND | OVRIG_KONTANTHJALP_13  | Aktiverings, ledighed- og revalideringsydelse mv.                      | 1983       | 2024    |
-| IND | OVRIG_OVERFORSEL_13    | Andre overførsler. SU, boligstøtte, grøn check og børnetilskud.        | 1983       | 2024    |
-| IND | OVSKEJD                | Beregnet lejeværdi af egen bolig (beregnet af SKAT)                    | 1980       | 1999    |
-| IND | OVSKEJD02_NY           | Beregnet lejeværdi af egen bolig                                       | 1984       | 2006    |
-| IND | OVSKEJD07              | Beregnet lejeværdi af egen bolig                                       | 2007       | 2013    |
-| IND | PANTAKT                | Kursværdi af pantebreve i depot (aktiver) pr. 31. 12.                  | 1995       | 2024    |
-| IND | PANTGAELD              | Pantebrevsgæld pr. 31. 12                                              | 1987       | 2024    |
-| IND | PASBOERN               | Andre ydelser fra kommuner end kontanthjælp, aktivering, revalidering, | 1994       | 2004    |
-| IND | PENBPA                 | Arbejdsmarkedsbidragspligtige pensionsudbetalinger                     | 1994       | 2024    |
-| IND | PENBPB                 | Pensionsudbetalinger fra tidligere arbejdsgivere ikke arbejdsmarkedsbi | 1994       | 2024    |
-| IND | PENSBLB2               | Pension udbetalt af forsikringsselskab eller pengeinstitut             | 1990       | 2024    |
-| IND | PENSBLB7               | Pension fra pensionskasse                                              | 1991       | 2024    |
-| IND | PERINDKIALT            | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2013    |
-| IND | PERINDKIALT_13         | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fr | 1980       | 2024    |
-| IND | PERINDKP               | Skattemæssig personlig indkomst beregnet af Skat                       | 1987       | 2024    |
-| IND | PEROEVRIGFORMUE        | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2013    |
-| IND | PEROEVRIGFORMUE_13     | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommer | 1980       | 2024    |
-| IND | PERSAMLINKNETRENT_NY   | Samlede indkomster inkl. beregnet lejeværdi fratrukket fradragsberetti | 1980       | 2013    |
-| IND | PERSONINDK             | Personindkomst i alt uden formueindkomst, og før fradrag af arbejdsmar | 1980       | 2024    |
-| IND | PFRDKM                 | Personfradrag til kommune, amt/sundhedsbidrag og kirke, som skatteyder | 1983       | 2024    |
-| IND | PFRDST                 | Personfradrag, staten yder skatteyderen ved beregning af statsskat     | 1980       | 2024    |
-| IND | PNR                    | Personnummer                                                           | 1980       | 2024    |
-| IND | PRE_SOCIO              | Socioøkonomisk klassifikation                                          | 1980       | 2024    |
-| IND | PRIVAT_PENSION_13      | Udbetalte private pensioner.                                           | 1991       | 2024    |
-| IND | QAKTIE                 | Værdi af aktieoptionsaflønnning                                        | 2002       | 2024    |
-| IND | QAKTIVF                | Samlede aktiver ultimo året ekskl. pensionsformuer                     | 1980       | 2005    |
-| IND | QAKTIVF_NY05           | Aktiver ultimo året, ekskl. pensionsformuer                            | 1995       | 2024    |
-| IND | QAKTSKA                | Skat af de aktieindkomster,der indberettes til skat.                   | 1994       | 2024    |
-| IND | QANDEN                 | Honorarer hvoraf der ikke skal betales arbejdsmarkedsbidrag og foreløb | 2002       | 2024    |
-| IND | QANDPENS               | Udbetalinger fra arbejdsmarkedspensioner( ekskl.tjenestemandspensioner | 1991       | 2024    |
-| IND | QARBLOS                | Udbetalinger fra arbejdsløshedskasser af arbejdsløshedsdagpenge og lig | 2002       | 2024    |
-| IND | QBISTYD                | Kontanthjælps-, aktiverings-, revaliderings, integrations-, og ledighe | 1994       | 2024    |
-| IND | QBISTYD2               | Skattepligtig kontanthjælps-, aktiverings- og revalideringsydelser     | 1994       | 2024    |
-| IND | QEFTLON                | Efterløn, overgangsydelse og(fra2008 flexydelse)                       | 1980       | 2024    |
-| IND | QHVIRKSK               | Foreløbig betalt skat af beløb hævet i virksomhedsordningerne          | 1988       | 2024    |
-| IND | QIVARK                 | Ydelse udbetalt af a-kasser til iværksættere                           | 1988       | 2001    |
-| IND | QMIDYD                 | Midlertidige overførselsindkomster (kontanthjælpsydelser, dagpenge ink | 1980       | 2013    |
-| IND | QORLOV                 | Orlov børnepasning og sabbat                                           | 2002       | 2003    |
-| IND | QORLOV2                | Dagpenge udbetalt af a-kasse ved orlov til børnepasning, uddannelse og | 1994       | 2013    |
-| IND | QPASSIV                | Skattemæssigt beregnet værdi af passiver ultimo året                   | 1980       | 1996    |
-| IND | QPASSIVN               | Passiver ultimo året                                                   | 1995       | 2024    |
-| IND | QPENSIALT              | Alle pensionsindkomster                                                | 1980       | 2013    |
-| IND | QPENSNY                | Folke- og førtidspension, delpension samt skattefrie tillæg til førtid | 1980       | 2013    |
-| IND | QPENSPRI               | Udbetalinger fra arbejdsmarkedspensioner(ekskl.tjenestemandspension) o | 1991       | 2024    |
-| IND | QRENTIND               | Samlede skattepligtige renteindtægter fra Danmark undtagen renteindtæg | 1980       | 2024    |
-| IND | QRENTUD2               | Samlede fradragsberettigede renteudgifter inkl. virksomhedsrenter      | 1980       | 2013    |
-| IND | QSAR                   | En række engangsindtægter samt fortjeneste ved salg af ejendom under v | 1980       | 1995    |
-| IND | QSKATFRI               | Skattefri løn fra politi og retsvæsen Grønland, DANIDA m. fl.          | 1994       | 2024    |
-| IND | QSPLINDK               | Skattepligtig indkomst                                                 | 1980       | 2024    |
-| IND | QTILPENS               | Udbetalte pensioner fra ATP (ATP, særlig og midlertidig pension)       | 1980       | 2024    |
-| IND | QTJPENS                | Tjenestemandspension inkl. pension til efterladte ægtefæller og børn.  | 1991       | 2024    |
-| IND | QUDDYDL                | Uddannelsesgodtgørelse til ledige                                      | 1988       | 2024    |
-| IND | QUDINK                 | Anden personlig indkomst fra udlandet end løn                          | 2002       | 2024    |
-| IND | RENTBANK               | Renteindtægt af obligationer, pantebreve i depot samt indestående i pe | 1980       | 2024    |
-| IND | RENTEINDK              | Samlede skattepligtige renteindtægter fra Danmark-fra 2010 ekskl. rent | 1980       | 2013    |
-| IND | RENTPBED               | Renteindtægter af pantebreve der ikke er i depot inkl. renter af solgt | 1993       | 2009    |
-| IND | RENTUDGPR              | Renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgift | 1980       | 2024    |
-| IND | RENTUDIO               | Øvrige rentudgifter, ekskl. lempelsesberettigede renteudgifter til udl | 1984       | 2024    |
-| IND | RENTUPRI               | Renteudgift vedrørende prioritetsgæld, ekskl. renteudgifter til udland | 1984       | 2024    |
-| IND | RENTVIRK               | Renteindtægter, der vedrører virksomhed (inkl. nettorenteindtægter fra | 2002       | 2024    |
-| IND | RESUINK                | Restindkomst inkl. børnebidrag                                         | 1994       | 2013    |
-| IND | RESUINK_13             | Restindkomst inkl. børnebidrag                                         | 1980       | 2024    |
-| IND | RESUINK_GL             | Restindkomst inkl. honoraraflønning og børnebidrag                     | 1980       | 2013    |
-| IND | REVAL                  | Revalideringsydelse                                                    | 1994       | 2024    |
-| IND | RNT_UDG_OFF_GAELD      | Renteudgifter af gæld til det offentlige                               | 2013       | 2019    |
-| IND | RNTIOVIR               | Renteindtægter fra Danmark i virksomhed                                | 1987       | 2024    |
-| IND | RNTUDIOV               | Renteudgifter i virksomhed                                             | 1987       | 2024    |
-| IND | RNTUDSTU               | Renteudgifter af studielån fra Økonomistyrelsen/fra SU-styrelsen       | 1988       | 2024    |
-| IND | RUDGBANK               | Renteudgifter til pengeinstitutter inkl. pantebreve i depot, (ekskl. r | 1987       | 2024    |
-| IND | SAMLINK_NY             | Samlet indkomst inkl. beregnet lejeværdi før fradrag af renteudgifter, | 1980       | 2013    |
-| IND | SAMSKAT                | Kode der angiver, om en person er sambeskattet med en anden person     | 1980       | 2024    |
-| IND | SFRIFOND               | Skattefri uddelinger fra fonde og foreninger mv.                       | 1995       | 2024    |
-| IND | SKATFRIYD              | Skattefrie indkomster                                                  | 1980       | 2024    |
-| IND | SKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat   | 1980       | 2024    |
-| IND | SKATMVIALT_NY          | Skat, arbejdsmarkedsbidrag og særlig pension i alt                     | 1980       | 2013    |
-| IND | SKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2024    |
-| IND | SKATTOT_NY             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt sk | 1980       | 2013    |
-| IND | SKPLDGAN               | Skattepligtige dage                                                    | 1980       | 2001    |
-| IND | SLUSKAT                | Samlet slutskat for en skatteyder                                      | 1980       | 2024    |
-| IND | SLUT_LIGNET            | Markering for slutligning                                              | 1994       | 2024    |
-| IND | SLUTBID                | Samlet arbejdsmarkedsbidrag                                            | 2014       | 2024    |
-| IND | SOEMAND                | Lønindkomst fra ansættelse som sømand                                  | 1994       | 2024    |
-| IND | ST12PCT                | 12 pct. skat til staten                                                | 1987       | 1993    |
-| IND | ST22PCT                | 22 pct. skat til staten                                                | 1987       | 1993    |
-| IND | ST6PCT                 | 6 pct. skat til staten                                                 | 1987       | 1993    |
-| IND | STIP                   | Stipendier fra Statens Uddannelsesstøtte - SU                          | 1983       | 2024    |
-| IND | STSKAT                 | Statsskatten                                                           | 1980       | 2024    |
-| IND | SUNDHEDSBIDRAG         | Sundhedsbidrag                                                         | 2007       | 2018    |
-| IND | SYG_BARSEL_13          | Udbetalte sygedagpenge fra kommuner                                    | 1980       | 2024    |
-| IND | TBKONT                 | Tilbagebetalt kontanthjælp og øvrige fradrag                           | 2002       | 2024    |
-| IND | TBKONTHJ               | Tilbagebetalt kontanthjælp                                             | 1997       | 2024    |
-| IND | TILBTOT                | Skattefrit tillæg til førtidspensionister                              | 1984       | 2024    |
-| IND | TOPSKA                 | Beregnet topskat til staten                                            | 1994       | 2024    |
-| IND | UDBYTTER               | UDBYTTER                                                               | 2019       | 2024    |
-| IND | UDD_YD                 | Uddannelsesydelse/ledighedsydelse/arbejdsmarkedsydelse til ledige der  | 2013       | 2024    |
-| IND | UDDAN                  | Dagpenge udbetalt af a-kasse ved orlov under uddannelse                | 1994       | 2003    |
-| IND | UDKAINVR               | Nettorenter i udenlandsk virksomhed                                    | 1987       | 2024    |
-| IND | UDLAKT                 | Udenlandske aktiver                                                    | 1987       | 2024    |
-| IND | UDLFAKF                | Udenlandsk kapitalindkomst, såfremt denne er omfattet af en skattemæss | 2002       | 2024    |
-| IND | UDLIN2KA               | Udenlandsk kapitalindkomst der er i følge en dobbeltbeskatningsoverens | 1986       | 2024    |
-| IND | UDLOEN                 | Løn for arbejde i udlandet, del der kan skelnes fra anden udenlandsk p | 1987       | 2024    |
-| IND | UDLPENS                | Pensioner fra udlandet                                                 | 2002       | 2024    |
-| IND | UDLSKAT                | Udenlandsk betalt skat af indkomster i udlandet                        | 1998       | 2024    |
-| IND | UDPRIGAEL              | Gæld til realkreditinstitutter, pengeinstitutter mv. i udlandet        | 2002       | 2024    |
-| IND | ULAKTIE                | Udbytter fra udenlandske aktier samt gevinst og tab på udenlandske akt | 1997       | 2024    |
-| IND | UNDERHOL               | Betalt underholdsbidrag (fradrag i skattepligtig indkomst)             | 2002       | 2024    |
-| IND | UNHINDK                | Modtaget underholdsbidrag og børnebidrag                               | 1980       | 2023    |
-| IND | VARMEHJALP             | Varmehjælp til folkepensionister                                       | 1980       | 2023    |
-| IND | VERSION                | Version                                                                | 1980       | 2023    |
-| IND | VIRKKOD                | Kode til angivelse af, om skatteberegning foretages inden for eller ud | 1980       | 2023    |
-| IND | VIRKORDIND             | Beløb indsat i virksomhedsordningerne netto (speciel ordning for selvs | 1980       | 2023    |
-| IND | VIRKSK                 | Foreløbig skat af beløb overført til virksomhedsordningen og konjunktu | 1980       | 2023    |
-| IND | VIRKSOMHEDS_PRAKTIK    | Dagpenge til personer i virksomhedspraktik                             | 1980       | 2023    |
-:::
+|     | Variable name          | Variable label                                                                                                                                                                          | Start year | Endyear |
+| --- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- |
+| IND | ADAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne ekskl. udbetaling til                                                                                                                   | 1980       | 2024    |
+| Ind | ADAGPAGN               | Arbejdsgiverbetalt sygedagpenge                                                                                                                                                         | 2002       | 2024    |
+| --- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- |
+| Ind | AEKVIVADISP_13         | Ækvivaleret disponibel indkomst                                                                                                                                                         | 1987       | 2024    |
+| Ind | AFHFORM                | Gevinst og tab ved afhændelse af formuegoder samt anden ikke specielt klassificeret kapitalindkomst. Variablen er ekskl. aktieindkomster samt kapitalindkomst i selvstændig virksomhed. | 1983       | 2024    |
+| Ind | AINDK94                | Løn mm. (arbejdsmarkedsbidragspligtig indkomst hvoraf der betales foreløbig skat før udbetaling)                                                                                        | 1994       | 2024    |
+| Ind | AKAPSKL                | Anden kapitalindkomst i virksomhed end renteindtægter, excl. kapitalindkomst fra udlandet                                                                                               | 2002       | 2024    |
+| Ind | AKIHUBS                | Aktieudbytte af danske aktier hvor der er indeholdet udbyttetskat.                                                                                                                      | 1997       | 2024    |
+| Ind | AKIIHUBS               | Gevinst/tab på danske aktier og investeringsforeningsbeviser samt udbytte/udlodning, hvor der ikke er indeholdt udbytteskat                                                             | 1997       | 2024    |
+| Ind | AKTIEINDK              | Udbytte samt gevinst/tab på aktier og visse aktiebaserede investeringsforeningsbeviser                                                                                                  | 1980       | 2024    |
+| Ind | AKTIUDL                | Udbytte af udenlandske aktier samt visse gevinster og tab på udenlandske aktier                                                                                                         | 1995 | 2024 |
+| Ind | AKTKOEB                | Aktieoptionsaflønning, skattepligtig                                                                                                                                                    | 2002 | 2024 |
+| Ind | ALDER_ULT_INK          | Personens alder på referenecetidspunktet, 31. 12. det pågældende år                                                                                                                     | 1980 | 2024 |
+| Ind | AMTSSK                 | Amtsskat                                                                                                                                                                                | 1980 | 2006 |
+| Ind | ANDAKAS                | Anden understøttelse fra arbejdsløshedskasser                                                                                                                                           | 1994 | 2024 |
+| Ind | ANDBISTANDYD           | Andre ydelser fra kommuner og a-kasser                                                                                                                                                  | 1980 | 2013 |
+| Ind | ANDFRAD                | Fradrag i personlig indkomst                                                                                                                                                            | 2002 | 2024 |
+| Ind | ANDOVERFORSEL          | Andre overførsler består af SU, boligstøtte og børnetilskud.                                                                                                                            | 1984 | 2013 |
+| Ind | ANKAPPER               | Andre kapitalindkomster end renteindtægter, excl. kapitalindkomster i virksomhed og visse udenlandske indkomster                                                                        | 2002 | 2024 |
+| Ind | ANPERIND               | Anden personlig indkomst                                                                                                                                                                | 1997 | 2024 |
+| Ind | ANUDLAK                | Gevinster og tab på udenlandske aktier som ikke er omfattet af en skattemæssig lempelse                                                                                                 | 1997 | 2024 |
+| Ind | ARBBIDMVALM            | Arbejdsmarkedsbidrag og særlig pension af erhvervsindkomst                                                                                                                              | 1994 | 2024 |
+| Ind | ARBFORS                | Arbejdsløshedsforsikring, faglige kontingenter, efterløns- og fleksydelsesbidrag (Rubrik52)                                                                                             | 1984 | 2024 |
+| Ind | ARBLHU                 | Arbejdsløshedsdagpenge                                                                                                                                                                  | 1980 | 2024 |
+| Ind | ARBLHUMV               | Arbejdsløshedsdagpenge og uddannelsesgodtgørelse                                                                                                                                        | 1980 | 2024 |
+| Ind | ASKPLI                 | Anden arbejdsmarkedsbidragsfri a-skattepligtig indkomst                                                                                                                                 | 2002 | 2024 |
+| Ind | ATPABES                | Indbetalinger til ATP på A-satsen i forbindelse med et ansættelsesforhold, både arbejdstager og arbejdsgivers bidrag (AKM)                                                              | 1997 | 2024 |
+| Ind | ATPBBES                | ATP-bidrag på B-satsen i forbindelse med et ansættelsesforhold (AKM)                                                                                                                    | 1997 | 2024 |
+| Ind | ATPCBES                | ATP-bidrag på C-satsen i forbindelse med et ansættelsesforhold (AKM)                                                                                                                    | 1997 | 2024 |
+| Ind | ATPDBES                | ATP-bidrag på D-satsen i forbindelse med et ansættelsesforhold( fra 2009) (AKM)                                                                                                         | 2006 | 2024 |
+| Ind | ATPEBES                | ATP-bidrag på E-satsen i forbindelse med et ansættelsesforhold(fra 2010) (AKM)                                                                                                          | 2010 | 2024 |
+| Ind | ATPFBES                | ATP-bidrag på F-satsen i forbindelse med et ansættelsesforhold(fra 2011) (AKM)                                                                                                          | 2011 | 2024 |
+| Ind | ATPSAML                | Samlet ATP-bidrag i året                                                                                                                                                                | 1997 | 2024 |
+| Ind | BANKAKT                | Indestående i pengeinstitut pr. 31. 12                                                                                                                                                  | 1995 | 2024 |
+| Ind | BANKGAELD              | Gæld til pengeinstitutter mv. pr. 31. 12                                                                                                                                                | 1987 | 2024 |
+| Ind | BARNEP                 | Dagpenge udbetalt af a-kasse ved orlov til børnepasning                                                                                                                                 | 1994 | 2013 |
+| Ind | BDAGP                  | Syge- og barselsdagpenge udbetalt af kommunerne til selvstændige                                                                                                                        | 1980 | 2024 |
+| Ind | BEFORDR                | Det selvangivne beløb vedr. befordring (fradrag i skattepligtig indkomst)                                                                                                               | 1984 | 2024 |
+| Ind | BESKST                 | Beskæftigelsesstatus 1980 til 2001 (Indkomst/AKM)                                                                                                                                       | 1980 | 2001 |
+| Ind | BESKST02               | Beskæftigelsesstatus fra 2002 (Indkomst/AKM)                                                                                                                                            | 2002 | 2013 |
+| Ind | BESKST13               | Kode for personens væsentligste indkomstkilde (INDKOMST/AKM)                                                                                                                            | 1980 | 2024 |
+| Ind | BOSBOERN               | Boligstøtte og børnetilskud                                                                                                                                                             | 2002 | 2024 |
+| Ind | BRUTTO                 | Skattepligtig bruttoindkomst før fradrag i kr. ( 1980 -2013)                                                                                                                            | 1980 | 2013 |
+| Ind | BUNSKA                 | Beregnet bundskat til staten                                                                                                                                                            | 1994 | 2024 |
+| Ind | CORFRYNS               | Skattemæssig værdi af frynsegoder i forbindelse med beskæftigelse                                                                                                                       | 1993 | 2024 |
+| Ind | CORLOEN                | Kontant løn fra indberetninger til skats oplysningsseddelregister/e-indkomstregister                                                                                                    | 2002 | 2024 |
+| Ind | CPRTJEK                | CPR-tjek                                                                                                                                                                                | 1980 | 2024 |
+| Ind | CPRTYPE                | CPR-type                                                                                                                                                                                | 1980 | 2024 |
+| Ind | DAGPENGE_KONTANT_13    | Dagpenge og kontanthjælp mv. ialt                                                                                                                                                       | 1980 | 2024 |
+| Ind | DAKTIE                 | Udbytte samt gevinst/tab på danske aktier og visse aktiebaserede investeringsforeningsbeviser                                                                                           | 2002 | 2024 |
+| Ind | DELPENS                | Delpension                                                                                                                                                                              | 1988 | 2005 |
+| Ind | DISPON_13              | Indkomst efter skat og renteudgifter tillagt beregnet lejeværdi af egen bolig.                                                                                                          | 1980 | 2024 |
+| Ind | DISPON_NY              | Indkomst efter skat og renter (samlet indkomst fratrukket renteudgifter, skat m.m.)                                                                                                     | 1980 | 2013 |
+| Ind | DSPSUM                 | Særligt pensionsbidrag                                                                                                                                                                  | 1998 | 2008 |
+| Ind | EFTLEVHJ               | Efterlevelseshjælp                                                                                                                                                                      | 2000 | 2024 |
+| Ind | EFTLOEN                | Efterløn ( fra 2009 ink.l fleksydelse)                                                                                                                                                  | 1980 | 2024 |
+| Ind | EJD_SKAT_EJER_BOLIG    | Ejendomsskat(grundskyld) for boligejere                                                                                                                                                 | 2010 | 2024 |
+| Ind | EJD_SKAT_LEJER_BOLIG   | Ejendomsskat(grundskyld) for lejere                                                                                                                                                     | 2010 | 2024 |
+| Ind | EJENDOMSVURDERING      | Kontant ejendomsværdi af ejendomme i Danmark ejet pr. 31. 12                                                                                                                            | 1994 | 2024 |
+| Ind | EJVSKAT                | Ejendomsværdiskat                                                                                                                                                                       | 2000 | 2024 |
+| Ind | ERHVERVSINDK           | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. visse honorarer                                                                                                  | 1994 | 2013 |
+| Ind | ERHVERVSINDK_13        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed inkl. visse honorarer                                                                                                  | 1980 | 2024 |
+| Ind | ERHVERVSINDK_GL        | Erhvervsindkomst, løn og nettooverskud af selvstændig virksomhed                                                                                                                        | 1980 | 2013 |
+| Ind | ETABHUI                | Indskud på etableringskonto (rubrik 57)                                                                                                                                                 | 1984 | 2024 |
+| Ind | FAGFKDB                | Fagforeningskontingent i kr.- det beløb der kan fratrækkes på selvangivelsen                                                                                                            | 1993 | 2024 |
+| Ind | FERIE_DAGPENGE         | Dagpenge udbetalt af a_kasse til medlemmer på ferie                                                                                                                                     | 2009 | 2024 |
+| Ind | FLEXLON_TILSKUD        | Tilskud til flexløn                                                                                                                                                                     | 2013 | 2024 |
+| Ind | FLEXYD                 | Fleksydelse                                                                                                                                                                             | 2010 | 2024 |
+| Ind | FOLKEFORTID_13         | Folke- og førtidspension mv.                                                                                                                                                            | 1980 | 2024 |
+| Ind | FORM                   | Skattemæssigt beregnet værdi af nettoformuen ultimo året, ekskl. pensionsformuer                                                                                                        | 1980 | 1997 |
+| Ind | FORMREST_NY05          | Nettorestformue ultimo året, ekskl. pensionsformuer                                                                                                                                     | 1997 | 2024 |
+| Ind | FORMUEINDK_BRUTTO      | Renteindtægter og realiserede tab/gevinster på værdipapirer, ekskl. beregnet lejeværdi af egen bolig- fra1987 ekskl. indkomst fra selvstændig virksomhed                                | 1980 | 2024 |
+| Ind | FORMUEINDK_NY          | Samlede formueindkomster inkl. beregnet lejeværdi af egen bolig                                                                                                                         | 1980 | 2013 |
+| Ind | FOSFUFRD               | Pensionsbidrag privattegnet ordning med løbende udbetaling/ ratepension ( fradragsberttiget del)                                                                                        | 1980 | 2024 |
+| Ind | FRADRAG                | Samlet beregnet fradrag i skattepligtig indkomst                                                                                                                                        | 1980 | 2024 |
+| Ind | FRADRAGBES             | Beskæftigelsesfradrag                                                                                                                                                                   | 2007 | 2024 |
+| Ind | FRDUDL                 | Skattemæssige fradrag for lempelsesberettigede indkomster fra udlandet                                                                                                                  | 2002 | 2024 |
+| Ind | FRIOFBEF               | Markering for frikort til offentlig befordring                                                                                                                                          | 1996 | 2024 |
+| Ind | GAELD_TIL_OFF          | Rentebærende restancer til skat                                                                                                                                                         | 2013 | 2016 |
+| Ind | GEVAFKAP               | Genvundne afskrivninger, kapitalindkomst. Fortjeneste/tab ved ophør af visse skibsprojekter, fortjeneste ved ophør af anden anpartsvirksomhed                                           | 1996 | 2024 |
+| Ind | GRON_CHECK             | Grøn check, kompensation for grønne afgifter                                                                                                                                            | 2010 | 2024 |
+| Ind | HAEDGAVS               | Hædersgaver m.v. hvoraf arbejdsmarkedsbidrag ikke skal betales, og hvor der ikke er indeholdt foreløbig skat                                                                            | 1996 | 2024 |
+| Ind | HONNY                  | Honoraraflønning, arbejdsmarkedsbidragspligtig                                                                                                                                          | 1994 | 2024 |
+| Ind | INDBEEFT               | Indbetaling til efterløn (efterlønsbidrag)                                                                                                                                              | 1999 | 2024 |
+| Ind | INDESTPI               | Indestående i pengeinstitutter mv., kursværdi af obligationer og pantebreve i depot pr. 31. december                                                                                    | 1983 | 2024 |
+| Ind | INDSKIB                | Nettoindkomst ved skibsanparter, inkl. vindmøller omfattet af anpartsreglerne                                                                                                           | 1986 | 2024 |
+| Ind | INTGRAYD               | Integrationsydelse til flygtninge-kontanthjælp til udlændinge                                                                                                                           | 1999 | 2024 |
+| Ind | INVUDL                 | Udlodning fra investeringsforening, hvor der er indeholdt udbytteskat                                                                                                                   | 1991 | 2024 |
+| Ind | JUBJUB                 | Jubilæumsgratiale og fratrædelsesgodtgørelse ekskl. pension                                                                                                                             | 2002 | 2024 |
+| Ind | KAPINDKP               | Skattemæssig kapitalindkomst beregnet af Skat                                                                                                                                           | 1987 | 2024 |
+| Ind | KAPITIALT              | Samlet kapitalindkomst ekskl. aktieindkomster                                                                                                                                           | 2002 | 2024 |
+| Ind | KAPITPRIV              | Samlet kapitalindkomst ekskl. aktieindkomster og ekskl. kapitalindkomst fra virksomhed                                                                                                  | 2002 | 2024 |
+| Ind | KAPITVIRK              | Samlet kapitalindkomst fra virksomhed                                                                                                                                                   | 2002 | 2024 |
+| Ind | KAPPENS                | Skattemæssigt fradrag i personlig indkomst vedr. privattegnet kapitalpension og kapitalforsikring                                                                                       | 1987 | 2013 |
+| Ind | KAPVAERS               | Reservefondsudlodninger fra kreditforeninger samt kapitalværdistigninger af pensionsordninger af typen kapitalforsikring                                                                | 1993 | 2024 |
+| Ind | KHFLYGT                | Aktiveringsydelse- kontanthjælpsmodtagere                                                                                                                                               | 1994 | 2024 |
+| Ind | KISKAT                 | Kirkeskat for medlemmer af folkekirken                                                                                                                                                  | 1980 | 2024 |
+| Ind | KMSKAT                 | Kommuneskat                                                                                                                                                                             | 1980 | 2024 |
+| Ind | KOEJD                  | Kontant værdi af ejendomme i Danmark ejet pr. 31. 12                                                                                                                                    | 1983 | 2024 |
+| Ind | KOM_RES_FORLOB         | Kommunalt ressource forløb, ressourceforløbsydelse                                                                                                                                      | 2013 | 2024 |
+| Ind | KONTANTHJ_13           | Kontanthjælp (underhold/forsørgelse)                                                                                                                                                    | 1994 | 2024 |
+| Ind | KONTHJ                 | Skattepligtig kontanthjælp (underhold/forsørgelse)                                                                                                                                      | 1994 | 2024 |
+| Ind | KONTSKFRI              | Skattetfri kontanthjælp                                                                                                                                                                 | 2002 | 2024 |
+| Ind | KONT_GL                | Kontanthjælpsydelser 1980 - 1993                                                                                                                                                        | 1980 | 1993 |
+| Ind | KORSTOETT              | Boligsikring og boligydelse                                                                                                                                                             | 1984 | 2024 |
+| Ind | KORYDIAL               | Udbetalte børnetilskud og familieydelser efter opregning til hele kalenderåret                                                                                                          | 1984 | 2024 |
+| Ind | KURSAKT                | Kursværdi af danske aktier og investeringsforeningsbeviser i depot pr. 31. december                                                                                                     | 1984 | 2024 |
+| Ind | KURSGEVINSTER          | Ingen label                                                                                                                                                                             | 2019 | 2024 |
+| Ind | KURSUSG                | Godtgørelse for kursus og kørsel i forbindelse med arbejdsmarkedsuddannelse og enkeltfag                                                                                                | 1994 | 2024 |
+| Ind | LEDIGHEDSYDELSE        | Ydelse udbetalt til ledige personer visiteret til flexjob                                                                                                                               | 2005 | 2024 |
+| Ind | LEJEV_EGEN_BOLIG       | Beregnet lejeværdi af egen bolig                                                                                                                                                        | 1980 | 2024 |
+| Ind | LEJINDT                | Den skattepligtige nettolejeindtægt ved udleje af helårsbolig en del af året samt sommerhus- og værelsesudlejning.                                                                      | 1993 | 2024 |
+| Ind | LIGNFRDP               | Ligningsmæssige fradrag                                                                                                                                                                 | 1987 | 2024 |
+| Ind | LOENMIO                | Øvrige lønmodtagerudgifter (rubrik 58)                                                                                                                                                  | 1984 | 2024 |
+| Ind | LOENMV                 | Lønindkomst i alt                                                                                                                                                                       | 1980 | 2013 |
+| Ind | LOENMV_13              | Lønindkomst i alt                                                                                                                                                                       | 1980 | 2024 |
+| Ind | LOENSKPL               | Skattepligtig lønindkomst inkl. værdi af frynsegoder, og inkl. skattepligtig løn fra udlandet.                                                                                          | 2002 | 2024 |
+| Ind | MLLSKA                 | Beregnet mellemskat til staten                                                                                                                                                          | 1994 | 2009 |
+| Ind | NETOVSKUD              | Nettooverskud af selvstændig virksomhed inkl. visse honorarer, før kapitalindtægter og udgifter                                                                                         | 1994 | 2013 |
+| Ind | NETOVSKUD_13           | Nettooverskud af selvstændig virksomhed ( fra 1987 efter kapitalindtægter og udgifter)                                                                                                  | 1980 | 2024 |
+| Ind | NETOVSKUD_GL           | Nettooverskud af selvstændig virksomhed, før kapitalindtægter og udgifter                                                                                                               | 1980 | 2013 |
+| Ind | NYSTGR                 | Stillingsgruppering 1980 til 1995 (AKM)                                                                                                                                                 | 1980 | 1995 |
+| Ind | OBLAKT                 | Kursværdi af obligationer i depot (aktiver) pr. 31. 12                                                                                                                                  | 1995 | 2024 |
+| Ind | OBLGAELD               | Kursværdi af obligationsgæld pr. 31. 12                                                                                                                                                 | 1995 | 2024 |
+| Ind | OFFPENS                | Folke- og førtidspension                                                                                                                                                                | 1980 | 2024 |
+| Ind | OFFPENS_EFTERLON_13    | førtids- og folkepenion, varmehjælp, efterløn og fleksydelse.                                                                                                                           | 1980 | 2024 |
+| Ind | OFF_OVERFORSEL_13      | Offentlige overførsler                                                                                                                                                                  | 1980 | 2024 |
+| Ind | OMFANG                 | Omfang af skattepligt                                                                                                                                                                   | 1980 | 2024 |
+| Ind | OMFSKPL                | Kode der angiver skattepligtens omfang                                                                                                                                                  | 1980 | 2001 |
+| Ind | OVERFORSINDK           | Overførselsindkomster inkl. udbetalinger fra pensionskasser, ratepension mv.                                                                                                            | 1980 | 2013 |
+| Ind | OVERG                  | Overgangsydelse                                                                                                                                                                         | 1994 | 2006 |
+| Ind | OVRIG_DAGPENGE_AKAS_13 | Alle udbetalinger fra A-kasser bortset fra efterløn/overgangsydelse, arbejdsløshedsunderstøttelse og dagpenge under kursus/uddannelse                                                   | 1980 | 2024 |
+| Ind | OVRIG_KONTANTHJALP_13  | Aktiverings, ledighed- og revalideringsydelse mv.                                                                                                                                       | 1983 | 2024 |
+| Ind | OVRIG_OVERFORSEL_13    | Andre overførsler. SU, boligstøtte, grøn check og børnetilskud.                                                                                                                         | 1983 | 2024 |
+| Ind | OVSKEJD                | Beregnet lejeværdi af egen bolig (beregnet af SKAT)                                                                                                                                     | 1980 | 1999 |
+| Ind | OVSKEJD02_NY           | Beregnet lejeværdi af egen bolig                                                                                                                                                        | 1984 | 2006 |
+| Ind | OVSKEJD07              | Beregnet lejeværdi af egen bolig                                                                                                                                                        | 2007 | 2013 |
+| Ind | PANTAKT                | Kursværdi af pantebreve i depot (aktiver) pr. 31. 12.                                                                                                                                   | 1995 | 2024 |
+| Ind | PANTGAELD              | Pantebrevsgæld pr. 31. 12                                                                                                                                                               | 1987 | 2024 |
+| Ind | PASBOERN               | Andre ydelser fra kommuner end kontanthjælp, aktivering, revalidering, introduktionsydelse og efterlevelseshjælp                                                                        | 1994 | 2004 |
+| Ind | PENBPA                 | Arbejdsmarkedsbidragspligtige pensionsudbetalinger                                                                                                                                      | 1994 | 2024 |
+| Ind | PENBPB                 | Pensionsudbetalinger fra tidligere arbejdsgivere ikke arbejdsmarkedsbidragspligtig                                                                                                      | 1994 | 2024 |
+| Ind | PENSBLB2               | Pension udbetalt af forsikringsselskab eller pengeinstitut                                                                                                                              | 1990 | 2024 |
+| Ind | PENSBLB7               | Pension fra pensionskasse                                                                                                                                                               | 1991 | 2024 |
+| Ind | PERINDKIALT            | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig og før fradrag af renteudgifter                                                                                            | 1980 | 2013 |
+| Ind | PERINDKIALT_13         | Personindkomst i alt ekskl. beregnet lejeværdi af egen bolig                                                                                                                            | 1980 | 2024 |
+| Ind | PERINDKP               | Skattemæssig personlig indkomst beregnet af Skat                                                                                                                                        | 1987 | 2024 |
+| Ind | PEROEVRIGFORMUE        | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommerhus mv.                                                                                                           | 1980 | 2013 |
+| Ind | PEROEVRIGFORMUE_13     | Aktieindkomst, overskud/underskud af skibsanparter, lejeindtægt sommerhus mv.,fra1987 ekskl.formueindkomst i virksomhed                                                                 | 1980 | 2024 |
+| Ind | PERSAMLINKNETRENT_NY   | Samlede indkomster inkl. beregnet lejeværdi fratrukket fradragsberettige renteudgifter ved skatteligningen                                                                              | 1980 | 2013 |
+| Ind | PERSONINDK             | Personindkomst i alt uden formueindkomst, og før fradrag af arbejdsmarkedsbidrag og særlig pensionsbidrag.                                                                              | 1980 | 2024 |
+| Ind | PFRDKM                 | Personfradrag til kommune, amt/sundhedsbidrag og kirke, som skatteyderen er berettiget til                                                                                              | 1983 | 2024 |
+| Ind | PFRDST                 | Personfradrag, staten yder skatteyderen ved beregning af statsskat                                                                                                                      | 1980 | 2024 |
+| Ind | PNR                    | Personnummer                                                                                                                                                                            | 1980 | 2024 |
+| Ind | PRE_SOCIO              | Socioøkonomisk klassifikation (Indkomst/AKM)                                                                                                                                            | 1980 | 2024 |
+| Ind | PRIVAT_PENSION_13      | Udbetalte private pensioner.                                                                                                                                                            | 1991 | 2024 |
+| Ind | QAKTIE                 | Værdi af aktieoptionsaflønnning                                                                                                                                                         | 2002 | 2024 |
+| Ind | QAKTIVF                | Samlede aktiver ultimo året ekskl. pensionsformuer                                                                                                                                      | 1980 | 2005 |
+| Ind | QAKTIVF_NY05           | Aktiver ultimo året, ekskl. pensionsformuer                                                                                                                                             | 1995 | 2024 |
+| Ind | QAKTSKA                | Skat af de aktieindkomster,der indberettes til skat.                                                                                                                                    | 1994 | 2024 |
+| Ind | QANDEN                 | Honorarer hvoraf der ikke skal betales arbejdsmarkedsbidrag og foreløbig skat (A-skat) men er skattepligtigt                                                                            | 2002 | 2024 |
+| Ind | QANDPENS               | Udbetalinger fra arbejdsmarkedspensioner( ekskl.tjenestemandspensioner) og private pensioner                                                                                            | 1991 | 2024 |
+| Ind | QARBLOS                | Udbetalinger fra arbejdsløshedskasser af arbejdsløshedsdagpenge og lign.                                                                                                                | 2002 | 2024 |
+| Ind | QBISTYD                | Kontanthjælps-, aktiverings-, revaliderings, integrations-, og ledighedsydelse                                                                                                          | 1994 | 2024 |
+| Ind | QBISTYD2               | Skattepligtig kontanthjælps-, aktiverings- og revalideringsydelser                                                                                                                      | 1994 | 2024 |
+| Ind | QEFTLON                | Efterløn, overgangsydelse og(fra2008 flexydelse)                                                                                                                                        | 1980 | 2024 |
+| Ind | QHVIRKSK               | Foreløbig betalt skat af beløb hævet i virksomhedsordningerne                                                                                                                           | 1988 | 2024 |
+| Ind | QIVARK                 | Ydelse udbetalt af a-kasser til iværksættere                                                                                                                                            | 1988 | 2001 |
+| Ind | QMIDYD                 | Midlertidige overførselsindkomster (kontanthjælpsydelser, dagpenge inkl. orlovsydelser)                                                                                                 | 1980 | 2013 |
+| Ind | QORLOV                 | Dagpengevedorlovtil børnepasning og sabbat                                                                                                                                              | 2002 | 2003 |
+| Ind | QORLOV2                | Dagpenge udbetalt af a-kasse ved orlov til børnepasning, uddannelse og sabbat                                                                                                           | 1994 | 2013 |
+| Ind | QPASSIV                | Skattemæssigt beregnet værdi af passiver ultimo året                                                                                                                                    | 1980 | 1996 |
+| Ind | QPASSIVN               | Passiver ultimo året                                                                                                                                                                    | 1995 | 2024 |
+| Ind | QPENSIALT              | Alle pensionsindkomster                                                                                                                                                                 | 1980 | 2013 |
+| Ind | QPENSNY                | Folke- og førtidspension, delpension samt skattefrie tillæg til førtidspensionister.                                                                                                    | 1980 | 2013 |
+| Ind | QPENSPRI               | Udbetalinger fra arbejdsmarkedspensioner(ekskl.tjenestemandspension) og private pensioner fra Danmark                                                                                   | 1991 | 2024 |
+| Ind | QRENTIND               | Samlede skattepligtige renteindtægter fra Danmark undtagen renteindtægt i selvstændig virksomhed                                                                                        | 1980 | 2024 |
+| Ind | QRENTUD2               | Samlede fradragsberettigede renteudgifter inkl. virksomhedsrenter                                                                                                                       | 1980 | 2013 |
+| Ind | QSAR                   | En række engangsindtægter samt fortjeneste ved salg af ejendom under visse forudsætninger                                                                                               | 1980 | 1995 |
+| Ind | QSKATFRI               | Skattefri løn fra politi og retsvæsen Grønland, DANIDA m. fl.                                                                                                                           | 1994 | 2024 |
+| Ind | QSPLINDK               | Skattepligtig indkomst                                                                                                                                                                  | 1980 | 2024 |
+| Ind | QTILPENS               | Udbetalte pensioner fra ATP (ATP, særlig og midlertidig pension)                                                                                                                        | 1980 | 2024 |
+| Ind | QTJPENS                | Tjenestemandspension inkl. pension til efterladte ægtefæller og børn.                                                                                                                   | 1991 | 2024 |
+| Ind | QUDDYDL                | Uddannelsesgodtgørelse til ledige                                                                                                                                                       | 1988 | 2024 |
+| Ind | QUDINK                 | Anden personlig indkomst fra udlandet end løn                                                                                                                                           | 2002 | 2024 |
+| Ind | RENTBANK               | Renteindtægt af obligationer, pantebreve i depot samt indestående i pengeinstitutter i Danmark, ekskl. renteindtægt i selstændig virksomhed                                             | 1980 | 2024 |
+| Ind | RENTEINDK              | Samlede skattepligtige renteindtægter fra Danmark-fra 2010 ekskl. renteindtægt af pantebreve uden for depot)                                                                            | 1980 | 2013 |
+| Ind | RENTPBED               | Renteindtægter af pantebreve der ikke er i depot inkl. renter af solgte og indfriede pantebreve, ekskl. renteindtægter fra udlandet og ekskl. renteindtægter i selvstændig virksomhed   | 1993 | 2009 |
+| Ind | RENTUDGPR              | Fradragsberettigede renteudgifter, ekskl. renteudgifter fra udlandet og ekskl. renteudgifter i selvstændig virksomhed                                                                   | 1980 | 2024 |
+| Ind | RENTUDIO               | Øvrige rentudgifter, ekskl. lempelsesberettigede renteudgifter til udlandet og renteudgift i selvstændig virksomhed                                                                     | 1984 | 2024 |
+| Ind | RENTUPRI               | Renteudgift vedrørende prioritetsgæld, ekskl. renteudgifter til udlandet, ekskl. renteudgifter i selvstændig virksomhed                                                                 | 1984 | 2024 |
+| Ind | RENTVIRK               | Renteindtægter, der vedrører virksomhed (inkl. nettorenteindtægter fra udlandet,) samt indkomstskattepligtige kursgevinster i virksomhed.                                               | 2002 | 2024 |
+| Ind | RESUINK                | Restindkomst inkl. børnebidrag                                                                                                                                                          | 1994 | 2013 |
+| Ind | RESUINK_13             | Restindkomst inkl. børnebidrag                                                                                                                                                          | 1980 | 2024 |
+| Ind | RESUINK_GL             | Restindkomst inkl. honoraraflønning og børnebidrag                                                                                                                                      | 1980 | 2013 |
+| Ind | REVAL                  | Revalideringsydelse                                                                                                                                                                     | 1994 | 2024 |
+| Ind | RNTIOVIR               | Renteindtægter fra Danmark i virksomhed                                                                                                                                                 | 1987 | 2024 |
+| Ind | RNTUDIOV               | Renteudgifter i virksomhed                                                                                                                                                              | 1987 | 2024 |
+| Ind | RNTUDSTU               | Renteudgifter af studielån fra Økonomistyrelsen/fra SU-styrelsen                                                                                                                        | 1988 | 2024 |
+| Ind | RNT_UDG_OFF_GAELD      | Renteudgifter af gæld til det offentlige                                                                                                                                                | 2013 | 2019 |
+| Ind | RUDGBANK               | Renteudgifter til pengeinstitutter inkl. pantebreve i depot, (ekskl. renteudgifter til studielån, boligstøttelån, renteudgifter til udlandet og renteudgifter i selvstændig virksomhed) | 1987 | 2024 |
+| Ind | SAMLINK_NY             | Samlet indkomst inkl. beregnet lejeværdi før fradrag af renteudgifter, og før fradrag af arbejdsmarkedsbidrag og særlig pensionsbidrag.                                                 | 1980 | 2013 |
+| Ind | SAMSKAT                | Kode der angiver, om en person er sambeskattet med en anden person                                                                                                                      | 1980 | 2024 |
+| Ind | SFRIFOND               | Skattefri uddelinger fra fonde og foreninger mv.                                                                                                                                        | 1995 | 2024 |
+| Ind | SKATFRIYD              | Skattefrie indkomster                                                                                                                                                                   | 1980 | 2024 |
+| Ind | SKATMVIALT_13          | Skat, arbejdsmarkedsbidrag og særlig pension i alt. ekskl. kirkeskat                                                                                                                    | 1980 | 2024 |
+| Ind | SKATMVIALT_NY          | Skat, arbejdsmarkedsbidrag og særlig pension i alt                                                                                                                                      | 1980 | 2013 |
+| Ind | SKATTOT_13             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt skat ekskl. kirkeskat                                                                                               | 1980 | 2024 |
+| Ind | SKATTOT_NY             | Samlet personlig slutskat for en skatteyder inkl. udenlandsk betalt skat                                                                                                                | 1980 | 2013 |
+| Ind | SKPLDGAN               | Antal skattepligtige dage i året                                                                                                                                                        | 1980 | 2001 |
+| Ind | SLUSKAT                | Samlet slutskat for en skatteyder                                                                                                                                                       | 1980 | 2024 |
+| Ind | SLUTBID                | Samlet arbejdsmarkedsbidrag                                                                                                                                                             | 1994 | 2024 |
+| Ind | SLUT_LIGNET            | Markering for slutligning                                                                                                                                                               | 2014 | 2024 |
+| Ind | SOEMAND                | Lønindkomst fra ansættelse som sømand, registreret i Skats Slutligningsregister som sømandsindkomst                                                                                     | 1994 | 2024 |
+| Ind | ST12PCT                | 12 pct. skat til staten                                                                                                                                                                 | 1987 | 1993 |
+| Ind | ST22PCT                | 22 pct. skat til staten                                                                                                                                                                 | 1987 | 1993 |
+| Ind | ST6PCT                 | 6 pct. skat til staten                                                                                                                                                                  | 1987 | 1993 |
+| Ind | STIP                   | Stipendier fra Statens Uddannelsesstøtte - SU                                                                                                                                           | 1983 | 2024 |
+| Ind | STSKAT                 | Statsskatten                                                                                                                                                                            | 1980 | 2024 |
+| Ind | SUNDHEDSBIDRAG         | Sundhedsbidrag                                                                                                                                                                          | 2007 | 2018 |
+| Ind | SYG_BARSEL_13          | Udbetalte sygedagpenge fra kommuner                                                                                                                                                     | 1980 | 2024 |
+| Ind | TBKONT                 | Tilbagebetalt kontanthjælp og øvrige fradrag                                                                                                                                            | 2002 | 2024 |
+| Ind | TBKONTHJ               | Tilbagebetalt kontanthjælp                                                                                                                                                              | 1997 | 2024 |
+| Ind | TILBTOT                | Skattefrit tillæg til folke- og førtidspensionister inkl. tidligere førtidspensionister overgået til folkepension                                                                       | 1984 | 2024 |
+| Ind | TOPSKA                 | Beregnet topskat til staten                                                                                                                                                             | 1994 | 2024 |
+| Ind | UDBYTTER               | Ingen label                                                                                                                                                                             | 2019 | 2024 |
+| Ind | UDDAN                  | Dagpenge udbetalt af a-kasse ved orlov under uddannelse                                                                                                                                 | 1994 | 2003 |
+| Ind | UDD_YD                 | Uddannelsesydelse/ledighedsydelse/arbejdsmarkedsydelse til ledige der opbruger deres dagpengeret                                                                                        | 2013 | 2024 |
+| Ind | UDKAINVR               | Nettorenter i udenlandsk virksomhed                                                                                                                                                     | 1987 | 2024 |
+| Ind | UDLAKT                 | Udenlandske aktiver                                                                                                                                                                     | 2002 | 2024 |
+| Ind | UDLFAKF                | Udenlandsk kapitalindkomst, såfremt denne er omfattet af en skattemæssig lempelsesregel                                                                                                 | 1986 | 2024 |
+| Ind | UDLIN2KA               | Udenlandsk kapitalindkomst der er i følge en dobbeltbeskatningsoverenskomst er omfattet af reglerne om gammel exemption (skattefri)                                                     | 1987 | 2024 |
+| Ind | UDLOEN                 | Løn for arbejde i udlandet, del der kan skelnes fra anden udenlandsk pers. indk.                                                                                                        | 2002 | 2024 |
+| Ind | UDLPENS                | Pensioner fra udlandet                                                                                                                                                                  | 1998 | 2024 |
+| Ind | UDLSKAT                | Udenlandsk betalt skat af indkomster i udlandet                                                                                                                                         | 2002 | 2024 |
+| Ind | UDPRIGAEL              | Gæld til realkreditinstitutter, pengeinstitutter mv. i udlandet                                                                                                                         | 1997 | 2024 |
+| Ind | ULAKTIE                | Udbytter fra udenlandske aktier samt gevinst og tab på udenlandske aktier mm.                                                                                                           | 2002 | 2024 |
+| Ind | UNDERHOL               | Betalt underholdsbidrag (fradrag i skattepligtig indkomst)                                                                                                                              | 1980 | 2024 |
+| Ind | UNHINDK                | Modtaget underholdsbidrag og børnebidrag                                                                                                                                                | 1997 | 2024 |
+| Ind | VARMEHJALP             | Varmehjælp til folkepensionister                                                                                                                                                        | 2002 | 2024 |
+| Ind | VERSION                | Moduldata version                                                                                                                                                                       | 2004 | 2024 |
+| Ind | VIRKKOD                | Kode til angivelse af, om skatteberegning foretages inden for eller uden for virksomhedsordningen                                                                                       | 1987 | 2024 |
+| Ind | VIRKORDIND             | Beløb indsat i virksomhedsordningerne netto (speciel ordning for selvstændige og kunstnere)                                                                                             | 1987 | 2024 |
+| Ind | VIRKSK                 | Foreløbig skat af beløb overført til virksomhedsordningen og konjunkturudligningsordningen og kunstnerordningen                                                                         | 1987 | 2024 |
+| Ind | VIRKSOMHEDS_PRAKTIK    | Dagpenge til personer i virksomhedspraktik                                                                                                                                              | 2009 | 2024 |:::
 
 ::: {.callout-warning collapse="true"}
 ## KOTRE 2024
