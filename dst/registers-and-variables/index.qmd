@@ -4257,6 +4257,8 @@ Below you will find a full describtion of all DST registers and variables in the
 | Ind | VIRKORDIND             | Beløb indsat i virksomhedsordningerne netto (speciel ordning for selvstændige og kunstnere)                                                                                             | 1987       | 2024    |
 | Ind | VIRKSK                 | Foreløbig skat af beløb overført til virksomhedsordningen og konjunkturudligningsordningen og kunstnerordningen                                                                         | 1987       | 2024    |
 | Ind | VIRKSOMHEDS_PRAKTIK    | Dagpenge til personer i virksomhedspraktik                                                                                                                                              | 2009       | 2024    |
+:::
+
 ::: {.callout-warning collapse="true"}
 ## KOTRE 2024
 
