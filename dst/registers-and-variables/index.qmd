@@ -4281,73 +4281,73 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## LMDB 199512-202312
+## LMDB 199512-202412
 
 |      | Variable name | Variable label                             | Start year | Endyear |
 | ---- | ------------- | ------------------------------------------ | ---------- | ------- |
-| LMDB | ABC           | ABC-kode                                   | 200712     | 202312  |
-| LMDB | AIP           | Registerpris ("Apotekets indkøbspris") (s) | 199512     | 202312  |
-| LMDB | ALDR          | Alder på udleveringstidspunkt              | 199512     | 202312  |
-| LMDB | APK           | Antal pakninger                            | 199512     | 202312  |
-| LMDB | AREF          | Andre refusionsordninger                   | 199512     | 202312  |
-| LMDB | ATC           | ATC-kode detaljeret (s)                    | 199512     | 202312  |
-| LMDB | ATC1          | ATC-niveau 1 (s)                           | 199512     | 202312  |
-| LMDB | ATC2          | ATC-niveau 2 (s)                           | 199512     | 202312  |
-| LMDB | ATC3          | ATC-niveau 3 (s)                           | 199512     | 202312  |
-| LMDB | ATC4          | ATC-niveau 4 (s)                           | 199512     | 202312  |
-| LMDB | AUP           | Registerpris ("Apotekets udsalgspris") (s) | 199512     | 202312  |
+| LMDB | ABC           | ABC-kode                                   | 200712     | 202412  |
+| LMDB | AIP           | Registerpris ("Apotekets indkøbspris") (s) | 199512     | 202412  |
+| LMDB | ALDR          | Alder på udleveringstidspunkt              | 199512     | 202412  |
+| LMDB | APK           | Antal pakninger                            | 199512     | 202412  |
+| LMDB | AREF          | Andre refusionsordninger                   | 199512     | 202412  |
+| LMDB | ATC           | ATC-kode detaljeret (s)                    | 199512     | 202412  |
+| LMDB | ATC1          | ATC-niveau 1 (s)                           | 199512     | 202412  |
+| LMDB | ATC2          | ATC-niveau 2 (s)                           | 199512     | 202412  |
+| LMDB | ATC3          | ATC-niveau 3 (s)                           | 199512     | 202412  |
+| LMDB | ATC4          | ATC-niveau 4 (s)                           | 199512     | 202412  |
+| LMDB | AUP           | Registerpris ("Apotekets udsalgspris") (s) | 199512     | 202412  |
 | LMDB | BALD          | Barns alder                                | 199512     | 201112  |
-| LMDB | CPR_KOM       | CPR-bopælskommune på ekspeditionsdatoen    | 200512     | 202312  |
-| LMDB | CPR_REG       | CPR-bopælsregion på ekspeditionsdatoen     | 200512     | 202312  |
-| LMDB | CPRTJEK       | CPR-tjek                                   | 199512     | 202312  |
-| LMDB | CPRTYPE       | CPR-type                                   | 199512     | 202312  |
-| LMDB | DOSFORM       | Lægemiddelform (s)                         | 199512     | 202312  |
-| LMDB | DOSO          | Doseringskode                              | 200412     | 202312  |
-| LMDB | EDBL          | INGEN LABEL                                | 202012     | 202312  |
-| LMDB | EJS           | Fravalg af substitution                    | 199712     | 202312  |
-| LMDB | EKSD          | Ekspeditionsdato                           | 199512     | 202312  |
-| LMDB | EKSP          | Ekspeditionspris                           | 199512     | 202312  |
-| LMDB | EKST          | Ekspeditionstype                           | 199512     | 202312  |
-| LMDB | ETID          | Ekspeditionstidspunkt                      | 199712     | 202312  |
-| LMDB | IBGP          | Indberettet beregningsgrundlagspris        | 200112     | 202312  |
-| LMDB | IBNR          | Indberetternummer                          | 199512     | 202312  |
-| LMDB | INDO          | Indikationskode                            | 200412     | 202312  |
-| LMDB | ITYPE         | Indberettertype                            | 199512     | 202312  |
-| LMDB | KOM           | Kommunekode                                | 199512     | 202312  |
-| LMDB | KORR          | Korrektionskode                            | 199512     | 202312  |
-| LMDB | NAME          | Lægemidlets navn (Store bogstaver) (s)     | 199512     | 202312  |
-| LMDB | OVNR          | Ordineret varenummer                       | 199712     | 202312  |
-| LMDB | PACKSIZE      | Numerisk pakningsstørrelse (s)             | 199512     | 202312  |
-| LMDB | PACKTEXT      | PACKTEXT                                   | 199512     | 202312  |
-| LMDB | PATT          | Patienttype                                | 200012     | 202312  |
-| LMDB | PKSUBGR       | Pakningssubstitutionsgruppe                | 200712     | 202312  |
-| LMDB | PNR12         | CPR-nummer                                 | 199512     | 202312  |
-| LMDB | PPRS          | Udleveringsbestemmelse                     | 199512     | 202312  |
-| LMDB | PTP           | Patientbetaling                            | 199512     | 202312  |
-| LMDB | RAMT          | Amtskommunekode                            | 199512     | 202312  |
-| LMDB | RECA          | Autorisationskode for receptudsteder       | 200512     | 202312  |
-| LMDB | RECU          | Receptudsteder                             | 199512     | 202312  |
-| LMDB | RGL1          | 1\. Kommuneregelnummer                     | 199512     | 202312  |
-| LMDB | RGL2          | 2\. kommuneregelnummer                     | 199512     | 202312  |
-| LMDB | RGLA          | Amtskommunalt reglnummer                   | 199512     | 202312  |
-| LMDB | RIMB          | Tilskudskode                               | 199512     | 202312  |
-| LMDB | RINR          | Reiterationsnummer                         | 199512     | 202312  |
-| LMDB | SEKTOR        | Sektor                                     | 199512     | 202312  |
-| LMDB | STRENG        | Styrke, klartekst (s)                      | 199512     | 202312  |
-| LMDB | STRNUM        | Styrke, numerisk (s)                       | 199512     | 202312  |
-| LMDB | STRUNIT       | Enhed til numerisk styrke (s)              | 199512     | 202312  |
-| LMDB | TAKD          | Takstdato                                  | 199512     | 202312  |
-| LMDB | TARD          | Takseringsdato                             | 200012     | 202312  |
-| LMDB | TILPRIS       | Tilskudspris pr. pakning                   | 199512     | 202312  |
-| LMDB | TSK1          | 1\. Kommunale tilskud                      | 199512     | 202312  |
-| LMDB | TSK2          | 2\. Kommunale tilskud                      | 199512     | 202312  |
-| LMDB | TSK3          | Andre tilskud                              | 199512     | 202312  |
-| LMDB | TSKA          | Amtskommunalt tilskud                      | 199512     | 202312  |
-| LMDB | UDLV          | Udleveringssted                            | 199512     | 202312  |
-| LMDB | VNR           | Varenummer (s)                             | 199512     | 202312  |
-| LMDB | VOLTYPECODE   |                                            | 199512     | 202312  |
-| LMDB | VOLTYPETXT    |                                            | 199512     | 202312  |
-| LMDB | VOLUME        | Volume                                     | 199512     | 202312  |
+| LMDB | CPR_KOM       | CPR-bopælskommune på ekspeditionsdatoen    | 200512     | 202412  |
+| LMDB | CPR_REG       | CPR-bopælsregion på ekspeditionsdatoen     | 200512     | 202412  |
+| LMDB | CPRTJEK       | CPR-tjek                                   | 199512     | 202412  |
+| LMDB | CPRTYPE       | CPR-type                                   | 199512     | 202412  |
+| LMDB | DOSFORM       | Lægemiddelform (s)                         | 199512     | 202412  |
+| LMDB | DOSO          | Doseringskode                              | 200412     | 202412  |
+| LMDB | EDBL          | INGEN LABEL                                | 202012     | 202412  |
+| LMDB | EJS           | Fravalg af substitution                    | 199712     | 202412  |
+| LMDB | EKSD          | Ekspeditionsdato                           | 199512     | 202412  |
+| LMDB | EKSP          | Ekspeditionspris                           | 199512     | 202412  |
+| LMDB | EKST          | Ekspeditionstype                           | 199512     | 202412  |
+| LMDB | ETID          | Ekspeditionstidspunkt                      | 199712     | 202412  |
+| LMDB | IBGP          | Indberettet beregningsgrundlagspris        | 200112     | 202412  |
+| LMDB | IBNR          | Indberetternummer                          | 199512     | 202412  |
+| LMDB | INDO          | Indikationskode                            | 200412     | 202412  |
+| LMDB | ITYPE         | Indberettertype                            | 199512     | 202412  |
+| LMDB | KOM           | Kommunekode                                | 199512     | 202412  |
+| LMDB | KORR          | Korrektionskode                            | 199512     | 202412  |
+| LMDB | NAME          | Lægemidlets navn (Store bogstaver) (s)     | 199512     | 202412  |
+| LMDB | OVNR          | Ordineret varenummer                       | 199712     | 202412  |
+| LMDB | PACKSIZE      | Numerisk pakningsstørrelse (s)             | 199512     | 202412  |
+| LMDB | PACKTEXT      | PACKTEXT                                   | 199512     | 202412  |
+| LMDB | PATT          | Patienttype                                | 200012     | 202412  |
+| LMDB | PKSUBGR       | Pakningssubstitutionsgruppe                | 200712     | 202412  |
+| LMDB | PNR12         | CPR-nummer                                 | 199512     | 202412  |
+| LMDB | PPRS          | Udleveringsbestemmelse                     | 199512     | 202412  |
+| LMDB | PTP           | Patientbetaling                            | 199512     | 202412  |
+| LMDB | RAMT          | Amtskommunekode                            | 199512     | 202412  |
+| LMDB | RECA          | Autorisationskode for receptudsteder       | 200512     | 202412  |
+| LMDB | RECU          | Receptudsteder                             | 199512     | 202412  |
+| LMDB | RGL1          | 1\. Kommuneregelnummer                     | 199512     | 202412  |
+| LMDB | RGL2          | 2\. kommuneregelnummer                     | 199512     | 202412  |
+| LMDB | RGLA          | Amtskommunalt reglnummer                   | 199512     | 202412  |
+| LMDB | RIMB          | Tilskudskode                               | 199512     | 202412  |
+| LMDB | RINR          | Reiterationsnummer                         | 199512     | 202412  |
+| LMDB | SEKTOR        | Sektor                                     | 199512     | 202412  |
+| LMDB | STRENG        | Styrke, klartekst (s)                      | 199512     | 202412  |
+| LMDB | STRNUM        | Styrke, numerisk (s)                       | 199512     | 202412  |
+| LMDB | STRUNIT       | Enhed til numerisk styrke (s)              | 199512     | 202412  |
+| LMDB | TAKD          | Takstdato                                  | 199512     | 202412  |
+| LMDB | TARD          | Takseringsdato                             | 200012     | 202412  |
+| LMDB | TILPRIS       | Tilskudspris pr. pakning                   | 199512     | 202412  |
+| LMDB | TSK1          | 1\. Kommunale tilskud                      | 199512     | 202412  |
+| LMDB | TSK2          | 2\. Kommunale tilskud                      | 199512     | 202412  |
+| LMDB | TSK3          | Andre tilskud                              | 199512     | 202412  |
+| LMDB | TSKA          | Amtskommunalt tilskud                      | 199512     | 202412  |
+| LMDB | UDLV          | Udleveringssted                            | 199512     | 202412  |
+| LMDB | VNR           | Varenummer (s)                             | 199512     | 202412  |
+| LMDB | VOLTYPECODE   |                                            | 199512     | 202412  |
+| LMDB | VOLTYPETXT    |                                            | 199512     | 202412  |
+| LMDB | VOLUME        | Volume                                     | 199512     | 202412  |
 :::
 
 ::: {.callout-warning collapse="true"}
