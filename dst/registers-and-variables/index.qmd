@@ -138,63 +138,63 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BEF 198512-202412
+## BEF 198512-202512
 
 |     | Variable name       | Variable label                                            | Start year | Endyear |
 | --- | ------------------- | --------------------------------------------------------- | ---------- | ------- |
-| BEF | ADRESSE_ID          | INGEN LABEL                                               | 198512     | 202412  |
-| BEF | AEGTE_ID            | Personnummer Ægtefælle                                    | 198512     | 202412  |
-| BEF | ALDER               | Alder ultimo året før                                     | 198512     | 202412  |
-| BEF | ANTBOERNF           | ANTBOERNF                                                 | 198512     | 202412  |
-| BEF | ANTBOERNH           | ANTBOERNH                                                 | 198512     | 202412  |
-| BEF | ANTEFAM             | ANTEFAM                                                   | 198512     | 202412  |
-| BEF | ANTPERSF            | ANTPERSF                                                  | 198512     | 202412  |
-| BEF | ANTPERSH            | ANTPERSH                                                  | 198512     | 202412  |
-| BEF | BETALINGSKOM        | BETALINGSKOM                                              | 198512     | 202412  |
-| BEF | BOP_VFRA            | Dato for tilflytning/indvandring                          | 198512     | 202412  |
-| BEF | CIV_VFRA            | Civilstandsdato                                           | 198512     | 202412  |
-| BEF | CIVST               | Civilstand                                                | 198512     | 202412  |
-| BEF | CPRTJEK             | CPR-tjek                                                  | 198512     | 202412  |
-| BEF | CPRTYPE             | CPR-type                                                  | 198512     | 202412  |
-| BEF | E_FAELLE_ID         | PNR                                                       | 198512     | 202412  |
-| BEF | FAM_KOEN            | FAM_KOEN                                                  | 198512     | 202412  |
-| BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202412  |
-| BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202412  |
-| BEF | FAR_ID              | Personnummer far                                          | 198512     | 202412  |
-| BEF | FKIRK               | Folkekirkemarkering                                       | 200412     | 202412  |
-| BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202412  |
-| BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202412  |
-| BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202412  |
-| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 200412     | 202412  |
-| BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202412  |
-| BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202412  |
-| BEF | KOEN                | Køn                                                       | 198512     | 202412  |
-| BEF | KOM                 | Kommunekode                                               | 198512     | 202412  |
-| BEF | MOR_ID              | Personnummer mor                                          | 198512     | 202412  |
-| BEF | OPHOLDMD_DK         | OPHOLDMD_DK                                               | 198512     | 202412  |
-| BEF | OPR_LAND            | Oprindelsesland                                           | 198512     | 202412  |
-| BEF | PLADS               | Familiestatus                                             | 198512     | 202412  |
-| BEF | PNR                 | Personnummer                                              | 198512     | 202412  |
-| BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202412  |
-| BEF | REG                 | Region                                                    | 198512     | 202412  |
-| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 200412     | 202412  |
-| BEF | STATSB              | Statsborgerskab                                           | 198512     | 202412  |
-| BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202412  |
-| BEF | VERSION             | VERSION                                                   | 200412     | 202412  |
+| BEF | ADRESSE_ID          | INGEN LABEL                                               | 198512     | 202512  |
+| BEF | AEGTE_ID            | Personnummer Ægtefælle                                    | 198512     | 202512  |
+| BEF | ALDER               | Alder ultimo året før                                     | 198512     | 202512  |
+| BEF | ANTBOERNF           | ANTBOERNF                                                 | 198512     | 202512  |
+| BEF | ANTBOERNH           | ANTBOERNH                                                 | 198512     | 202512  |
+| BEF | ANTEFAM             | ANTEFAM                                                   | 198512     | 202512  |
+| BEF | ANTPERSF            | ANTPERSF                                                  | 198512     | 202512  |
+| BEF | ANTPERSH            | ANTPERSH                                                  | 198512     | 202512  |
+| BEF | BETALINGSKOM        | BETALINGSKOM                                              | 198512     | 202512  |
+| BEF | BOP_VFRA            | Dato for tilflytning/indvandring                          | 198512     | 202512  |
+| BEF | CIV_VFRA            | Civilstandsdato                                           | 198512     | 202512  |
+| BEF | CIVST               | Civilstand                                                | 198512     | 202512  |
+| BEF | CPRTJEK             | CPR-tjek                                                  | 198512     | 202512  |
+| BEF | CPRTYPE             | CPR-type                                                  | 198512     | 202512  |
+| BEF | E_FAELLE_ID         | PNR                                                       | 198512     | 202512  |
+| BEF | FAM_KOEN            | FAM_KOEN                                                  | 198512     | 202512  |
+| BEF | FAMILIE_ID          | Familiens identificerende nummer.                         | 198512     | 202512  |
+| BEF | FAMILIE_TYPE        | Familietype                                               | 198512     | 202512  |
+| BEF | FAR_ID              | Personnummer far                                          | 198512     | 202512  |
+| BEF | FKIRK               | Folkekirkemarkering                                       | 200412     | 202512  |
+| BEF | FM_MARK             | Forældremarkering                                         | 198512     | 202512  |
+| BEF | FOED_DAG            | Fødselsdato                                               | 198512     | 202512  |
+| BEF | FOEDREG_KODE        | Kode for personens fødselsregistreringssted.              | 198512     | 202512  |
+| BEF | FOERSTE_INDVANDRING | Første indvandringsdato                                   | 200412     | 202512  |
+| BEF | HUSTYPE             | Husstandstype                                             | 198512     | 202512  |
+| BEF | IE_TYPE             | Indvandrere, efterkommere , personer med dansk oprindelse | 198512     | 202512  |
+| BEF | KOEN                | Køn                                                       | 198512     | 202512  |
+| BEF | KOM                 | Kommunekode                                               | 198512     | 202512  |
+| BEF | MOR_ID              | Personnummer mor                                          | 198512     | 202512  |
+| BEF | OPHOLDMD_DK         | OPHOLDMD_DK                                               | 198512     | 202512  |
+| BEF | OPR_LAND            | Oprindelsesland                                           | 198512     | 202512  |
+| BEF | PLADS               | Familiestatus                                             | 198512     | 202512  |
+| BEF | PNR                 | Personnummer                                              | 198512     | 202512  |
+| BEF | REFERENCETID        | REFERENCETID                                              | 198512     | 202512  |
+| BEF | REG                 | Region                                                    | 198512     | 202512  |
+| BEF | SENESTE_INDVANDRING | SENESTE_INDVANDRING                                       | 200412     | 202512  |
+| BEF | STATSB              | Statsborgerskab                                           | 198512     | 202512  |
+| BEF | VAN_VTIL            | Indvandringsdato                                          | 198512     | 202512  |
+| BEF | VERSION             | VERSION                                                   | 200412     | 202512  |
 :::
 
 ::: {.callout-warning collapse="true"}
-## BEFADR 202409
+## BEFADR 202512
 
 |        | Variable name | Variable label                             | Start year | Endyear |
 | ------ | ------------- | ------------------------------------------ | ---------- | ------- |
-| BEFADR | ADR_RFRA      | Adressedato gældende fra (registerdato)    |            | 202409  |
-| BEFADR | ADR_VFRA      | Adressedato - gældende fra (hændelsesdato) |            | 202409  |
-| BEFADR | ADR_VTIL      | Adressedato - gældende til (hændelsesdato) |            | 202409  |
-| BEFADR | ADRESSE_ID    |                                            |            | 202409  |
-| BEFADR | BOPIKOM       | Bopælsadresse i kommunen                   |            | 202409  |
-| BEFADR | KOM           | KOM                                        |            | 202409  |
-| BEFADR | OPGIKOM       | Opgangsadresse i kommunen                  |            | 202409  |
+| BEFADR | ADR_RFRA      | Adressedato gældende fra (registerdato)    |            | 202512  |
+| BEFADR | ADR_VFRA      | Adressedato - gældende fra (hændelsesdato) |            | 202512  |
+| BEFADR | ADR_VTIL      | Adressedato - gældende til (hændelsesdato) |            | 202512  |
+| BEFADR | ADRESSE_ID    |                                            |            | 202512  |
+| BEFADR | BOPIKOM       | Bopælsadresse i kommunen                   |            | 202512  |
+| BEFADR | KOM           | KOM                                        |            | 202512  |
+| BEFADR | OPGIKOM       | Opgangsadresse i kommunen                  |            | 202512  |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -309,15 +309,15 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DOD 2024
+## DOD 2025
 
 |     | Variable name | Variable label              | Start year | Endyear |
 | --- | ------------- | --------------------------- | ---------- | ------- |
-| DOD | ALDER_HAEND   | Alder på hændelsestidspunkt |            | 2024    |
-| DOD | CPRTJEK       | CPR-tjek                    |            | 2024    |
-| DOD | CPRTYPE       | CPR-type                    |            | 2024    |
-| DOD | DODDATO       | Dato for dødsfald           |            | 2024    |
-| DOD | PNR           | Personnummer                |            | 2024    |
+| DOD | ALDER_HAEND   | Alder på hændelsestidspunkt |            | 2025    |
+| DOD | CPRTJEK       | CPR-tjek                    |            | 2025    |
+| DOD | CPRTYPE       | CPR-type                    |            | 2025    |
+| DOD | DODDATO       | Dato for dødsfald           |            | 2025    |
+| DOD | PNR           | Personnummer                |            | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -3996,16 +3996,16 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## IEPE 2024
+## IEPE 2025
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| IEPE | CPRTJEK       | CPR-tjek                                                               |            | 2024    |
-| IEPE | CPRTYPE       | CPR-type                                                               |            | 2024    |
-| IEPE | GENERATION    | Kategorisering af 2. og 3. generationsindvandrere (efter DS. definitio |            | 2024    |
-| IEPE | IE_TYPE       | Indvandrere, efterkommere , personer med dansk oprindelse              |            | 2024    |
-| IEPE | OPR_LAND      | Oprindelsesland                                                        |            | 2024    |
-| IEPE | PNR           | PNR                                                                    |            | 2024    |
+| IEPE | CPRTJEK       | CPR-tjek                                                               |            | 2025    |
+| IEPE | CPRTYPE       | CPR-type                                                               |            | 2025    |
+| IEPE | GENERATION    | Kategorisering af 2. og 3. generationsindvandrere (efter DS. definitio |            | 2025    |
+| IEPE | IE_TYPE       | Indvandrere, efterkommere , personer med dansk oprindelse              |            | 2025    |
+| IEPE | OPR_LAND      | Oprindelsesland                                                        |            | 2025    |
+| IEPE | PNR           | PNR                                                                    |            | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -5786,27 +5786,27 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## UDDA 198012-202409
+## UDDA 198012-202509
 
 |      | Variable name | Variable label                                                         | Start year | Endyear |
 | ---- | ------------- | ---------------------------------------------------------------------- | ---------- | ------- |
-| UDDA | ALM_VFRA      | Tidspunkt for opnået almenuddannelse                                   | 198012     | 202409  |
-| UDDA | ALMAUDD       | Højst fuldførte almen uddannelse                                       | 198012     | 202409  |
-| UDDA | ALMINSTNR     | Institutionsnummer                                                     | 198012     | 202409  |
-| UDDA | CPRTJEK       | CPR-tjek                                                               | 198012     | 202409  |
-| UDDA | CPRTYPE       | CPR-type                                                               | 198012     | 202409  |
-| UDDA | ERH_VFRA      | Tidspunkt for opnået erhvervskompetancegivende uddannelse              | 198012     | 202409  |
-| UDDA | ERHAUDD       | Højst fuldførte erhvervskompetencegivende uddannelse                   | 198012     | 202409  |
-| UDDA | ERHINSTNR     | Institutionsnummer                                                     | 198012     | 202409  |
-| UDDA | HF_KILDE      | Kilde til uddannelsesoplysningen                                       | 198012     | 202409  |
-| UDDA | HF_VFRA       | Tidspunkt for opnået højst fuldførte uddannelse                        | 198012     | 202409  |
-| UDDA | HFAUDD        | Højste fuldførte uddannelse                                            | 198012     | 202409  |
-| UDDA | HFINSTNR      | Institutionsnummer                                                     | 198012     | 202409  |
-| UDDA | IG_VFRA       | Påbegyndelsestidspunkt for igangværende uddannelse                     | 198012     | 202409  |
-| UDDA | IGINSTNR      | Institutionsnummer                                                     | 198012     | 202409  |
-| UDDA | PNR           | Personnummer                                                           | 198012     | 202409  |
-| UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202409  |
-| UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202409  |
+| UDDA | ALM_VFRA      | Tidspunkt for opnået almenuddannelse                                   | 198012     | 202509  |
+| UDDA | ALMAUDD       | Højst fuldførte almen uddannelse                                       | 198012     | 202509  |
+| UDDA | ALMINSTNR     | Institutionsnummer                                                     | 198012     | 202509  |
+| UDDA | CPRTJEK       | CPR-tjek                                                               | 198012     | 202509  |
+| UDDA | CPRTYPE       | CPR-type                                                               | 198012     | 202509  |
+| UDDA | ERH_VFRA      | Tidspunkt for opnået erhvervskompetancegivende uddannelse              | 198012     | 202509  |
+| UDDA | ERHAUDD       | Højst fuldførte erhvervskompetencegivende uddannelse                   | 198012     | 202509  |
+| UDDA | ERHINSTNR     | Institutionsnummer                                                     | 198012     | 202509  |
+| UDDA | HF_KILDE      | Kilde til uddannelsesoplysningen                                       | 198012     | 202509  |
+| UDDA | HF_VFRA       | Tidspunkt for opnået højst fuldførte uddannelse                        | 198012     | 202509  |
+| UDDA | HFAUDD        | Højste fuldførte uddannelse                                            | 198012     | 202509  |
+| UDDA | HFINSTNR      | Institutionsnummer                                                     | 198012     | 202509  |
+| UDDA | IG_VFRA       | Påbegyndelsestidspunkt for igangværende uddannelse                     | 198012     | 202509  |
+| UDDA | IGINSTNR      | Institutionsnummer                                                     | 198012     | 202509  |
+| UDDA | PNR           | Personnummer                                                           | 198012     | 202509  |
+| UDDA | UDD           | Uddannelseskode                                                        | 198012     | 202509  |
+| UDDA | VERSION       | 1-Forløbig version 2-Endelig version, eller efterfølgende rettet versi | 198012     | 202509  |
 :::
 
 ::: {.callout-warning collapse="true"}
