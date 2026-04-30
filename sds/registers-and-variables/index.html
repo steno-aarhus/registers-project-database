@@ -1082,7 +1082,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Warning</span>Laboratoriedatabasen - LAB (2008-)
+<span class="screen-reader-only">Warning</span>Laboratoriedatabasen - LAB (2008-202603)
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -1090,10 +1090,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 15%">
-<col style="width: 15%">
-<col style="width: 54%">
-<col style="width: 15%">
+<col style="width: 4%">
+<col style="width: 5%">
+<col style="width: 88%">
+<col style="width: 1%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -1105,145 +1105,247 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>lab_dm_forsker</td>
-<td>patient_cpr</td>
-<td>CPR-nummer</td>
+<td>laboratorieproevesvar</td>
+<td>cprnummer</td>
+<td>CPR-nummer for den patient, som har fået foretaget laboratorieprøven</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_forsker</td>
-<td>rekvirent_id</td>
-<td>ID for rekvirent</td>
-<td>2008 -</td>
-</tr>
-<tr class="odd">
-<td>lab_dm_forsker</td>
-<td>rekvirent_idtype</td>
-<td>Angiver kodetype for rekvirent_id</td>
-<td>2008 -</td>
-</tr>
-<tr class="even">
-<td>lab_dm_forsker</td>
-<td>samplingdate</td>
-<td>Prøvetagningsdato</td>
-<td>2008 -</td>
-</tr>
-<tr class="odd">
-<td>lab_dm_forsker</td>
-<td>samplingtime</td>
-<td>Prøvetagningstidspunkt</td>
-<td>2008 -</td>
-</tr>
-<tr class="even">
-<td>lab_dm_forsker</td>
-<td>laboratorium_idcode</td>
-<td>Producerende laboratorie</td>
-<td>2008 -</td>
-</tr>
-<tr class="odd">
-<td>lab_dm_forsker</td>
+<td>laboratorieproevesvar</td>
 <td>analysiscode</td>
-<td>NPU/DNK-kode for den målte kvantitet</td>
+<td>ANALYSISCODE er en kode for den målte kvantitet (analyse)</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>laboratorieproevesvar</td>
+<td>samplevalue</td>
+<td>Samplevalue er analysens resultat i tal eller tekst. Værdien af samplevalue kan være numerisk<br>eller alfanumerisk. Overførslen af data fra Laboratoriedatabasen til Laboratoriedatabasens<br>Forskertabel medtager kun numeriske værdier samt godkendte alfanumeriske værdier</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_forsker</td>
+<td>laboratorieproevesvar</td>
 <td>unit</td>
-<td>Enhed for indholdet i value</td>
+<td>Enhed på resultatet i samplevalue</td>
 <td>2008 -</td>
 </tr>
 <tr class="odd">
-<td>lab_dm_forsker</td>
-<td>value</td>
-<td>Analyseresultat i tal eller tekst</td>
-<td>2008 -</td>
-</tr>
-<tr class="even">
-<td>lab_dm_forsker</td>
-<td>operator</td>
-<td>Kvalifikator, der angiver, om det præcise resultat er ”større end” eller ”mindre end” den værdi, der er angivet i ’value’</td>
-<td>2008 -</td>
-</tr>
-<tr class="odd">
-<td>lab_dm_forsker</td>
+<td>laboratorieproevesvar</td>
 <td>resulttype</td>
-<td>Angiver om analyseresultat er numerisk eller alfanumerisk</td>
+<td>Angiver resultatets type: numerisk eller alfanumerisk. Altså om resultatet er angivet med tal<br>eller med bogstaver/tegn</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_forsker</td>
-<td>referenceinterval_lowerlimit</td>
-<td>Nedre grænse for referenceintervallet for analyseresultatet</td>
-<td>2008 -</td>
-</tr>
-<tr class="odd">
-<td>lab_dm_forsker</td>
-<td>referenceinterval_upperlimit</td>
-<td>Øvre grænse for referenceintervallet for analyseresultatet</td>
-<td>2008 -</td>
-</tr>
-<tr class="even">
-<td>lab_dm_forsker</td>
+<td>laboratorieproevesvar</td>
 <td>resultvalidation</td>
-<td>Autogenereret validering af prøveresultatet i forhold til referenceintervallet for den specifikke analyse</td>
+<td>Kvalifikator der anvendes til angivelse om resultatet i kolonnen samplevalue er for høj,<br>for lav, eller unormal</td>
 <td>2008 -</td>
 </tr>
 <tr class="odd">
-<td>lab_dm_labidcodes</td>
+<td>laboratorieproevesvar</td>
+<td>referenceinterval_lowerlimit</td>
+<td>Et referenceinterval er en definition af, hvornår et laboratoriesvar er inden for normalområdet.<br>REFERENCEINTERVAL_LOWERLIMIT angiver den nedre grænse for referenceintervallet for analyseresultatet.<br>Er REFERENCEINTERVAL_LOWERLIMIT tomt, mens REFERENCEINTERVAL_UPPERLIMIT er udfyldt,<br>er der ikke nogen nedre grænse for referenceintervallet (dvs. at analyseresultatet skal være<br>mindre end den øvre grænseværdi for at være i normalområdet)</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>laboratorieproevesvar</td>
+<td>referenceinterval_upperlimit</td>
+<td>Et referenceinterval er en definition af, hvornår et laboratoriesvar er inden for normalområdet.<br>REFERENCEINTERVAL_UPPERLIMIT angiver den øvre grænse for referenceintervallet for analyseresultatet.<br>Er REFERENCEINTERVAL _ UPPERLIMIT tomt, mens REFERENCEINTERVAL_LOWERLIMIT er udfyldt,<br>er der ikke nogen øvre grænse for referenceintervallet (dvs. at analyseresultatet skal være<br>større end den nedre grænseværdi for at være i normalområdet)</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>laboratorieproevesvar</td>
+<td>operator</td>
+<td>Kvalifikator der angiver om resultatet i kolonnen samplevalue er ”Større end” eller ”Mindre end”</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>laboratorieproevesvar</td>
+<td>samplingdate</td>
+<td>Prøvetagningsdato for prøverne der indgår i svaret</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>laboratorieproevesvar</td>
+<td>samplingtime</td>
+<td>Prøvetagningstidspunkt for prøverne der indgår i svaret</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>laboratorieproevesvar</td>
+<td>laboratorium_idcode</td>
+<td>MedCom koden for det laboratorium, der har produceret analysesvaret</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>laboratorieproevesvar</td>
+<td>rekvirent_id</td>
+<td>Angiver et ID for modtageren af laboratoriesvaret, f.eks. en SOR-kode eller et ydernummer.<br>Hvilken type ID, der er tale om, angives i feltet REKVIRENT_IDTYPE</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>laboratorieproevesvar</td>
+<td>rekvirent_id_type</td>
+<td>REKVIRENT_IDTYPE er kvalifikator for det anvendte kodesystem for feltet REKVIRENT_ID.<br>Hvis REKVIRENT_ID f.eks. er et ydernummer, angiver REKVIRENT_ID selve ydernummeret,<br>mens REKVIRENT_IDTYPE er lig med ”ydernummer”</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimlaboratoriekoder</td>
 <td>idcode</td>
-<td>Producerende laboratorie, kode</td>
+<td>MedCom koden for det laboratorium, der har produceret analysesvaret</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_labidcodes</td>
+<td>dimlaboratoriekoder</td>
 <td>laboratorium</td>
-<td>Producerende laboratorie, tekst</td>
+<td>Angiver navn på laboratoriet</td>
 <td>2008 -</td>
 </tr>
 <tr class="odd">
-<td>lab_dm_labidcodes</td>
-<td>region</td>
-<td>Region, tekst</td>
+<td>dimlaboratoriekoder</td>
+<td>speciale</td>
+<td>Angiver speciale for laboratoriet</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_labidcodes</td>
-<td>speciale</td>
-<td>Laboratoriets speciale, tekst</td>
+<td>dimlaboratoriekoder</td>
+<td>region</td>
+<td>Angiver region som laboratoriet ligger i</td>
 <td>2008 -</td>
 </tr>
 <tr class="odd">
-<td>lab_dm_optaelling</td>
+<td>dimnpu</td>
+<td>npu_kode</td>
+<td>NPU-kode, der entydigt identificerer analysen</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>flag_aktiv</td>
+<td>Om NPU-koden er aktiv (0: Nej, 1: Ja)</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>ikrafttraedelsesdato</td>
+<td>Ikrafttrædelsesdatoen for NPU-koden</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>analyse_speciale</td>
+<td>Forkortelse af det speciale, som NPU-koden hører ind under</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>beskrivelse</td>
+<td>Kort beskrivelse af analysen</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>fuld_beskrivelse</td>
+<td>Fuld beskrivelse af analysen</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>resultat_enhed</td>
+<td>Enheden på analysens resultatværdi</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>patient_system</td>
+<td>Genstanden for undersøgelsen</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>systemspecifikation</td>
+<td>Supplerende oplysninger for system</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>komponent</td>
+<td>Den del af systemet, der er af særlig interesse for undersøgelsen</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>komponentspecifikation</td>
+<td>Supplerende oplysninger for komponent</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>egenskabsart</td>
+<td>Den art af egenskab ved systemet og komponenten, der beskrives</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>egenskabsart_procedure</td>
+<td>Præcisering af enten system eller komponent (semikolon-separaret liste)</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>dimnpu</td>
+<td>erstatter</td>
+<td>Den NPU-kode, som koden beskrevet i denne række har erstattet</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>dimnpu</td>
+<td>erstattet_af</td>
+<td>Den NPU-kode, som koden beskrevet i denne række er blevet erstattet af</td>
+<td>2008 -</td>
+</tr>
+<tr class="even">
+<td>proevesvar_optaelling</td>
+<td>periode</td>
+<td>Angiver årstal og kvartal for optællingen</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>proevesvar_optaelling</td>
 <td>laboratorium</td>
-<td>Producerende laboratorie</td>
+<td>Angiver navn på laboratoriet der har udført prøven</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_optaelling</td>
+<td>proevesvar_optaelling</td>
 <td>speciale</td>
-<td>Laboratoriets speciale, tekst</td>
+<td>Angiver hvilket speciale laboratoriet er tilknyttet (BIOKEMI, IMMUNOLOGI, MIKROBIOLOGI, PATOLOGI, UKENDT)</td>
 <td>2008 -</td>
 </tr>
 <tr class="odd">
-<td>lab_dm_optaelling</td>
+<td>proevesvar_optaelling</td>
 <td>region</td>
-<td>Region, tekst</td>
+<td>Angiver hvilken region laboratoriet tilhører</td>
 <td>2008 -</td>
 </tr>
 <tr class="even">
-<td>lab_dm_optaelling</td>
-<td>kvartal*</td>
-<td>Antal prøver, kvartalsopgjort<br>(OBS: der leveres én variabel per kvartalfra 1 .kvartal 2008 og frem)</td>
+<td>proevesvar_optaelling</td>
+<td>antal</td>
+<td>Angiver antallet af laboratorierekvisitioner i perioden</td>
+<td>2008 -</td>
+</tr>
+<tr class="odd">
+<td>proevesvar_optaelling</td>
+<td>opdateringsdato</td>
+<td>Dato for seneste kørsel af tabellen</td>
 <td>2008 -</td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
 <p>NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply DHDA to get permission to use the data.</p>
 
 
+</div>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
