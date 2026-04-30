@@ -157,7 +157,7 @@ in the project database
 :::
 
 ::: {.callout-warning collapse="true"}
-## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-)
+## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-202602)
 
 | Tabel | Variabel | Indhold | Gyldighed |
 |---------|---------|---------------------------------------------|---------|
