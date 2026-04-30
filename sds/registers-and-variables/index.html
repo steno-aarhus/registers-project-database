@@ -210,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="registers-from-dhda-in-the-sdca-project-database">Registers from DHDA in the SDCA project database</h2>
 <p>Below you will find a full description of DHDA registers and variables in the project database</p>
 <div class="callout callout-style-simple callout-warning no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -219,14 +219,14 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 15%">
-<col style="width: 15%">
-<col style="width: 54%">
-<col style="width: 15%">
+<col style="width: 4%">
+<col style="width: 4%">
+<col style="width: 89%">
+<col style="width: 1%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -238,372 +238,243 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>amning_afl</td>
-<td>cpr</td>
-<td>Barnets CPR-nummer</td>
+<td>boernemaaling</td>
+<td>cprnummer</td>
+<td>CPRnummer</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>amning_afl</td>
-<td>koen_afl</td>
-<td>Barnets køn, kode</td>
+<td>boernemaaling</td>
+<td>koen</td>
+<td>Koen angiver en persons aktuelle køn som en karakter (M/K/Ukendt) også på historiske rækker.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>amning_afl</td>
-<td>koen_afl_txt</td>
-<td>Barnets køn, tekst</td>
+<td>boernemaaling</td>
+<td>foedselsdato</td>
+<td>Foedselsdato angiver en persons aktuelle fødselsdato, også på historiske rækker</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>amning_afl</td>
-<td>birthdate</td>
-<td>Barnets fødselsdato</td>
+<td>boernemaaling</td>
+<td>foedselsaargang</td>
+<td>Angiver fødselsårgang for barnet. Er udledt af årstallet hvori barnet blev født.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>amning_afl</td>
-<td>municipalitycode_bfstopdate</td>
-<td>Barnets bopælskommune, kode (på dato for ophør af fuld amning)</td>
+<td>boernemaaling</td>
+<td>alder_maaned</td>
+<td>Barnets alder i antal måneder - henviser til dato for måling af højde/vægt</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>amning_afl</td>
-<td>municipalitycode_txt_bfstopdate</td>
-<td>Barnets bopælskommune, tekst (på dato for ophør af fuld amning)</td>
+<td>boernemaaling</td>
+<td>alder_aar</td>
+<td>Barnets alder i antal år - henviser til dato for måling af højde/vægt</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>amning_afl</td>
-<td>breastfeedstopdate</td>
-<td>Dato for ophør af fuld amning</td>
+<td>boernemaaling</td>
+<td>bopael_region_foedsel</td>
+<td>Angiver borgerens bopæls region på fødselsdatoen. Bemærk at der er tilfælde hvor CPRkontoret<br>ikke kender barnets bopæl på fødselsdatoen</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>amning_afl</td>
-<td>varighed_dage</td>
-<td>Antal dage med fuld amning (antal dage imellem birthdate og breastfeedstopdate)</td>
+<td>boernemaaling</td>
+<td>bopael_region_amningslut</td>
+<td>Angiver borgerens bopæls region på datoen for hvornår fuldamningen sluttede</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>amning_afl</td>
-<td>ikraft</td>
-<td>Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)</td>
+<td>boernemaaling</td>
+<td>bopael_region_maaling</td>
+<td>Angiver borgerens bopæls region på målingsdatoen</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>rygning_afl</td>
-<td>cpr</td>
-<td>Barnets CPR-nummer</td>
-<td>2009 -</td>
-</tr>
-<tr class="odd">
-<td>rygning_afl</td>
-<td>koen_afl</td>
-<td>Barnets køn, kode</td>
-<td>2009 -</td>
-</tr>
-<tr class="even">
-<td>rygning_afl</td>
-<td>koen_afl_txt</td>
-<td>Barnets køn, tekst</td>
+<td>boernemaaling</td>
+<td>amningslut_dato</td>
+<td>Angiver dato for ophør af fuld amning. Der er indsat regel om, at fuldamning ikke kan vare mere<br>end 12 mdr (regel dannet efter aftale med Sundhedsstyrelsen). Nye indberetninger som<br>forsøger at indsætte en amningsdato som er højere end 12 mdr siden fødselsdato godkendes<br>&nbsp;kke og bruger kan indtaste igen. Tidligere rækker fra før denne validering eksisterede er i<br>stedet erstattet med ukendt.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>rygning_afl</td>
-<td>birthdate</td>
-<td>Barnets fødselsdato</td>
+<td>boernemaaling</td>
+<td>amning_antaldage</td>
+<td>Antal dage med fuld amning. Beregnet som antal dage fra barnets fødselsdato til dato for<br>amning afslutning. Kan maks være 12 mdr. Se kommentar i feltet AmningSlut_dato</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>rygning_afl</td>
-<td>municipalitycode_birthdate</td>
-<td>Barnets bopælskommune, kode</td>
+<td>boernemaaling</td>
+<td>passivrygning</td>
+<td>Kode for om barnet er udsat for passiv rygning</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>rygning_afl</td>
-<td>municipalitycode_txt_birthdate</td>
-<td>Barnets bopælskommune, tekst</td>
+<td>boernemaaling</td>
+<td>maaling_dato</td>
+<td>Angiver dato for måling af højde/vægt</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>rygning_afl</td>
-<td>passivesmoke</td>
-<td>Har barnet været udsat for passiv rygning, kode</td>
+<td>boernemaaling</td>
+<td>hoejde</td>
+<td>Barns højde i cm på målingstidpunkt. Bemærk at for småbørn (før skolealder) tillades det,<br>at indberetter kun udfylder højde eller vægt. Der er altså forekomster hvor højde eller<br>vægt kan være 0.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>rygning_afl</td>
-<td>passivesmoke_txt</td>
-<td>Har barnet været udsat for passiv rygning, tekst</td>
+<td>boernemaaling</td>
+<td>vaegt</td>
+<td>Barns vægt i gram på målingstidpunkt. Bemærk at for småbørn (før skolealder) tillades det,<br>at indberetter kun udfylder højde eller vægt. Der er altså forekomster hvor højde eller<br>vægt kan være 0.</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>rygning_afl</td>
-<td>ikraft</td>
-<td>Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)</td>
+<td>boernemaaling</td>
+<td>bmi</td>
+<td>Barns BMI på målingstidspunkt</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>cpr</td>
-<td>Barnets CPR-nummer</td>
+<td>boernemaaling</td>
+<td>vaegtkategori</td>
+<td>Vægtkategorikoden er baseret på en beregning af barnets BMI (kg/m2) sammenholdt med<br>referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig indsats for børn<br>og unge i skolealderen’, Vejledning til skolesundhedstjenesten, Sundhedsstyrelsen, 2014.<br>På side 101 (drenge) og 102 (piger) ses de respektive kurver for grænsen til hhv.<br>undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)). Bemærk at hvis højde<br>og/eller vægt vurderes urealistisk ift alder beregnes der ikke en vægtkategori.</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>koen_afl</td>
-<td>Barnets køn, kode</td>
+<td>boernemaaling</td>
+<td>flag_undervaegt</td>
+<td>Angiver hvorvidt barnets vægtkategori på den pågældende måling er ‘undervægt’ jf<br>Sundhedsstyrelsens fordeling. Er kun udregnet for børn 5 år eller ældre.<br>Vægtkategori er baseret på en beregning af barnets BMI (kg/m2) sammenholdt<br>med referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig<br>indsats for børn og unge i skolealderen’, Vejledning til skolesundhedstjenesten,<br>Sundhedsstyrelsen, 2014. På side 101 (drenge) og 102 (piger) ses de respektive<br>kurver for grænsen til hhv. undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)).</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>koen_afl_txt</td>
-<td>Barnets køn, tekst</td>
+<td>boernemaaling</td>
+<td>flag_normalvaegt</td>
+<td>Angiver hvorvidt barnets vægtkategori på den pågældende måling er ‘normalvægt’ jf<br>Sundhedsstyrelsens fordeling. Er kun udregnet for børn 5 år eller ældre.<br>Vægtkategori er baseret på en beregning af barnets BMI (kg/m2) sammenholdt<br>med referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig<br>indsats for børn og unge i skolealderen’, Vejledning til skolesundhedstjenesten,<br>&nbsp;Sundhedsstyrelsen, 2014. På side 101 (drenge) og 102 (piger) ses de respektive<br>kurver for grænsen til hhv. undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)).</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>birthdate</td>
-<td>Barnets fødselsdato</td>
+<td>boernemaaling</td>
+<td>flag_moderatovervaegt</td>
+<td>Angiver hvorvidt barnets vægtkategori på den pågældende måling er ‘normalvægt’ jf<br>Sundhedsstyrelsens fordeling. Er kun udregnet for børn 5 år eller ældre.<br>Vægtkategori er baseret på en beregning af barnets BMI (kg/m2) sammenholdt<br>med referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig<br>indsats for børn og unge i skolealderen’, Vejledning til skolesundhedstjenesten,<br>&nbsp;Sundhedsstyrelsen, 2014. På side 101 (drenge) og 102 (piger) ses de respektive<br>kurver for grænsen til hhv. undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)).</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>alder_aar_afl</td>
-<td>Barnets alder i år</td>
+<td>boernemaaling</td>
+<td>flag_svaerovervaegt</td>
+<td>Angiver hvorvidt barnets vægtkategori på den pågældende måling er ‘normalvægt’ jf<br>Sundhedsstyrelsens fordeling. Er kun udregnet for børn 5 år eller ældre.<br>Vægtkategori er baseret på en beregning af barnets BMI (kg/m2) sammenholdt<br>med referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig<br>indsats for børn og unge i skolealderen’, Vejledning til skolesundhedstjenesten,<br>&nbsp;Sundhedsstyrelsen, 2014. På side 101 (drenge) og 102 (piger) ses de respektive<br>kurver for grænsen til hhv. undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)).</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>alder_maaned_afl</td>
-<td>Barnets alder i måneder</td>
+<td>boernemaaling</td>
+<td>uddannelsesinstitution_kode</td>
+<td>Angiver den enkelte uddannelsesinstitutionskode.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>municipalitycode_measuredate</td>
-<td>Barnets bopælskommune, kode</td>
+<td>boernemaaling</td>
+<td>uddannelsesinstitution_navn</td>
+<td>Oversættelse af kolonne UddannelsesInstitution_kode</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>municipalitycode_txt_measuredate</td>
-<td>Barnets bopælskommune, tekst</td>
+<td>boernemaaling</td>
+<td>uddannelsesinstitution_type</td>
+<td>Angiver typen af UddannelsesInstitution</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>measurementdate</td>
-<td>Dato for måling</td>
+<td>boernemaaling</td>
+<td>uddannelsesinstitution_gyldigfra</td>
+<td>Dokumentation mangler pr. 14-01-2026</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>school</td>
-<td>Skolekode</td>
+<td>boernemaaling</td>
+<td>uddannelsesinstitution_gyldigtil</td>
+<td>Dokumentation mangler pr. 14-01-2026</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>school_txt_createddate</td>
-<td>Skolekode, tekst</td>
+<td>boernemaaling</td>
+<td>skolefase</td>
+<td>Angiver hvilken fase af skolen går i. Faserne går fra 1.-3. klasse, 4.-7. klasse og 8.-9. klasse:1=Indskoling, 2=mellemtrin,3=udskoling.</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>height</td>
-<td>Barnets højde (cm)</td>
+<td>boernemaaling</td>
+<td>flag_indskoling</td>
+<td>Angiver hvorvidt barnet på den pågældende måling er i indskoling (1-3 klasse)</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>weight</td>
-<td>Barnets vægt (gram)</td>
+<td>boernemaaling</td>
+<td>flag_mellemtrin</td>
+<td>Angiver hvorvidt barnet på den pågældende måling er i mellemtrin (4-7 klasse)</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>vaegtkategori_afl</td>
-<td>Vægtkategori, kode<br>(baseret på en beregning af barnets BMI (kg/m2) sammenholdt med referenceværdier fra Sundhedsstyrelsen)</td>
+<td>boernemaaling</td>
+<td>flag_udskoling</td>
+<td>Angiver hvorvidt barnet på den pågældende måling er i udskoling (8-9 klasse)</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>maalinger_afl</td>
-<td>vaegtkategori_afl_txt</td>
-<td>Vægtkategori, tekst</td>
+<td>boernemaaling</td>
+<td>sorkode</td>
+<td>Sorkode der er relateret til enhed</td>
 <td>2009 -</td>
 </tr>
 <tr class="even">
-<td>maalinger_afl</td>
-<td>ikraft</td>
-<td>Indberetningens gyldighed på dato for tabeldannelse (1 = gyldig)</td>
+<td>dimboernemaalingegenskaber</td>
+<td>skolefase</td>
+<td>Angiver hvilken fase af skolen går i. Faserne går fra 1.-3. klasse, 4.-7. klasse og 8.-9. klasse:<br>1=Indskoling, 2=mellemtrin, 3=udskoling.</td>
 <td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>bmi_undervaegt_drenge</td>
-<td>age</td>
-<td>Alder i år</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>skolefase_navn</td>
+<td>Oversættelse af kolonne Skolefase</td>
+<td>2009 -</td>
 </tr>
 <tr class="even">
-<td>bmi_undervaegt_drenge</td>
-<td>sex</td>
-<td>Køn, kode</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>vaegtkategori</td>
+<td>Vægtkategorikoden er baseret på en beregning af barnets BMI (kg/m2) sammenholdt med<br>referenceværdier fra Sundhedsstyrelsen (‘Opsporing af overvægt og tidlig indsats for børn<br>og unge i skolealderen’, Vejledning til skolesundhedstjenesten, Sundhedsstyrelsen, 2014.<br>På side 101 (drenge) og 102 (piger) ses de respektive kurver for grænsen til hhv.<br>undervægt (p3), overvægt (IOTF-25) og svær overvægt (IOTF-30)). Bemærk at hvis højde<br>og/eller vægt vurderes urealistisk ift alder beregnes der ikke en vægtkategori.</td>
+<td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>bmi_undervaegt_drenge</td>
-<td>bmip3</td>
-<td>Grænseværdier pr alder til gruppering af BMI for undervægt</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>vaegtkategori_navn</td>
+<td>Oversættelse af kolonne Vaegtkategori</td>
+<td>2009 -</td>
 </tr>
 <tr class="even">
-<td>bmi_undervaegt_piger</td>
-<td>age</td>
-<td>Alder i år</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>passivrygning</td>
+<td>Kode for om barnet er udsat for passiv rygning</td>
+<td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>bmi_undervaegt_piger</td>
-<td>sex</td>
-<td>Køn, kode</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>passivrygning_navn</td>
+<td>Oversættelse af kolonne Passiv_rygning:<br>0 = Ukendt/Missing, 1 = Ja, 2 = Nej, 3 = Vil ikke oplyse</td>
+<td>2009 -</td>
 </tr>
 <tr class="even">
-<td>bmi_undervaegt_piger</td>
-<td>bmip3</td>
-<td>Grænseværdier pr alder til gruppering af BMI for undervægt</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>dw_validfrom</td>
+<td>Timestamp der viser hvornår en række gyldig fra</td>
+<td>2009 -</td>
 </tr>
 <tr class="odd">
-<td>bmi_drenge</td>
-<td>months</td>
-<td>Alder i måneder</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_drenge</td>
-<td>years</td>
-<td>Alder i år</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_drenge</td>
-<td>bmi16</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_drenge</td>
-<td>bmi17</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_drenge</td>
-<td>bmi18_5</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_drenge</td>
-<td>bmi23</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_drenge</td>
-<td>bmi25</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_drenge</td>
-<td>bmi27</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_drenge</td>
-<td>bmi30</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_drenge</td>
-<td>bmi35</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_piger</td>
-<td>months</td>
-<td>Alder i måneder</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_piger</td>
-<td>years</td>
-<td>Alder i år</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_piger</td>
-<td>bmi16</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_piger</td>
-<td>bmi17</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_piger</td>
-<td>bmi18_5</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_piger</td>
-<td>bmi23</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_piger</td>
-<td>bmi25</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_piger</td>
-<td>bmi27</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>bmi_piger</td>
-<td>bmi30</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>bmi_piger</td>
-<td>bmi35</td>
-<td>IOTF BMI grænseværdier pr alder til gruppering af BMI</td>
-<td></td>
+<td>dimboernemaalingegenskaber</td>
+<td>dw_validto</td>
+<td>Timestamp der viser hvornår en række er gyldig til</td>
+<td>2009 -</td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
 <div class="callout callout-style-simple callout-warning no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -612,7 +483,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
 <colgroup>
@@ -1104,7 +975,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-simple callout-warning no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -1113,7 +984,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
 <colgroup>
@@ -1215,7 +1086,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-simple callout-warning no-icon callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
@@ -1224,7 +1095,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
 <colgroup>
@@ -1382,6 +1253,9 @@ ul.task-list li input[type="checkbox"] {
 <p>NOTE: The Drug Statistics Register (LMDB) are described under DST, as variables from this register are added through the project application in DDV. However, you still need to apply DHDA to get permission to use the data.</p>
 
 
+</div>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
