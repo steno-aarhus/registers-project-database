@@ -76,7 +76,8 @@ Latest available data: March 2026 (202603)
 :::
 
 ::: {.callout-warning collapse="true"}
-## Cancerregistret - CAR (1943-202412)
+## Cancerregistret - CAR (1943-)
+- Latest available data: December 2024 (202412)
 
 | Tabel                       | Variabel                         | Indhold                                                                                         | Gyldighed   |
 | --------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
@@ -159,7 +160,8 @@ Latest available data: March 2026 (202603)
 :::
 
 ::: {.callout-warning collapse="true"}
-## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-202602)
+## Det Danske Vaccinationsregister - Vaccinationsdata fra SSI - DDV_ALL (1996-)
+- Latest available data: February 2026 (202602)
 
 | Tabel | Variabel | Indhold | Gyldighed |
 |---------|---------|---------------------------------------------|---------|
@@ -179,7 +181,8 @@ Latest available data: March 2026 (202603)
 :::
 
 ::: {.callout-warning collapse="true"}
-## Laboratoriedatabasen - LAB (2008-202603)
+## Laboratoriedatabasen - LAB (2008-)
+- Latest available data: March 2026 (202603)
 
 | Tabel                 | Variabel                     | Indhold                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Gyldighed |
 | --------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
@@ -221,9 +224,15 @@ Latest available data: March 2026 (202603)
 | proevesvar_optaelling | speciale                     | Angiver hvilket speciale laboratoriet er tilknyttet (BIOKEMI, IMMUNOLOGI, MIKROBIOLOGI, PATOLOGI, UKENDT)                                                                                                                                                                                                                                                                                                                                                          | 2008 -    |
 | proevesvar_optaelling | region                       | Angiver hvilken region laboratoriet tilhører                                                                                                                                                                                                                                                                                                                                                                                                                       | 2008 -    |
 | proevesvar_optaelling | antal                        | Angiver antallet af laboratorierekvisitioner i perioden                                                                                                                                                                                                                                                                                                                                                                                                            | 2008 -    |
-| proevesvar_optaelling | opdateringsdato              | Dato for seneste kørsel af tabellen                                                                                                                                                                                                                                                                                                                                                                                                                                | 2008 -    |:::
+| proevesvar_optaelling | opdateringsdato              | Dato for seneste kørsel af tabellen                                                                                                                                                                                                                                                                                                                                                                                                                                | 2008 -    |
+:::
+::: {.callout-warning collapse="true"}
+## The Drug Statistics Register - LMDB
+
 
 NOTE: The Drug Statistics Register (LMDB) are described under DST, as
 variables from this register are added through the project application
 in DDV. However, you still need to apply DHDA to get permission to use
 the data.
+
+:::
