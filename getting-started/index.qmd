@@ -75,7 +75,7 @@ under the project database.
 
 ## How to get access to Darter
 
-As mentioned, it is possible to gain access to an already existing subproject in the project database. Darter is the largest and most comprehensive project we have. To gain access to the project, please fill out this form:
+As mentioned, it is possible to gain access to an already existing subproject in the project database. Darter is the largest and most comprehensive project within the SDCA project database. To gain access to the project, please fill out this form:
 
 [Link to REDCap](https://bit.ly/darter_request)
 
