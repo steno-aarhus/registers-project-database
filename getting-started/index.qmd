@@ -77,4 +77,4 @@ under the project database.
 
 As mentioned, it is possible to gain access to an already existing subproject in the project database. Darter is the largest and most comprehensive project we have. To gain access to the project, please fill out this form:
 
-LINK TIL FORM
+https://bit.ly/darter_request
