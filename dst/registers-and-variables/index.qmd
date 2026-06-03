@@ -15,15 +15,15 @@ This will take you to an Excel file on GitHub.com with the complete variable lis
 Below you will find a full describtion of all DST registers and variables in the project database
 
 <style>
-.callout table {
-  font-size: 0.80em;
-  line-height: 1.2;
-  width: 100%;
+.callout table,
+.callout table th,
+.callout table td {
+  font-size: 0.80rem !important;
 }
 
 .callout th,
 .callout td {
-  padding: 4px 8px;
+  padding: 4px 8px !important;
   white-space: nowrap;
 }
 </style>
