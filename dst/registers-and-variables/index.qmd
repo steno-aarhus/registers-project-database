@@ -14,6 +14,20 @@ This will take you to an Excel file on GitHub.com with the complete variable lis
 
 Below you will find a full describtion of all DST registers and variables in the project database
 
+<style>
+.callout table {
+  font-size: 0.80em;
+  line-height: 1.2;
+  width: 100%;
+}
+
+.callout th,
+.callout td {
+  padding: 4px 8px;
+  white-space: nowrap;
+}
+</style>
+
 ::: {.callout-warning collapse="true"}
 ## AEFV	2008-2025
 
