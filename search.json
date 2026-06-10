@@ -460,7 +460,7 @@
     "href": "how-to-work-with-data/index.html#how-to-work-with-data",
     "title": "How to work with data",
     "section": "How to work with data",
-    "text": "How to work with data\nBoth SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with."
+    "text": "How to work with data\nThe link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark’s research environment.\n Danish manual \n English manual"
   },
   {
     "objectID": "how-to-work-with-data/index.html#code-of-conduct",
