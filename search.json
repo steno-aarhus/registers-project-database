@@ -1,5 +1,85 @@
 [
   {
+    "objectID": "getting-started/index.html",
+    "href": "getting-started/index.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possibility to get access to a broad range of register data from e.g. Statistics Denmark, the Danish health data authorities and other data sources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data to a sub-project and link it to the register-based data sources.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#presentation",
+    "href": "getting-started/index.html#presentation",
+    "title": "Getting started",
+    "section": "",
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possibility to get access to a broad range of register data from e.g. Statistics Denmark, the Danish health data authorities and other data sources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data to a sub-project and link it to the register-based data sources.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#purpose",
+    "href": "getting-started/index.html#purpose",
+    "title": "Getting started",
+    "section": "Purpose",
+    "text": "Purpose\nThe overall purpose of the project database is to study factors that can help predict and understand the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as their related consequences and complications. In addition, the project database will form the basis of descriptive analyses in the field of disease and health. The project database provides the basis for creating sub-projects that fall under the overall purpose of the project database and that use (a subset of) data included in the project database.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#terms-of-use",
+    "href": "getting-started/index.html#terms-of-use",
+    "title": "Getting started",
+    "section": "Terms of use",
+    "text": "Terms of use\nAll users need an affiliation with SDCA to obtain direct access (not necessarily paid employment) and need to have an active access to Statistics Denmark.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#contact",
+    "href": "getting-started/index.html#contact",
+    "title": "Getting started",
+    "section": "Contact",
+    "text": "Contact\nIf you have any questions or need help please contact:\n\nMarie Kempf Frydendahl (maipee@rm.dk):\nGunnar Vase Toft (guntof@rm.dk):\nKasper Norman (kanoan@rm.dk)",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#how-to-get-access",
+    "href": "getting-started/index.html#how-to-get-access",
+    "title": "Getting started",
+    "section": "How to get access",
+    "text": "How to get access\nThere are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing sub-projects, you can contact the person responsible for the project and request permission to access it. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study does not fit under any of the existing projects in the project database you can set up your own project under the project database (provided that your purpose is aligned with the overall purpose). On this page you can find information on the procedures and steps you will need to follow to set up a new sub-project under the project database.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#overview-of-currently-active-projects-in-the-project-database",
+    "href": "getting-started/index.html#overview-of-currently-active-projects-in-the-project-database",
+    "title": "Getting started",
+    "section": "Overview of currently active projects in the project database",
+    "text": "Overview of currently active projects in the project database\n\n\n\nProject number\nProject title\nPurpose\nProject owner\nContact\nEnddate\n\n\n\n\n708421\nInterplay between diabetes and intergenerational transmission of health determinants over the life course\nThe overall aim of this project is to identify the contributions of family and early life determinants on the development, management, and care of diabetes and the diseases that may arise following a diabetes diagnosis, under a life-course framework.\nGunnar Vase Toft\nguntof@rm.dk\n31.12.2030\n\n\n709964\nDen aarhusianske børnekohorte for mental sundhed og længerevarende sygdom\nTo create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents.\nAnette Andersen / Rasmus Møller Jørgensen\nAnette.Andersen@rm.dk / rasmujer@rm.dk\n31.12.2034\n\n\n710017\nRegisteropfølgning på Tjek Dit Helbred\nTo investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens.\nEeva-Liisa Røssell Johansen\neevjoh@rm.dk\n31.12.2030\n\n\n710055\nLokalsamfund i Bevægelse\nThe purpose of the project is to follow the existing cohort and future cohorts of children and young people who have participated in the ‘Local Communities on the Move’ project or live in the participating school districts, including their parents, for research on children and young people’s health, well-being and movement. The purpose is also to study the effect of the efforts in ‘Local Communities on the Move’, where the first follow-up is expected to take place in the fall of 2026.\nHelene Kirkegaard\nhelene.kirkegaard@rm.dk\n31.12.2034\n\n\n710067\nFeasibility and outcomes of flexible multidisciplinary teams for persons with diabetes and comorbidity\nThe overall aim of this project is to study the feasibility and outcomes of Flexible multidisciplinary teams (MDT) for persons with diabetes and comorbidity.\nRikke Bjerre Rokkjær\nrielss@rm.dk\n31.12.2028\n\n\n710201\nMedication trajectories and blood marker histories\nThe overall purpose of the project is to characterise long-term patterns of medication use and biochemical lab test results (e.g., routine blood tests) in individuals with type 2 diabetes and prediabetes compared to individuals with normal blood sugar levels. In addition, the project aims to find optimal ways to summarise and use these medication and test result histories for the prediction of medication effects and clinical outcomes in people with prediabetes and type 2 diabetes.\nZheer Kejlberg Al-Mashhadi\nzhehus@rm.dk\n31.12.2030\n\n\n710276\nThe interplay between Cardiometabolic diseases and Cancer\nThis project aims to explore the relationship between metabolic conditions and cancer by investigating whether individuals with cardiometabolic diseases participate in national cancer screening programs at the same rate as the reference group and whether the findings and the follow-up examinations are similar. Additionally, the study will examine whether individuals identified as high-risk through cancer screening are also at an elevated risk of developing cardiometabolic diseases. Furthermore, the project aims to examine whether there are differences among cancer patients with cardiometabolic disease compared to the reference group in terms of symptoms, tumor biology, tumor stage, cancer treatment, late complications, and prognosis.\nTinne Laurberg\ntinlaurb@rm.dk\n01.04.2035\n\n\n710280\nDP-Next - Sustainable Type 2 Diabetes Prevention for the 21st Century\nThe overall purpose of DP-Next is to develop a sustainable, effective strategy for the prevention of type 2 diabetes in Denmark, Greenland, and the Faroe Islands by using registry data and data from existing cohorts to predict diabetes risk, while also conducting questionnaires and clinical examinations of individuals at risk of developing diabetes, as well as intervention studies.\nGunnar Vase Toft\nguntof@rm.dk\n01.09.2032",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#how-to-get-access-to-darter",
+    "href": "getting-started/index.html#how-to-get-access-to-darter",
+    "title": "Getting started",
+    "section": "How to get access to Darter",
+    "text": "How to get access to Darter\nAs mentioned, it is possible to gain access to an already existing subproject in the project database. Darter is the largest and most comprehensive project within the SDCA project database. To gain access to the project, please fill out this form:\nLink to REDCap",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
     "objectID": "getting-started/fortegnelsen/index.html",
     "href": "getting-started/fortegnelsen/index.html",
     "title": "Registration on RM Record (RM Fortegnelse)",
@@ -33,123 +113,127 @@
     ]
   },
   {
-    "objectID": "getting-started/payment/index.html",
-    "href": "getting-started/payment/index.html",
-    "title": "Payment",
+    "objectID": "getting-started/steering-committee/index.html",
+    "href": "getting-started/steering-committee/index.html",
+    "title": "Approval to setup a new project",
     "section": "",
-    "text": "One great benefit of having a project database is that it can minimize the costs of data, which usually can be very high. However, when setting up a project, you should expect a small cost depending on the project. On this page you can get an idea of what your project will cost.",
+    "text": "To get permission to set up a project under the project database you need to send a application to the steering committee.\nMembers of the steering committee are:\n\nGunnar Vase Toft (GUNTOFT@rm.dk)\nDaniel Witte (daniel.witte@ph.au.dk)\nSigrid Bjerge Gribsholt (sigrgrib@rm.dk)\nRasmus Møller Jørgensen, (rasmujer@rm.dk)\nKasper Norman (KANOAN@rm.dk)\nMarie Kempf Frydendahl (MAIPEE@rm.dk)",
     "crumbs": [
       "Getting started",
-      "Payment"
+      "Approval to setup a new project"
     ]
   },
   {
-    "objectID": "getting-started/payment/index.html#basic-cost-for-all-projects",
-    "href": "getting-started/payment/index.html#basic-cost-for-all-projects",
-    "title": "Payment",
-    "section": "Basic cost for all projects",
-    "text": "Basic cost for all projects\n\nBasic fee for setting up a new project: 3.348 Dkr.\nA yearly fee for storage of data (depending on the amout of data on the project).",
-    "crumbs": [
-      "Getting started",
-      "Payment"
-    ]
-  },
-  {
-    "objectID": "getting-started/payment/index.html#cost-for-data",
-    "href": "getting-started/payment/index.html#cost-for-data",
-    "title": "Payment",
-    "section": "Cost for data",
-    "text": "Cost for data\nData from DST:\n\nIf you only apply for data already in the project database, there will be no extra cost.\nIf you need data not included in the project database (e.g. data from DDV) the project must pay for it separately.\n\nData from DHDA:\n\nIf you only apply for data already in the project database, the project must pay for the time DHDA spends processing the application.\nIf you need registers from DHDA not included in the project database the project must pay for it separately.",
-    "crumbs": [
-      "Getting started",
-      "Payment"
-    ]
-  },
-  {
-    "objectID": "getting-started/payment/index.html#other-costs",
-    "href": "getting-started/payment/index.html#other-costs",
-    "title": "Payment",
-    "section": "Other costs",
-    "text": "Other costs\nIn addition to the costs mentioned, there are costs associated with uploading your own data, special requests for data, etc.",
-    "crumbs": [
-      "Getting started",
-      "Payment"
-    ]
-  },
-  {
-    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html",
-    "href": "getting-started/onboarding-to-statistics-denmark/index.html",
-    "title": "Onboarding to Statistics Denmark",
+    "objectID": "getting-started/steering-committee/index.html#steering-committee",
+    "href": "getting-started/steering-committee/index.html#steering-committee",
+    "title": "Approval to setup a new project",
     "section": "",
-    "text": "To become a registered user at Statistics Denmark you have to contact either:",
+    "text": "To get permission to set up a project under the project database you need to send a application to the steering committee.\nMembers of the steering committee are:\n\nGunnar Vase Toft (GUNTOFT@rm.dk)\nDaniel Witte (daniel.witte@ph.au.dk)\nSigrid Bjerge Gribsholt (sigrgrib@rm.dk)\nRasmus Møller Jørgensen, (rasmujer@rm.dk)\nKasper Norman (KANOAN@rm.dk)\nMarie Kempf Frydendahl (MAIPEE@rm.dk)",
     "crumbs": [
       "Getting started",
-      "Onboarding to Statistics Denmark"
+      "Approval to setup a new project"
     ]
   },
   {
-    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html#affiliation-agreement",
-    "href": "getting-started/onboarding-to-statistics-denmark/index.html#affiliation-agreement",
-    "title": "Onboarding to Statistics Denmark",
-    "section": "Affiliation agreement",
-    "text": "Affiliation agreement\nTo get access you need an affiliation agreement to SDCA’s authorization at DST (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use your DST ident from there. Otherwise we need the following information to get you registered:\n\nFull name\nEmail address\nPhone number\n\nIn addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also get help to log on for the first time.",
+    "objectID": "getting-started/steering-committee/index.html#application",
+    "href": "getting-started/steering-committee/index.html#application",
+    "title": "Approval to setup a new project",
+    "section": "Application",
+    "text": "Application\nThe application must contain the following:\n\nTitle of the project\nA short summary of the project\nPrincipal Investigator (PI) of the project\nHow many users are expected to be working on the project (an estimate)\nWhich data the project should contain. It is sufficient to describe this at the register level\nExpected end date of the project",
     "crumbs": [
       "Getting started",
-      "Onboarding to Statistics Denmark"
+      "Approval to setup a new project"
     ]
   },
   {
-    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html#access-to-statistics-denmark",
-    "href": "getting-started/onboarding-to-statistics-denmark/index.html#access-to-statistics-denmark",
-    "title": "Onboarding to Statistics Denmark",
-    "section": "Access to Statistics Denmark",
-    "text": "Access to Statistics Denmark\nWhen your affiliation agreement is approved you will receive an email with information on how to log in for the first time. You can also find relevant instructions here:\nGuide to logging in\nWhen logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time here:\nLogin Danmarks Datavindue\nThe first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at DST with 10 questions. You can read more about the quiz here:\nCertificering af brugere\nWhen you have passed the certification you can get access to a specific project at Statistics Denmark’s server.",
+    "objectID": "getting-started/steering-committee/index.html#application-form",
+    "href": "getting-started/steering-committee/index.html#application-form",
+    "title": "Approval to setup a new project",
+    "section": "Application form",
+    "text": "Application form\nThe application to the steering committee can be registered here:\nLink to REDCap",
     "crumbs": [
       "Getting started",
-      "Onboarding to Statistics Denmark"
+      "Approval to setup a new project"
     ]
   },
   {
-    "objectID": "sds/index.html",
-    "href": "sds/index.html",
-    "title": "Danish Health Data Authority (DHDA)",
+    "objectID": "getting-started/steering-committee/index.html#next-steps",
+    "href": "getting-started/steering-committee/index.html#next-steps",
+    "title": "Approval to setup a new project",
+    "section": "Next steps",
+    "text": "Next steps\nWhen the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page.",
+    "crumbs": [
+      "Getting started",
+      "Approval to setup a new project"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SDCA’s Registers Project Database",
     "section": "",
-    "text": "When you have a sub-project under the SDCA project database, it is also possible to access the Danish Health Data Authority’s national registers. Some of these registers can be found in the project database. Regardless of whether the registers are part of the project database or not, you must always apply directly to the Danish Health Data Authority for permission to use the data.\nOn this page you will find all the necessary information about DHDA related to your sub-project under the project database.",
-    "crumbs": [
-      "Danish Health Data Authority (DHDA)"
-    ]
+    "text": "SDCA’s Registers Project Database\n\nGetting started How to work with data\nStatistics Denmark (DST) Danish Health Data Authority (DHDA)\n\nImage from Storyset"
   },
   {
-    "objectID": "dst/upload-of-external-data/index.html",
-    "href": "dst/upload-of-external-data/index.html",
-    "title": "Upload of external data",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Registers Project Database",
     "section": "",
-    "text": "When you have a project under the SDCA project database it is possible to upload external data files, e.g. an existing cohort or your own collected data.\nTo do this it is required that the data is described and approved in the DST project proposal under Additional data sources.\nBefore uploading external data files for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria are described here:\nIndsendelse af data (both in Danish and in English)",
+    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "sds/application/index.html",
+    "href": "sds/application/index.html",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "",
+    "text": "The Danish Health Data Authority (DHDA) / Sundhedsdatastyrelsen (SDS) has a broad range of national registers that can be used for research and development of quality in healthcare. You can apply for relevant registers for your project at Statistics Denmark. You can get access to the registers listed in the project database without an additional cost, while you will have to pay separately to DHDA and DST for moving the data if you request registers not in the project database. If you intend to use DHDA registers, you will have to make an application to DHDA, regardless of whether the registers you request are a part of the project database or not.",
     "crumbs": [
-      "Statistics Denmark (DST)",
-      "Upload of external data"
+      "Danish Health Data Authority (DHDA)",
+      "Application to Danish Health Data Authority - DHDA"
     ]
   },
   {
-    "objectID": "dst/upload-of-external-data/index.html#files-with-microdata",
-    "href": "dst/upload-of-external-data/index.html#files-with-microdata",
-    "title": "Upload of external data",
-    "section": "Files with microdata",
-    "text": "Files with microdata\nData containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.\nAll users have access to this service through the f5 dynamic webtop with their project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found here:\nVejledning til upload af mikrodata (only in Danish)\nA complete variable list must be uploaded in the project proposal in DDV. Here it must be clear which are the variables that need to be de-identified.\nYou can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.\nThe number of data files should be kept to a minimum, which will speed up handling time and lower costs.\nWhen the external data + variable list has been uploaded, it is recommended that you notify the contact person for the project at DST by email. You will find contact information in the project proposal in DDV.",
+    "objectID": "sds/application/index.html#before-applying",
+    "href": "sds/application/index.html#before-applying",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Before applying",
+    "text": "Before applying\nBefore you can send in your application the following must be fulfilled:\n\nyou need to have an approved project at DST\nthe project has to be approved by RM’s “Intern fortegnelse” and other approvals, if applicable.\n\nDocumentation for this will be required when applying.",
     "crumbs": [
-      "Statistics Denmark (DST)",
-      "Upload of external data"
+      "Danish Health Data Authority (DHDA)",
+      "Application to Danish Health Data Authority - DHDA"
     ]
   },
   {
-    "objectID": "dst/upload-of-external-data/index.html#files-without-microdata",
-    "href": "dst/upload-of-external-data/index.html#files-without-microdata",
-    "title": "Upload of external data",
-    "section": "Files without microdata",
-    "text": "Files without microdata\nIt is also possible to place information on the project that does not contain microdata, e.g., syntax/code or documentation.\nTo do this you need to send an email including the file to either the DST contact person or to Marie Kempf Frydendahl/Kasper Norman with the following information:\n\nDescription of what is in the file.\nThe project number.\nComplete path to where to place the file (typically in the Workdata folder).\n\nFurthermore you need to write the following statement: “The file does not contain any personally identifiable information”.\nPlease, only send syntax or documentation when it is necessary and too large to practically type in manually.",
+    "objectID": "sds/application/index.html#application",
+    "href": "sds/application/index.html#application",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Application",
+    "text": "Application\nYou apply for data here: Application\nAccording to the application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nIf the data you apply for is a part of the SDCA project database you must check both “Godkendelse til genanvendelse” and “Samkørsel med Danmarks Statistik” in the application form. In that case you also have to make it clear that the project database in question is SDCA project database 709627 at DST.\nYour application must contain a project description (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain:\n\nIntroduction\nPurpose of the project\nThe project’s problem statement\nData and approach\nPublication of results\nSocietal relevance\nEthical considerations.\n\nThe extract description should contain:\n\nPlace of Treatment of the data\nDescription of the population\nDelimitation of data for the project (including justification for why the requested data is necessary for the project).\n\nOn the order sheet you can specify which variables you want access to. You can indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.",
     "crumbs": [
-      "Statistics Denmark (DST)",
-      "Upload of external data"
+      "Danish Health Data Authority (DHDA)",
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#the-drug-statistics-register-lmdb",
+    "href": "sds/application/index.html#the-drug-statistics-register-lmdb",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "The Drug Statistics Register (LMDB)",
+    "text": "The Drug Statistics Register (LMDB)\nThis guide describes how to apply to DHDA for access to drug data from the LMDB (Drug Database) via Statistics Denmark.\nApplication to LMDB\nIn the guide you can also find a link to further description of the ATC-system of drug classification.",
+    "crumbs": [
+      "Danish Health Data Authority (DHDA)",
+      "Application to Danish Health Data Authority - DHDA"
+    ]
+  },
+  {
+    "objectID": "sds/application/index.html#help-and-inspiration",
+    "href": "sds/application/index.html#help-and-inspiration",
+    "title": "Application to Danish Health Data Authority - DHDA",
+    "section": "Help and inspiration",
+    "text": "Help and inspiration\nA more detailed description of what these descriptions should contain and application forms can be found here:\nThe Danish Health Data Authority",
+    "crumbs": [
+      "Danish Health Data Authority (DHDA)",
+      "Application to Danish Health Data Authority - DHDA"
     ]
   },
   {
@@ -186,88 +270,37 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SDCA’s Registers Project Database",
+    "objectID": "dst/upload-of-external-data/index.html",
+    "href": "dst/upload-of-external-data/index.html",
+    "title": "Upload of external data",
     "section": "",
-    "text": "SDCA’s Registers Project Database\n\nGetting started How to work with data\nStatistics Denmark (DST) Danish Health Data Authority (DHDA)\n\nImage from Storyset"
+    "text": "When you have a project under the SDCA project database it is possible to upload external data files, e.g. an existing cohort or your own collected data.\nTo do this it is required that the data is described and approved in the DST project proposal under Additional data sources.\nBefore uploading external data files for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria are described here:\nIndsendelse af data (both in Danish and in English)",
+    "crumbs": [
+      "Statistics Denmark (DST)",
+      "Upload of external data"
+    ]
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Registers Project Database",
-    "section": "",
-    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+    "objectID": "dst/upload-of-external-data/index.html#files-with-microdata",
+    "href": "dst/upload-of-external-data/index.html#files-with-microdata",
+    "title": "Upload of external data",
+    "section": "Files with microdata",
+    "text": "Files with microdata\nData containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.\nAll users have access to this service through the f5 dynamic webtop with their project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found here:\nVejledning til upload af mikrodata (only in Danish)\nA complete variable list must be uploaded in the project proposal in DDV. Here it must be clear which are the variables that need to be de-identified.\nYou can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.\nThe number of data files should be kept to a minimum, which will speed up handling time and lower costs.\nWhen the external data + variable list has been uploaded, it is recommended that you notify the contact person for the project at DST by email. You will find contact information in the project proposal in DDV.",
+    "crumbs": [
+      "Statistics Denmark (DST)",
+      "Upload of external data"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data on the sub-project."
-  },
-  {
-    "objectID": "about.html#presentation",
-    "href": "about.html#presentation",
-    "title": "About",
-    "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data on the sub-project."
-  },
-  {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About",
-    "section": "Purpose",
-    "text": "Purpose\nThe overall purpose of the project database is studying factors that can help predict the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as consequences and complications relates to this. In addition, the project database will form the basis of descriptive analyses in the field of disease and health. The project database provides the basis of creating a sub-projects under the overall purpose of the project database and include the needed data to this project from the project database."
-  },
-  {
-    "objectID": "about.html#terms-of-use",
-    "href": "about.html#terms-of-use",
-    "title": "About",
-    "section": "Terms of use",
-    "text": "Terms of use\nAll users needs an affiliation at SDCA for direct access (not necessarily paid employment) and needs to have an active access to Statistics Denmark."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nIf you have any questions or need help please contact:\n\nMarie Kempf Frydendahl (maipee@rm.dk):\nGunnar Vase Toft (guntof@rm.dk):\nKasper Norman (kanoan@rm.dk)"
-  },
-  {
-    "objectID": "about.html#overview-of-projects-in-the-project-database",
-    "href": "about.html#overview-of-projects-in-the-project-database",
-    "title": "About",
-    "section": "Overview of projects in the project database",
-    "text": "Overview of projects in the project database\n\n\n\n\n\n\n\n\n\n\nProject number\nProject title\nPurpose\nProject owner\nContact\n\n\n\n\n709964\nDen aarhusianske børnekohorte\nTo create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents.\nAnette Andersen, Rasmus Møller Jørgensen\nAnette.Andersen@rm.dk, rasmujer@rm.dk\n\n\n710017\nRegisteropfølgning på Tjek Dit Helbred\nTo investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens.\nEeva-Liisa Røssell Johansen\neevjoh@rm.dk"
-  },
-  {
-    "objectID": "how-to-work-with-data/index.html",
-    "href": "how-to-work-with-data/index.html",
-    "title": "How to work with data",
-    "section": "",
-    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are available:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement regarding that can be made ."
-  },
-  {
-    "objectID": "how-to-work-with-data/index.html#project-initiation",
-    "href": "how-to-work-with-data/index.html#project-initiation",
-    "title": "How to work with data",
-    "section": "",
-    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are available:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement regarding that can be made ."
-  },
-  {
-    "objectID": "how-to-work-with-data/index.html#how-to-work-with-data",
-    "href": "how-to-work-with-data/index.html#how-to-work-with-data",
-    "title": "How to work with data",
-    "section": "How to work with data",
-    "text": "How to work with data\nThe link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark’s research environment.\n\n Danish manual \n English manual"
-  },
-  {
-    "objectID": "how-to-work-with-data/index.html#code-of-conduct",
-    "href": "how-to-work-with-data/index.html#code-of-conduct",
-    "title": "How to work with data",
-    "section": "Code of conduct",
-    "text": "Code of conduct\n\nTo keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.\nAs the Rawdata folder only contains read only data files, you cannot make any changes to data or write new files. To avoid unnecessary copies of rawdata your code/syntax should read data directly from this location. \nWhen working with data create one dataset based on your population and the needed variables.\nNever keep more than one version of a dataset - several datasets quickly take up disk space.\nDelete datasets when analyze are done.\nMake sure to save your code/syntax so you can always recreate your dataset.\nA good advice is to keep track of research progress by documenting the files with a word or text file.\n\nAlways close down programs and sign out by the end of the day."
+    "objectID": "dst/upload-of-external-data/index.html#files-without-microdata",
+    "href": "dst/upload-of-external-data/index.html#files-without-microdata",
+    "title": "Upload of external data",
+    "section": "Files without microdata",
+    "text": "Files without microdata\nIt is also possible to place information on the project that does not contain microdata, e.g., syntax/code or documentation.\nTo do this you need to send an email including the file to either the DST contact person or to Marie Kempf Frydendahl/Kasper Norman with the following information:\n\nDescription of what is in the file.\nThe project number.\nComplete path to where to place the file (typically in the Workdata folder).\n\nFurthermore you need to write the following statement: “The file does not contain any personally identifiable information”.\nPlease, only send syntax or documentation when it is necessary and too large to practically type in manually.",
+    "crumbs": [
+      "Statistics Denmark (DST)",
+      "Upload of external data"
+    ]
   },
   {
     "objectID": "dst/registers-and-variables/index.html",
@@ -357,193 +390,160 @@
     ]
   },
   {
-    "objectID": "sds/application/index.html",
-    "href": "sds/application/index.html",
-    "title": "Application to Danish Health Data Authority - DHDA",
+    "objectID": "sds/index.html",
+    "href": "sds/index.html",
+    "title": "Danish Health Data Authority (DHDA)",
     "section": "",
-    "text": "The Danish Health Data Authority (DHDA) / Sundhedsdatastyrelsen (SDS) has a broad range of national registers that can be used for research and development of quality in healthcare. You can apply for relevant registers for your project at Statistics Denmark. You can get access to the registers listed in the project database without an additional cost, while you will have to pay separately to DHDA and DST for moving the data if you request registers not in the project database. If you intend to use DHDA registers, you will have to make an application to DHDA, regardless of whether the registers you request are a part of the project database or not.",
+    "text": "When you have a sub-project under the SDCA project database, it is also possible to access the Danish Health Data Authority’s national registers. Some of these registers can be found in the project database. Regardless of whether the registers are part of the project database or not, you must always apply directly to the Danish Health Data Authority for permission to use the data.\nOn this page you will find all the necessary information about DHDA related to your sub-project under the project database.",
     "crumbs": [
-      "Danish Health Data Authority (DHDA)",
-      "Application to Danish Health Data Authority - DHDA"
+      "Danish Health Data Authority (DHDA)"
     ]
   },
   {
-    "objectID": "sds/application/index.html#before-applying",
-    "href": "sds/application/index.html#before-applying",
-    "title": "Application to Danish Health Data Authority - DHDA",
-    "section": "Before applying",
-    "text": "Before applying\nBefore you can send in your application the following must be fulfilled:\n\nyou need to have an approved project at DST\nthe project has to be approved by RM’s “Intern fortegnelse” and other approvals, if applicable.\n\nDocumentation for this will be required when applying.",
-    "crumbs": [
-      "Danish Health Data Authority (DHDA)",
-      "Application to Danish Health Data Authority - DHDA"
-    ]
-  },
-  {
-    "objectID": "sds/application/index.html#application",
-    "href": "sds/application/index.html#application",
-    "title": "Application to Danish Health Data Authority - DHDA",
-    "section": "Application",
-    "text": "Application\nYou apply for data here: Application\nAccording to the application form you have to choose “Ansøg om data leveret til andet databehandlingsted”.\nIf the data you apply for is a part of the SDCA project database you must check both “Godkendelse til genanvendelse” and “Samkørsel med Danmarks Statistik” in the application form. In that case you also have to make it clear that the project database in question is SDCA project database 709627 at DST.\nYour application must contain a project description (projektbeskrivelse), an extract description (udtræksbeskrivelse) and an order sheet (bestillingsark).\nThe Project description should contain:\n\nIntroduction\nPurpose of the project\nThe project’s problem statement\nData and approach\nPublication of results\nSocietal relevance\nEthical considerations.\n\nThe extract description should contain:\n\nPlace of Treatment of the data\nDescription of the population\nDelimitation of data for the project (including justification for why the requested data is necessary for the project).\n\nOn the order sheet you can specify which variables you want access to. You can indicate that you want access to a specific variable by checking the box next to the variable in the column ‘Desired variable (x)’.",
-    "crumbs": [
-      "Danish Health Data Authority (DHDA)",
-      "Application to Danish Health Data Authority - DHDA"
-    ]
-  },
-  {
-    "objectID": "sds/application/index.html#the-drug-statistics-register-lmdb",
-    "href": "sds/application/index.html#the-drug-statistics-register-lmdb",
-    "title": "Application to Danish Health Data Authority - DHDA",
-    "section": "The Drug Statistics Register (LMDB)",
-    "text": "The Drug Statistics Register (LMDB)\nThis guide describes how to apply to DHDA for access to drug data from the LMDB (Drug Database) via Statistics Denmark.\nApplication to LMDB\nIn the guide you can also find a link to further description of the ATC-system of drug classification.",
-    "crumbs": [
-      "Danish Health Data Authority (DHDA)",
-      "Application to Danish Health Data Authority - DHDA"
-    ]
-  },
-  {
-    "objectID": "sds/application/index.html#help-and-inspiration",
-    "href": "sds/application/index.html#help-and-inspiration",
-    "title": "Application to Danish Health Data Authority - DHDA",
-    "section": "Help and inspiration",
-    "text": "Help and inspiration\nA more detailed description of what these descriptions should contain and application forms can be found here:\nThe Danish Health Data Authority",
-    "crumbs": [
-      "Danish Health Data Authority (DHDA)",
-      "Application to Danish Health Data Authority - DHDA"
-    ]
-  },
-  {
-    "objectID": "getting-started/steering-committee/index.html",
-    "href": "getting-started/steering-committee/index.html",
-    "title": "Approval to setup a new project",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "To get permission to set up a project under the project database you need to send a application to the steering committee.\nMembers of the steering committee are:\n\nGunnar Vase Toft (GUNTOFT@rm.dk)\nDaniel Witte (daniel.witte@ph.au.dk)\nSigrid Bjerge Gribsholt (sigrgrib@rm.dk)\nRasmus Møller Jørgensen, (rasmujer@rm.dk)\nKasper Norman (KANOAN@rm.dk)\nMarie Kempf Frydendahl (MAIPEE@rm.dk)",
-    "crumbs": [
-      "Getting started",
-      "Approval to setup a new project"
-    ]
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data on the sub-project."
   },
   {
-    "objectID": "getting-started/steering-committee/index.html#steering-committee",
-    "href": "getting-started/steering-committee/index.html#steering-committee",
-    "title": "Approval to setup a new project",
+    "objectID": "about.html#presentation",
+    "href": "about.html#presentation",
+    "title": "About",
     "section": "",
-    "text": "To get permission to set up a project under the project database you need to send a application to the steering committee.\nMembers of the steering committee are:\n\nGunnar Vase Toft (GUNTOFT@rm.dk)\nDaniel Witte (daniel.witte@ph.au.dk)\nSigrid Bjerge Gribsholt (sigrgrib@rm.dk)\nRasmus Møller Jørgensen, (rasmujer@rm.dk)\nKasper Norman (KANOAN@rm.dk)\nMarie Kempf Frydendahl (MAIPEE@rm.dk)",
-    "crumbs": [
-      "Getting started",
-      "Approval to setup a new project"
-    ]
+    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possible to get access to a broad range of data from e.g. Statistics Denmark, the Danish health authorities and other datasources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data on the sub-project."
   },
   {
-    "objectID": "getting-started/steering-committee/index.html#application",
-    "href": "getting-started/steering-committee/index.html#application",
-    "title": "Approval to setup a new project",
-    "section": "Application",
-    "text": "Application\nThe application must contain the following:\n\nTitle of the project\nA short summary of the project\nPrincipal Investigator (PI) of the project\nHow many users are expected to be working on the project (an estimate)\nWhich data the project should contain. It is sufficient to describe this at the register level\nExpected end date of the project",
-    "crumbs": [
-      "Getting started",
-      "Approval to setup a new project"
-    ]
-  },
-  {
-    "objectID": "getting-started/steering-committee/index.html#application-form",
-    "href": "getting-started/steering-committee/index.html#application-form",
-    "title": "Approval to setup a new project",
-    "section": "Application form",
-    "text": "Application form\nThe application to the steering committee can be registered here:\nLink to REDCap",
-    "crumbs": [
-      "Getting started",
-      "Approval to setup a new project"
-    ]
-  },
-  {
-    "objectID": "getting-started/steering-committee/index.html#next-steps",
-    "href": "getting-started/steering-committee/index.html#next-steps",
-    "title": "Approval to setup a new project",
-    "section": "Next steps",
-    "text": "Next steps\nWhen the Steering committee has approved you request you are ready to set up the project. This requires that the project is registered on RM Record (RM Fortegnelse)​, a project proposal to Statistics Denmark and, if applicable an application to the Danish Health Data Authority. Instructions for this you can find on this page.",
-    "crumbs": [
-      "Getting started",
-      "Approval to setup a new project"
-    ]
-  },
-  {
-    "objectID": "getting-started/index.html",
-    "href": "getting-started/index.html",
-    "title": "Getting started",
-    "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possibility to get access to a broad range of register data from e.g. Statistics Denmark, the Danish health data authorities and other data sources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data to a sub-project and link it to the register-based data sources.",
-    "crumbs": [
-      "Getting started"
-    ]
-  },
-  {
-    "objectID": "getting-started/index.html#presentation",
-    "href": "getting-started/index.html#presentation",
-    "title": "Getting started",
-    "section": "",
-    "text": "The Project database is a common database for all epidemiological and clinical research projects affiliated to Steno Diabetes Center Aarhus. It gives the possibility to get access to a broad range of register data from e.g. Statistics Denmark, the Danish health data authorities and other data sources in a minimal cost with the possibility of yearly updates of the registers. Also there is a possibility to upload your own data to a sub-project and link it to the register-based data sources.",
-    "crumbs": [
-      "Getting started"
-    ]
-  },
-  {
-    "objectID": "getting-started/index.html#purpose",
-    "href": "getting-started/index.html#purpose",
-    "title": "Getting started",
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About",
     "section": "Purpose",
-    "text": "Purpose\nThe overall purpose of the project database is to study factors that can help predict and understand the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as their related consequences and complications. In addition, the project database will form the basis of descriptive analyses in the field of disease and health. The project database provides the basis for creating sub-projects that fall under the overall purpose of the project database and that use (a subset of) data included in the project database.",
-    "crumbs": [
-      "Getting started"
-    ]
+    "text": "Purpose\nThe overall purpose of the project database is studying factors that can help predict the development of diabetes and other chronic diseases or conditions that can be equated with chronic disease, as well as consequences and complications relates to this. In addition, the project database will form the basis of descriptive analyses in the field of disease and health. The project database provides the basis of creating a sub-projects under the overall purpose of the project database and include the needed data to this project from the project database."
   },
   {
-    "objectID": "getting-started/index.html#terms-of-use",
-    "href": "getting-started/index.html#terms-of-use",
-    "title": "Getting started",
+    "objectID": "about.html#terms-of-use",
+    "href": "about.html#terms-of-use",
+    "title": "About",
     "section": "Terms of use",
-    "text": "Terms of use\nAll users need an affiliation with SDCA to obtain direct access (not necessarily paid employment) and need to have an active access to Statistics Denmark.",
-    "crumbs": [
-      "Getting started"
-    ]
+    "text": "Terms of use\nAll users needs an affiliation at SDCA for direct access (not necessarily paid employment) and needs to have an active access to Statistics Denmark."
   },
   {
-    "objectID": "getting-started/index.html#contact",
-    "href": "getting-started/index.html#contact",
-    "title": "Getting started",
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
     "section": "Contact",
-    "text": "Contact\nIf you have any questions or need help please contact:\n\nMarie Kempf Frydendahl (maipee@rm.dk):\nGunnar Vase Toft (guntof@rm.dk):\nKasper Norman (kanoan@rm.dk)",
+    "text": "Contact\nIf you have any questions or need help please contact:\n\nMarie Kempf Frydendahl (maipee@rm.dk):\nGunnar Vase Toft (guntof@rm.dk):\nKasper Norman (kanoan@rm.dk)"
+  },
+  {
+    "objectID": "about.html#overview-of-projects-in-the-project-database",
+    "href": "about.html#overview-of-projects-in-the-project-database",
+    "title": "About",
+    "section": "Overview of projects in the project database",
+    "text": "Overview of projects in the project database\n\n\n\n\n\n\n\n\n\n\nProject number\nProject title\nPurpose\nProject owner\nContact\n\n\n\n\n709964\nDen aarhusianske børnekohorte\nTo create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents.\nAnette Andersen, Rasmus Møller Jørgensen\nAnette.Andersen@rm.dk, rasmujer@rm.dk\n\n\n710017\nRegisteropfølgning på Tjek Dit Helbred\nTo investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens.\nEeva-Liisa Røssell Johansen\neevjoh@rm.dk"
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html",
+    "href": "how-to-work-with-data/index.html",
+    "title": "How to work with data",
+    "section": "",
+    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are available:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement regarding that can be made ."
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#project-initiation",
+    "href": "how-to-work-with-data/index.html#project-initiation",
+    "title": "How to work with data",
+    "section": "",
+    "text": "When the project is approved by the Statistic Denmark data can be moved to the project. As disk storage is an increasing expence we aim to only have data on the project in one format. The following formats are available:\n\nSAS\nSTATA\nParquet\n\nIf more dataformats is required at the project, an arrangement regarding that can be made ."
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#how-to-work-with-data",
+    "href": "how-to-work-with-data/index.html#how-to-work-with-data",
+    "title": "How to work with data",
+    "section": "How to work with data",
+    "text": "How to work with data\nAt Statistics Denmark, you can work with data using Python, SPSS, Stata, SAS, and R. The link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark’s research environment.\n\n Danish manual \n English manual"
+  },
+  {
+    "objectID": "how-to-work-with-data/index.html#code-of-conduct",
+    "href": "how-to-work-with-data/index.html#code-of-conduct",
+    "title": "How to work with data",
+    "section": "Code of conduct",
+    "text": "Code of conduct\n\nTo keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.\nAs the Rawdata folder only contains read only data files, you cannot make any changes to data or write new files. To avoid unnecessary copies of rawdata your code/syntax should read data directly from this location. \nWhen working with data create one dataset based on your population and the needed variables.\nNever keep more than one version of a dataset - several datasets quickly take up disk space.\nDelete datasets when analyze are done.\nMake sure to save your code/syntax so you can always recreate your dataset.\nA good advice is to keep track of research progress by documenting the files with a word or text file.\n\nAlways close down programs and sign out by the end of the day."
+  },
+  {
+    "objectID": "getting-started/payment/index.html",
+    "href": "getting-started/payment/index.html",
+    "title": "Payment",
+    "section": "",
+    "text": "One great benefit of having a project database is that it can minimize the costs of data, which usually can be very high. However, when setting up a project, you should expect a small cost depending on the project. On this page you can get an idea of what your project will cost.",
     "crumbs": [
-      "Getting started"
+      "Getting started",
+      "Payment"
     ]
   },
   {
-    "objectID": "getting-started/index.html#how-to-get-access",
-    "href": "getting-started/index.html#how-to-get-access",
-    "title": "Getting started",
-    "section": "How to get access",
-    "text": "How to get access\nThere are several ways to get to work on the SDCA Project database at Statistics Denmark. If the purpose of your study fits under one of the already existing sub-projects, you can contact the person responsible for the project and request permission to access it. Below you can see a short description of all existing projects in the project database.\nIf the purpose of your study does not fit under any of the existing projects in the project database you can set up your own project under the project database (provided that your purpose is aligned with the overall purpose). On this page you can find information on the procedures and steps you will need to follow to set up a new sub-project under the project database.",
+    "objectID": "getting-started/payment/index.html#basic-cost-for-all-projects",
+    "href": "getting-started/payment/index.html#basic-cost-for-all-projects",
+    "title": "Payment",
+    "section": "Basic cost for all projects",
+    "text": "Basic cost for all projects\n\nBasic fee for setting up a new project: 3.348 Dkr.\nA yearly fee for storage of data (depending on the amout of data on the project).",
     "crumbs": [
-      "Getting started"
+      "Getting started",
+      "Payment"
     ]
   },
   {
-    "objectID": "getting-started/index.html#overview-of-currently-active-projects-in-the-project-database",
-    "href": "getting-started/index.html#overview-of-currently-active-projects-in-the-project-database",
-    "title": "Getting started",
-    "section": "Overview of currently active projects in the project database",
-    "text": "Overview of currently active projects in the project database\n\n\n\nProject number\nProject title\nPurpose\nProject owner\nContact\nEnddate\n\n\n\n\n708421\nInterplay between diabetes and intergenerational transmission of health determinants over the life course\nThe overall aim of this project is to identify the contributions of family and early life determinants on the development, management, and care of diabetes and the diseases that may arise following a diabetes diagnosis, under a life-course framework.\nGunnar Vase Toft\nguntof@rm.dk\n31.12.2030\n\n\n709964\nDen aarhusianske børnekohorte for mental sundhed og længerevarende sygdom\nTo create a child cohort for research on mental health, long-term illnesses and conditions that can be equated with long-term illness in Danish children and adolescents.\nAnette Andersen / Rasmus Møller Jørgensen\nAnette.Andersen@rm.dk / rasmujer@rm.dk\n31.12.2034\n\n\n710017\nRegisteropfølgning på Tjek Dit Helbred\nTo investigate what the initiation of a major health screening project means for the development of disease and later health behavior at the population level compared to non-invited citizens.\nEeva-Liisa Røssell Johansen\neevjoh@rm.dk\n31.12.2030\n\n\n710055\nLokalsamfund i Bevægelse\nThe purpose of the project is to follow the existing cohort and future cohorts of children and young people who have participated in the ‘Local Communities on the Move’ project or live in the participating school districts, including their parents, for research on children and young people’s health, well-being and movement. The purpose is also to study the effect of the efforts in ‘Local Communities on the Move’, where the first follow-up is expected to take place in the fall of 2026.\nHelene Kirkegaard\nhelene.kirkegaard@rm.dk\n31.12.2034\n\n\n710067\nFeasibility and outcomes of flexible multidisciplinary teams for persons with diabetes and comorbidity\nThe overall aim of this project is to study the feasibility and outcomes of Flexible multidisciplinary teams (MDT) for persons with diabetes and comorbidity.\nRikke Bjerre Rokkjær\nrielss@rm.dk\n31.12.2028\n\n\n710201\nMedication trajectories and blood marker histories\nThe overall purpose of the project is to characterise long-term patterns of medication use and biochemical lab test results (e.g., routine blood tests) in individuals with type 2 diabetes and prediabetes compared to individuals with normal blood sugar levels. In addition, the project aims to find optimal ways to summarise and use these medication and test result histories for the prediction of medication effects and clinical outcomes in people with prediabetes and type 2 diabetes.\nZheer Kejlberg Al-Mashhadi\nzhehus@rm.dk\n31.12.2030\n\n\n710276\nThe interplay between Cardiometabolic diseases and Cancer\nThis project aims to explore the relationship between metabolic conditions and cancer by investigating whether individuals with cardiometabolic diseases participate in national cancer screening programs at the same rate as the reference group and whether the findings and the follow-up examinations are similar. Additionally, the study will examine whether individuals identified as high-risk through cancer screening are also at an elevated risk of developing cardiometabolic diseases. Furthermore, the project aims to examine whether there are differences among cancer patients with cardiometabolic disease compared to the reference group in terms of symptoms, tumor biology, tumor stage, cancer treatment, late complications, and prognosis.\nTinne Laurberg\ntinlaurb@rm.dk\n01.04.2035\n\n\n710280\nDP-Next - Sustainable Type 2 Diabetes Prevention for the 21st Century\nThe overall purpose of DP-Next is to develop a sustainable, effective strategy for the prevention of type 2 diabetes in Denmark, Greenland, and the Faroe Islands by using registry data and data from existing cohorts to predict diabetes risk, while also conducting questionnaires and clinical examinations of individuals at risk of developing diabetes, as well as intervention studies.\nGunnar Vase Toft\nguntof@rm.dk\n01.09.2032",
+    "objectID": "getting-started/payment/index.html#cost-for-data",
+    "href": "getting-started/payment/index.html#cost-for-data",
+    "title": "Payment",
+    "section": "Cost for data",
+    "text": "Cost for data\nData from DST:\n\nIf you only apply for data already in the project database, there will be no extra cost.\nIf you need data not included in the project database (e.g. data from DDV) the project must pay for it separately.\n\nData from DHDA:\n\nIf you only apply for data already in the project database, the project must pay for the time DHDA spends processing the application.\nIf you need registers from DHDA not included in the project database the project must pay for it separately.",
     "crumbs": [
-      "Getting started"
+      "Getting started",
+      "Payment"
     ]
   },
   {
-    "objectID": "getting-started/index.html#how-to-get-access-to-darter",
-    "href": "getting-started/index.html#how-to-get-access-to-darter",
-    "title": "Getting started",
-    "section": "How to get access to Darter",
-    "text": "How to get access to Darter\nAs mentioned, it is possible to gain access to an already existing subproject in the project database. Darter is the largest and most comprehensive project within the SDCA project database. To gain access to the project, please fill out this form:\nLink to REDCap",
+    "objectID": "getting-started/payment/index.html#other-costs",
+    "href": "getting-started/payment/index.html#other-costs",
+    "title": "Payment",
+    "section": "Other costs",
+    "text": "Other costs\nIn addition to the costs mentioned, there are costs associated with uploading your own data, special requests for data, etc.",
     "crumbs": [
-      "Getting started"
+      "Getting started",
+      "Payment"
+    ]
+  },
+  {
+    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html",
+    "href": "getting-started/onboarding-to-statistics-denmark/index.html",
+    "title": "Onboarding to Statistics Denmark",
+    "section": "",
+    "text": "To become a registered user at Statistics Denmark you have to contact either:",
+    "crumbs": [
+      "Getting started",
+      "Onboarding to Statistics Denmark"
+    ]
+  },
+  {
+    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html#affiliation-agreement",
+    "href": "getting-started/onboarding-to-statistics-denmark/index.html#affiliation-agreement",
+    "title": "Onboarding to Statistics Denmark",
+    "section": "Affiliation agreement",
+    "text": "Affiliation agreement\nTo get access you need an affiliation agreement to SDCA’s authorization at DST (aut. 574). If you previously have been a registered user at Statistics Denmark, you can use your DST ident from there. Otherwise we need the following information to get you registered:\n\nFull name\nEmail address\nPhone number\n\nIn addition to this, you will need a short introduction from one of us about data security when working with microdata at Statistics Denmark. Here you can also get help to log on for the first time.",
+    "crumbs": [
+      "Getting started",
+      "Onboarding to Statistics Denmark"
+    ]
+  },
+  {
+    "objectID": "getting-started/onboarding-to-statistics-denmark/index.html#access-to-statistics-denmark",
+    "href": "getting-started/onboarding-to-statistics-denmark/index.html#access-to-statistics-denmark",
+    "title": "Onboarding to Statistics Denmark",
+    "section": "Access to Statistics Denmark",
+    "text": "Access to Statistics Denmark\nWhen your affiliation agreement is approved you will receive an email with information on how to log in for the first time. You can also find relevant instructions here:\nGuide to logging in\nWhen logged in to Remote.dst.dk you can log in to Danmarks Datavindue - DDV. Read more about how to log in to DDV for the first time here:\nLogin Danmarks Datavindue\nThe first time you log in, you need to approve your user agreement. It will pop up automatically. To get final access to data, you need to pass a certification quiz about the data security rules at DST with 10 questions. You can read more about the quiz here:\nCertificering af brugere\nWhen you have passed the certification you can get access to a specific project at Statistics Denmark’s server.",
+    "crumbs": [
+      "Getting started",
+      "Onboarding to Statistics Denmark"
     ]
   }
 ]
