@@ -14,7 +14,7 @@ When the project is approved by the Statistic Denmark data can be moved to the p
 If more dataformats is required at the project, an arrangement regarding that can be made . 
 
 ## How to work with data
-The link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark's research environment. 
+At Statistics Denmark, you can work with data using Python, SPSS, Stata, SAS, and R. The link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark's research environment. 
 
 <div class="d-flex gap-2">
 
