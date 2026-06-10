@@ -14,7 +14,19 @@ When the project is approved by the Statistic Denmark data can be moved to the p
 If more dataformats is required at the project, an arrangement regarding that can be made . 
 
 ## How to work with data
-Both SAS and STATA files can be imported directly into R and STATA, respectively. The parquet files need to be handles a bit different. (indsæt beskrivelse her). However, the advantage of parquet files is that they take up much less space and are faster to work with. 
+The link below provides access to both an English and a Danish guide for working with data in R at Statistics Denmark. These resources are intended for both beginners and users with some prior experience of R and Statistics Denmark's research environment. 
+
+<a href="https://saras-clin.github.io/DST_help/da/00_index.html"
+   class="btn btn-primary"
+   role="button">
+Danish manual
+</a>
+
+<a href="https://saras-clin.github.io/DST_help/en/"
+   class="btn btn-secondary"
+   role="button">
+English manual
+</a> 
 
 ## Code of conduct
 -   To keep the cost of disk storage low aim to keep your personal workdata-folder below 50 GB pr. project. You can check this by placing the mouse on your personal folder.
