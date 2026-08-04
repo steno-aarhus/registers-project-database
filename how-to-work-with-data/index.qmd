@@ -18,12 +18,12 @@ At Statistics Denmark, you can work with data using Python, SPSS, Stata, SAS, an
 
 <div class="d-flex gap-2">
 
-  <a href="https://saras-clin.github.io/DST_help/da/00_index.html"
+  <a href="https://steno-aarhus.github.io/registers-guide/da/00_index.html"
      class="btn btn-primary">
     Danish manual
   </a>
 
-  <a href="https://saras-clin.github.io/DST_help/en/"
+  <a href="https://steno-aarhus.github.io/registers-guide/en/"
      class="btn btn-primary">
     English manual
   </a>
