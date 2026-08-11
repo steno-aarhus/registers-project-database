@@ -212,42 +212,42 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BFL 200812-202412
+## BFL 200812-202512
 
 |     | Variable name              | Variable label                                                         | Start year   | Endyear |
 | --- | -------------------------- | ---------------------------------------------------------------------- | ----------   | ------- |
-| BFL | AJO_ARB_KOMKODE            | Arbejdsstedets kommunekode                                             | 200812       | 202412  |
-| BFL | AJO_ARBNR_SENR             | Entydigt 10-cifret identifikationsnummer for et arbejdssted            | 200812       | 202412  |
-| BFL | AJO_ATP_BELOEB             | Indbetalt ATP-bidrag                                                   | 200812       | 202412  |
-| BFL | AJO_ATP_BIDRAG_SATS_KODE   | ATP-bidragssats på jobbet                                              | 200812       | 202412  |
-| BFL | AJO_BRANCHE07              | DB07 branche knyttet til jobbets arbejdssted                           | 200812       | 202412  |
-| BFL | AJO_BREDT_LOENBELOEB       | Bredt lønbeløb er en summering af al lønindkomst i eIR                 | 200812       | 202412  |
-| BFL | AJO_CVR_NR_FRA_PROD_JOB    | Indberetterens CVR-nummer fra prodjob                                  | 200812       | 202412  |
-| BFL | AJO_FIKTIV_ARB_KODE        | Fiktiv arbejdssteds kode på det komprimerede prodjob                   | 200812       | 202412  |
-| BFL | AJO_FULDTID_BESKAEFTIGET   | Fuldtidsbeskæftigelse                                                  | 200812       | 202412  |
-| BFL | AJO_FUNKTIONSKODE          | Funktionskode til sektorplacering af arbejdsstedet                     | 200812       | 202412  |
-| BFL | AJO_INDBERETTEDE_LOENTIMER | Løntimer på prodjob                                                    | 200812       | 202412  |
-| BFL | AJO_INDKOMST_ART_KODE      | Indkomstartkode på prodjob                                             | 200812       | 202412  |
-| BFL | AJO_INDKOMST_TYPE_KODE     | Indkomsttypekode på prodjob                                            | 200812       | 202412  |
-| BFL | AJO_JOB_SLUT_DATO          | Slutdato for det komprimerede job                                      | 200812       | 202412  |
-| BFL | AJO_JOB_START_DATO         | Startdato for det komprimerede job                                     | 200812       | 202412  |
-| BFL | AJO_LOENTIME_KODE          | Kode for, om løntimer er indberettet eller imputeret                   | 200812       | 202412  |
-| BFL | AJO_LOENTIMER              | Løntimer på komprimerede job                                           | 200812       | 202412  |
-| BFL | AJO_OK_NR                  | Økonomisk enhed (statistisk enhed)                                     | 200812       | 202412  |
-| BFL | AJO_PROD_NR_FRA_APP        | Produktionsenhedsnummer ifølge APP på prodjob                          | 200812       | 202412  |
-| BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 200812       | 202412  |
-| BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 200812       | 202412  |
-| BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 200812       | 202412  |
-| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 201912       | 202412  |
-| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 201912       | 202412  |
-| BFL | CPRTJEK                    | CPR-tjek                                                               | 200812       | 202412  |
-| BFL | CPRTYPE                    | CPR-type                                                               | 200812       | 202412  |
-| BFL | PNR                        | Personnummer                                                           | 200812       | 202412  |
-| BFL | SEKTORKODE                 | Sektor kode                                                            | 200812       | 202412  |
-| BFL | VMO_DISCO_KODE             | DISCO kode                                                             | 200812       | 202412  |
-| BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 200812       | 202412  |
-| BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 200812       | 202412  |
-| BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 200812       | 202412  |
+| BFL | AJO_ARB_KOMKODE            | Arbejdsstedets kommunekode                                             | 200812       | 202512  |
+| BFL | AJO_ARBNR_SENR             | Entydigt 10-cifret identifikationsnummer for et arbejdssted            | 200812       | 202512  |
+| BFL | AJO_ATP_BELOEB             | Indbetalt ATP-bidrag                                                   | 200812       | 202512  |
+| BFL | AJO_ATP_BIDRAG_SATS_KODE   | ATP-bidragssats på jobbet                                              | 200812       | 202512  |
+| BFL | AJO_BRANCHE07              | DB07 branche knyttet til jobbets arbejdssted                           | 200812       | 202512  |
+| BFL | AJO_BREDT_LOENBELOEB       | Bredt lønbeløb er en summering af al lønindkomst i eIR                 | 200812       | 202512  |
+| BFL | AJO_CVR_NR_FRA_PROD_JOB    | Indberetterens CVR-nummer fra prodjob                                  | 200812       | 202512  |
+| BFL | AJO_FIKTIV_ARB_KODE        | Fiktiv arbejdssteds kode på det komprimerede prodjob                   | 200812       | 202512  |
+| BFL | AJO_FULDTID_BESKAEFTIGET   | Fuldtidsbeskæftigelse                                                  | 200812       | 202512  |
+| BFL | AJO_FUNKTIONSKODE          | Funktionskode til sektorplacering af arbejdsstedet                     | 200812       | 202512  |
+| BFL | AJO_INDBERETTEDE_LOENTIMER | Løntimer på prodjob                                                    | 200812       | 202512  |
+| BFL | AJO_INDKOMST_ART_KODE      | Indkomstartkode på prodjob                                             | 200812       | 202512  |
+| BFL | AJO_INDKOMST_TYPE_KODE     | Indkomsttypekode på prodjob                                            | 200812       | 202512  |
+| BFL | AJO_JOB_SLUT_DATO          | Slutdato for det komprimerede job                                      | 200812       | 202512  |
+| BFL | AJO_JOB_START_DATO         | Startdato for det komprimerede job                                     | 200812       | 202512  |
+| BFL | AJO_LOENTIME_KODE          | Kode for, om løntimer er indberettet eller imputeret                   | 200812       | 202512  |
+| BFL | AJO_LOENTIMER              | Løntimer på komprimerede job                                           | 200812       | 202512  |
+| BFL | AJO_OK_NR                  | Økonomisk enhed (statistisk enhed)                                     | 200812       | 202512  |
+| BFL | AJO_PROD_NR_FRA_APP        | Produktionsenhedsnummer ifølge APP på prodjob                          | 200812       | 202512  |
+| BFL | AJO_PROD_NR_FRA_PROD_JOB   | Produktionsenhedsnummer indberettet på et komprimeret prodjob          | 200812       | 202512  |
+| BFL | AJO_SE_NR_FRA_PROD_JOB     | Indberetterens SE-nr. på prodjob.                                      | 200812       | 202512  |
+| BFL | AJO_SMALT_LOENBELOEB       | Smalt lønbeløb, som omfatter lønindkomst uden ATP-bidrag og personaleg | 200812       | 202512  |
+| BFL | ANTAL_LOENMODTAGER_JOB     | ANTAL_LOENMODTAGER_JOB                                                 | 201912       | 202512  |
+| BFL | ANTAL_LOENMODTAGERE        | ANTAL_LOENMODTAGERE                                                    | 201912       | 202512  |
+| BFL | CPRTJEK                    | CPR-tjek                                                               | 200812       | 202512  |
+| BFL | CPRTYPE                    | CPR-type                                                               | 200812       | 202512  |
+| BFL | PNR                        | Personnummer                                                           | 200812       | 202512  |
+| BFL | SEKTORKODE                 | Sektor kode                                                            | 200812       | 202512  |
+| BFL | VMO_DISCO_KODE             | DISCO kode                                                             | 200812       | 202512  |
+| BFL | VMO_DISCO_MATCHPRIO_KODE   | DISCO match prioriterings kode                                         | 200812       | 202512  |
+| BFL | VMO_DISCO_SLUT_DATO        | Slutdato for DISCO kode                                                | 200812       | 202512  |
+| BFL | VMO_DISCO_START_DATO       | Startdato for DISCO kode på lønindberetning                            | 200812       | 202512  |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -273,16 +273,16 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## BOERNPRI 2018-2024
+## BOERNPRI 2018-2025
 
 |          | Variable name     | Variable label    | Start year | Endyear |
 | -------- | ----------------- | ----------------- | ---------- | ------- |
-| BOERNPRI | CPRTJEK           | CPR-tjek          | 2018       | 2024    |
-| BOERNPRI | CPRTYPE           | CPR-type          | 2018       | 2024    |
-| BOERNPRI | INST_TYPE_BORNPAS | INST_TYPE_BORNPAS | 2018       | 2024    |
-| BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2024    |
-| BOERNPRI | PNR               | PNR               | 2018       | 2024    |
-| BOERNPRI | VERSION           | VERSION           | 2018       | 2024    |
+| BOERNPRI | CPRTJEK           | CPR-tjek          | 2018       | 2025    |
+| BOERNPRI | CPRTYPE           | CPR-type          | 2018       | 2025    |
+| BOERNPRI | INST_TYPE_BORNPAS | INST_TYPE_BORNPAS | 2018       | 2025    |
+| BOERNPRI | KOM               | INGEN LABEL       | 2018       | 2025    |
+| BOERNPRI | PNR               | PNR               | 2018       | 2025    |
+| BOERNPRI | VERSION           | VERSION           | 2018       | 2025    |
 :::
 
 ::: {.callout-warning collapse="true"}
@@ -398,22 +398,22 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## DREAM 202409
+## DREAM 202509
 
 |       | Variable name    | Variable label | Start year | Endyear |
 | ----- | ---------------- | -------------- | ---------- | ------- |
-| DREAM | AK2000           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2001           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2002           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2003           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2004           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2005           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2006           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2007           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2008           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2009           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2010           | INGEN LABEL    |            | 202409  |
-| DREAM | AK2011           | INGEN LABEL    |            | 202409  |
+| DREAM | AK2000           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2001           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2002           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2003           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2004           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2005           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2006           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2007           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2008           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2009           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2010           | INGEN LABEL    |            | 202509  |
+| DREAM | AK2011           | INGEN LABEL    |            | 202509  |
 | DREAM | AK2012           | INGEN LABEL    |            | 202409  |
 | DREAM | AK2013           | INGEN LABEL    |            | 202409  |
 | DREAM | AK2014           | INGEN LABEL    |            | 202409  |
