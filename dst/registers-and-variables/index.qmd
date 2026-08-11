@@ -3213,7 +3213,7 @@ Below you will find a full describtion of all DST registers and variables in the
 
 |               | Variable name            | Variable label | Start year | Endyear |
 | ------------- | ------------------------ | -------------- | ---------- | ------- |
-| DRG_KONTAKTER | AFSLUTNINGSMAADE         | INGEN LABEL    | 2021       | 20245   |
+| DRG_KONTAKTER | AFSLUTNINGSMAADE         | INGEN LABEL    | 2021       | 2025   |
 | DRG_KONTAKTER | AKTIVITETSAAR            | INGEN LABEL    | 2021       | 2025    |
 | DRG_KONTAKTER | ALDER_DAGE               | INGEN LABEL    | 2021       | 2025    |
 | DRG_KONTAKTER | ALDER_AAR                | INGEN LABEL    | 2021       | 2025    |
