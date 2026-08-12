@@ -5871,7 +5871,7 @@ Below you will find a full describtion of all DST registers and variables in the
 :::
 
 ::: {.callout-warning collapse="true"}
-## VNDS 2024
+## VNDS 2024 (Register lukket)
 
 |      | Variable name | Variable label | Start year | Endyear |
 | ---- | ------------- | -------------- | ---------- | ------- |
@@ -5882,3 +5882,75 @@ Below you will find a full describtion of all DST registers and variables in the
 | VNDS | INDUD_LAND    |                |            | 2024    |
 | VNDS | PNR           | Personnummer   |            | 2024    |
 :::
+
+::: {.callout-warning collapse="true"}
+## VNDS_HIST 
+
+|               | Variable name | Variable label | Start year | Endyear |
+| ----          | ------------- | -------------- | ---------- | ------- |
+| VNDS_HIST2004 | CPRTJEK       | CPR-tjek       | 1973       | 2004    |
+| VNDS_HIST2004 | CPRTYPE       | CPR-type       | 1973       | 2004    |
+| VNDS_HIST2004 | HAEND_DATO    |                | 1973       | 2004    |
+| VNDS_HIST2004 | INDUD_KODE    |                | 1973       | 2004    |
+| VNDS_HIST2004 | INDUD_LAND    |                | 1973       | 2004    |
+| VNDS_HIST2004 | PNR           | Personnummer   | 1973       | 2004    |
+:::
+
+::: {.callout-warning collapse="true"}
+## VNDS_IND 
+
+|          | Variable name | Variable label | Start year | Endyear |
+| -------- | ------------- | -------------- | ---------- | ------- |
+| VNDS_IND | ADRESSE_ID    | Ingen label    | 2005       | 2025    |
+| VNDS_IND | ALDER_HAEND   | Ingen label    | 2005       | 2025    |
+| VNDS_IND | ALDER_ULT     | Ingen label    | 2005       | 2025    |
+| VNDS_IND | BANK_STATSB   | Ingen label    | 2005       | 2025    |
+| VNDS_IND | CIVST         | Ingen label    | 2005       | 2025    |
+| VNDS_IND | CPRTJEK       | Ingen label    | 2005       | 2025    |
+| VNDS_IND | CPRTYPE       | Ingen label    | 2005       | 2025    |
+| VNDS_IND | FOEDREG_KODE  | Ingen label    | 2005       | 2025    |
+| VNDS_IND | FOED_DAG      | Ingen label    | 2005       | 2025    |
+| VNDS_IND | FOED_LAND     | Ingen label    | 2005       | 2025    |
+| VNDS_IND | HAEND_DATO    | Ingen label    | 2005       | 2025    |
+| VNDS_IND | IE_TYPE       | Ingen label    | 2005       | 2025    |
+| VNDS_IND | INDVMD        | Ingen label    | 2005       | 2025    |
+| VNDS_IND | INDV_LAND     | Ingen label    | 2005       | 2025    |
+| VNDS_IND | KOEN          | Ingen label    | 2005       | 2025    |
+| VNDS_IND | KOM           | Ingen label    | 2005       | 2025    |
+| VNDS_IND | OPR_LAND      | Ingen label    | 2005       | 2025    |
+| VNDS_IND | PNR           | Ingen label    | 2005       | 2025    |
+| VNDS_IND | REFERENCETID  | Ingen label    | 2005       | 2025    |
+| VNDS_IND | REG           | Ingen label    | 2005       | 2025    |
+| VNDS_IND | STATSB        | Ingen label    | 2005       | 2025    |
+| VNDS_IND | VERSION       | Ingen label    | 2005       | 2025    |
+:::
+
+::: {.callout-warning collapse="true"}
+## VNDS_UD 
+
+|         | Variable name | Variable label | Start year | Endyear |
+| ------- | ------------- | -------------- | ---------- | ------- |
+| VNDS_UD | ADRESSE_ID    | Ingen label    | 2005       | 2025    |
+| VNDS_UD | ALDER_HAEND   | Ingen label    | 2005       | 2025    |
+| VNDS_UD | ALDER_ULT     | Ingen label    | 2005       | 2025    |
+| VNDS_UD | BANK_STATSB   | Ingen label    | 2005       | 2025    |
+| VNDS_UD | CIVST         | Ingen label    | 2005       | 2025    |
+| VNDS_UD | CPRTJEK       | Ingen label    | 2005       | 2025    |
+| VNDS_UD | CPRTYPE       | Ingen label    | 2005       | 2025    |
+| VNDS_UD | FOEDREG_KODE  | Ingen label    | 2005       | 2025    |
+| VNDS_UD | FOED_DAG      | Ingen label    | 2005       | 2025    |
+| VNDS_UD | FOED_LAND     | Ingen label    | 2005       | 2025    |
+| VNDS_UD | HAEND_DATO    | Ingen label    | 2005       | 2025    |
+| VNDS_UD | IE_TYPE       | Ingen label    | 2005       | 2025    |
+| VNDS_UD | KOEN          | Ingen label    | 2005       | 2025    |
+| VNDS_UD | KOM           | Ingen label    | 2005       | 2025    |
+| VNDS_UD | OPR_LAND      | Ingen label    | 2005       | 2025    |
+| VNDS_UD | PNR           | Ingen label    | 2005       | 2025    |
+| VNDS_UD | REFERENCETID  | Ingen label    | 2005       | 2025    |
+| VNDS_UD | REG           | Ingen label    | 2005       | 2025    |
+| VNDS_UD | STATSB        | Ingen label    | 2005       | 2025    |
+| VNDS_UD | UDVMD         | Ingen label    | 2005       | 2025    |
+| VNDS_UD | UDV_LAND      | Ingen label    | 2005       | 2025    |
+| VNDS_UD | VERSION       | Ingen label    | 2005       | 2025    |
+:::
+
