@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -42,14 +42,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b540b6f04bd439ed7a1e576ece92db15.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-36cdc48dda81c34af8c8a2c16930a59d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-801cf3bf212bac7d87adccf409322fb4.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-36cdc48dda81c34af8c8a2c16930a59d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-b2ca2467828fd190de267549e8a16a7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-b2ca2467828fd190de267549e8a16a7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-b2ca2467828fd190de267549e8a16a7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-3ddf58a14f98363ff45e535a0cc167f2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-3ddf58a14f98363ff45e535a0cc167f2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-3ddf58a14f98363ff45e535a0cc167f2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -205,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>When you have a project under the SDCA project database it is possible to upload external data files, e.g.&nbsp;an existing cohort or your own collected data.</p>
-<p>To do this it is required that the data is described and approved in the DST project proposal under Additional data sources.</p>
+<p>To do this it is required that the data is described and approved in the DST project proposal under Reasoning for external data.</p>
 <p>Before uploading external data files for use in a project, make sure that the criteria for using your microdata in the project are fulfilled. The criteria are described here:</p>
 <p><a href="https://www.dst.dk/da/TilSalg/Forskningsservice/Data/dataindsendelse">Indsendelse af data</a> (both in Danish and in English)</p>
 <section id="files-with-microdata" class="level2">
@@ -213,10 +213,18 @@ ul.task-list li input[type="checkbox"] {
 <p>Data containing microdata must be uploaded through Statistics Denmark FSE-UPLOAD.</p>
 <p>All users have access to this service through the f5 dynamic webtop with their project login. It is possible to upload the data by yourself or you can contact either Marie Kempf Frydendahl or Kasper Norman and we will support you. Guidelines for FSE-upload can be found here:</p>
 <p><a href="https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&amp;fo=0&amp;ext=forskning">Vejledning til upload af mikrodata</a> (only in Danish)</p>
-<p>A complete variable list must be uploaded in the project proposal in DDV. Here it must be clear which are the variables that need to be de-identified.</p>
 <p>You can upload data in the following formats: ASC, CSV, DTA, ODS, PDF, SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.</p>
 <p>The number of data files should be kept to a minimum, which will speed up handling time and lower costs.</p>
 <p>When the external data + variable list has been uploaded, it is recommended that you notify the contact person for the project at DST by email. You will find contact information in the project proposal in DDV.</p>
+<p>Once the data has been uploaded, you must prepare a description of the uploaded data to be used for a data request in DDV. This description must include the following information:</p>
+<ol type="1">
+<li>A brief description of the data (e.g.&nbsp;its source and content).</li>
+<li>The dataset name, variable names, and a description of the contents of each variable.</li>
+<li>Identify all variables that need to be de-identified, i.e.&nbsp;variables that can be directly linked to individuals or companies (e.g.&nbsp;CPR numbers, CVR numbers, provider numbers, serial numbers, or other ID numbers).</li>
+<li>Does the dataset contain key variables that need to be linked to key variables in previously delivered datasets?</li>
+</ol>
+<p>(In danish: 1. En kort beskrivelse af data (fx oprindelse og indhold). 2. Datasættets navn, variabelnavne samt beskrivelse af variabelindhold. 3. Marker alle variable som skal afidentificeres. Dvs. variable, der kan henføres direkte til personer eller virksomheder (fx cprnr, cvrnr, ydernummer, løbenummer, eller andre ID-numre). 4. Indeholder data nøglevariable, der skal kobles med nøglevariable i tidligere leverede datasæt?)</p>
+<p>This data documentation must be submitted together with the uploaded data. must a complete variable list be uploaded in the project proposal in DDV. Here it must be clear which are the variables that need to be de-identified.</p>
 </section>
 <section id="files-without-microdata" class="level2">
 <h2 class="anchored" data-anchor-id="files-without-microdata">Files without microdata</h2>
