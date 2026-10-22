@@ -8,7 +8,7 @@ to upload external data files, e.g. an existing cohort or your own
 collected data.
 
 To do this it is required that the data is described and approved in the
-DST project proposal under Additional data sources.
+DST project proposal under Reasoning for external data.
 
 Before uploading external data files for use in a project, make sure
 that the criteria for using your microdata in the project are fulfilled.
@@ -32,10 +32,6 @@ will support you. Guidelines for FSE-upload can be found here:
 mikrodata](https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=3942639397&fo=0&ext=forskning)
 (only in Danish)
 
-A complete variable list must be uploaded in the project proposal in
-DDV. Here it must be clear which are the variables that need to be
-de-identified.
-
 You can upload data in the following formats: ASC, CSV, DTA, ODS, PDF,
 SAS7BCAT, SAS7BDAT, SAV, XLS, XLSX.
 
@@ -45,6 +41,23 @@ up handling time and lower costs.
 When the external data + variable list has been uploaded, it is
 recommended that you notify the contact person for the project at DST by
 email. You will find contact information in the project proposal in DDV.
+
+Once the data has been uploaded, you must prepare a description of the uploaded data to be used for a data request in DDV. This description must include the following information:
+
+1. A brief description of the data (e.g. its source and content).
+2. The dataset name, variable names, and a description of the contents of each variable.
+3. Identify all variables that need to be de-identified, i.e. variables that can be directly linked to individuals or companies (e.g. CPR numbers, CVR numbers, provider numbers, serial numbers, or other ID numbers).
+4. Does the dataset contain key variables that need to be linked to key variables in previously delivered datasets?
+
+(In danish: 
+1. En kort beskrivelse af data (fx oprindelse og indhold). 
+2. Datasættets navn, variabelnavne samt beskrivelse af variabelindhold. 
+3. Marker alle variable som skal afidentificeres. Dvs. variable, der kan henføres direkte til personer eller virksomheder (fx cprnr, cvrnr, ydernummer, løbenummer, eller andre ID-numre). 
+4. Indeholder data nøglevariable, der skal kobles med nøglevariable i tidligere leverede datasæt?) 
+
+This data documentation must be submitted together with the uploaded data. must a complete variable list be uploaded in the project proposal in
+DDV. Here it must be clear which are the variables that need to be
+de-identified.
 
 ## Files without microdata
 
