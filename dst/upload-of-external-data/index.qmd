@@ -39,7 +39,7 @@ The number of data files should be kept to a minimum, which will speed
 up handling time and lower costs.
 
 When the external data + variable list has been uploaded, it is
-recommended that you notify datamanager Marie Kempf Frydendahl and she will help you further. You will be asked to prepare a description of the uploaded data to be used for a data request in DDV. This description must include the following information:
+recommended that you notify Datamanager Marie Kempf Frydendahl, who will assist you with the next steps. You will be asked to prepare a description of the uploaded data to be used for a data request in DDV. This description must include the following information:
 
 1. A brief description of the data (e.g. its source and content).
 2. The dataset name, variable names, and a description of the contents of each variable.
@@ -52,9 +52,7 @@ recommended that you notify datamanager Marie Kempf Frydendahl and she will help
 3. Marker alle variable som skal afidentificeres. Dvs. variable, der kan henføres direkte til personer eller virksomheder (fx cprnr, cvrnr, ydernummer, løbenummer, eller andre ID-numre). 
 4. Indeholder data nøglevariable, der skal kobles med nøglevariable i tidligere leverede datasæt?) 
 
-Together with this data documentation a complete variable list must be uploaded in the project proposal in
-DDV. Here it must be clear which are the variables that need to be
-de-identified.
+In addition to this documentation, a complete variable list must be uploaded as part of the project proposal in DDV. The list should clearly indicate which variables need to be de-identified.
 
 ## Files without microdata
 
