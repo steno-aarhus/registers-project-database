@@ -27,6 +27,7 @@ registers](https://sundhedsdatastyrelsen.dk/data-og-registre/nationale-sundhedsr
 Below you will find a full description of DHDA registers and variables
 in the project database
 
+
 ::: {.callout-warning collapse="true"}
 ## Den Nationale Børnedatabase - BDB (2009- ) 
 - Latest available data: March 2026 (202603)
@@ -236,3 +237,44 @@ in DDV. However, you still need to apply DHDA to get permission to use
 the data.
 
 :::
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(DT)
+library(stringr)
+
+# 1. Læs hele denne fil og behold kun tabellinjer
+linjer <- readLines("index.qmd", encoding = "UTF-8")
+linjer <- linjer[str_detect(linjer, "^\\s*\\|")]
+
+# 2. Fjern adskillerlinjerne
+linjer <- linjer[!str_detect(linjer, "^\\s*\\|[\\s:|-]+$")]
+
+# 3. Del op i celler
+linjer <- str_remove_all(linjer, "^\\s*\\||\\|\\s*$")
+celler <- lapply(str_split(linjer, "\\|"), str_trim)
+
+# 4. Behold kun linjer med præcis 4 kolonner
+celler <- celler[lengths(celler) == 4]
+
+# 5. Lav en data.frame
+variabler <- as.data.frame(do.call(rbind, celler))
+names(variabler) <- c("Tabel", "Variabel", "Indhold", "Gyldighed")
+
+# 6. Fjern overskriftslinjer og tomme linjer
+variabler <- variabler[variabler$Variabel != "Variabel" &
+                         variabler$Variabel != "", ]
+
+# 7. Vis som søgbar tabel
+datatable(
+  variabler,
+  filter = "top",
+  rownames = FALSE,
+  width = "100%",
+  class = "display compact",
+  options = list(pageLength = 25, autoWidth = FALSE)
+)
+```
